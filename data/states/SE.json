@@ -1,0 +1,533 @@
+{
+  "code": "SE",
+  "name": "Sergipe",
+  "capital": "Aracaju",
+  "ddd": "79",
+  "regiao": "Nordeste",
+  "cities": [
+    {
+      "name": "Aracaju",
+      "ibgeCode": "2800308",
+      "ddd": "79",
+      "districts": [
+        {
+          "name": "17 de Março",
+          "streets": [
+            {
+              "name": "João Amazonas",
+              "addressType": "Avenida",
+              "cep": "49003262",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "17 de Março",
+              "latitude": "-11.00284",
+              "longitude": "-37.1012"
+            },
+            {
+              "name": "Vinte e Cinco",
+              "addressType": "Acesso",
+              "cep": "49003238",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "17 de Março",
+              "latitude": "-10.98",
+              "longitude": "-37.09735"
+            },
+            {
+              "name": "Doutor Felisbelo Firmino de Oliveira Freire",
+              "addressType": "Rua",
+              "cep": "49003331",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "17 de Março",
+              "latitude": "-10.93717",
+              "longitude": "-37.05117"
+            },
+            {
+              "name": "Francisco Antônio de Carvalho Lima Junior",
+              "addressType": "Rua",
+              "cep": "49003394",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "17 de Março",
+              "latitude": "-11.00719",
+              "longitude": "-37.09932"
+            },
+            {
+              "name": "Onze",
+              "addressType": "Acesso",
+              "cep": "49003187",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "17 de Março",
+              "latitude": "-10.94104",
+              "longitude": "-37.07958"
+            },
+            {
+              "name": "Gilberto de Lima Azevedo Souza Ferreira Amado de Farias",
+              "addressType": "Rua",
+              "cep": "49003277",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "17 de Março",
+              "latitude": "-11.00639",
+              "longitude": "-37.09888"
+            },
+            {
+              "name": "Desembargador Antônio Teixeira Fontes",
+              "addressType": "Rua",
+              "cep": "49003373",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "17 de Março",
+              "latitude": "-10.94105",
+              "longitude": "-37.05493"
+            },
+            {
+              "name": "Vinte e Três",
+              "addressType": "Acesso",
+              "cep": "49003172",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "17 de Março",
+              "latitude": "-10.9809",
+              "longitude": "-37.09743"
+            }
+          ]
+        },
+        {
+          "name": "Aeroporto",
+          "streets": [
+            {
+              "name": "Rosina Matos",
+              "addressType": "Travessa",
+              "cep": "49037653",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "Aeroporto",
+              "latitude": "-10.98896",
+              "longitude": "-37.0679"
+            },
+            {
+              "name": "Thaís Maria Araújo de Oliveira",
+              "addressType": "Rua",
+              "cep": "49038130",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "Aeroporto",
+              "latitude": "-10.99237",
+              "longitude": "-37.07764"
+            },
+            {
+              "name": "José Franculino dos Santos",
+              "addressType": "Travessa",
+              "cep": "49037820",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "Aeroporto",
+              "latitude": "-10.99052",
+              "longitude": "-37.07438"
+            },
+            {
+              "name": "Maria do Rosário F Santos",
+              "addressType": "Rua",
+              "cep": "49037296",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "Aeroporto",
+              "latitude": "-10.87716",
+              "longitude": "-37.05146"
+            },
+            {
+              "name": "da Laguna",
+              "addressType": "Rua",
+              "cep": "49037730",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "Aeroporto",
+              "latitude": "-10.99634",
+              "longitude": "-37.07149"
+            },
+            {
+              "name": "Cinco",
+              "addressType": "Rua",
+              "cep": "49037506",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "Aeroporto",
+              "latitude": "-10.99574",
+              "longitude": "-37.06886"
+            },
+            {
+              "name": "B",
+              "addressType": "Rua",
+              "cep": "49037196",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "Aeroporto",
+              "latitude": "-10.98044",
+              "longitude": "-37.08896"
+            },
+            {
+              "name": "Maria Albertina de Jesus",
+              "addressType": "Travessa",
+              "cep": "49037308",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "Aeroporto",
+              "latitude": "-10.9754",
+              "longitude": "-37.06258"
+            }
+          ]
+        },
+        {
+          "name": "América",
+          "streets": [
+            {
+              "name": "Central II",
+              "addressType": "Travessa",
+              "cep": "49080363",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "América",
+              "latitude": "-10.91318",
+              "longitude": "-37.07958"
+            },
+            {
+              "name": "Campo do Brito",
+              "addressType": "Rua",
+              "cep": "49080120",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "América",
+              "latitude": "-10.92523",
+              "longitude": "-37.04526"
+            },
+            {
+              "name": "São Salvador",
+              "addressType": "Rua",
+              "cep": "49080590",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "América",
+              "latitude": "-10.91619",
+              "longitude": "-37.08472"
+            },
+            {
+              "name": "Amapá",
+              "addressType": "Travessa",
+              "cep": "49080060",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "América",
+              "latitude": "-10.91725",
+              "longitude": "-37.07546"
+            },
+            {
+              "name": "da República",
+              "addressType": "Praça",
+              "cep": "49080490",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "América",
+              "latitude": "-10.90821",
+              "longitude": "-37.04822"
+            },
+            {
+              "name": "São João",
+              "addressType": "Travessa",
+              "cep": "49080500",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "América",
+              "latitude": "-10.90905",
+              "longitude": "-37.0524"
+            },
+            {
+              "name": "A",
+              "addressType": "Travessa",
+              "cep": "49080485",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "América",
+              "latitude": "-11.09852",
+              "longitude": "-37.14832"
+            },
+            {
+              "name": "E",
+              "addressType": "Rua",
+              "cep": "49080632",
+              "state": "Sergipe",
+              "city": "Aracaju",
+              "district": "América",
+              "latitude": "-10.91767",
+              "longitude": "-37.08461"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Itabaiana",
+      "ibgeCode": "2802908",
+      "ddd": "79",
+      "districts": [
+        {
+          "name": "Anízio Amancio de Oliveira",
+          "streets": [
+            {
+              "name": "Maria José Santos, 85",
+              "addressType": "Avenida",
+              "cep": "49503900",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Anízio Amancio de Oliveira",
+              "latitude": "-10.6945",
+              "longitude": "-37.42712"
+            },
+            {
+              "name": "Jorge Americano Rêgo",
+              "addressType": "Rua",
+              "cep": "49503671",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Anízio Amancio de Oliveira",
+              "latitude": "-10.69101",
+              "longitude": "-37.43345"
+            },
+            {
+              "name": "Quintino de Lacerda",
+              "addressType": "Rua",
+              "cep": "49503426",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Anízio Amancio de Oliveira",
+              "latitude": "-10.68787",
+              "longitude": "-37.42405"
+            },
+            {
+              "name": "José Cardoso dos Santos",
+              "addressType": "Rua",
+              "cep": "49503333",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Anízio Amancio de Oliveira",
+              "latitude": "-10.69372",
+              "longitude": "-37.4256"
+            },
+            {
+              "name": "Paraguai",
+              "addressType": "Rua",
+              "cep": "49503489",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Anízio Amancio de Oliveira",
+              "latitude": "-10.69026",
+              "longitude": "-37.41841"
+            },
+            {
+              "name": "Josefa Carvalho",
+              "addressType": "Rua",
+              "cep": "49503387",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Anízio Amancio de Oliveira",
+              "latitude": "-10.69152",
+              "longitude": "-37.43235"
+            },
+            {
+              "name": "Doutor Luiz Magalhães",
+              "addressType": "Avenida",
+              "cep": "49503300",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Anízio Amancio de Oliveira",
+              "latitude": "-10.69296",
+              "longitude": "-37.42748"
+            },
+            {
+              "name": "Paulo Barreto Novaes",
+              "addressType": "Rua",
+              "cep": "49503656",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Anízio Amancio de Oliveira",
+              "latitude": "-10.69565",
+              "longitude": "-37.41124"
+            }
+          ]
+        },
+        {
+          "name": "Bananeiras",
+          "streets": [
+            {
+              "name": "José Nunes de Mendonça",
+              "addressType": "Rua",
+              "cep": "49501620",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Bananeiras",
+              "latitude": "-10.67776",
+              "longitude": "-37.4155"
+            },
+            {
+              "name": "Joana da Anunciação Borges",
+              "addressType": "Rua",
+              "cep": "49501595",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Bananeiras",
+              "latitude": "-10.67845",
+              "longitude": "-37.41643"
+            },
+            {
+              "name": "Aloisio Santana",
+              "addressType": "Rua",
+              "cep": "49501398",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Bananeiras",
+              "latitude": "-10.69317",
+              "longitude": "-37.43499"
+            },
+            {
+              "name": "Francisco Oliveira",
+              "addressType": "Travessa",
+              "cep": "49501625",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Bananeiras",
+              "latitude": "-10.67786",
+              "longitude": "-37.43167"
+            },
+            {
+              "name": "Francisco Bragança",
+              "addressType": "Rua",
+              "cep": "49501590",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Bananeiras",
+              "latitude": "-10.68075",
+              "longitude": "-37.41729"
+            },
+            {
+              "name": "Manoel Melquiades Silva",
+              "addressType": "Rua",
+              "cep": "49501630",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Bananeiras",
+              "latitude": "-10.67739",
+              "longitude": "-37.41438"
+            },
+            {
+              "name": "Santos Cardoso",
+              "addressType": "Travessa",
+              "cep": "49501370",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Bananeiras",
+              "latitude": "-10.68146",
+              "longitude": "-37.42024"
+            },
+            {
+              "name": "Madre Luiza Mabelle",
+              "addressType": "Travessa",
+              "cep": "49501623",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Bananeiras",
+              "latitude": "-10.67847",
+              "longitude": "-37.41512"
+            }
+          ]
+        },
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "Manoel Leite Sampaio",
+              "addressType": "Travessa",
+              "cep": "49500283",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Centro",
+              "latitude": "-10.68689",
+              "longitude": "-37.42209"
+            },
+            {
+              "name": "Santo Antonio",
+              "addressType": "Largo",
+              "cep": "49500196",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Centro",
+              "latitude": "-10.68655",
+              "longitude": "-37.42344"
+            },
+            {
+              "name": "Antonio Dultra",
+              "addressType": "Rua",
+              "cep": "49500151",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Centro",
+              "latitude": "-10.68437",
+              "longitude": "-37.42283"
+            },
+            {
+              "name": "Percílio Andrade",
+              "addressType": "Rua",
+              "cep": "49500169",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Centro",
+              "latitude": "-10.68181",
+              "longitude": "-37.41951"
+            },
+            {
+              "name": "Francisco Santos",
+              "addressType": "Rua",
+              "cep": "49500067",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Centro",
+              "latitude": "-10.68788",
+              "longitude": "-37.4273"
+            },
+            {
+              "name": "Grumete Alcides Cavalcante",
+              "addressType": "Rua",
+              "cep": "49500069",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Centro",
+              "latitude": "-10.68683",
+              "longitude": "-37.42765"
+            },
+            {
+              "name": "José Ferreira Araujo",
+              "addressType": "Rua",
+              "cep": "49500091",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Centro",
+              "latitude": "-10.68406",
+              "longitude": "-37.42787"
+            },
+            {
+              "name": "José Mesquita da Silveira",
+              "addressType": "Rua",
+              "cep": "49500277",
+              "state": "Sergipe",
+              "city": "Itabaiana",
+              "district": "Centro",
+              "latitude": "-10.68774",
+              "longitude": "-37.42176"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

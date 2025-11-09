@@ -1,0 +1,1501 @@
+{
+  "code": "CE",
+  "name": "Ceará",
+  "capital": "Fortaleza",
+  "ddd": "85",
+  "regiao": "Nordeste",
+  "cities": [
+    {
+      "name": "Caucaia",
+      "ibgeCode": "2303709",
+      "ddd": "85",
+      "districts": [
+        {
+          "name": "Alto do Garrote",
+          "streets": [
+            {
+              "name": "Manoel Alves Filho",
+              "addressType": "Rua",
+              "cep": "61636485",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Alto do Garrote",
+              "latitude": "-3.69112",
+              "longitude": "-38.70538"
+            },
+            {
+              "name": "Estruturante - CE 085",
+              "addressType": "Rodovia",
+              "cep": "61636425",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Alto do Garrote",
+              "latitude": "-3.68991",
+              "longitude": "-38.70974"
+            },
+            {
+              "name": "Nossa Senhora da Saúde",
+              "addressType": "Rua",
+              "cep": "61636510",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Alto do Garrote",
+              "latitude": "-3.69159",
+              "longitude": "-38.70717"
+            },
+            {
+              "name": "Josepha Luiz dos Santos",
+              "addressType": "Rua",
+              "cep": "61636445",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Alto do Garrote",
+              "latitude": "-3.69085",
+              "longitude": "-38.70718"
+            },
+            {
+              "name": "João Sabino",
+              "addressType": "Rua",
+              "cep": "61636495",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Alto do Garrote",
+              "latitude": "-3.69038",
+              "longitude": "-38.70538"
+            },
+            {
+              "name": "Estruturante - CE 085",
+              "addressType": "Rodovia",
+              "cep": "61636420",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Alto do Garrote",
+              "latitude": "-3.68991",
+              "longitude": "-38.70974"
+            },
+            {
+              "name": "Maria Augusta",
+              "addressType": "Rua",
+              "cep": "61636490",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Alto do Garrote",
+              "latitude": "-3.69079",
+              "longitude": "-38.70519"
+            },
+            {
+              "name": "Maria Azevedo da Silva",
+              "addressType": "Rua",
+              "cep": "61636520",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Alto do Garrote",
+              "latitude": "-3.71396",
+              "longitude": "-38.67183"
+            }
+          ]
+        },
+        {
+          "name": "Araturi",
+          "streets": [
+            {
+              "name": "17",
+              "addressType": "Rua",
+              "cep": "61655815",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Araturi",
+              "latitude": "-3.7691",
+              "longitude": "-38.63295"
+            },
+            {
+              "name": "de Pedestre E22",
+              "addressType": "Rua",
+              "cep": "61655170",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Araturi",
+              "latitude": "-3.7709",
+              "longitude": "-38.63274"
+            },
+            {
+              "name": "8",
+              "addressType": "Rua",
+              "cep": "61655470",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Araturi",
+              "latitude": "-3.7671",
+              "longitude": "-38.63133"
+            },
+            {
+              "name": "de Pedestre E30",
+              "addressType": "Rua",
+              "cep": "61655250",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Araturi",
+              "latitude": "-3.77036",
+              "longitude": "-38.63389"
+            },
+            {
+              "name": "Pedestre 12",
+              "addressType": "Rua",
+              "cep": "61654040",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Araturi",
+              "latitude": "-3.7709",
+              "longitude": "-38.63295"
+            },
+            {
+              "name": "de Pedestre E25",
+              "addressType": "Rua",
+              "cep": "61655200",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Araturi",
+              "latitude": "-3.7709",
+              "longitude": "-38.63274"
+            },
+            {
+              "name": "de Pedestre E15",
+              "addressType": "Rua",
+              "cep": "61655090",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Araturi",
+              "latitude": "-3.7703",
+              "longitude": "-38.63355"
+            },
+            {
+              "name": "5",
+              "addressType": "Rua",
+              "cep": "61654390",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Araturi",
+              "latitude": "-3.76732",
+              "longitude": "-38.64246"
+            }
+          ]
+        },
+        {
+          "name": "Arianópolis",
+          "streets": [
+            {
+              "name": "A",
+              "addressType": "Rua",
+              "cep": "61656280",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Arianópolis",
+              "latitude": "-3.77083",
+              "longitude": "-38.64959"
+            },
+            {
+              "name": "9",
+              "addressType": "Rua",
+              "cep": "61656130",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Arianópolis",
+              "latitude": "-3.76356",
+              "longitude": "-38.64847"
+            },
+            {
+              "name": "José Ademir Lima da Silva",
+              "addressType": "Rua",
+              "cep": "61656600",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Arianópolis",
+              "latitude": "-3.7675",
+              "longitude": "-38.64953"
+            },
+            {
+              "name": "Danilo Correia",
+              "addressType": "Avenida",
+              "cep": "61656010",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Arianópolis",
+              "latitude": "-3.73329",
+              "longitude": "-38.66068"
+            },
+            {
+              "name": "D",
+              "addressType": "Rua",
+              "cep": "61656310",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Arianópolis",
+              "latitude": "-3.74235",
+              "longitude": "-38.65253"
+            },
+            {
+              "name": "D",
+              "addressType": "Avenida",
+              "cep": "61656040",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Arianópolis",
+              "latitude": "-3.76721",
+              "longitude": "-38.65584"
+            },
+            {
+              "name": "E",
+              "addressType": "Rua",
+              "cep": "61656470",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Arianópolis",
+              "latitude": "-3.76923",
+              "longitude": "-38.65068"
+            },
+            {
+              "name": "F",
+              "addressType": "Rua",
+              "cep": "61656420",
+              "state": "Ceará",
+              "city": "Caucaia",
+              "district": "Arianópolis",
+              "latitude": "-3.63242",
+              "longitude": "-38.71606"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crateús",
+      "ibgeCode": "2304103",
+      "ddd": "88",
+      "districts": [
+        {
+          "name": "Altamira",
+          "streets": [
+            {
+              "name": "Almirante Tamandaré",
+              "addressType": "Travessa",
+              "cep": "63704305",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Altamira",
+              "latitude": "-5.17845",
+              "longitude": "-40.66631"
+            },
+            {
+              "name": "Hermelindo Balé",
+              "addressType": "Rua",
+              "cep": "63704150",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Altamira",
+              "latitude": "-5.17621",
+              "longitude": "-40.67636"
+            },
+            {
+              "name": "José Vieira",
+              "addressType": "Travessa",
+              "cep": "63704260",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Altamira",
+              "latitude": "-5.17156",
+              "longitude": "-40.67851"
+            },
+            {
+              "name": "José Benony Mourão",
+              "addressType": "Rua",
+              "cep": "63704185",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Altamira",
+              "latitude": "-5.17314",
+              "longitude": "-40.67889"
+            },
+            {
+              "name": "Deusdethe Bada",
+              "addressType": "Rua",
+              "cep": "63704220",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Altamira",
+              "latitude": "-5.17529",
+              "longitude": "-40.67527"
+            },
+            {
+              "name": "Rosa Ferreira das Flores",
+              "addressType": "Rua",
+              "cep": "63704210",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Altamira",
+              "latitude": "-5.17454",
+              "longitude": "-40.6786"
+            },
+            {
+              "name": "José Alves Cornélio",
+              "addressType": "Rua",
+              "cep": "63704325",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Altamira",
+              "latitude": "-5.17267",
+              "longitude": "-40.67855"
+            },
+            {
+              "name": "João Aragão",
+              "addressType": "Rua",
+              "cep": "63704195",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Altamira",
+              "latitude": "-5.17532",
+              "longitude": "-40.67988"
+            }
+          ]
+        },
+        {
+          "name": "Bom Retiro",
+          "streets": [
+            {
+              "name": "Professora Alda Bezerra Pinho Furtado",
+              "addressType": "Avenida",
+              "cep": "63705239",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Bom Retiro",
+              "latitude": "-5.18943",
+              "longitude": "-40.67367"
+            },
+            {
+              "name": "Maria Libânia Mourão",
+              "addressType": "Rua",
+              "cep": "63705250",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Bom Retiro",
+              "latitude": "-5.16909",
+              "longitude": "-40.66725"
+            },
+            {
+              "name": "Maria Rosely Rodrigues Bezerra",
+              "addressType": "Rua",
+              "cep": "63705391",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Bom Retiro",
+              "latitude": "-5.19023",
+              "longitude": "-40.67687"
+            },
+            {
+              "name": "Pastor Antônio Alves",
+              "addressType": "Rua",
+              "cep": "63705290",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Bom Retiro",
+              "latitude": "-7.24247",
+              "longitude": "-39.42381"
+            },
+            {
+              "name": "Luís Ferreira do Nascimento - Luís Serafim",
+              "addressType": "Rua",
+              "cep": "63705310",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Bom Retiro",
+              "latitude": "-5.17182",
+              "longitude": "-40.66312"
+            },
+            {
+              "name": "Sebastiana Soares de Oliveira",
+              "addressType": "Rua",
+              "cep": "63705325",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Bom Retiro",
+              "latitude": "-5.1754",
+              "longitude": "-40.67519"
+            },
+            {
+              "name": "Alcides Ximenes Machado",
+              "addressType": "Rua",
+              "cep": "63705370",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Bom Retiro",
+              "latitude": "-5.1723",
+              "longitude": "-40.67852"
+            },
+            {
+              "name": "Júlia Rodrigues de Sousa",
+              "addressType": "Avenida",
+              "cep": "63705382",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Bom Retiro",
+              "latitude": "-5.18331",
+              "longitude": "-40.66542"
+            }
+          ]
+        },
+        {
+          "name": "Cajás",
+          "streets": [
+            {
+              "name": "Lourenço Alves Pedrosa",
+              "addressType": "Rua",
+              "cep": "63707113",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Cajás",
+              "latitude": "-5.16624",
+              "longitude": "-40.65986"
+            },
+            {
+              "name": "Cabo Gentil Lima",
+              "addressType": "Travessa",
+              "cep": "63707056",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Cajás",
+              "latitude": "-5.16588",
+              "longitude": "-40.6583"
+            },
+            {
+              "name": "Lima Campos",
+              "addressType": "Rua",
+              "cep": "63707008",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Cajás",
+              "latitude": "-5.1655",
+              "longitude": "-40.66114"
+            },
+            {
+              "name": "Menino Jesus",
+              "addressType": "Rua",
+              "cep": "63707032",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Cajás",
+              "latitude": "-5.16503",
+              "longitude": "-40.6601"
+            },
+            {
+              "name": "Francisca Soares Moreira",
+              "addressType": "Rua",
+              "cep": "63707118",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Cajás",
+              "latitude": "-5.16646",
+              "longitude": "-40.66005"
+            },
+            {
+              "name": "Quintino Cunha",
+              "addressType": "Travessa",
+              "cep": "63707080",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Cajás",
+              "latitude": "-3.75162",
+              "longitude": "-38.5791"
+            },
+            {
+              "name": "Vicente Caripino",
+              "addressType": "Rua",
+              "cep": "63707024",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Cajás",
+              "latitude": "-5.16231",
+              "longitude": "-40.65405"
+            },
+            {
+              "name": "Cícera Ferreira da Silva",
+              "addressType": "Rua",
+              "cep": "63707072",
+              "state": "Ceará",
+              "city": "Crateús",
+              "district": "Cajás",
+              "latitude": "-5.16641",
+              "longitude": "-40.65955"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crato",
+      "ibgeCode": "2304202",
+      "ddd": "88",
+      "districts": [
+        {
+          "name": "Aderson Tavares Bezerra",
+          "streets": [
+            {
+              "name": "Professora Maria Nilza Alves de Sousa",
+              "addressType": "Rua",
+              "cep": "63124014",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Aderson Tavares Bezerra",
+              "latitude": "-7.2606",
+              "longitude": "-39.46687"
+            },
+            {
+              "name": "Ildo Moraes de Brito",
+              "addressType": "Rua",
+              "cep": "63124002",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Aderson Tavares Bezerra",
+              "latitude": "-7.2594",
+              "longitude": "-39.46393"
+            },
+            {
+              "name": "José Firmino Ferreira",
+              "addressType": "Rua",
+              "cep": "63124016",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Aderson Tavares Bezerra",
+              "latitude": "-7.23311",
+              "longitude": "-39.39503"
+            },
+            {
+              "name": "Rivaldo de Sousa Brasil",
+              "addressType": "Rua",
+              "cep": "63124004",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Aderson Tavares Bezerra",
+              "latitude": "-7.22984",
+              "longitude": "-39.39844"
+            },
+            {
+              "name": "Carlos Eduardo Feitosa de Araújo",
+              "addressType": "Rua",
+              "cep": "63124008",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Aderson Tavares Bezerra",
+              "latitude": "-7.25929",
+              "longitude": "-39.46352"
+            },
+            {
+              "name": "Luscélia Saraiva Correia Lima",
+              "addressType": "Rua",
+              "cep": "63124006",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Aderson Tavares Bezerra",
+              "latitude": "-7.2594",
+              "longitude": "-39.46393"
+            },
+            {
+              "name": "João Zenildo Gonçalves",
+              "addressType": "Rua",
+              "cep": "63124012",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Aderson Tavares Bezerra",
+              "latitude": "-7.26011",
+              "longitude": "-39.46572"
+            },
+            {
+              "name": "Terezinha de Melo Silva",
+              "addressType": "Rua",
+              "cep": "63124010",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Aderson Tavares Bezerra",
+              "latitude": "-7.25929",
+              "longitude": "-39.46353"
+            }
+          ]
+        },
+        {
+          "name": "Alto da Penha",
+          "streets": [
+            {
+              "name": "Antônio Alves Pereira",
+              "addressType": "Rua",
+              "cep": "63104040",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Alto da Penha",
+              "latitude": "-7.23892",
+              "longitude": "-39.40656"
+            },
+            {
+              "name": "Francisco Antônio Viana",
+              "addressType": "Rua",
+              "cep": "63104070",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Alto da Penha",
+              "latitude": "-7.24419",
+              "longitude": "-39.41451"
+            },
+            {
+              "name": "Irmã Elvira de Cavalho Madeira",
+              "addressType": "Rua",
+              "cep": "63104340",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Alto da Penha",
+              "latitude": "-7.24484",
+              "longitude": "-39.41403"
+            },
+            {
+              "name": "Valter Justo",
+              "addressType": "Rua",
+              "cep": "63104290",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Alto da Penha",
+              "latitude": "-7.24505",
+              "longitude": "-39.41237"
+            },
+            {
+              "name": "Saturnino Candeia",
+              "addressType": "Travessa",
+              "cep": "63104135",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Alto da Penha",
+              "latitude": "-7.2406",
+              "longitude": "-39.40988"
+            },
+            {
+              "name": "Francisco Pereira Dias",
+              "addressType": "Rua",
+              "cep": "63104155",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Alto da Penha",
+              "latitude": "-7.24093",
+              "longitude": "-39.40847"
+            },
+            {
+              "name": "Raimundo Pinheiro Vilar",
+              "addressType": "Rua",
+              "cep": "63104300",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Alto da Penha",
+              "latitude": "-7.24482",
+              "longitude": "-39.41281"
+            },
+            {
+              "name": "Raimundo Bezerra de Farias",
+              "addressType": "Rua",
+              "cep": "63104030",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Alto da Penha",
+              "latitude": "-7.23833",
+              "longitude": "-39.40754"
+            }
+          ]
+        },
+        {
+          "name": "Cacimbas",
+          "streets": [
+            {
+              "name": "Lavras da Mangabeira",
+              "addressType": "Rua",
+              "cep": "63116310",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Cacimbas",
+              "latitude": "-7.22762",
+              "longitude": "-39.42018"
+            },
+            {
+              "name": "Lavras da Mangabeira",
+              "addressType": "Travessa",
+              "cep": "63116180",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Cacimbas",
+              "latitude": "-7.23234",
+              "longitude": "-39.4252"
+            },
+            {
+              "name": "Potengi",
+              "addressType": "Travessa",
+              "cep": "63113490",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Cacimbas",
+              "latitude": "-7.22798",
+              "longitude": "-39.42127"
+            },
+            {
+              "name": "Vinte e Cinco de Dezembro",
+              "addressType": "Rua",
+              "cep": "63116270",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Cacimbas",
+              "latitude": "-7.23314",
+              "longitude": "-39.43088"
+            },
+            {
+              "name": "Santa Isabel",
+              "addressType": "Rua",
+              "cep": "63116200",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Cacimbas",
+              "latitude": "-7.23286",
+              "longitude": "-39.4264"
+            },
+            {
+              "name": "Jeferson da Franca Alencar",
+              "addressType": "Travessa",
+              "cep": "63116300",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Cacimbas",
+              "latitude": "-7.23392",
+              "longitude": "-39.43026"
+            },
+            {
+              "name": "Marcos Macêdo",
+              "addressType": "Rua",
+              "cep": "63116045",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Cacimbas",
+              "latitude": "-7.23019",
+              "longitude": "-39.41542"
+            },
+            {
+              "name": "Coronel Luís Teixeira",
+              "addressType": "Rua",
+              "cep": "63116312",
+              "state": "Ceará",
+              "city": "Crato",
+              "district": "Cacimbas",
+              "latitude": "-7.23339",
+              "longitude": "-39.42746"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eusébio",
+      "ibgeCode": "2304285",
+      "ddd": "85",
+      "districts": [
+        {
+          "name": "Amador",
+          "streets": [
+            {
+              "name": "Manoel Gomes",
+              "addressType": "Travessa",
+              "cep": "61769290",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Amador",
+              "latitude": "-3.83059",
+              "longitude": "-38.42892"
+            },
+            {
+              "name": "Nossa Senhora de Nazaré",
+              "addressType": "Rua",
+              "cep": "61769510",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Amador",
+              "latitude": "-3.87914",
+              "longitude": "-38.46596"
+            },
+            {
+              "name": "Eusébio de Queiroz",
+              "addressType": "Avenida",
+              "cep": "61769070",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Amador",
+              "latitude": "-3.85962",
+              "longitude": "-38.46068"
+            },
+            {
+              "name": "Luthgards Lima Verde",
+              "addressType": "Rua",
+              "cep": "61769250",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Amador",
+              "latitude": "-3.82484",
+              "longitude": "-38.43227"
+            },
+            {
+              "name": "Paraiso",
+              "addressType": "Rua",
+              "cep": "61769130",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Amador",
+              "latitude": "-3.82468",
+              "longitude": "-38.43326"
+            },
+            {
+              "name": "B",
+              "addressType": "Vila",
+              "cep": "61769350",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Amador",
+              "latitude": "-3.9008",
+              "longitude": "-38.4584"
+            },
+            {
+              "name": "Zildênia",
+              "addressType": "Rua",
+              "cep": "61769180",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Amador",
+              "latitude": "-3.8686",
+              "longitude": "-38.4668"
+            },
+            {
+              "name": "A",
+              "addressType": "Vila",
+              "cep": "61769340",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Amador",
+              "latitude": "-3.90081",
+              "longitude": "-38.45845"
+            }
+          ]
+        },
+        {
+          "name": "Autódromo",
+          "streets": [
+            {
+              "name": "Cícero Clementino dos Santos",
+              "addressType": "Rua",
+              "cep": "61763750",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Autódromo",
+              "latitude": "-3.88211",
+              "longitude": "-38.47434"
+            },
+            {
+              "name": "Edmilson Pinheiro",
+              "addressType": "Rua",
+              "cep": "61764010",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Autódromo",
+              "latitude": "-3.89408",
+              "longitude": "-38.4615"
+            },
+            {
+              "name": "João Paulo II",
+              "addressType": "Rua",
+              "cep": "61763820",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Autódromo",
+              "latitude": "-3.89112",
+              "longitude": "-38.46573"
+            },
+            {
+              "name": "José Amora Sá",
+              "addressType": "Avenida",
+              "cep": "61763850",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Autódromo",
+              "latitude": "-3.88527",
+              "longitude": "-38.46779"
+            },
+            {
+              "name": "do Japonês",
+              "addressType": "Rua",
+              "cep": "61763870",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Autódromo",
+              "latitude": "-3.8891",
+              "longitude": "-38.46388"
+            },
+            {
+              "name": "Elsa dos Santos Freitas",
+              "addressType": "Rua",
+              "cep": "61763890",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Autódromo",
+              "latitude": "-3.88565",
+              "longitude": "-38.45009"
+            },
+            {
+              "name": "Dois",
+              "addressType": "Rua",
+              "cep": "61763730",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Autódromo",
+              "latitude": "-3.86619",
+              "longitude": "-38.44336"
+            },
+            {
+              "name": "Ayrton Senna",
+              "addressType": "Avenida",
+              "cep": "61763790",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Autódromo",
+              "latitude": "-3.8917",
+              "longitude": "-38.4571"
+            }
+          ]
+        },
+        {
+          "name": "Cararu",
+          "streets": [
+            {
+              "name": "Cumbuco",
+              "addressType": "Rua",
+              "cep": "61779729",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Cararu",
+              "latitude": "-3.83062",
+              "longitude": "-38.42651"
+            },
+            {
+              "name": "Litorânea, 2040",
+              "addressType": "Avenida",
+              "cep": "61779905",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Cararu",
+              "latitude": "-3.82247",
+              "longitude": "-38.42119"
+            },
+            {
+              "name": "Pajeú",
+              "addressType": "Rua",
+              "cep": "61779723",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Cararu",
+              "latitude": "-3.89087",
+              "longitude": "-38.44987"
+            },
+            {
+              "name": "Maria Auri Campos Lima",
+              "addressType": "Rua",
+              "cep": "61779460",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Cararu",
+              "latitude": "-3.8407",
+              "longitude": "-38.43482"
+            },
+            {
+              "name": "Treze",
+              "addressType": "Rua",
+              "cep": "61779670",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Cararu",
+              "latitude": "-5.17668",
+              "longitude": "-40.67253"
+            },
+            {
+              "name": "da Gaivota",
+              "addressType": "Rua",
+              "cep": "61779590",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Cararu",
+              "latitude": "-3.86899",
+              "longitude": "-38.49305"
+            },
+            {
+              "name": "Jericoacoara",
+              "addressType": "Rua",
+              "cep": "61779735",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Cararu",
+              "latitude": "-3.82744",
+              "longitude": "-38.4258"
+            },
+            {
+              "name": "Antônio Canuto",
+              "addressType": "Rua",
+              "cep": "61779640",
+              "state": "Ceará",
+              "city": "Eusébio",
+              "district": "Cararu",
+              "latitude": "-3.90375",
+              "longitude": "-38.44428"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fortaleza",
+      "ibgeCode": "2304400",
+      "ddd": "85",
+      "districts": [
+        {
+          "name": "Aerolândia",
+          "streets": [
+            {
+              "name": "Coração",
+              "addressType": "Travessa",
+              "cep": "60850540",
+              "state": "Ceará",
+              "city": "Fortaleza",
+              "district": "Aerolândia",
+              "latitude": "-3.77721",
+              "longitude": "-38.5142"
+            },
+            {
+              "name": "Joaquim Barroso",
+              "addressType": "Travessa",
+              "cep": "60850160",
+              "state": "Ceará",
+              "city": "Fortaleza",
+              "district": "Aerolândia",
+              "latitude": "-3.77865",
+              "longitude": "-38.51571"
+            },
+            {
+              "name": "Parque Juá",
+              "addressType": "Vila",
+              "cep": "60850162",
+              "state": "Ceará",
+              "city": "Fortaleza",
+              "district": "Aerolândia",
+              "latitude": "-3.70663",
+              "longitude": "-38.58952"
+            },
+            {
+              "name": "Flamengo",
+              "addressType": "Travessa",
+              "cep": "60850800",
+              "state": "Ceará",
+              "city": "Fortaleza",
+              "district": "Aerolândia",
+              "latitude": "-3.77372",
+              "longitude": "-38.51284"
+            },
+            {
+              "name": "São Jorge",
+              "addressType": "Vila",
+              "cep": "60850480",
+              "state": "Ceará",
+              "city": "Fortaleza",
+              "district": "Aerolândia",
+              "latitude": "-3.77548",
+              "longitude": "-38.51401"
+            },
+            {
+              "name": "Sabino Borges",
+              "addressType": "Rua",
+              "cep": "60850080",
+              "state": "Ceará",
+              "city": "Fortaleza",
+              "district": "Aerolândia",
+              "latitude": "-3.77303",
+              "longitude": "-38.5173"
+            },
+            {
+              "name": "Doutor Amadeu Sá",
+              "addressType": "Rua",
+              "cep": "60850100",
+              "state": "Ceará",
+              "city": "Fortaleza",
+              "district": "Aerolândia",
+              "latitude": "-3.7749",
+              "longitude": "-38.51701"
+            },
+            {
+              "name": "Chagas Mendes",
+              "addressType": "Vila",
+              "cep": "60850760",
+              "state": "Ceará",
+              "city": "Fortaleza",
+              "district": "Aerolândia",
+              "latitude": "-3.77071",
+              "longitude": "-38.51314"
+            }
+          ]
+        },
+        {
+          "name": "Aeroporto",
+          "streets": [
+            {
+              "name": "da Oficina",
+              "addressType": "Travessa",
+              "cep": "60422666",
+              "state": "Ceará",
+              "city": "Fortaleza",
+              "district": "Aeroporto",
+              "latitude": "-3.77942",
+              "longitude": "-38.54014"
+            },
+            {
+              "name": "Cumbica",
+              "addressType": "Rua",
+              "cep": "60415340",
+              "state": "Ceará",
+              "city": "Fortaleza",
+              "district": "Aeroporto",
+              "latitude": "-3.76061",
+              "longitude": "-38.51997"
+            },
+            {
+              "name": "5",
+              "addressType": "Rua",
+              "cep": "60422748",
+              "state": "Ceará",
+              "city": "Fortaleza",
+              "district": "Aeroporto",
+              "latitude": "-3.77942",
+              "longitude": "-38.54014"
+            },
+            {
+              "name": "da Maravilha",
+              "addressType": "Largo",
+              "cep": "60415325",
+              "state": "Ceará",
+              "city": "Fortaleza",
+              "district": "Aeroporto",
+              "latitude": "-3.829",
+              "longitude": "-38.48913"
+            },
+            {
+              "name": "3",
+              "addressType": "Rua",
+              "cep": "60422746",
+              "state": "Ceará",
+              "city": "Fortaleza",
+              "district": "Aeroporto",
+              "latitude": "-3.77942",
+              "longitude": "-38.54014"
+            },
+            {
+              "name": "Neturno",
+              "addressType": "Rua",
+              "cep": "60422540",
+              "state": "Ceará",
+              "city": "Fortaleza",
+              "district": "Aeroporto",
+              "latitude": "-3.76478",
+              "longitude": "-38.52933"
+            },
+            {
+              "name": "4",
+              "addressType": "Rua",
+              "cep": "60422744",
+              "state": "Ceará",
+              "city": "Fortaleza",
+              "district": "Aeroporto",
+              "latitude": "-3.77942",
+              "longitude": "-38.54014"
+            },
+            {
+              "name": "Cristo Rei",
+              "addressType": "Travessa",
+              "cep": "60422725",
+              "state": "Ceará",
+              "city": "Fortaleza",
+              "district": "Aeroporto",
+              "latitude": "-3.80385",
+              "longitude": "-38.60879"
+            }
+          ]
+        },
+        {
+          "name": "Alagadiço",
+          "streets": [
+            {
+              "name": "Esau",
+              "addressType": "Vila",
+              "cep": "60357040",
+              "state": "Ceará",
+              "city": "Fortaleza",
+              "district": "Alagadiço",
+              "latitude": "-3.74484",
+              "longitude": "-38.52906"
+            },
+            {
+              "name": "Gustavo Sampaio",
+              "addressType": "Rua",
+              "cep": "60455000",
+              "state": "Ceará",
+              "city": "Fortaleza",
+              "district": "Alagadiço",
+              "latitude": "-3.73575",
+              "longitude": "-38.55884"
+            },
+            {
+              "name": "Senhorita",
+              "addressType": "Vila",
+              "cep": "60456180",
+              "state": "Ceará",
+              "city": "Fortaleza",
+              "district": "Alagadiço",
+              "latitude": "-3.7359",
+              "longitude": "-38.58642"
+            },
+            {
+              "name": "Presidente Castelo Branco",
+              "addressType": "Conjunto",
+              "cep": "60355840",
+              "state": "Ceará",
+              "city": "Fortaleza",
+              "district": "Alagadiço",
+              "latitude": "-3.7098",
+              "longitude": "-38.56318"
+            },
+            {
+              "name": "Maria Félix Rodrigues",
+              "addressType": "Rua",
+              "cep": "60456120",
+              "state": "Ceará",
+              "city": "Fortaleza",
+              "district": "Alagadiço",
+              "latitude": "-3.80964",
+              "longitude": "-38.46222"
+            },
+            {
+              "name": "Prof. Raimundo Vitor",
+              "addressType": "Rua",
+              "cep": "60450680",
+              "state": "Ceará",
+              "city": "Fortaleza",
+              "district": "Alagadiço",
+              "latitude": "-3.74197",
+              "longitude": "-38.56508"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Horizonte",
+      "ibgeCode": "2305233",
+      "ddd": "85",
+      "districts": [
+        {
+          "name": "Alto da Estrela",
+          "streets": [
+            {
+              "name": "Leonília Gomes de Freitas",
+              "addressType": "Rua",
+              "cep": "62885135",
+              "state": "Ceará",
+              "city": "Horizonte",
+              "district": "Alto da Estrela",
+              "latitude": "-4.13589",
+              "longitude": "-38.48899"
+            },
+            {
+              "name": "Raimunda Alves da Silva",
+              "addressType": "Rua",
+              "cep": "62885165",
+              "state": "Ceará",
+              "city": "Horizonte",
+              "district": "Alto da Estrela",
+              "latitude": "-4.10449",
+              "longitude": "-38.49181"
+            },
+            {
+              "name": "José Rufino",
+              "addressType": "Rua",
+              "cep": "62885200",
+              "state": "Ceará",
+              "city": "Horizonte",
+              "district": "Alto da Estrela",
+              "latitude": "-4.13193",
+              "longitude": "-38.48666"
+            },
+            {
+              "name": "Presidente Castelo Branco",
+              "addressType": "Avenida",
+              "cep": "62885000",
+              "state": "Ceará",
+              "city": "Horizonte",
+              "district": "Alto da Estrela",
+              "latitude": "-4.10052",
+              "longitude": "-38.49505"
+            },
+            {
+              "name": "Chico Poró",
+              "addressType": "Rua",
+              "cep": "62885100",
+              "state": "Ceará",
+              "city": "Horizonte",
+              "district": "Alto da Estrela",
+              "latitude": "-4.13238",
+              "longitude": "-38.48528"
+            },
+            {
+              "name": "José Alberto da Silva",
+              "addressType": "Rua",
+              "cep": "62885180",
+              "state": "Ceará",
+              "city": "Horizonte",
+              "district": "Alto da Estrela",
+              "latitude": "-4.07812",
+              "longitude": "-38.50123"
+            },
+            {
+              "name": "Raimundo Lopes",
+              "addressType": "Rua",
+              "cep": "62885210",
+              "state": "Ceará",
+              "city": "Horizonte",
+              "district": "Alto da Estrela",
+              "latitude": "-4.13142",
+              "longitude": "-38.48917"
+            },
+            {
+              "name": "Henrique Soares",
+              "addressType": "Rua",
+              "cep": "62885140",
+              "state": "Ceará",
+              "city": "Horizonte",
+              "district": "Alto da Estrela",
+              "latitude": "-4.10057",
+              "longitude": "-38.48682"
+            }
+          ]
+        },
+        {
+          "name": "Aningás",
+          "streets": [
+            {
+              "name": "Canavieira dos Pinheiros s/n",
+              "addressType": "Avenida",
+              "cep": "62882974",
+              "state": "Ceará",
+              "city": "Horizonte",
+              "district": "Aningás",
+              "latitude": "-4.09765",
+              "longitude": "-38.42758"
+            },
+            {
+              "name": "Canavieira dos Pinheiros, s/n",
+              "addressType": "Avenida",
+              "cep": "62897974",
+              "state": "Ceará",
+              "city": "Horizonte",
+              "district": "Aningás",
+              "latitude": "-4.09765",
+              "longitude": "-38.42758"
+            }
+          ]
+        },
+        {
+          "name": "Buenos Aires",
+          "streets": [
+            {
+              "name": "Benedito Sales do Carmo",
+              "addressType": "Rua",
+              "cep": "62886365",
+              "state": "Ceará",
+              "city": "Horizonte",
+              "district": "Buenos Aires",
+              "latitude": "-4.09962",
+              "longitude": "-38.50307"
+            },
+            {
+              "name": "Maria Rosário Rodrigues",
+              "addressType": "Rua",
+              "cep": "62886342",
+              "state": "Ceará",
+              "city": "Horizonte",
+              "district": "Buenos Aires",
+              "latitude": "-4.06354",
+              "longitude": "-38.51176"
+            },
+            {
+              "name": "Antônio Agostinho da Silva",
+              "addressType": "Rua",
+              "cep": "62886030",
+              "state": "Ceará",
+              "city": "Horizonte",
+              "district": "Buenos Aires",
+              "latitude": "-4.10254",
+              "longitude": "-38.50081"
+            },
+            {
+              "name": "Maria José Batista",
+              "addressType": "Rua",
+              "cep": "62886415",
+              "state": "Ceará",
+              "city": "Horizonte",
+              "district": "Buenos Aires",
+              "latitude": "-4.09885",
+              "longitude": "-38.50381"
+            },
+            {
+              "name": "Raimundo Carolino da Silva",
+              "addressType": "Rua",
+              "cep": "62886450",
+              "state": "Ceará",
+              "city": "Horizonte",
+              "district": "Buenos Aires",
+              "latitude": "-4.09638",
+              "longitude": "-38.50427"
+            },
+            {
+              "name": "Osmar Sales do Carmo",
+              "addressType": "Rua",
+              "cep": "62886370",
+              "state": "Ceará",
+              "city": "Horizonte",
+              "district": "Buenos Aires",
+              "latitude": "-4.06703",
+              "longitude": "-38.51013"
+            },
+            {
+              "name": "Antônio de Andrade",
+              "addressType": "Rua",
+              "cep": "62886095",
+              "state": "Ceará",
+              "city": "Horizonte",
+              "district": "Buenos Aires",
+              "latitude": "-4.10704",
+              "longitude": "-38.50749"
+            },
+            {
+              "name": "Manuel Matias de Freitas",
+              "addressType": "Rua",
+              "cep": "62886395",
+              "state": "Ceará",
+              "city": "Horizonte",
+              "district": "Buenos Aires",
+              "latitude": "-4.09519",
+              "longitude": "-38.49914"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1501 @@
+{
+  "code": "PE",
+  "name": "Pernambuco",
+  "capital": "Recife",
+  "ddd": "87",
+  "regiao": "Nordeste",
+  "cities": [
+    {
+      "name": "Abreu e Lima",
+      "ibgeCode": "2600054",
+      "ddd": "81",
+      "districts": [
+        {
+          "name": "Alto São Miguel",
+          "streets": [
+            {
+              "name": "Lítio",
+              "addressType": "Rua",
+              "cep": "53565500",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Alto São Miguel",
+              "latitude": "-7.90238",
+              "longitude": "-34.9031"
+            },
+            {
+              "name": "Airton Sena",
+              "addressType": "Rua",
+              "cep": "53565775",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Alto São Miguel",
+              "latitude": "-7.90238",
+              "longitude": "-34.9031"
+            },
+            {
+              "name": "Maria Benedita",
+              "addressType": "Rua",
+              "cep": "53565568",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Alto São Miguel",
+              "latitude": "-7.90238",
+              "longitude": "-34.9031"
+            },
+            {
+              "name": "do Derby",
+              "addressType": "Rua",
+              "cep": "53565450",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Alto São Miguel",
+              "latitude": "-7.90238",
+              "longitude": "-34.9031"
+            },
+            {
+              "name": "Pitiá",
+              "addressType": "Rua",
+              "cep": "53565090",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Alto São Miguel",
+              "latitude": "-7.90238",
+              "longitude": "-34.9031"
+            },
+            {
+              "name": "Peroba",
+              "addressType": "Rua",
+              "cep": "53565230",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Alto São Miguel",
+              "latitude": "-7.90238",
+              "longitude": "-34.9031"
+            },
+            {
+              "name": "Pedro Alves de Araújo",
+              "addressType": "Rua",
+              "cep": "53565180",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Alto São Miguel",
+              "latitude": "-7.90391",
+              "longitude": "-34.90934"
+            },
+            {
+              "name": "Brasil",
+              "addressType": "Avenida",
+              "cep": "53565040",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Alto São Miguel",
+              "latitude": "-7.90889",
+              "longitude": "-34.9019"
+            }
+          ]
+        },
+        {
+          "name": "Alto da Bela Vista",
+          "streets": [
+            {
+              "name": "Coronel Urbano Ribeiro de Sena",
+              "addressType": "Rua",
+              "cep": "53515550",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Alto da Bela Vista",
+              "latitude": "-7.90921",
+              "longitude": "-34.90163"
+            },
+            {
+              "name": "Camila Maria da Conceição Alves",
+              "addressType": "Rua",
+              "cep": "53515025",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Alto da Bela Vista",
+              "latitude": "-7.91041",
+              "longitude": "-34.89997"
+            },
+            {
+              "name": "Alto da Bela Vista",
+              "addressType": "Rua",
+              "cep": "53515495",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Alto da Bela Vista",
+              "latitude": "-7.90998",
+              "longitude": "-34.8994"
+            },
+            {
+              "name": "Criptônio",
+              "addressType": "Rua",
+              "cep": "53515150",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Alto da Bela Vista",
+              "latitude": "-7.90979",
+              "longitude": "-34.90043"
+            },
+            {
+              "name": "F",
+              "addressType": "Rua",
+              "cep": "53515100",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Alto da Bela Vista",
+              "latitude": "-7.91684",
+              "longitude": "-34.89628"
+            },
+            {
+              "name": "da Bauxita",
+              "addressType": "Rua",
+              "cep": "53515020",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Alto da Bela Vista",
+              "latitude": "-7.90891",
+              "longitude": "-34.90054"
+            },
+            {
+              "name": "do Bálio",
+              "addressType": "Rua",
+              "cep": "53515130",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Alto da Bela Vista",
+              "latitude": "-7.90957",
+              "longitude": "-34.90056"
+            },
+            {
+              "name": "Jaguaribe",
+              "addressType": "Rua",
+              "cep": "53515120",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Alto da Bela Vista",
+              "latitude": "-7.90951",
+              "longitude": "-34.90057"
+            }
+          ]
+        },
+        {
+          "name": "Boa Esperança",
+          "streets": [
+            {
+              "name": "Rio Ficus",
+              "addressType": "Rua",
+              "cep": "53580340",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Boa Esperança",
+              "latitude": "-7.90227",
+              "longitude": "-34.89553"
+            },
+            {
+              "name": "Rio Quênia",
+              "addressType": "Acampamento",
+              "cep": "53580460",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Boa Esperança",
+              "latitude": "-7.90172",
+              "longitude": "-34.89484"
+            },
+            {
+              "name": "Nova Esperança",
+              "addressType": "Rua",
+              "cep": "53580050",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Boa Esperança",
+              "latitude": "-7.90285",
+              "longitude": "-34.89935"
+            },
+            {
+              "name": "Duque De Caxias 924",
+              "addressType": "Avenida",
+              "cep": "53580900",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Boa Esperança",
+              "latitude": "-7.9038",
+              "longitude": "-34.90128"
+            },
+            {
+              "name": "Rio Juruá",
+              "addressType": "Rua",
+              "cep": "53580690",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Boa Esperança",
+              "latitude": "-7.90248",
+              "longitude": "-34.89771"
+            },
+            {
+              "name": "Travessa Trasamazônica",
+              "addressType": "5ª",
+              "cep": "53580145",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Boa Esperança",
+              "latitude": "-7.89311",
+              "longitude": "-34.91565"
+            },
+            {
+              "name": "Rio Tocantins",
+              "addressType": "Rua",
+              "cep": "53580730",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Boa Esperança",
+              "latitude": "-7.90299",
+              "longitude": "-34.89805"
+            },
+            {
+              "name": "Silveira",
+              "addressType": "Vila",
+              "cep": "53580500",
+              "state": "Pernambuco",
+              "city": "Abreu e Lima",
+              "district": "Boa Esperança",
+              "latitude": "-7.89232",
+              "longitude": "-34.91183"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Arcoverde",
+      "ibgeCode": "2601201",
+      "ddd": "87",
+      "districts": [
+        {
+          "name": "Boa Esperança",
+          "streets": [
+            {
+              "name": "Projetada 08",
+              "addressType": "Rua",
+              "cep": "56508485",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Boa Esperança",
+              "latitude": "-8.4266",
+              "longitude": "-37.05205"
+            },
+            {
+              "name": "Projetada 04",
+              "addressType": "Rua",
+              "cep": "56508465",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Boa Esperança",
+              "latitude": "-8.4266",
+              "longitude": "-37.05205"
+            },
+            {
+              "name": "Barão do Rio Branco",
+              "addressType": "Avenida",
+              "cep": "56508435",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Boa Esperança",
+              "latitude": "-9.39309",
+              "longitude": "-40.50615"
+            },
+            {
+              "name": "das Orquídeas",
+              "addressType": "Rua",
+              "cep": "56508400",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Boa Esperança",
+              "latitude": "-8.89368",
+              "longitude": "-36.50737"
+            },
+            {
+              "name": "Projetada 13",
+              "addressType": "Rua",
+              "cep": "56508510",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Boa Esperança",
+              "latitude": "-8.4266",
+              "longitude": "-37.05205"
+            },
+            {
+              "name": "Projetada 10",
+              "addressType": "Rua",
+              "cep": "56508495",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Boa Esperança",
+              "latitude": "-8.4176445",
+              "longitude": "-37.0585205"
+            },
+            {
+              "name": "México",
+              "addressType": "Rua",
+              "cep": "56508212",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Boa Esperança",
+              "latitude": "-7.95277",
+              "longitude": "-34.82988"
+            },
+            {
+              "name": "Venezuela",
+              "addressType": "Rua",
+              "cep": "56508165",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Boa Esperança",
+              "latitude": "-8.43769",
+              "longitude": "-37.06686"
+            }
+          ]
+        },
+        {
+          "name": "Boa Vista",
+          "streets": [
+            {
+              "name": "I",
+              "addressType": "Rua",
+              "cep": "56519200",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Boa Vista",
+              "latitude": "-8.41661",
+              "longitude": "-37.04778"
+            },
+            {
+              "name": "N",
+              "addressType": "Rua",
+              "cep": "56519240",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Boa Vista",
+              "latitude": "-8.41663",
+              "longitude": "-37.0475"
+            },
+            {
+              "name": "João G Siqueira",
+              "addressType": "Rua",
+              "cep": "56517460",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Boa Vista",
+              "latitude": "-8.05233",
+              "longitude": "-34.89247"
+            },
+            {
+              "name": "Palmares",
+              "addressType": "Rua",
+              "cep": "56517630",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Boa Vista",
+              "latitude": "-8.09284",
+              "longitude": "-35.02191"
+            },
+            {
+              "name": "Santa Luzia",
+              "addressType": "Rua",
+              "cep": "56517670",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Boa Vista",
+              "latitude": "-8.42023",
+              "longitude": "-37.03856"
+            },
+            {
+              "name": "N",
+              "addressType": "Rua",
+              "cep": "56515660",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Boa Vista",
+              "latitude": "-8.41615",
+              "longitude": "-37.03571"
+            },
+            {
+              "name": "Hilda Pacheco Arcoverde",
+              "addressType": "Rua",
+              "cep": "56517450",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Boa Vista",
+              "latitude": "-8.40534",
+              "longitude": "-37.07043"
+            },
+            {
+              "name": "José Pacheco Freire",
+              "addressType": "Rua",
+              "cep": "56517780",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Boa Vista",
+              "latitude": "-8.41904",
+              "longitude": "-37.04293"
+            }
+          ]
+        },
+        {
+          "name": "Cardeal",
+          "streets": [
+            {
+              "name": "Sérgio de Souza Padilha",
+              "addressType": "Rua",
+              "cep": "56504100",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Cardeal",
+              "latitude": "-8.41654",
+              "longitude": "-37.05341"
+            },
+            {
+              "name": "Ana Aguiar",
+              "addressType": "Rua",
+              "cep": "56504080",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Cardeal",
+              "latitude": "-8.41671",
+              "longitude": "-37.05541"
+            },
+            {
+              "name": "San Marino",
+              "addressType": "Rua",
+              "cep": "56504030",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Cardeal",
+              "latitude": "-8.43162",
+              "longitude": "-37.06459"
+            },
+            {
+              "name": "Nivaldo Guedes Geraldo",
+              "addressType": "Rua",
+              "cep": "56504145",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Cardeal",
+              "latitude": "-8.41689",
+              "longitude": "-37.0563"
+            },
+            {
+              "name": "Maria Luíza de Barros",
+              "addressType": "Rua",
+              "cep": "56504115",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Cardeal",
+              "latitude": "-8.41451",
+              "longitude": "-37.05567"
+            },
+            {
+              "name": "Serra Leoa",
+              "addressType": "Rua",
+              "cep": "56504065",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Cardeal",
+              "latitude": "-8.23665",
+              "longitude": "-35.75892"
+            },
+            {
+              "name": "Do Deserto",
+              "addressType": "Travessa",
+              "cep": "56504040",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Cardeal",
+              "latitude": "-8.41662",
+              "longitude": "-37.05542"
+            },
+            {
+              "name": "Joaquim Bezerra",
+              "addressType": "Rua",
+              "cep": "56504130",
+              "state": "Pernambuco",
+              "city": "Arcoverde",
+              "district": "Cardeal",
+              "latitude": "-8.41607",
+              "longitude": "-37.05712"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Belo Jardim",
+      "ibgeCode": "2601706",
+      "ddd": "81",
+      "districts": [
+        {
+          "name": "Alto Limpo",
+          "streets": [
+            {
+              "name": "João Batista Senhorinho",
+              "addressType": "Rua",
+              "cep": "55152840",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Alto Limpo",
+              "latitude": "-8.34393",
+              "longitude": "-36.43759"
+            },
+            {
+              "name": "da Palestina",
+              "addressType": "Rua",
+              "cep": "55152810",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Alto Limpo",
+              "latitude": "-8.34386",
+              "longitude": "-36.4342"
+            },
+            {
+              "name": "Darcy Barbosa da Silva",
+              "addressType": "Rua",
+              "cep": "55152825",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Alto Limpo",
+              "latitude": "-8.34072",
+              "longitude": "-36.44185"
+            },
+            {
+              "name": "Dionísio Rodrigues Pinheiro",
+              "addressType": "Rua",
+              "cep": "55152820",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Alto Limpo",
+              "latitude": "-8.3372",
+              "longitude": "-36.41829"
+            },
+            {
+              "name": "Hugo do Rego Barros",
+              "addressType": "Rua",
+              "cep": "55152590",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Alto Limpo",
+              "latitude": "-8.34386",
+              "longitude": "-36.4342"
+            },
+            {
+              "name": "PE-180",
+              "addressType": "Rodovia",
+              "cep": "55152835",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Alto Limpo",
+              "latitude": "-8.33799",
+              "longitude": "-36.43604"
+            },
+            {
+              "name": "Honório Torres de Melo",
+              "addressType": "Rua",
+              "cep": "55152815",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Alto Limpo",
+              "latitude": "-8.34389",
+              "longitude": "-36.43441"
+            },
+            {
+              "name": "Izaque Alves de Souza",
+              "addressType": "Rua",
+              "cep": "55152830",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Alto Limpo",
+              "latitude": "-8.33648",
+              "longitude": "-36.41833"
+            }
+          ]
+        },
+        {
+          "name": "Ayrton Maciel",
+          "streets": [
+            {
+              "name": "Hermínio José de Torres",
+              "addressType": "Rua",
+              "cep": "55154125",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Ayrton Maciel",
+              "latitude": "-8.32741",
+              "longitude": "-36.41866"
+            },
+            {
+              "name": "Armando Sobreira Filho",
+              "addressType": "Rua",
+              "cep": "55154180",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Ayrton Maciel",
+              "latitude": "-8.34191",
+              "longitude": "-36.44081"
+            },
+            {
+              "name": "Jaime Vilela",
+              "addressType": "Rua",
+              "cep": "55154110",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Ayrton Maciel",
+              "latitude": "-8.33776",
+              "longitude": "-36.43306"
+            },
+            {
+              "name": "Amélia Soares Paes",
+              "addressType": "Rua",
+              "cep": "55154038",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Ayrton Maciel",
+              "latitude": "-8.33051",
+              "longitude": "-36.41875"
+            },
+            {
+              "name": "Coronel Antônio Marinho",
+              "addressType": "Rua",
+              "cep": "55154015",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Ayrton Maciel",
+              "latitude": "-8.32892",
+              "longitude": "-36.40951"
+            },
+            {
+              "name": "Pedro Domingos dos Santos",
+              "addressType": "Rua",
+              "cep": "55154175",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Ayrton Maciel",
+              "latitude": "-8.33765",
+              "longitude": "-36.4129"
+            },
+            {
+              "name": "Deputado Ulisses Guimarães",
+              "addressType": "Rua",
+              "cep": "55154155",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Ayrton Maciel",
+              "latitude": "-8.33272",
+              "longitude": "-36.40972"
+            },
+            {
+              "name": "José Francisco de Freitas",
+              "addressType": "Rua",
+              "cep": "55154085",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Ayrton Maciel",
+              "latitude": "-8.32813",
+              "longitude": "-36.42021"
+            }
+          ]
+        },
+        {
+          "name": "Boa Vista",
+          "streets": [
+            {
+              "name": "Mocinha Mergulhão",
+              "addressType": "Rua",
+              "cep": "55157332",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Boa Vista",
+              "latitude": "-8.22735",
+              "longitude": "-36.3595"
+            },
+            {
+              "name": "Diomar Ramos dos Santos Alves",
+              "addressType": "Rua",
+              "cep": "55157480",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Boa Vista",
+              "latitude": "-8.32316",
+              "longitude": "-36.41264"
+            },
+            {
+              "name": "Manoel Gabriel Almeida",
+              "addressType": "Rua",
+              "cep": "55157020",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Boa Vista",
+              "latitude": "-8.2276",
+              "longitude": "-36.36117"
+            },
+            {
+              "name": "Hermínio Jose de Torres",
+              "addressType": "Rua",
+              "cep": "55157240",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Boa Vista",
+              "latitude": "-8.3274",
+              "longitude": "-36.4179"
+            },
+            {
+              "name": "José Cadete",
+              "addressType": "Rua",
+              "cep": "55157230",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Boa Vista",
+              "latitude": "-8.33412",
+              "longitude": "-36.41185"
+            },
+            {
+              "name": "Amélia Soares Paes",
+              "addressType": "Rua",
+              "cep": "55157310",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Boa Vista",
+              "latitude": "-8.33372",
+              "longitude": "-36.41868"
+            },
+            {
+              "name": "Coronel Geminiano Maciel",
+              "addressType": "Avenida",
+              "cep": "55157010",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Boa Vista",
+              "latitude": "-8.33621",
+              "longitude": "-36.42159"
+            },
+            {
+              "name": "Manoel Gomes do Nascimento",
+              "addressType": "Travessa",
+              "cep": "55157101",
+              "state": "Pernambuco",
+              "city": "Belo Jardim",
+              "district": "Boa Vista",
+              "latitude": "-8.33566",
+              "longitude": "-36.41126"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cabo de Santo Agostinho",
+      "ibgeCode": "2602902",
+      "ddd": "81",
+      "districts": [
+        {
+          "name": "Bela Vista",
+          "streets": [
+            {
+              "name": "Vinte e Quatro",
+              "addressType": "Rua",
+              "cep": "54525470",
+              "state": "Pernambuco",
+              "city": "Cabo de Santo Agostinho",
+              "district": "Bela Vista",
+              "latitude": "-8.24739",
+              "longitude": "-34.98594"
+            },
+            {
+              "name": "Vinte e Cinco",
+              "addressType": "Rua",
+              "cep": "54525480",
+              "state": "Pernambuco",
+              "city": "Cabo de Santo Agostinho",
+              "district": "Bela Vista",
+              "latitude": "-8.29922",
+              "longitude": "-35.06203"
+            },
+            {
+              "name": "Cloves Gomes da Silva",
+              "addressType": "Rua",
+              "cep": "54525490",
+              "state": "Pernambuco",
+              "city": "Cabo de Santo Agostinho",
+              "district": "Bela Vista",
+              "latitude": "-8.22473",
+              "longitude": "-34.96738"
+            }
+          ]
+        },
+        {
+          "name": "COHAB",
+          "streets": [
+            {
+              "name": "João Marinho Espíndola",
+              "addressType": "Rua",
+              "cep": "54520150",
+              "state": "Pernambuco",
+              "city": "Cabo de Santo Agostinho",
+              "district": "COHAB",
+              "latitude": "-8.29426",
+              "longitude": "-35.03105"
+            },
+            {
+              "name": "Amaro Henrique Teixeira",
+              "addressType": "Rua",
+              "cep": "54515120",
+              "state": "Pernambuco",
+              "city": "Cabo de Santo Agostinho",
+              "district": "COHAB",
+              "latitude": "-8.29145",
+              "longitude": "-35.02774"
+            },
+            {
+              "name": "da Moenda",
+              "addressType": "Rua",
+              "cep": "54520515",
+              "state": "Pernambuco",
+              "city": "Cabo de Santo Agostinho",
+              "district": "COHAB",
+              "latitude": "-8.28856",
+              "longitude": "-35.02783"
+            },
+            {
+              "name": "Vereador José Feliciano de Barros Filho",
+              "addressType": "Rua",
+              "cep": "54520670",
+              "state": "Pernambuco",
+              "city": "Cabo de Santo Agostinho",
+              "district": "COHAB",
+              "latitude": "-8.29413",
+              "longitude": "-35.02863"
+            },
+            {
+              "name": "Mário do Rego Barreto",
+              "addressType": "Rua",
+              "cep": "54520230",
+              "state": "Pernambuco",
+              "city": "Cabo de Santo Agostinho",
+              "district": "COHAB",
+              "latitude": "-8.2959",
+              "longitude": "-35.03284"
+            },
+            {
+              "name": "João Belarmino da Rocha",
+              "addressType": "Rua",
+              "cep": "54520320",
+              "state": "Pernambuco",
+              "city": "Cabo de Santo Agostinho",
+              "district": "COHAB",
+              "latitude": "-8.29374",
+              "longitude": "-35.03422"
+            },
+            {
+              "name": "Helena de Melo Viana",
+              "addressType": "Rua",
+              "cep": "54520000",
+              "state": "Pernambuco",
+              "city": "Cabo de Santo Agostinho",
+              "district": "COHAB",
+              "latitude": "-8.29194",
+              "longitude": "-35.0274"
+            },
+            {
+              "name": "Ícaro Fernando Leite da Fonseca",
+              "addressType": "Rua",
+              "cep": "54520295",
+              "state": "Pernambuco",
+              "city": "Cabo de Santo Agostinho",
+              "district": "COHAB",
+              "latitude": "-8.23458",
+              "longitude": "-34.9837"
+            }
+          ]
+        },
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "José Bezerra Filho",
+              "addressType": "Rua",
+              "cep": "54510420",
+              "state": "Pernambuco",
+              "city": "Cabo de Santo Agostinho",
+              "district": "Centro",
+              "latitude": "-8.28312",
+              "longitude": "-35.03222"
+            },
+            {
+              "name": "Barão do Rio Branco",
+              "addressType": "Avenida",
+              "cep": "54510500",
+              "state": "Pernambuco",
+              "city": "Cabo de Santo Agostinho",
+              "district": "Centro",
+              "latitude": "-8.28022",
+              "longitude": "-35.02084"
+            },
+            {
+              "name": "Evangelista Carlos Alberto de Assis",
+              "addressType": "Rua",
+              "cep": "54505170",
+              "state": "Pernambuco",
+              "city": "Cabo de Santo Agostinho",
+              "district": "Centro",
+              "latitude": "-8.29107",
+              "longitude": "-35.04115"
+            },
+            {
+              "name": "Espírito Santo",
+              "addressType": "Rua",
+              "cep": "54505430",
+              "state": "Pernambuco",
+              "city": "Cabo de Santo Agostinho",
+              "district": "Centro",
+              "latitude": "-8.29022",
+              "longitude": "-35.03724"
+            },
+            {
+              "name": "Doutor Antônio de Souza Leão",
+              "addressType": "Rua",
+              "cep": "54505330",
+              "state": "Pernambuco",
+              "city": "Cabo de Santo Agostinho",
+              "district": "Centro",
+              "latitude": "-8.28763",
+              "longitude": "-35.03803"
+            },
+            {
+              "name": "Padre Alves de Souza",
+              "addressType": "Rua",
+              "cep": "54505660",
+              "state": "Pernambuco",
+              "city": "Cabo de Santo Agostinho",
+              "district": "Centro",
+              "latitude": "-8.28954",
+              "longitude": "-35.04058"
+            },
+            {
+              "name": "Antônio Martins",
+              "addressType": "Rua",
+              "cep": "54505340",
+              "state": "Pernambuco",
+              "city": "Cabo de Santo Agostinho",
+              "district": "Centro",
+              "latitude": "-8.28814",
+              "longitude": "-35.03768"
+            },
+            {
+              "name": "Ministro André Cavalcante, s/n",
+              "addressType": "Praça",
+              "cep": "54505904",
+              "state": "Pernambuco",
+              "city": "Cabo de Santo Agostinho",
+              "district": "Centro",
+              "latitude": "-8.28466",
+              "longitude": "-35.03353"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Camaragibe",
+      "ibgeCode": "2603454",
+      "ddd": "81",
+      "districts": [
+        {
+          "name": "Alberto Maia",
+          "streets": [
+            {
+              "name": "Rio Tinto",
+              "addressType": "Rua",
+              "cep": "54780330",
+              "state": "Pernambuco",
+              "city": "Camaragibe",
+              "district": "Alberto Maia",
+              "latitude": "-8.00914",
+              "longitude": "-34.98786"
+            },
+            {
+              "name": "Travessa General Costa e Silva",
+              "addressType": "1ª",
+              "cep": "54771781",
+              "state": "Pernambuco",
+              "city": "Camaragibe",
+              "district": "Alberto Maia",
+              "latitude": "-8.02436",
+              "longitude": "-35.00521"
+            },
+            {
+              "name": "São Vicente",
+              "addressType": "Rua",
+              "cep": "54771815",
+              "state": "Pernambuco",
+              "city": "Camaragibe",
+              "district": "Alberto Maia",
+              "latitude": "-8.02484",
+              "longitude": "-35.00905"
+            },
+            {
+              "name": "Santo Antônio de Pádua",
+              "addressType": "Rua",
+              "cep": "54771792",
+              "state": "Pernambuco",
+              "city": "Camaragibe",
+              "district": "Alberto Maia",
+              "latitude": "-8.02465",
+              "longitude": "-35.0098"
+            },
+            {
+              "name": "Monsenhor Hipólito",
+              "addressType": "Rua",
+              "cep": "54771410",
+              "state": "Pernambuco",
+              "city": "Camaragibe",
+              "district": "Alberto Maia",
+              "latitude": "-8.02122",
+              "longitude": "-34.98068"
+            },
+            {
+              "name": "Emília",
+              "addressType": "Rua",
+              "cep": "54771560",
+              "state": "Pernambuco",
+              "city": "Camaragibe",
+              "district": "Alberto Maia",
+              "latitude": "-8.01254",
+              "longitude": "-34.97719"
+            },
+            {
+              "name": "São Juliano",
+              "addressType": "Rua",
+              "cep": "54771460",
+              "state": "Pernambuco",
+              "city": "Camaragibe",
+              "district": "Alberto Maia",
+              "latitude": "-8.02118",
+              "longitude": "-34.98069"
+            },
+            {
+              "name": "Joaquim Ribeiro",
+              "addressType": "Rua",
+              "cep": "54771325",
+              "state": "Pernambuco",
+              "city": "Camaragibe",
+              "district": "Alberto Maia",
+              "latitude": "-7.95593",
+              "longitude": "-35.00818"
+            }
+          ]
+        },
+        {
+          "name": "Aldeia",
+          "streets": [
+            {
+              "name": "Franco Bonaim",
+              "addressType": "Rua",
+              "cep": "54789371",
+              "state": "Pernambuco",
+              "city": "Camaragibe",
+              "district": "Aldeia",
+              "latitude": "-8.00285",
+              "longitude": "-34.97448"
+            },
+            {
+              "name": "Isabel Do Rio Negro",
+              "addressType": "Rua",
+              "cep": "54789445",
+              "state": "Pernambuco",
+              "city": "Camaragibe",
+              "district": "Aldeia",
+              "latitude": "-7.93826",
+              "longitude": "-35.01369"
+            },
+            {
+              "name": "De Aldeia",
+              "addressType": "Estrada",
+              "cep": "54786000",
+              "state": "Pernambuco",
+              "city": "Camaragibe",
+              "district": "Aldeia",
+              "latitude": "-7.99062",
+              "longitude": "-34.97213"
+            },
+            {
+              "name": "Luis Gonzaga Do Nascimento",
+              "addressType": "Rua",
+              "cep": "54789815",
+              "state": "Pernambuco",
+              "city": "Camaragibe",
+              "district": "Aldeia",
+              "latitude": "-7.95237",
+              "longitude": "-35.02557"
+            },
+            {
+              "name": "Sao Joao Dos Campos",
+              "addressType": "Rua",
+              "cep": "54789495",
+              "state": "Pernambuco",
+              "city": "Camaragibe",
+              "district": "Aldeia",
+              "latitude": "-8.02614",
+              "longitude": "-34.98306"
+            }
+          ]
+        },
+        {
+          "name": "Aldeia de Baixo",
+          "streets": [
+            {
+              "name": "do Roncador",
+              "addressType": "Travessa",
+              "cep": "54759586",
+              "state": "Pernambuco",
+              "city": "Camaragibe",
+              "district": "Aldeia de Baixo",
+              "latitude": "-8.00705",
+              "longitude": "-34.97366"
+            },
+            {
+              "name": "Nova Hamburgo",
+              "addressType": "Rua",
+              "cep": "54759646",
+              "state": "Pernambuco",
+              "city": "Camaragibe",
+              "district": "Aldeia de Baixo",
+              "latitude": "-8.00699",
+              "longitude": "-34.97367"
+            },
+            {
+              "name": "Travessa Virginia Rocha",
+              "addressType": "2ª",
+              "cep": "54759237",
+              "state": "Pernambuco",
+              "city": "Camaragibe",
+              "district": "Aldeia de Baixo",
+              "latitude": "-8.01286",
+              "longitude": "-34.97305"
+            },
+            {
+              "name": "Casa Nova",
+              "addressType": "Rua",
+              "cep": "54759648",
+              "state": "Pernambuco",
+              "city": "Camaragibe",
+              "district": "Aldeia de Baixo",
+              "latitude": "-8.01239",
+              "longitude": "-34.97376"
+            },
+            {
+              "name": "Santo Antônio do Sul do Oeste",
+              "addressType": "Rua",
+              "cep": "54759355",
+              "state": "Pernambuco",
+              "city": "Camaragibe",
+              "district": "Aldeia de Baixo",
+              "latitude": "-7.98411",
+              "longitude": "-34.9785"
+            },
+            {
+              "name": "Manoel Firmino da Rocha",
+              "addressType": "Travessa",
+              "cep": "54759246",
+              "state": "Pernambuco",
+              "city": "Camaragibe",
+              "district": "Aldeia de Baixo",
+              "latitude": "-8.01309",
+              "longitude": "-34.97465"
+            },
+            {
+              "name": "do Roncador",
+              "addressType": "Rua",
+              "cep": "54759585",
+              "state": "Pernambuco",
+              "city": "Camaragibe",
+              "district": "Aldeia de Baixo",
+              "latitude": "-8.01305",
+              "longitude": "-34.97264"
+            },
+            {
+              "name": "Manoel Firmino da Rocha",
+              "addressType": "Rua",
+              "cep": "54759245",
+              "state": "Pernambuco",
+              "city": "Camaragibe",
+              "district": "Aldeia de Baixo",
+              "latitude": "-8.01315",
+              "longitude": "-34.97479"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Carpina",
+      "ibgeCode": "2604007",
+      "ddd": "81",
+      "districts": [
+        {
+          "name": "Bairro Novo",
+          "streets": [
+            {
+              "name": "Manoel de Amorim",
+              "addressType": "Rua",
+              "cep": "55819170",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "Bairro Novo",
+              "latitude": "-8.00653",
+              "longitude": "-34.84267"
+            },
+            {
+              "name": "Ayrton Sena do Brasil",
+              "addressType": "Rua",
+              "cep": "55819295",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "Bairro Novo",
+              "latitude": "-7.84891",
+              "longitude": "-35.2401"
+            },
+            {
+              "name": "Maria de Araújo Gulart",
+              "addressType": "Travessa",
+              "cep": "55819191",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "Bairro Novo",
+              "latitude": "-7.84085",
+              "longitude": "-35.25334"
+            },
+            {
+              "name": "Travessa José Jaime Coutinho Dias",
+              "addressType": "1ª",
+              "cep": "55819381",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "Bairro Novo",
+              "latitude": "-7.84493",
+              "longitude": "-35.23834"
+            },
+            {
+              "name": "Luís Otávio Guerra",
+              "addressType": "Rua",
+              "cep": "55819155",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "Bairro Novo",
+              "latitude": "-7.84444",
+              "longitude": "-35.26815"
+            },
+            {
+              "name": "Ministro Marcos Freire",
+              "addressType": "Travessa",
+              "cep": "55819741",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "Bairro Novo",
+              "latitude": "-7.83877",
+              "longitude": "-35.232"
+            },
+            {
+              "name": "Ministro Marcos Freire",
+              "addressType": "Avenida",
+              "cep": "55819740",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "Bairro Novo",
+              "latitude": "-7.83968",
+              "longitude": "-35.23302"
+            },
+            {
+              "name": "Maria Araújo Caldeira",
+              "addressType": "Rua",
+              "cep": "55819265",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "Bairro Novo",
+              "latitude": "-7.84288",
+              "longitude": "-35.23749"
+            }
+          ]
+        },
+        {
+          "name": "COHAB I",
+          "streets": [
+            {
+              "name": "B",
+              "addressType": "Rua",
+              "cep": "55816060",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "COHAB I",
+              "latitude": "-7.84735",
+              "longitude": "-35.26885"
+            },
+            {
+              "name": "C",
+              "addressType": "Rua",
+              "cep": "55816070",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "COHAB I",
+              "latitude": "-7.8471",
+              "longitude": "-35.26894"
+            },
+            {
+              "name": "A",
+              "addressType": "Rua",
+              "cep": "55816050",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "COHAB I",
+              "latitude": "-7.85609",
+              "longitude": "-35.22904"
+            },
+            {
+              "name": "Z",
+              "addressType": "Rua",
+              "cep": "55816010",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "COHAB I",
+              "latitude": "-7.84871",
+              "longitude": "-35.27148"
+            },
+            {
+              "name": "D",
+              "addressType": "Rua",
+              "cep": "55816075",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "COHAB I",
+              "latitude": "-7.84698",
+              "longitude": "-35.2688"
+            },
+            {
+              "name": "V",
+              "addressType": "Rua",
+              "cep": "55816150",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "COHAB I",
+              "latitude": "-7.84788",
+              "longitude": "-35.27099"
+            },
+            {
+              "name": "G",
+              "addressType": "Rua",
+              "cep": "55816170",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "COHAB I",
+              "latitude": "-7.86222",
+              "longitude": "-35.22751"
+            },
+            {
+              "name": "I",
+              "addressType": "Rua",
+              "cep": "55816190",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "COHAB I",
+              "latitude": "-7.84569",
+              "longitude": "-35.26975"
+            }
+          ]
+        },
+        {
+          "name": "Cajá",
+          "streets": [
+            {
+              "name": "Presidente Castelo Branco",
+              "addressType": "Travessa",
+              "cep": "55813401",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "Cajá",
+              "latitude": "-7.80715",
+              "longitude": "-40.49115"
+            },
+            {
+              "name": "Irmã Hurbanete de Oliveira Mara",
+              "addressType": "Rua",
+              "cep": "55813418",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "Cajá",
+              "latitude": "-7.84697",
+              "longitude": "-35.24098"
+            },
+            {
+              "name": "Antônio Belo Ferreira",
+              "addressType": "Rua",
+              "cep": "55813345",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "Cajá",
+              "latitude": "-7.84537",
+              "longitude": "-35.2554"
+            },
+            {
+              "name": "Joaquim José Mara",
+              "addressType": "Rua",
+              "cep": "55813421",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "Cajá",
+              "latitude": "-7.84825",
+              "longitude": "-35.25925"
+            },
+            {
+              "name": "Genésio Trajano da Silva",
+              "addressType": "Rua",
+              "cep": "55813170",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "Cajá",
+              "latitude": "-7.84934",
+              "longitude": "-35.26792"
+            },
+            {
+              "name": "Tiradentes",
+              "addressType": "Rua",
+              "cep": "55813020",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "Cajá",
+              "latitude": "-7.85021",
+              "longitude": "-35.25136"
+            },
+            {
+              "name": "Epitácio Carneiro Leão",
+              "addressType": "Rua",
+              "cep": "55813140",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "Cajá",
+              "latitude": "-7.84298",
+              "longitude": "-35.26644"
+            },
+            {
+              "name": "Aldir Costa do Nascimento",
+              "addressType": "Rua",
+              "cep": "55813108",
+              "state": "Pernambuco",
+              "city": "Carpina",
+              "district": "Cajá",
+              "latitude": "-7.84585",
+              "longitude": "-35.2721"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1094 @@
+basePath: /api/v1
+definitions:
+  github_com_diogomcd_fake-mill-api_internal_models.Address:
+    properties:
+      city:
+        maxLength: 150
+        minLength: 2
+        type: string
+      complement:
+        maxLength: 50
+        type: string
+      coordinates:
+        $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.Coordinates'
+      neighborhood:
+        maxLength: 150
+        minLength: 3
+        type: string
+      number:
+        maxLength: 10
+        minLength: 1
+        type: string
+      state:
+        type: string
+      street:
+        maxLength: 200
+        minLength: 3
+        type: string
+      zipcode:
+        type: string
+    required:
+    - city
+    - neighborhood
+    - number
+    - state
+    - street
+    - zipcode
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.Bank:
+    properties:
+      code:
+        type: string
+      name:
+        maxLength: 50
+        minLength: 3
+        type: string
+    required:
+    - code
+    - name
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.BankAccountResponse:
+    properties:
+      account:
+        maxLength: 15
+        minLength: 5
+        type: string
+      accountType:
+        enum:
+        - checking
+        - savings
+        type: string
+      agency:
+        maxLength: 6
+        minLength: 4
+        type: string
+      bank:
+        $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.Bank'
+    required:
+    - account
+    - accountType
+    - agency
+    - bank
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.CNPJResponse:
+    properties:
+      cnpj:
+        type: string
+      valid:
+        type: boolean
+    required:
+    - cnpj
+    - valid
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.CNPJValidationResponse:
+    properties:
+      cnpj:
+        type: string
+      valid:
+        type: boolean
+    required:
+    - cnpj
+    - valid
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.CPFResponse:
+    properties:
+      cpf:
+        type: string
+      valid:
+        type: boolean
+    required:
+    - cpf
+    - valid
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.CPFValidationResponse:
+    properties:
+      cpf:
+        type: string
+      valid:
+        type: boolean
+    required:
+    - cpf
+    - valid
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.CompanyResponse:
+    properties:
+      address:
+        $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.Address'
+      cnpj:
+        type: string
+      email:
+        type: string
+      foundedAt:
+        type: string
+      name:
+        maxLength: 100
+        minLength: 3
+        type: string
+      phone:
+        type: string
+      stateRegistration:
+        maxLength: 14
+        minLength: 9
+        type: string
+      tradeName:
+        maxLength: 100
+        minLength: 3
+        type: string
+    required:
+    - address
+    - cnpj
+    - email
+    - foundedAt
+    - name
+    - phone
+    - stateRegistration
+    - tradeName
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.Coordinates:
+    properties:
+      lat:
+        maximum: 90
+        minimum: -90
+        type: number
+      lng:
+        maximum: 180
+        minimum: -180
+        type: number
+    required:
+    - lat
+    - lng
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.CreditCardResponse:
+    properties:
+      brand:
+        enum:
+        - Visa
+        - Mastercard
+        - Elo
+        - Amex
+        type: string
+      cvv:
+        type: string
+      expirationDate:
+        type: string
+      holderName:
+        maxLength: 100
+        minLength: 5
+        type: string
+      number:
+        type: string
+    required:
+    - brand
+    - cvv
+    - expirationDate
+    - holderName
+    - number
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.EmailResponse:
+    properties:
+      domain:
+        maxLength: 50
+        minLength: 3
+        type: string
+      email:
+        type: string
+      username:
+        maxLength: 50
+        minLength: 3
+        type: string
+    required:
+    - domain
+    - email
+    - username
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.Filiation:
+    properties:
+      father:
+        maxLength: 100
+        minLength: 5
+        type: string
+      mother:
+        maxLength: 100
+        minLength: 5
+        type: string
+    required:
+    - father
+    - mother
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.Height:
+    properties:
+      centimeters:
+        maximum: 250
+        minimum: 50
+        type: number
+      feet:
+        maximum: 8.2
+        minimum: 1.64
+        type: number
+      inches:
+        maximum: 98.4
+        minimum: 19.7
+        type: number
+      meters:
+        maximum: 2.5
+        minimum: 0.5
+        type: number
+    required:
+    - centimeters
+    - feet
+    - inches
+    - meters
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.Person:
+    properties:
+      address:
+        $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.Address'
+      age:
+        maximum: 120
+        minimum: 0
+        type: integer
+      birthCity:
+        maxLength: 50
+        minLength: 2
+        type: string
+      birthdate:
+        type: string
+      bloodType:
+        enum:
+        - A+
+        - A-
+        - B+
+        - B-
+        - AB+
+        - AB-
+        - O+
+        - O-
+        type: string
+      bmi:
+        maximum: 60
+        minimum: 10
+        type: number
+      company:
+        $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.PersonCompany'
+      cpf:
+        $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.PersonCPF'
+      education:
+        maxLength: 50
+        minLength: 3
+        type: string
+      email:
+        $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.PersonEmail'
+      favoriteColor:
+        maxLength: 20
+        minLength: 3
+        type: string
+      filiation:
+        $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.Filiation'
+      gender:
+        enum:
+        - male
+        - female
+        type: string
+      height:
+        $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.Height'
+      maritalStatus:
+        enum:
+        - single
+        - married
+        - divorced
+        - widowed
+        type: string
+      name:
+        $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.PersonName'
+      phone:
+        $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.PersonPhone'
+      profession:
+        $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.PersonProfession'
+      rg:
+        $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.PersonRG'
+      weight:
+        $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.Weight'
+      zodiacSign:
+        maxLength: 20
+        minLength: 3
+        type: string
+    required:
+    - address
+    - age
+    - birthCity
+    - birthdate
+    - bloodType
+    - bmi
+    - company
+    - cpf
+    - education
+    - email
+    - favoriteColor
+    - filiation
+    - gender
+    - height
+    - maritalStatus
+    - name
+    - phone
+    - profession
+    - rg
+    - weight
+    - zodiacSign
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.PersonCPF:
+    properties:
+      masked:
+        type: string
+      unmasked:
+        type: string
+    required:
+    - masked
+    - unmasked
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.PersonCompany:
+    properties:
+      cnpj:
+        type: string
+      name:
+        maxLength: 100
+        minLength: 3
+        type: string
+    required:
+    - cnpj
+    - name
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.PersonEmail:
+    properties:
+      address:
+        type: string
+      password:
+        maxLength: 32
+        minLength: 8
+        type: string
+    required:
+    - address
+    - password
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.PersonName:
+    properties:
+      firstName:
+        maxLength: 50
+        minLength: 2
+        type: string
+      fullName:
+        maxLength: 100
+        minLength: 5
+        type: string
+      lastName:
+        maxLength: 50
+        minLength: 2
+        type: string
+    required:
+    - firstName
+    - fullName
+    - lastName
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.PersonPhone:
+    properties:
+      countryCode:
+        type: string
+      ddi:
+        type: integer
+      e164Format:
+        type: string
+      internationalFormat:
+        type: string
+      nationalFormat:
+        type: string
+    required:
+    - countryCode
+    - ddi
+    - e164Format
+    - internationalFormat
+    - nationalFormat
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.PersonProfession:
+    properties:
+      area:
+        maxLength: 50
+        minLength: 3
+        type: string
+      salary:
+        maxLength: 20
+        minLength: 5
+        type: string
+      title:
+        maxLength: 50
+        minLength: 3
+        type: string
+    required:
+    - area
+    - title
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.PersonRG:
+    properties:
+      expirationDate:
+        type: string
+      issueDate:
+        type: string
+      issuer:
+        maxLength: 10
+        minLength: 3
+        type: string
+      masked:
+        type: string
+      state:
+        type: string
+      unmasked:
+        type: string
+    required:
+    - expirationDate
+    - issueDate
+    - issuer
+    - masked
+    - state
+    - unmasked
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.PhoneResponse:
+    properties:
+      ddd:
+        type: string
+      formatted:
+        type: string
+      phone:
+        type: string
+      state:
+        type: string
+      type:
+        enum:
+        - mobile
+        - landline
+        type: string
+      unformatted:
+        type: string
+    required:
+    - ddd
+    - formatted
+    - phone
+    - state
+    - type
+    - unformatted
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.PhoneValidationResponse:
+    properties:
+      country_code:
+        type: string
+      ddi:
+        type: integer
+      e164_format:
+        type: string
+      international_format:
+        type: string
+      national_format:
+        type: string
+      number_type:
+        enum:
+        - MOBILE
+        - FIXED_LINE
+        - FIXED_LINE_OR_MOBILE
+        type: string
+      phone_number:
+        type: string
+      valid:
+        type: boolean
+    required:
+    - country_code
+    - ddi
+    - e164_format
+    - international_format
+    - national_format
+    - number_type
+    - phone_number
+    - valid
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.RGResponse:
+    properties:
+      expirationDate:
+        type: string
+      issueDate:
+        type: string
+      issuer:
+        maxLength: 10
+        minLength: 3
+        type: string
+      rg:
+        type: string
+      state:
+        type: string
+    required:
+    - expirationDate
+    - issueDate
+    - issuer
+    - rg
+    - state
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.RGValidationResponse:
+    properties:
+      rg:
+        type: string
+      valid:
+        type: boolean
+    required:
+    - rg
+    - valid
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.Weight:
+    properties:
+      grams:
+        maximum: 300000
+        minimum: 30000
+        type: number
+      kilograms:
+        maximum: 300
+        minimum: 30
+        type: number
+      pounds:
+        maximum: 661
+        minimum: 66
+        type: number
+    required:
+    - grams
+    - kilograms
+    - pounds
+    type: object
+  github_com_diogomcd_fake-mill-api_internal_models.ZipcodeResponse:
+    properties:
+      city:
+        maxLength: 50
+        minLength: 2
+        type: string
+      formatted:
+        type: string
+      state:
+        type: string
+      unformatted:
+        type: string
+      zipcode:
+        type: string
+    required:
+    - city
+    - formatted
+    - state
+    - unformatted
+    - zipcode
+    type: object
+host: fakemill.com
+info:
+  contact: {}
+  description: API REST para geração de dados fake brasileiros para testes, com foco
+    em performance e simplicidade.
+  license:
+    name: GPL v3
+    url: https://www.gnu.org/licenses/gpl-3.0.html
+  termsOfService: http://swagger.io/terms/
+  title: Fake Mill API
+  version: 1.0.0
+paths:
+  /address:
+    get:
+      consumes:
+      - application/json
+      description: Gera um ou mais endereços brasileiros fictícios, com opção de estado.
+      parameters:
+      - default: 1
+        description: Quantidade de endereços (1-200)
+        in: query
+        maximum: 200
+        minimum: 1
+        name: quantity
+        type: integer
+      - description: 'UF do estado (ex: SP, RJ)'
+        in: query
+        name: state
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.Address'
+            type: array
+      summary: Gera endereço brasileiro fictício
+      tags:
+      - Endereço
+  /bank-account:
+    get:
+      consumes:
+      - application/json
+      description: Gera dados de uma conta bancária fictícia, incluindo banco, agência
+        e número da conta.
+      parameters:
+      - default: 1
+        description: Quantidade de contas (1-200)
+        in: query
+        maximum: 200
+        minimum: 1
+        name: quantity
+        type: integer
+      - description: 'Código do banco (ex: 001, 237)'
+        in: query
+        name: bank
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.BankAccountResponse'
+            type: array
+      summary: Gera dados bancários fictícios
+      tags:
+      - Financeiro
+  /cnpj:
+    get:
+      consumes:
+      - application/json
+      description: Gera um ou mais números de CNPJ válidos ou inválidos, com opção
+        de formatação.
+      parameters:
+      - default: 1
+        description: Quantidade de CNPJs (1-200)
+        in: query
+        maximum: 200
+        minimum: 1
+        name: quantity
+        type: integer
+      - default: true
+        description: Retorna formatado (XX.XXX.XXX/XXXX-XX)
+        in: query
+        name: formatted
+        type: boolean
+      - default: true
+        description: Gera CNPJ válido com dígitos verificadores corretos
+        in: query
+        name: valid
+        type: boolean
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.CNPJResponse'
+            type: array
+      summary: Gera CNPJ válido ou inválido
+      tags:
+      - Documentos
+  /company:
+    get:
+      consumes:
+      - application/json
+      description: Gera dados completos de uma ou mais empresas fictícias, incluindo
+        nome, CNPJ, endereço, etc.
+      parameters:
+      - default: 1
+        description: Quantidade de empresas (1-200)
+        in: query
+        maximum: 200
+        minimum: 1
+        name: quantity
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.CompanyResponse'
+            type: array
+      summary: Gera dados completos de empresa fictícia
+      tags:
+      - Empresa
+  /cpf:
+    get:
+      consumes:
+      - application/json
+      description: Gera um ou mais números de CPF válidos ou inválidos, com opção
+        de formatação.
+      parameters:
+      - default: 1
+        description: Quantidade de CPFs (1-200)
+        in: query
+        maximum: 200
+        minimum: 1
+        name: quantity
+        type: integer
+      - default: true
+        description: Retorna formatado (XXX.XXX.XXX-XX)
+        in: query
+        name: formatted
+        type: boolean
+      - default: true
+        description: Gera CPF válido com dígitos verificadores corretos
+        in: query
+        name: valid
+        type: boolean
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.CPFResponse'
+            type: array
+      summary: Gera CPF válido ou inválido
+      tags:
+      - Documentos
+  /credit-card:
+    get:
+      consumes:
+      - application/json
+      description: Gera dados de um cartão de crédito fictício, incluindo número,
+        bandeira, CVV e data de validade.
+      parameters:
+      - default: 1
+        description: Quantidade de cartões (1-200)
+        in: query
+        maximum: 200
+        minimum: 1
+        name: quantity
+        type: integer
+      - description: Bandeira do cartão
+        enum:
+        - visa
+        - mastercard
+        - elo
+        - amex
+        in: query
+        name: brand
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.CreditCardResponse'
+            type: array
+      summary: Gera dados de cartão de crédito fictício
+      tags:
+      - Financeiro
+  /email:
+    get:
+      consumes:
+      - application/json
+      description: Gera um ou mais emails fictícios, com opção de domínio customizado.
+      parameters:
+      - default: 1
+        description: Quantidade de emails (1-200)
+        in: query
+        maximum: 200
+        minimum: 1
+        name: quantity
+        type: integer
+      - description: 'Domínio customizado (ex: minhaempresa.com)'
+        in: query
+        name: domain
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.EmailResponse'
+            type: array
+      summary: Gera email fictício
+      tags:
+      - Contato
+  /person:
+    get:
+      consumes:
+      - application/json
+      description: Gera um ou mais registros de pessoas fictícias com nome, CPF, RG,
+        data de nascimento, etc.
+      parameters:
+      - default: 1
+        description: Quantidade de registros (1-200)
+        in: query
+        maximum: 200
+        minimum: 1
+        name: quantity
+        type: integer
+      - description: Gênero da pessoa
+        enum:
+        - male
+        - female
+        - random
+        in: query
+        name: gender
+        type: string
+      - description: 'UF do estado (ex: SP, RJ)'
+        in: query
+        name: state
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.Person'
+            type: array
+      summary: Gera dados de uma pessoa
+      tags:
+      - Pessoa
+  /phone:
+    get:
+      consumes:
+      - application/json
+      description: Gera um ou mais números de telefone brasileiros, com DDD e tipo.
+      parameters:
+      - default: 1
+        description: Quantidade de telefones (1-200)
+        in: query
+        maximum: 200
+        minimum: 1
+        name: quantity
+        type: integer
+      - description: 'UF do estado (ex: SP, RJ)'
+        in: query
+        name: state
+        type: string
+      - default: random
+        description: Tipo de telefone
+        enum:
+        - mobile
+        - landline
+        - random
+        in: query
+        name: type
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.PhoneResponse'
+            type: array
+      summary: Gera telefone brasileiro
+      tags:
+      - Contato
+  /rg:
+    get:
+      consumes:
+      - application/json
+      description: Gera um ou mais números de RG válidos ou inválidos.
+      parameters:
+      - default: 1
+        description: Quantidade de RGs (1-200)
+        in: query
+        maximum: 200
+        minimum: 1
+        name: quantity
+        type: integer
+      - default: true
+        description: Retorna formatado (XX.XXX.XXX-X)
+        in: query
+        name: formatted
+        type: boolean
+      - description: 'UF do estado (ex: SP, RJ)'
+        in: query
+        name: state
+        type: string
+      - default: true
+        description: Gera RG válido com dígito verificador correto
+        in: query
+        name: valid
+        type: boolean
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.RGResponse'
+            type: array
+      summary: Gera RG válido ou inválido
+      tags:
+      - Documentos
+  /validate/cnpj/{cnpj}:
+    get:
+      consumes:
+      - application/json
+      description: Verifica se um número de CNPJ é válido de acordo com o algoritmo
+        oficial.
+      parameters:
+      - description: Número de CNPJ a validar (com ou sem formatação)
+        in: path
+        name: cnpj
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.CNPJValidationResponse'
+        "400":
+          description: Bad Request
+          schema:
+            additionalProperties:
+              type: string
+            type: object
+      summary: Valida CNPJ
+      tags:
+      - Validação
+  /validate/cpf/{cpf}:
+    get:
+      consumes:
+      - application/json
+      description: Verifica se um número de CPF é válido de acordo com o algoritmo
+        oficial.
+      parameters:
+      - description: Número de CPF a validar (com ou sem formatação)
+        in: path
+        name: cpf
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.CPFValidationResponse'
+        "400":
+          description: Bad Request
+          schema:
+            additionalProperties:
+              type: string
+            type: object
+      summary: Valida CPF
+      tags:
+      - Validação
+  /validate/phone:
+    get:
+      consumes:
+      - application/json
+      description: Valida um número de telefone e retorna informações detalhadas sobre
+        ele.
+      parameters:
+      - description: Número de telefone a validar (com ou sem DDI)
+        in: query
+        name: phone_number
+        required: true
+        type: string
+      - description: 'Código do país ISO 3166-1 alpha-2 (ex: BR)'
+        in: query
+        name: country_code
+        type: string
+      - description: 'DDI - código de discagem internacional (ex: 55)'
+        in: query
+        name: ddi
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.PhoneValidationResponse'
+        "400":
+          description: Bad Request
+          schema:
+            additionalProperties:
+              type: string
+            type: object
+      summary: Valida Telefone
+      tags:
+      - Validação
+  /validate/rg/{rg}:
+    get:
+      consumes:
+      - application/json
+      description: Verifica se um número de RG tem o formato básico correto.
+      parameters:
+      - description: Número de RG a validar (com ou sem formatação)
+        in: path
+        name: rg
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.RGValidationResponse'
+        "400":
+          description: Bad Request
+          schema:
+            additionalProperties:
+              type: string
+            type: object
+      summary: Valida RG
+      tags:
+      - Validação
+  /zipcode:
+    get:
+      consumes:
+      - application/json
+      description: Gera um ou mais CEPs válidos, com opção de estado.
+      parameters:
+      - default: 1
+        description: Quantidade de CEPs (1-200)
+        in: query
+        maximum: 200
+        minimum: 1
+        name: quantity
+        type: integer
+      - description: 'UF do estado (ex: SP, RJ)'
+        in: query
+        name: state
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/github_com_diogomcd_fake-mill-api_internal_models.ZipcodeResponse'
+            type: array
+      summary: Gera CEP válido
+      tags:
+      - Endereço
+schemes:
+- http
+- https
+swagger: "2.0"
+tags:
+- description: Endpoints para geração de dados pessoais
+  name: Pessoa
+- description: Endpoints para geração de documentos (CPF, CNPJ, RG)
+  name: Documentos
+- description: Endpoints para geração de emails e telefones
+  name: Contato
+- description: Endpoints para geração de dados bancários e cartões de crédito
+  name: Financeiro
+- description: Endpoints para geração de endereços e CEPs
+  name: Endereço
+- description: Endpoints para geração de dados de empresas
+  name: Empresa
+- description: Endpoints para validação de documentos e telefones
+  name: Validação

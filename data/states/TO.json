@@ -1,0 +1,795 @@
+{
+  "code": "TO",
+  "name": "Tocantins",
+  "capital": "Palmas",
+  "ddd": "63",
+  "regiao": "Norte",
+  "cities": [
+    {
+      "name": "Araguaína",
+      "ibgeCode": "1702109",
+      "ddd": "63",
+      "districts": [
+        {
+          "name": "Bairro da Cimba",
+          "streets": [
+            {
+              "name": "dos Mognos",
+              "addressType": "Rua",
+              "cep": "77824864",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Bairro da Cimba",
+              "latitude": "-7.19197",
+              "longitude": "-48.20814"
+            },
+            {
+              "name": "dos Babaçus",
+              "addressType": "Rua",
+              "cep": "77824834",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Bairro da Cimba",
+              "latitude": "-7.17836",
+              "longitude": "-48.19492"
+            },
+            {
+              "name": "das Magaranas",
+              "addressType": "Rua",
+              "cep": "77824840",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Bairro da Cimba",
+              "latitude": "-7.21717",
+              "longitude": "-48.20455"
+            },
+            {
+              "name": "das Guariubas",
+              "addressType": "Rua",
+              "cep": "77824806",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Bairro da Cimba",
+              "latitude": "-7.17842",
+              "longitude": "-48.19676"
+            },
+            {
+              "name": "dos Cumatis",
+              "addressType": "Rua",
+              "cep": "77824812",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Bairro da Cimba",
+              "latitude": "-7.17848",
+              "longitude": "-48.1954"
+            },
+            {
+              "name": "das Pitombeiras",
+              "addressType": "Rua",
+              "cep": "77824836",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Bairro da Cimba",
+              "latitude": "-7.19197",
+              "longitude": "-48.20814"
+            },
+            {
+              "name": "das Uxiramas",
+              "addressType": "Rua",
+              "cep": "77824848",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Bairro da Cimba",
+              "latitude": "-7.18202",
+              "longitude": "-48.19831"
+            },
+            {
+              "name": "Bela Vista",
+              "addressType": "Rua",
+              "cep": "77824880",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Bairro da Cimba",
+              "latitude": "-7.19342",
+              "longitude": "-48.19873"
+            }
+          ]
+        },
+        {
+          "name": "Barra da Grota",
+          "streets": [
+            {
+              "name": "Maximo Pereira do Nascimento",
+              "addressType": "Rua",
+              "cep": "77819232",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Barra da Grota",
+              "latitude": "-10.17528",
+              "longitude": "-48.2982474"
+            },
+            {
+              "name": "Miguel Viana",
+              "addressType": "Rua",
+              "cep": "77819214",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Barra da Grota",
+              "latitude": "-7.19197",
+              "longitude": "-48.20814"
+            },
+            {
+              "name": "Otaviano Chaves dos Reis",
+              "addressType": "Rua",
+              "cep": "77819230",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Barra da Grota",
+              "latitude": "-7.19197",
+              "longitude": "-48.20814"
+            },
+            {
+              "name": "João Vilarindo",
+              "addressType": "Rua",
+              "cep": "77819234",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Barra da Grota",
+              "latitude": "-7.15119",
+              "longitude": "-48.19266"
+            },
+            {
+              "name": "João Vilando",
+              "addressType": "Rua",
+              "cep": "77819236",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Barra da Grota",
+              "latitude": "-7.15119",
+              "longitude": "-48.19265"
+            },
+            {
+              "name": "Dair Jose Lourenço",
+              "addressType": "Rua",
+              "cep": "77819220",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Barra da Grota",
+              "latitude": "-7.19154",
+              "longitude": "-48.2239"
+            },
+            {
+              "name": "Castelo Branco",
+              "addressType": "Avenida",
+              "cep": "77819212",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Barra da Grota",
+              "latitude": "-7.18855",
+              "longitude": "-48.22171"
+            },
+            {
+              "name": "01",
+              "addressType": "Rua",
+              "cep": "77819222",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Barra da Grota",
+              "latitude": "-7.15041",
+              "longitude": "-48.18644"
+            }
+          ]
+        },
+        {
+          "name": "Boa Sorte",
+          "streets": [
+            {
+              "name": "BS-004",
+              "addressType": "Rua",
+              "cep": "77824600",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Boa Sorte",
+              "latitude": "-7.18886",
+              "longitude": "-48.20101"
+            },
+            {
+              "name": "BS-005",
+              "addressType": "Rua",
+              "cep": "77824610",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Boa Sorte",
+              "latitude": "-7.1887",
+              "longitude": "-48.20124"
+            },
+            {
+              "name": "BS-006",
+              "addressType": "Rua",
+              "cep": "77824620",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Boa Sorte",
+              "latitude": "-7.18884",
+              "longitude": "-48.201"
+            },
+            {
+              "name": "BS-007",
+              "addressType": "Rua",
+              "cep": "77824630",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Boa Sorte",
+              "latitude": "-7.18866",
+              "longitude": "-48.20123"
+            },
+            {
+              "name": "Castelo Branco",
+              "addressType": "Avenida",
+              "cep": "77824560",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Boa Sorte",
+              "latitude": "-7.18908",
+              "longitude": "-48.22349"
+            },
+            {
+              "name": "BS-002",
+              "addressType": "Rua",
+              "cep": "77824590",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Boa Sorte",
+              "latitude": "-7.18887",
+              "longitude": "-48.20101"
+            },
+            {
+              "name": "Boa Sorte",
+              "addressType": "Avenida",
+              "cep": "77824550",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Boa Sorte",
+              "latitude": "-7.18841",
+              "longitude": "-48.20101"
+            },
+            {
+              "name": "BS-001",
+              "addressType": "Rua",
+              "cep": "77824580",
+              "state": "Tocantins",
+              "city": "Araguaína",
+              "district": "Boa Sorte",
+              "latitude": "-7.18879",
+              "longitude": "-48.20127"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gurupi",
+      "ibgeCode": "1709500",
+      "ddd": "63",
+      "districts": [
+        {
+          "name": "Alto da Boa Vista",
+          "streets": [
+            {
+              "name": "Edson Vieira dos Santos",
+              "addressType": "Rua",
+              "cep": "77425370",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Alto da Boa Vista",
+              "latitude": "-11.73423",
+              "longitude": "-49.0971"
+            },
+            {
+              "name": "Antônio P. Costa",
+              "addressType": "Rua",
+              "cep": "77425420",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Alto da Boa Vista",
+              "latitude": "-11.73874",
+              "longitude": "-49.10039"
+            },
+            {
+              "name": "Joaquim F. Lopes",
+              "addressType": "Rua",
+              "cep": "77425280",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Alto da Boa Vista",
+              "latitude": "-11.72945",
+              "longitude": "-49.09064"
+            },
+            {
+              "name": "Antônio Ricardo Medeiros",
+              "addressType": "Rua",
+              "cep": "77425390",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Alto da Boa Vista",
+              "latitude": "-11.74365",
+              "longitude": "-49.10596"
+            },
+            {
+              "name": "José Luiz Filho",
+              "addressType": "Rua",
+              "cep": "77425345",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Alto da Boa Vista",
+              "latitude": "-11.73653",
+              "longitude": "-49.09836"
+            },
+            {
+              "name": "André Faria dos Santos",
+              "addressType": "Rua",
+              "cep": "77425380",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Alto da Boa Vista",
+              "latitude": "-11.73499",
+              "longitude": "-49.09745"
+            },
+            {
+              "name": "Antonio Nunes da Silva",
+              "addressType": "Rua",
+              "cep": "77425295",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Alto da Boa Vista",
+              "latitude": "-11.73178",
+              "longitude": "-49.10968"
+            },
+            {
+              "name": "João de Brito",
+              "addressType": "Rua",
+              "cep": "77425410",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Alto da Boa Vista",
+              "latitude": "-11.73725",
+              "longitude": "-49.09925"
+            }
+          ]
+        },
+        {
+          "name": "Alto dos Buritis",
+          "streets": [
+            {
+              "name": "A",
+              "addressType": "Rua",
+              "cep": "77410450",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Alto dos Buritis",
+              "latitude": "-11.73472",
+              "longitude": "-49.09672"
+            },
+            {
+              "name": "18",
+              "addressType": "Rua",
+              "cep": "77410350",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Alto dos Buritis",
+              "latitude": "-11.70789",
+              "longitude": "-49.05846"
+            },
+            {
+              "name": "19-A",
+              "addressType": "Rua",
+              "cep": "77410370",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Alto dos Buritis",
+              "latitude": "-11.70789",
+              "longitude": "-49.05846"
+            },
+            {
+              "name": "21-A",
+              "addressType": "Rua",
+              "cep": "77410400",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Alto dos Buritis",
+              "latitude": "-11.70789",
+              "longitude": "-49.05846"
+            },
+            {
+              "name": "21-B",
+              "addressType": "Rua",
+              "cep": "77410410",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Alto dos Buritis",
+              "latitude": "-11.70789",
+              "longitude": "-49.05846"
+            },
+            {
+              "name": "21-C",
+              "addressType": "Rua",
+              "cep": "77410420",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Alto dos Buritis",
+              "latitude": "-11.70789",
+              "longitude": "-49.05846"
+            },
+            {
+              "name": "Rio Branco",
+              "addressType": "Avenida",
+              "cep": "77410413",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Alto dos Buritis",
+              "latitude": "-11.72176",
+              "longitude": "-49.07087"
+            },
+            {
+              "name": "Livre",
+              "addressType": "Avenida",
+              "cep": "77410430",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Alto dos Buritis",
+              "latitude": "-11.73417",
+              "longitude": "-49.04969"
+            }
+          ]
+        },
+        {
+          "name": "Chácara Recreio Vale do Sol",
+          "streets": [
+            {
+              "name": "VS 1",
+              "addressType": "Rua",
+              "cep": "77441004",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Chácara Recreio Vale do Sol",
+              "latitude": "-11.71426",
+              "longitude": "-49.06287"
+            },
+            {
+              "name": "VS 10",
+              "addressType": "Rua",
+              "cep": "77441022",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Chácara Recreio Vale do Sol",
+              "latitude": "-11.71431",
+              "longitude": "-49.06275"
+            },
+            {
+              "name": "VS 7",
+              "addressType": "Rua",
+              "cep": "77441016",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Chácara Recreio Vale do Sol",
+              "latitude": "-11.71182",
+              "longitude": "-49.05953"
+            },
+            {
+              "name": "VS 6",
+              "addressType": "Rua",
+              "cep": "77441014",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Chácara Recreio Vale do Sol",
+              "latitude": "-11.71183",
+              "longitude": "-49.05953"
+            },
+            {
+              "name": "VS 3",
+              "addressType": "Rua",
+              "cep": "77441008",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Chácara Recreio Vale do Sol",
+              "latitude": "-11.71427",
+              "longitude": "-49.06284"
+            },
+            {
+              "name": "VS 11",
+              "addressType": "Rua",
+              "cep": "77441024",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Chácara Recreio Vale do Sol",
+              "latitude": "-11.71432",
+              "longitude": "-49.06273"
+            },
+            {
+              "name": "VS 2",
+              "addressType": "Rua",
+              "cep": "77441006",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Chácara Recreio Vale do Sol",
+              "latitude": "-11.71427",
+              "longitude": "-49.06285"
+            },
+            {
+              "name": "VS 12",
+              "addressType": "Rua",
+              "cep": "77441026",
+              "state": "Tocantins",
+              "city": "Gurupi",
+              "district": "Chácara Recreio Vale do Sol",
+              "latitude": "-11.71432",
+              "longitude": "-49.06272"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Palmas",
+      "ibgeCode": "1721000",
+      "ddd": "63",
+      "districts": [
+        {
+          "name": "Area Nordeste",
+          "streets": [
+            {
+              "name": "Aane-20 Cj-01",
+              "addressType": "Quadra",
+              "cep": "77010050",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Nordeste",
+              "latitude": "-10.32609",
+              "longitude": "-48.29525"
+            },
+            {
+              "name": "Arne-012 Qi-E",
+              "addressType": "Quadra",
+              "cep": "77065100",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Nordeste",
+              "latitude": "-10.15226",
+              "longitude": "-48.32858"
+            },
+            {
+              "name": "Arne-012 Ai-07",
+              "addressType": "Quadra",
+              "cep": "77065040",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Nordeste",
+              "latitude": "-10.18361",
+              "longitude": "-48.31609"
+            },
+            {
+              "name": "Arne-024 Qi-08",
+              "addressType": "Quadra",
+              "cep": "77073090",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Nordeste",
+              "latitude": "-10.17452",
+              "longitude": "-48.3089"
+            },
+            {
+              "name": "Asrne-025 Qc-01",
+              "addressType": "Quadra",
+              "cep": "77085160",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Nordeste",
+              "latitude": "-10.26504",
+              "longitude": "-48.34659"
+            },
+            {
+              "name": "Arne-013 Ai-05",
+              "addressType": "Quadra",
+              "cep": "77065550",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Nordeste",
+              "latitude": "-10.18318",
+              "longitude": "-48.319"
+            },
+            {
+              "name": "Arne-014 Qi-J",
+              "addressType": "Quadra",
+              "cep": "77166190",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Nordeste",
+              "latitude": "-10.18115",
+              "longitude": "-48.31528"
+            },
+            {
+              "name": "Arne-012 Qi-F",
+              "addressType": "Quadra",
+              "cep": "77065290",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Nordeste",
+              "latitude": "-10.17794",
+              "longitude": "-48.32216"
+            }
+          ]
+        },
+        {
+          "name": "Area Noroeste",
+          "streets": [
+            {
+              "name": "Arno-032 Qi-31",
+              "addressType": "Quadra",
+              "cep": "77026310",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Noroeste",
+              "latitude": "-10.16916",
+              "longitude": "-48.34557"
+            },
+            {
+              "name": "Acno-I Cj-02",
+              "addressType": "Quadra",
+              "cep": "77013020",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Noroeste",
+              "latitude": "-10.18318",
+              "longitude": "-48.33999"
+            },
+            {
+              "name": "Arno-043 Qi-12",
+              "addressType": "Quadra",
+              "cep": "77035120",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Noroeste",
+              "latitude": "-10.16257",
+              "longitude": "-48.3498"
+            },
+            {
+              "name": "Arno-023 Qi-06",
+              "addressType": "Quadra",
+              "cep": "77023170",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Noroeste",
+              "latitude": "-10.15352",
+              "longitude": "-48.32324"
+            },
+            {
+              "name": "Arno-031 Qi-01",
+              "addressType": "Quadra",
+              "cep": "77025010",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Noroeste",
+              "latitude": "-10.16197",
+              "longitude": "-48.31341"
+            },
+            {
+              "name": "Acso-I Cj-01",
+              "addressType": "Quadra",
+              "cep": "77163050",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Noroeste",
+              "latitude": "-10.1832",
+              "longitude": "-48.32615"
+            },
+            {
+              "name": "Arno-043 Qi-06",
+              "addressType": "Quadra",
+              "cep": "77035060",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Noroeste",
+              "latitude": "-10.16276",
+              "longitude": "-48.34961"
+            },
+            {
+              "name": "Arno-031 Qi-02",
+              "addressType": "Quadra",
+              "cep": "77025020",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Noroeste",
+              "latitude": "-10.15313",
+              "longitude": "-48.34416"
+            }
+          ]
+        },
+        {
+          "name": "Area Sudeste",
+          "streets": [
+            {
+              "name": "Arse-072 Ai-04",
+              "addressType": "Quadra",
+              "cep": "77135630",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Sudeste",
+              "latitude": "-10.22912",
+              "longitude": "-48.32246"
+            },
+            {
+              "name": "Arse-072 Ai-02",
+              "addressType": "Quadra",
+              "cep": "77135610",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Sudeste",
+              "latitude": "-10.20765",
+              "longitude": "-48.32993"
+            },
+            {
+              "name": "Arse-112 Qi-06",
+              "addressType": "Quadra",
+              "cep": "77146030",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Sudeste",
+              "latitude": "-10.25503",
+              "longitude": "-48.31965"
+            },
+            {
+              "name": "Arse-112 Qi-26",
+              "addressType": "Quadra",
+              "cep": "77146130",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Sudeste",
+              "latitude": "-10.25503",
+              "longitude": "-48.32213"
+            },
+            {
+              "name": "Arse-102 Qi-07",
+              "addressType": "Quadra",
+              "cep": "77145035",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Sudeste",
+              "latitude": "-10.26514",
+              "longitude": "-48.32571"
+            },
+            {
+              "name": "Arse-022 Qi-N",
+              "addressType": "Quadra",
+              "cep": "77125100",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Sudeste",
+              "latitude": "-10.16597",
+              "longitude": "-48.34491"
+            },
+            {
+              "name": "Arse-032 Ai-12",
+              "addressType": "Quadra",
+              "cep": "77120410",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Sudeste",
+              "latitude": "-10.20964",
+              "longitude": "-48.32694"
+            },
+            {
+              "name": "Arse-015 Cj-02",
+              "addressType": "Quadra",
+              "cep": "77110480",
+              "state": "Tocantins",
+              "city": "Palmas",
+              "district": "Area Sudeste",
+              "latitude": "-10.19681",
+              "longitude": "-48.31305"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

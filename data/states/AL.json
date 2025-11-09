@@ -1,0 +1,1289 @@
+{
+  "code": "AL",
+  "name": "Alagoas",
+  "capital": "Maceió",
+  "ddd": "82",
+  "regiao": "Nordeste",
+  "cities": [
+    {
+      "name": "Arapiraca",
+      "ibgeCode": "2700300",
+      "ddd": "82",
+      "districts": [
+        {
+          "name": "Alazão",
+          "streets": [
+            {
+              "name": "",
+              "addressType": "",
+              "cep": "57317300",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Alazão",
+              "latitude": "-9.79921",
+              "longitude": "-36.62918"
+            },
+            {
+              "name": "Olímpio Carvalho da Paixão",
+              "addressType": "Rua",
+              "cep": "57317314",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Alazão",
+              "latitude": "-9.80013",
+              "longitude": "-36.62823"
+            },
+            {
+              "name": "Terezinha Isabel Almeida de Oliveira",
+              "addressType": "Rua",
+              "cep": "57317306",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Alazão",
+              "latitude": "-9.74703",
+              "longitude": "-36.66303"
+            },
+            {
+              "name": "Ivoneide Izabel Araújo de Almeida",
+              "addressType": "Rua",
+              "cep": "57317308",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Alazão",
+              "latitude": "-9.78597",
+              "longitude": "-36.63484"
+            },
+            {
+              "name": "Calmina Izabel do Espírito Santo",
+              "addressType": "Rua",
+              "cep": "57317304",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Alazão",
+              "latitude": "-9.79921",
+              "longitude": "-36.62918"
+            },
+            {
+              "name": "Vicentina Izabel do Espírito Santo",
+              "addressType": "Rua",
+              "cep": "57317312",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Alazão",
+              "latitude": "-9.79921",
+              "longitude": "-36.62918"
+            },
+            {
+              "name": "Marizete Almeida de Oliveira",
+              "addressType": "Rua",
+              "cep": "57317310",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Alazão",
+              "latitude": "-9.73033",
+              "longitude": "-36.67566"
+            },
+            {
+              "name": "Antônio Mizael",
+              "addressType": "Rua",
+              "cep": "57317302",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Alazão",
+              "latitude": "-9.79049",
+              "longitude": "-36.63524"
+            }
+          ]
+        },
+        {
+          "name": "Alto do Cruzeiro",
+          "streets": [
+            {
+              "name": "Presidente Tancredo de Almeida Neves",
+              "addressType": "Rua",
+              "cep": "57312260",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-9.74489",
+              "longitude": "-36.65658"
+            },
+            {
+              "name": "Nossa Senhora Da Salete",
+              "addressType": "Rua",
+              "cep": "57314010",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-9.75173",
+              "longitude": "-36.63994"
+            },
+            {
+              "name": "Maria Jose Da Silva",
+              "addressType": "Rua",
+              "cep": "57312720",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-9.74641",
+              "longitude": "-36.65788"
+            },
+            {
+              "name": "Florêncio Apolinário",
+              "addressType": "Rua",
+              "cep": "57312440",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-9.75095",
+              "longitude": "-36.65666"
+            },
+            {
+              "name": "Samuel de Oliveira Santos",
+              "addressType": "Rua",
+              "cep": "57312380",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-9.74625",
+              "longitude": "-36.6521"
+            },
+            {
+              "name": "Costa Rêgo",
+              "addressType": "Rua",
+              "cep": "57312280",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-9.74994",
+              "longitude": "-36.65566"
+            },
+            {
+              "name": "Isaías Pereira",
+              "addressType": "Rua",
+              "cep": "57312254",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-9.74602",
+              "longitude": "-36.65973"
+            },
+            {
+              "name": "Manoel Pereira Correia",
+              "addressType": "Rua",
+              "cep": "57312510",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-9.74789",
+              "longitude": "-36.65173"
+            }
+          ]
+        },
+        {
+          "name": "Baixa Grande",
+          "streets": [
+            {
+              "name": "Leonaldo Valeriano da Silva",
+              "addressType": "Rua",
+              "cep": "57307105",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Baixa Grande",
+              "latitude": "-9.73355",
+              "longitude": "-36.67521"
+            },
+            {
+              "name": "Francisco Lucio da Silva",
+              "addressType": "Rua",
+              "cep": "57307280",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Baixa Grande",
+              "latitude": "-9.73309",
+              "longitude": "-36.66876"
+            },
+            {
+              "name": "Gaspar Ribeiro Wercelone",
+              "addressType": "Rua",
+              "cep": "57307030",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Baixa Grande",
+              "latitude": "-9.73627",
+              "longitude": "-36.67177"
+            },
+            {
+              "name": "Antenor Pereira Nunes",
+              "addressType": "Rua",
+              "cep": "57307181",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Baixa Grande",
+              "latitude": "-9.72605",
+              "longitude": "-36.66603"
+            },
+            {
+              "name": "José Jaldemir Tavares de Lima",
+              "addressType": "Rua",
+              "cep": "57307135",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Baixa Grande",
+              "latitude": "-9.73266",
+              "longitude": "-36.67436"
+            },
+            {
+              "name": "Agripino Damasceno Ribeiro",
+              "addressType": "Rua",
+              "cep": "57307130",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Baixa Grande",
+              "latitude": "-9.73492",
+              "longitude": "-36.67201"
+            },
+            {
+              "name": "Josefa Gilda Pessoa de Oliveira",
+              "addressType": "Rua",
+              "cep": "57307015",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Baixa Grande",
+              "latitude": "-9.73508",
+              "longitude": "-36.66856"
+            },
+            {
+              "name": "Francisco Otílio dos Santos",
+              "addressType": "Rua",
+              "cep": "57307060",
+              "state": "Alagoas",
+              "city": "Arapiraca",
+              "district": "Baixa Grande",
+              "latitude": "-9.73477",
+              "longitude": "-36.67355"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Maceió",
+      "ibgeCode": "2704302",
+      "ddd": "82",
+      "districts": [
+        {
+          "name": "Alberto Santos Dumont",
+          "streets": [
+            {
+              "name": "Anibal Cavalcante Placido",
+              "addressType": "Rua",
+              "cep": "57070460",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Alberto Santos Dumont",
+              "latitude": "-9.5555",
+              "longitude": "-35.78999"
+            },
+            {
+              "name": "Mauricio De Melo E Motta",
+              "addressType": "Rua",
+              "cep": "57071655",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Alberto Santos Dumont",
+              "latitude": "-9.55628",
+              "longitude": "-35.78697"
+            },
+            {
+              "name": "Moacy De Alencar Barreto Filho",
+              "addressType": "Rua",
+              "cep": "57071495",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Alberto Santos Dumont",
+              "latitude": "-9.6085",
+              "longitude": "-35.74314"
+            },
+            {
+              "name": "Da Paz",
+              "addressType": "Rua",
+              "cep": "57071695",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Alberto Santos Dumont",
+              "latitude": "-9.55534",
+              "longitude": "-35.79097"
+            },
+            {
+              "name": "Nossa Senhora Aparecida",
+              "addressType": "Rua",
+              "cep": "57071565",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Alberto Santos Dumont",
+              "latitude": "-9.57456",
+              "longitude": "-35.74889"
+            },
+            {
+              "name": "Nova",
+              "addressType": "Rua",
+              "cep": "57071735",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Alberto Santos Dumont",
+              "latitude": "-9.61767",
+              "longitude": "-35.72102"
+            },
+            {
+              "name": "Antonio Brito",
+              "addressType": "Rua",
+              "cep": "57071535",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Alberto Santos Dumont",
+              "latitude": "-9.55217",
+              "longitude": "-35.78876"
+            },
+            {
+              "name": "Elinelson Santos",
+              "addressType": "Travessa",
+              "cep": "57071715",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Alberto Santos Dumont",
+              "latitude": "-9.55681",
+              "longitude": "-35.78898"
+            }
+          ]
+        },
+        {
+          "name": "Antares",
+          "streets": [
+            {
+              "name": "Coronel Jaime Ferreira Lima",
+              "addressType": "Rua",
+              "cep": "57048058",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Antares",
+              "latitude": "-9.58061",
+              "longitude": "-35.7378"
+            },
+            {
+              "name": "D",
+              "addressType": "Quadra",
+              "cep": "57048031",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Antares",
+              "latitude": "-9.57567",
+              "longitude": "-35.74333"
+            },
+            {
+              "name": "B-16",
+              "addressType": "Quadra",
+              "cep": "57083151",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Antares",
+              "latitude": "-9.5593",
+              "longitude": "-35.74234"
+            },
+            {
+              "name": "Valter José Ferro Lima Filho",
+              "addressType": "Travessa",
+              "cep": "57083115",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Antares",
+              "latitude": "-9.56947",
+              "longitude": "-35.74902"
+            },
+            {
+              "name": "Valter José Ferro Lima Filho",
+              "addressType": "Rua",
+              "cep": "57083131",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Antares",
+              "latitude": "-9.56944",
+              "longitude": "-35.74867"
+            },
+            {
+              "name": "do Campo",
+              "addressType": "Rua",
+              "cep": "57083065",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Antares",
+              "latitude": "-9.56469",
+              "longitude": "-35.73774"
+            },
+            {
+              "name": "Jardim Europa",
+              "addressType": "Residencial",
+              "cep": "57048148",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Antares",
+              "latitude": "-9.56075",
+              "longitude": "-35.74108"
+            },
+            {
+              "name": "Vereador Renildo José dos Santos",
+              "addressType": "Rua",
+              "cep": "57083651",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Antares",
+              "latitude": "-9.55859",
+              "longitude": "-35.74063"
+            }
+          ]
+        },
+        {
+          "name": "Barro Duro",
+          "streets": [
+            {
+              "name": "Travessa Bom Destino",
+              "addressType": "1ª",
+              "cep": "57045265",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Barro Duro",
+              "latitude": "-9.61647",
+              "longitude": "-35.71985"
+            },
+            {
+              "name": "Joaquim Persiano",
+              "addressType": "Rua",
+              "cep": "57045710",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Barro Duro",
+              "latitude": "-9.64778",
+              "longitude": "-35.73158"
+            },
+            {
+              "name": "Santa Amália",
+              "addressType": "Rua",
+              "cep": "57045160",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Barro Duro",
+              "latitude": "-9.58763",
+              "longitude": "-35.76729"
+            },
+            {
+              "name": "Hélio Gomes Peixoto",
+              "addressType": "Rua",
+              "cep": "57045112",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Barro Duro",
+              "latitude": "-9.61102",
+              "longitude": "-35.71704"
+            },
+            {
+              "name": "Doutor Manoel Marques Luz",
+              "addressType": "Rua",
+              "cep": "57045567",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Barro Duro",
+              "latitude": "-9.6181",
+              "longitude": "-35.72677"
+            },
+            {
+              "name": "Sílvio Sandes Torres Junior",
+              "addressType": "Travessa",
+              "cep": "57045261",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Barro Duro",
+              "latitude": "-9.61593",
+              "longitude": "-35.72037"
+            },
+            {
+              "name": "Santo Antônio",
+              "addressType": "Rua",
+              "cep": "57045190",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Barro Duro",
+              "latitude": "-9.62296",
+              "longitude": "-35.71478"
+            },
+            {
+              "name": "Travessa Boa Esperança",
+              "addressType": "4ª",
+              "cep": "57045244",
+              "state": "Alagoas",
+              "city": "Maceió",
+              "district": "Barro Duro",
+              "latitude": "-9.62205",
+              "longitude": "-35.7235"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Palmeira dos Índios",
+      "ibgeCode": "2706307",
+      "ddd": "82",
+      "districts": [
+        {
+          "name": "Alto do Cruzeiro",
+          "streets": [
+            {
+              "name": "Solidão",
+              "addressType": "Rua",
+              "cep": "57600690",
+              "state": "Alagoas",
+              "city": "Palmeira dos Índios",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-9.40228",
+              "longitude": "-36.63189"
+            },
+            {
+              "name": "Prof. Guedes De Miranda",
+              "addressType": "Travessa",
+              "cep": "57600445",
+              "state": "Alagoas",
+              "city": "Palmeira dos Índios",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-9.40317",
+              "longitude": "-36.629"
+            },
+            {
+              "name": "Professor Guedes de Miranda",
+              "addressType": "Rua",
+              "cep": "57600570",
+              "state": "Alagoas",
+              "city": "Palmeira dos Índios",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-9.40385",
+              "longitude": "-36.62941"
+            },
+            {
+              "name": "São Geraldo",
+              "addressType": "Rua",
+              "cep": "57600600",
+              "state": "Alagoas",
+              "city": "Palmeira dos Índios",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-9.40295",
+              "longitude": "-36.63041"
+            },
+            {
+              "name": "Professor Guedes de Miranda",
+              "addressType": "Travessa",
+              "cep": "57600575",
+              "state": "Alagoas",
+              "city": "Palmeira dos Índios",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-9.40317",
+              "longitude": "-36.629"
+            },
+            {
+              "name": "Monte Bela Vista",
+              "addressType": "Travessa",
+              "cep": "57600732",
+              "state": "Alagoas",
+              "city": "Palmeira dos Índios",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-9.40793",
+              "longitude": "-36.63409"
+            },
+            {
+              "name": "Travessa São Miguel",
+              "addressType": "1ª",
+              "cep": "57600715",
+              "state": "Alagoas",
+              "city": "Palmeira dos Índios",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-9.4014",
+              "longitude": "-36.63077"
+            },
+            {
+              "name": "Pio XII",
+              "addressType": "Rua",
+              "cep": "57600550",
+              "state": "Alagoas",
+              "city": "Palmeira dos Índios",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-9.40273",
+              "longitude": "-36.62873"
+            }
+          ]
+        },
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "da Independência",
+              "addressType": "Praça",
+              "cep": "57600010",
+              "state": "Alagoas",
+              "city": "Palmeira dos Índios",
+              "district": "Centro",
+              "latitude": "-9.40593",
+              "longitude": "-36.63101"
+            },
+            {
+              "name": "Padre Dimas",
+              "addressType": "Rua",
+              "cep": "57600250",
+              "state": "Alagoas",
+              "city": "Palmeira dos Índios",
+              "district": "Centro",
+              "latitude": "-9.40396",
+              "longitude": "-36.62737"
+            },
+            {
+              "name": "Travessa Antônio Matias",
+              "addressType": "4ª",
+              "cep": "57600390",
+              "state": "Alagoas",
+              "city": "Palmeira dos Índios",
+              "district": "Centro",
+              "latitude": "-9.40893",
+              "longitude": "-36.6315"
+            },
+            {
+              "name": "Dom Bôsco",
+              "addressType": "Rua",
+              "cep": "57600055",
+              "state": "Alagoas",
+              "city": "Palmeira dos Índios",
+              "district": "Centro",
+              "latitude": "-9.40067",
+              "longitude": "-36.6302"
+            },
+            {
+              "name": "São Vicente",
+              "addressType": "Rua",
+              "cep": "57600110",
+              "state": "Alagoas",
+              "city": "Palmeira dos Índios",
+              "district": "Centro",
+              "latitude": "-9.40595",
+              "longitude": "-36.6318"
+            },
+            {
+              "name": "Duque de Caxias",
+              "addressType": "Rua",
+              "cep": "57600040",
+              "state": "Alagoas",
+              "city": "Palmeira dos Índios",
+              "district": "Centro",
+              "latitude": "-9.40778",
+              "longitude": "-36.62913"
+            },
+            {
+              "name": "Travessa Antônio Matias",
+              "addressType": "3ª",
+              "cep": "57600380",
+              "state": "Alagoas",
+              "city": "Palmeira dos Índios",
+              "district": "Centro",
+              "latitude": "-9.40866",
+              "longitude": "-36.63149"
+            },
+            {
+              "name": "Duque de Caxias, 181",
+              "addressType": "Rua",
+              "cep": "57600971",
+              "state": "Alagoas",
+              "city": "Palmeira dos Índios",
+              "district": "Centro",
+              "latitude": "-9.40778",
+              "longitude": "-36.62913"
+            }
+          ]
+        },
+        {
+          "name": "Eucaliptos",
+          "streets": [
+            {
+              "name": "Rosivan Das Neves",
+              "addressType": "Rua",
+              "cep": "57606001",
+              "state": "Alagoas",
+              "city": "Palmeira dos Índios",
+              "district": "Eucaliptos",
+              "latitude": "-9.4113",
+              "longitude": "-36.64321"
+            },
+            {
+              "name": "Antonio Galdino Dos Santos",
+              "addressType": "Rua",
+              "cep": "57606017",
+              "state": "Alagoas",
+              "city": "Palmeira dos Índios",
+              "district": "Eucaliptos",
+              "latitude": "-9.42591",
+              "longitude": "-36.63971"
+            },
+            {
+              "name": "Vieira De Brito",
+              "addressType": "Avenida",
+              "cep": "57606014",
+              "state": "Alagoas",
+              "city": "Palmeira dos Índios",
+              "district": "Eucaliptos",
+              "latitude": "-9.41661",
+              "longitude": "-36.63502"
+            },
+            {
+              "name": "Taxista Joao Ferreira Da Costa",
+              "addressType": "Rua",
+              "cep": "57606015",
+              "state": "Alagoas",
+              "city": "Palmeira dos Índios",
+              "district": "Eucaliptos",
+              "latitude": "-9.4219",
+              "longitude": "-36.6359"
+            },
+            {
+              "name": "Sonho Verde",
+              "addressType": "Travessa",
+              "cep": "57606004",
+              "state": "Alagoas",
+              "city": "Palmeira dos Índios",
+              "district": "Eucaliptos",
+              "latitude": "-9.42289",
+              "longitude": "-36.64166"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "São Miguel dos Campos",
+      "ibgeCode": "2708600",
+      "ddd": "82",
+      "districts": [
+        {
+          "name": "Bela Vista",
+          "streets": [
+            {
+              "name": "D",
+              "addressType": "Quadra",
+              "cep": "57241436",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Bela Vista",
+              "latitude": "-9.78972",
+              "longitude": "-36.10484"
+            },
+            {
+              "name": "B",
+              "addressType": "Quadra",
+              "cep": "57241430",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Bela Vista",
+              "latitude": "-9.79226",
+              "longitude": "-36.10631"
+            },
+            {
+              "name": "D",
+              "addressType": "Quadra",
+              "cep": "57241424",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Bela Vista",
+              "latitude": "-9.78972",
+              "longitude": "-36.10484"
+            },
+            {
+              "name": "F",
+              "addressType": "Quadra",
+              "cep": "57241442",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Bela Vista",
+              "latitude": "-9.78281",
+              "longitude": "-36.10479"
+            },
+            {
+              "name": "I",
+              "addressType": "Quadra",
+              "cep": "57241451",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Bela Vista",
+              "latitude": "-9.79144",
+              "longitude": "-36.09498"
+            },
+            {
+              "name": "H",
+              "addressType": "Quadra",
+              "cep": "57241448",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Bela Vista",
+              "latitude": "-9.79141",
+              "longitude": "-36.09517"
+            },
+            {
+              "name": "J",
+              "addressType": "Quadra",
+              "cep": "57241454",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Bela Vista",
+              "latitude": "-9.79152",
+              "longitude": "-36.09461"
+            },
+            {
+              "name": "E",
+              "addressType": "Quadra",
+              "cep": "57241439",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Bela Vista",
+              "latitude": "-9.78474",
+              "longitude": "-36.09561"
+            }
+          ]
+        },
+        {
+          "name": "Canto da Saudade",
+          "streets": [
+            {
+              "name": "29",
+              "addressType": "Quadra",
+              "cep": "57241036",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Canto da Saudade",
+              "latitude": "-9.79539",
+              "longitude": "-36.09875"
+            },
+            {
+              "name": "27",
+              "addressType": "Quadra",
+              "cep": "57241039",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Canto da Saudade",
+              "latitude": "-9.79534",
+              "longitude": "-36.09886"
+            },
+            {
+              "name": "14",
+              "addressType": "Quadra",
+              "cep": "57241058",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Canto da Saudade",
+              "latitude": "-9.79501",
+              "longitude": "-36.09961"
+            },
+            {
+              "name": "26",
+              "addressType": "Quadra",
+              "cep": "57241037",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Canto da Saudade",
+              "latitude": "-9.79531",
+              "longitude": "-36.09893"
+            },
+            {
+              "name": "9",
+              "addressType": "Quadra",
+              "cep": "57241082",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Canto da Saudade",
+              "latitude": "-9.78029",
+              "longitude": "-36.10173"
+            },
+            {
+              "name": "25",
+              "addressType": "Quadra",
+              "cep": "57241034",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Canto da Saudade",
+              "latitude": "-9.79448",
+              "longitude": "-36.1008"
+            },
+            {
+              "name": "22",
+              "addressType": "Quadra",
+              "cep": "57241049",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Canto da Saudade",
+              "latitude": "-9.79441",
+              "longitude": "-36.10097"
+            },
+            {
+              "name": "23",
+              "addressType": "Quadra",
+              "cep": "57241052",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Canto da Saudade",
+              "latitude": "-9.79524",
+              "longitude": "-36.09909"
+            }
+          ]
+        },
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "Aristides de Castro",
+              "addressType": "Rua",
+              "cep": "57240086",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Centro",
+              "latitude": "-9.77835",
+              "longitude": "-36.10108"
+            },
+            {
+              "name": "Pedro Fernandes da Costa",
+              "addressType": "Rua",
+              "cep": "57240056",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Centro",
+              "latitude": "-9.77897",
+              "longitude": "-36.09798"
+            },
+            {
+              "name": "Bernardo Lopes",
+              "addressType": "Rua",
+              "cep": "57240044",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Centro",
+              "latitude": "-9.78005",
+              "longitude": "-36.09588"
+            },
+            {
+              "name": "Coronel Francisco Jatobá",
+              "addressType": "Rua",
+              "cep": "57240070",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Centro",
+              "latitude": "-9.78113",
+              "longitude": "-36.09947"
+            },
+            {
+              "name": "Padre Cícero",
+              "addressType": "Vila",
+              "cep": "57240074",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Centro",
+              "latitude": "-9.78087",
+              "longitude": "-36.09312"
+            },
+            {
+              "name": "José Elias Almeida",
+              "addressType": "Rua",
+              "cep": "57240048",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Centro",
+              "latitude": "-9.78018",
+              "longitude": "-36.09702"
+            },
+            {
+              "name": "E",
+              "addressType": "Quadra",
+              "cep": "57240050",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Centro",
+              "latitude": "-9.77987",
+              "longitude": "-36.10156"
+            },
+            {
+              "name": "Visconde de Sinimbú",
+              "addressType": "Rua",
+              "cep": "57240008",
+              "state": "Alagoas",
+              "city": "São Miguel dos Campos",
+              "district": "Centro",
+              "latitude": "-9.78193",
+              "longitude": "-36.09717"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Teotônio Vilela",
+      "ibgeCode": "2709152",
+      "ddd": "82",
+      "districts": [
+        {
+          "name": "Alto da Rosa",
+          "streets": [
+            {
+              "name": "Laudelino Lourenço dos Santos",
+              "addressType": "Rua",
+              "cep": "57265794",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Alto da Rosa",
+              "latitude": "-9.8936",
+              "longitude": "-36.36268"
+            },
+            {
+              "name": "Jumelice Maria da Conceição",
+              "addressType": "Rua",
+              "cep": "57265634",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Alto da Rosa",
+              "latitude": "-9.89611",
+              "longitude": "-36.36433"
+            },
+            {
+              "name": "Aristeu Cavalcante da Silva",
+              "addressType": "Rua",
+              "cep": "57265626",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Alto da Rosa",
+              "latitude": "-9.91127",
+              "longitude": "-36.35516"
+            },
+            {
+              "name": "Antônio Paulo Santos",
+              "addressType": "Rua",
+              "cep": "57265642",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Alto da Rosa",
+              "latitude": "-9.89589",
+              "longitude": "-36.36498"
+            },
+            {
+              "name": "Florianópolis",
+              "addressType": "Rua",
+              "cep": "57265762",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Alto da Rosa",
+              "latitude": "-9.89436",
+              "longitude": "-36.36399"
+            },
+            {
+              "name": "Benedito Eugênio",
+              "addressType": "Rua",
+              "cep": "57265738",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Alto da Rosa",
+              "latitude": "-9.91679",
+              "longitude": "-36.34689"
+            },
+            {
+              "name": "Porto Alegre",
+              "addressType": "Rua",
+              "cep": "57265786",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Alto da Rosa",
+              "latitude": "-9.89379",
+              "longitude": "-36.363"
+            },
+            {
+              "name": "José Roberto da Silva",
+              "addressType": "Avenida",
+              "cep": "57265682",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Alto da Rosa",
+              "latitude": "-9.91044",
+              "longitude": "-36.35617"
+            }
+          ]
+        },
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "Antônio Silvestre dos Santos",
+              "addressType": "Travessa",
+              "cep": "57269034",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Centro",
+              "latitude": "-9.94488",
+              "longitude": "-36.39587"
+            },
+            {
+              "name": "Oséas Fernandes da Silva",
+              "addressType": "Rua",
+              "cep": "57265039",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Centro",
+              "latitude": "-9.91274",
+              "longitude": "-36.35151"
+            },
+            {
+              "name": "Amarílio Natividade Costa",
+              "addressType": "Travessa",
+              "cep": "57265129",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Centro",
+              "latitude": "-9.90616",
+              "longitude": "-36.35922"
+            },
+            {
+              "name": "Professora Maria Arlete da Silva",
+              "addressType": "Rua",
+              "cep": "57265165",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Centro",
+              "latitude": "-9.9048",
+              "longitude": "-36.35886"
+            },
+            {
+              "name": "Marcelino da Silva",
+              "addressType": "Rua",
+              "cep": "57269032",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Centro",
+              "latitude": "-9.93567",
+              "longitude": "-36.39607"
+            },
+            {
+              "name": "Edelvita Leonardo",
+              "addressType": "Rua",
+              "cep": "57269102",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Centro",
+              "latitude": "-9.90588",
+              "longitude": "-36.36036"
+            },
+            {
+              "name": "Castro Alves",
+              "addressType": "Rua",
+              "cep": "57265084",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Centro",
+              "latitude": "-9.90772",
+              "longitude": "-36.35421"
+            },
+            {
+              "name": "Em Projeto 11",
+              "addressType": "Rua",
+              "cep": "57265132",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Centro",
+              "latitude": "-9.91189",
+              "longitude": "-36.35095"
+            }
+          ]
+        },
+        {
+          "name": "Deputado Benedito de Lira",
+          "streets": [
+            {
+              "name": "Projetada 24",
+              "addressType": "Rua",
+              "cep": "57268714",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Deputado Benedito de Lira",
+              "latitude": "-9.92512",
+              "longitude": "-36.35936"
+            },
+            {
+              "name": "Antônio Jacinto da Silva",
+              "addressType": "Rua",
+              "cep": "57268460",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Deputado Benedito de Lira",
+              "latitude": "-9.91227",
+              "longitude": "-36.35475"
+            },
+            {
+              "name": "Francisco Santiago de Almeida",
+              "addressType": "Rua",
+              "cep": "57268590",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Deputado Benedito de Lira",
+              "latitude": "-9.91662",
+              "longitude": "-36.35095"
+            },
+            {
+              "name": "Projetada 13",
+              "addressType": "Rua",
+              "cep": "57268662",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Deputado Benedito de Lira",
+              "latitude": "-9.92799",
+              "longitude": "-36.36479"
+            },
+            {
+              "name": "Sebastião Basílio da Silva",
+              "addressType": "Rua",
+              "cep": "57268488",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Deputado Benedito de Lira",
+              "latitude": "-9.91381",
+              "longitude": "-36.3463"
+            },
+            {
+              "name": "Antônio Basílio da Silva",
+              "addressType": "Rua",
+              "cep": "57268550",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Deputado Benedito de Lira",
+              "latitude": "-9.91426",
+              "longitude": "-36.34744"
+            },
+            {
+              "name": "Governador Pedro da Costa Rêgo",
+              "addressType": "Rua",
+              "cep": "57268686",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Deputado Benedito de Lira",
+              "latitude": "-9.91866",
+              "longitude": "-36.35836"
+            },
+            {
+              "name": "Márcio Lúcio Pinto da Silva",
+              "addressType": "Avenida",
+              "cep": "57268542",
+              "state": "Alagoas",
+              "city": "Teotônio Vilela",
+              "district": "Deputado Benedito de Lira",
+              "latitude": "-9.9129",
+              "longitude": "-36.34832"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

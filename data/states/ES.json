@@ -1,0 +1,1571 @@
+{
+  "code": "ES",
+  "name": "Espírito Santo",
+  "capital": "Vitória",
+  "ddd": "27",
+  "regiao": "Sudeste",
+  "cities": [
+    {
+      "name": "Aracruz",
+      "ibgeCode": "3200607",
+      "ddd": "27",
+      "districts": [
+        {
+          "name": "Barra do Riacho",
+          "streets": [
+            {
+              "name": "Aloísio Demarchi",
+              "addressType": "Rua",
+              "cep": "29197726",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Barra do Riacho",
+              "latitude": "-19.82834",
+              "longitude": "-40.06761"
+            },
+            {
+              "name": "Antônio Roza de Jesus",
+              "addressType": "Estrada",
+              "cep": "29197551",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Barra do Riacho",
+              "latitude": "-19.82564",
+              "longitude": "-40.06413"
+            },
+            {
+              "name": "Professora Jandira Martins",
+              "addressType": "Rua",
+              "cep": "29197703",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Barra do Riacho",
+              "latitude": "-19.82981",
+              "longitude": "-40.06535"
+            },
+            {
+              "name": "Tertuliano Camilo dos Santos",
+              "addressType": "Rua",
+              "cep": "29197724",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Barra do Riacho",
+              "latitude": "-19.82879",
+              "longitude": "-40.06769"
+            },
+            {
+              "name": "Elias Tartaglia",
+              "addressType": "Rua",
+              "cep": "29197568",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Barra do Riacho",
+              "latitude": "-19.82581",
+              "longitude": "-40.06232"
+            },
+            {
+              "name": "Ariobaldo Mattos",
+              "addressType": "Rua",
+              "cep": "29197601",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Barra do Riacho",
+              "latitude": "-19.82773",
+              "longitude": "-40.06768"
+            },
+            {
+              "name": "Professor Aparício Alvarenga",
+              "addressType": "Avenida",
+              "cep": "29197556",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Barra do Riacho",
+              "latitude": "-19.82123",
+              "longitude": "-40.06186"
+            },
+            {
+              "name": "Patriarca Albino Azeredo, 60",
+              "addressType": "Rua",
+              "cep": "29197971",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Barra do Riacho",
+              "latitude": "-19.82598",
+              "longitude": "-40.06029"
+            }
+          ]
+        },
+        {
+          "name": "Barra do Sahy",
+          "streets": [
+            {
+              "name": "Abissai",
+              "addressType": "Rua",
+              "cep": "29198145",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Barra do Sahy",
+              "latitude": "-19.87741",
+              "longitude": "-40.08577"
+            },
+            {
+              "name": "Enildo Cordeiro",
+              "addressType": "Rua",
+              "cep": "29198189",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Barra do Sahy",
+              "latitude": "-19.88467",
+              "longitude": "-40.08896"
+            },
+            {
+              "name": "Ouro Verde",
+              "addressType": "Rua",
+              "cep": "29198128",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Barra do Sahy",
+              "latitude": "-19.87705",
+              "longitude": "-40.08521"
+            },
+            {
+              "name": "Saturnino Vila Nova",
+              "addressType": "Rua",
+              "cep": "29198052",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Barra do Sahy",
+              "latitude": "-19.88353",
+              "longitude": "-40.08796"
+            },
+            {
+              "name": "Doutor Orlindo Borges",
+              "addressType": "Avenida",
+              "cep": "29198013",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Barra do Sahy",
+              "latitude": "-19.87614",
+              "longitude": "-40.08408"
+            },
+            {
+              "name": "Almerinda Rosa Cardoso",
+              "addressType": "Rua",
+              "cep": "29198169",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Barra do Sahy",
+              "latitude": "-19.8775",
+              "longitude": "-40.08582"
+            },
+            {
+              "name": "Pescador Samuel Gomes",
+              "addressType": "Rua",
+              "cep": "29198073",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Barra do Sahy",
+              "latitude": "-19.87359",
+              "longitude": "-40.09381"
+            },
+            {
+              "name": "Nilson Freire",
+              "addressType": "Rua",
+              "cep": "29198179",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Barra do Sahy",
+              "latitude": "-19.89473",
+              "longitude": "-40.09332"
+            }
+          ]
+        },
+        {
+          "name": "Bela Vista",
+          "streets": [
+            {
+              "name": "Izabel Maioli Modenesi",
+              "addressType": "Rua",
+              "cep": "29192082",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Bela Vista",
+              "latitude": "-19.83467",
+              "longitude": "-40.26942"
+            },
+            {
+              "name": "Presidente Castelo Branco",
+              "addressType": "Avenida",
+              "cep": "29192066",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Bela Vista",
+              "latitude": "-19.38499",
+              "longitude": "-40.06245"
+            },
+            {
+              "name": "Presidente Kennedy",
+              "addressType": "Rua",
+              "cep": "29192012",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Bela Vista",
+              "latitude": "-19.83386",
+              "longitude": "-40.26399"
+            },
+            {
+              "name": "Carlos Suella",
+              "addressType": "Rua",
+              "cep": "29192078",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Bela Vista",
+              "latitude": "-19.83252",
+              "longitude": "-40.26866"
+            },
+            {
+              "name": "Luíza Modenesi",
+              "addressType": "Rua",
+              "cep": "29192036",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Bela Vista",
+              "latitude": "-19.82975",
+              "longitude": "-40.26981"
+            },
+            {
+              "name": "Presidente Getúlio Vargas",
+              "addressType": "Rua",
+              "cep": "29192024",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Bela Vista",
+              "latitude": "-19.83295",
+              "longitude": "-40.26945"
+            },
+            {
+              "name": "Aracruz-Nova Almeida",
+              "addressType": "Estrada",
+              "cep": "29192063",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Bela Vista",
+              "latitude": "-20.64256",
+              "longitude": "-40.51265"
+            },
+            {
+              "name": "Carajás",
+              "addressType": "Rua",
+              "cep": "29192090",
+              "state": "Espírito Santo",
+              "city": "Aracruz",
+              "district": "Bela Vista",
+              "latitude": "-19.83772",
+              "longitude": "-40.27013"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cachoeiro de Itapemirim",
+      "ibgeCode": "3201209",
+      "ddd": "28",
+      "districts": [
+        {
+          "name": "Abelardo Ferreira Machado",
+          "streets": [
+            {
+              "name": "Edivaldo Mastella",
+              "addressType": "Rua",
+              "cep": "29309249",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Abelardo Ferreira Machado",
+              "latitude": "-20.8398",
+              "longitude": "-41.1184"
+            },
+            {
+              "name": "Luiz Paulo Azeredo Araújo",
+              "addressType": "Rua",
+              "cep": "29309290",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Abelardo Ferreira Machado",
+              "latitude": "-20.8401",
+              "longitude": "-41.11839"
+            },
+            {
+              "name": "Olga Contarini",
+              "addressType": "Rua",
+              "cep": "29309257",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Abelardo Ferreira Machado",
+              "latitude": "-20.8378",
+              "longitude": "-41.11123"
+            },
+            {
+              "name": "Jaik de Oliveira",
+              "addressType": "Rua",
+              "cep": "29309272",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Abelardo Ferreira Machado",
+              "latitude": "-20.84013",
+              "longitude": "-41.11845"
+            },
+            {
+              "name": "Milbruges Gomes da Silva",
+              "addressType": "Rua",
+              "cep": "29309210",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Abelardo Ferreira Machado",
+              "latitude": "-20.8403",
+              "longitude": "-41.11864"
+            },
+            {
+              "name": "Pública",
+              "addressType": "Escadaria",
+              "cep": "29309232",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Abelardo Ferreira Machado",
+              "latitude": "-20.84024",
+              "longitude": "-41.11858"
+            },
+            {
+              "name": "Artur Prata",
+              "addressType": "Rua",
+              "cep": "29309256",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Abelardo Ferreira Machado",
+              "latitude": "-20.84018",
+              "longitude": "-41.11851"
+            },
+            {
+              "name": "Jessé de Freitas Tristão",
+              "addressType": "Rua",
+              "cep": "29309254",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Abelardo Ferreira Machado",
+              "latitude": "-20.83828",
+              "longitude": "-41.11087"
+            }
+          ]
+        },
+        {
+          "name": "Aeroporto",
+          "streets": [
+            {
+              "name": "Constantino Negrelli",
+              "addressType": "Avenida",
+              "cep": "29314330",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Aeroporto",
+              "latitude": "-20.83083",
+              "longitude": "-41.18332"
+            },
+            {
+              "name": "Nicanor Batista",
+              "addressType": "Rua",
+              "cep": "29314080",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Aeroporto",
+              "latitude": "-20.82734",
+              "longitude": "-41.17853"
+            },
+            {
+              "name": "Cachoeiro - Muqui",
+              "addressType": "Rodovia",
+              "cep": "29314400",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Aeroporto",
+              "latitude": "-20.83251",
+              "longitude": "-41.18104"
+            },
+            {
+              "name": "Vitório Campos Delorto",
+              "addressType": "Rua",
+              "cep": "29314160",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Aeroporto",
+              "latitude": "-20.83223",
+              "longitude": "-41.18174"
+            },
+            {
+              "name": "João Afonso de Miranda",
+              "addressType": "Rua",
+              "cep": "29314165",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Aeroporto",
+              "latitude": "-20.83988",
+              "longitude": "-41.18778"
+            },
+            {
+              "name": "Osório Calegari",
+              "addressType": "Rua",
+              "cep": "29314125",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Aeroporto",
+              "latitude": "-20.8266",
+              "longitude": "-41.17248"
+            },
+            {
+              "name": "José Antônio do Amaral",
+              "addressType": "Rua",
+              "cep": "29314085",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Aeroporto",
+              "latitude": "-20.82998",
+              "longitude": "-41.17656"
+            },
+            {
+              "name": "Apóstolo Pedro",
+              "addressType": "Rua",
+              "cep": "29314210",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Aeroporto",
+              "latitude": "-20.8369",
+              "longitude": "-41.184"
+            }
+          ]
+        },
+        {
+          "name": "Agostinho Simonato",
+          "streets": [
+            {
+              "name": "Mirella Nolasco Braga",
+              "addressType": "Rua",
+              "cep": "29311757",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Agostinho Simonato",
+              "latitude": "-20.84482",
+              "longitude": "-41.15202"
+            },
+            {
+              "name": "José Maria Luis",
+              "addressType": "Escadaria",
+              "cep": "29311129",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Agostinho Simonato",
+              "latitude": "-20.84348",
+              "longitude": "-41.15084"
+            },
+            {
+              "name": "Nelson Manoel Bovial",
+              "addressType": "Beco",
+              "cep": "29311745",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Agostinho Simonato",
+              "latitude": "-20.8461",
+              "longitude": "-41.14906"
+            },
+            {
+              "name": "Paulino Vieira Tiradentes",
+              "addressType": "Rua",
+              "cep": "29311753",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Agostinho Simonato",
+              "latitude": "-20.84482",
+              "longitude": "-41.15202"
+            },
+            {
+              "name": "Antônio Rodrigues",
+              "addressType": "Rua",
+              "cep": "29311772",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Agostinho Simonato",
+              "latitude": "-20.85087",
+              "longitude": "-41.15435"
+            },
+            {
+              "name": "Gumercindo Caetano Machado",
+              "addressType": "Rua",
+              "cep": "29311731",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Agostinho Simonato",
+              "latitude": "-20.84388",
+              "longitude": "-41.14763"
+            },
+            {
+              "name": "Das Emas",
+              "addressType": "Rua",
+              "cep": "29311248",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Agostinho Simonato",
+              "latitude": "-20.84482",
+              "longitude": "-41.15202"
+            },
+            {
+              "name": "André Caetano",
+              "addressType": "Rua",
+              "cep": "29311325",
+              "state": "Espírito Santo",
+              "city": "Cachoeiro de Itapemirim",
+              "district": "Agostinho Simonato",
+              "latitude": "-20.8365",
+              "longitude": "-41.11288"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cariacica",
+      "ibgeCode": "3201308",
+      "ddd": "27",
+      "districts": [
+        {
+          "name": "Alice Coutinho",
+          "streets": [
+            {
+              "name": "Araribóia",
+              "addressType": "Rua",
+              "cep": "29157605",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alice Coutinho",
+              "latitude": "-20.2674",
+              "longitude": "-40.4234"
+            },
+            {
+              "name": "da Vitória",
+              "addressType": "Rua",
+              "cep": "29157612",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alice Coutinho",
+              "latitude": "-20.26533",
+              "longitude": "-40.42627"
+            },
+            {
+              "name": "São Benedito",
+              "addressType": "Rua",
+              "cep": "29157655",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alice Coutinho",
+              "latitude": "-20.34922",
+              "longitude": "-40.39333"
+            },
+            {
+              "name": "Antário Filho",
+              "addressType": "Rua",
+              "cep": "29157603",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alice Coutinho",
+              "latitude": "-20.26695",
+              "longitude": "-40.42442"
+            },
+            {
+              "name": "Anhanguera",
+              "addressType": "Rua",
+              "cep": "29157662",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alice Coutinho",
+              "latitude": "-20.26812",
+              "longitude": "-40.4231"
+            },
+            {
+              "name": "João",
+              "addressType": "Rua",
+              "cep": "29157613",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alice Coutinho",
+              "latitude": "-20.36716",
+              "longitude": "-40.37954"
+            },
+            {
+              "name": "Doutor Fernando Santório",
+              "addressType": "Rua",
+              "cep": "29157617",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alice Coutinho",
+              "latitude": "-20.36716",
+              "longitude": "-40.37953"
+            },
+            {
+              "name": "Estância do Vale",
+              "addressType": "Estrada",
+              "cep": "29157615",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alice Coutinho",
+              "latitude": "-20.30067",
+              "longitude": "-40.37339"
+            }
+          ]
+        },
+        {
+          "name": "Alto Boa Vista",
+          "streets": [
+            {
+              "name": "Mário Covas",
+              "addressType": "Rua",
+              "cep": "29152150",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alto Boa Vista",
+              "latitude": "-20.28218",
+              "longitude": "-40.38803"
+            },
+            {
+              "name": "Primeiro de Maio",
+              "addressType": "Rua",
+              "cep": "29152287",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alto Boa Vista",
+              "latitude": "-20.30151",
+              "longitude": "-40.38139"
+            },
+            {
+              "name": "João Xavier",
+              "addressType": "Rua",
+              "cep": "29152279",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alto Boa Vista",
+              "latitude": "-20.31466",
+              "longitude": "-40.36922"
+            },
+            {
+              "name": "Monte Sião",
+              "addressType": "Praça",
+              "cep": "29152250",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alto Boa Vista",
+              "latitude": "-20.32357",
+              "longitude": "-40.36325"
+            },
+            {
+              "name": "José Ribeiro",
+              "addressType": "Escadaria",
+              "cep": "29152263",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alto Boa Vista",
+              "latitude": "-20.32433",
+              "longitude": "-40.36367"
+            },
+            {
+              "name": "Euclides Da Cunha",
+              "addressType": "Rua",
+              "cep": "29152160",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alto Boa Vista",
+              "latitude": "-20.28214",
+              "longitude": "-40.38809"
+            },
+            {
+              "name": "Aldo Alves Prudencio",
+              "addressType": "Rua",
+              "cep": "29152266",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alto Boa Vista",
+              "latitude": "-20.32246",
+              "longitude": "-40.36799"
+            },
+            {
+              "name": "Machado De Assis",
+              "addressType": "Rua",
+              "cep": "29152110",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alto Boa Vista",
+              "latitude": "-20.38494",
+              "longitude": "-40.3668"
+            }
+          ]
+        },
+        {
+          "name": "Alto Lage",
+          "streets": [
+            {
+              "name": "Muniz Freire",
+              "addressType": "Rua",
+              "cep": "29151259",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alto Lage",
+              "latitude": "-20.32669",
+              "longitude": "-40.36052"
+            },
+            {
+              "name": "Joséfino Simões",
+              "addressType": "Beco",
+              "cep": "29151236",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alto Lage",
+              "latitude": "-20.33064",
+              "longitude": "-40.37264"
+            },
+            {
+              "name": "Anchieta",
+              "addressType": "Rua",
+              "cep": "29151045",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alto Lage",
+              "latitude": "-20.32691",
+              "longitude": "-40.37111"
+            },
+            {
+              "name": "Francisco Martins de Paula",
+              "addressType": "Rua",
+              "cep": "29151180",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alto Lage",
+              "latitude": "-20.32977",
+              "longitude": "-40.37128"
+            },
+            {
+              "name": "Albertina Mazelli",
+              "addressType": "Rua",
+              "cep": "29151268",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alto Lage",
+              "latitude": "-20.33044",
+              "longitude": "-40.36788"
+            },
+            {
+              "name": "Dom Pedro II",
+              "addressType": "Rua",
+              "cep": "29151170",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alto Lage",
+              "latitude": "-20.33284",
+              "longitude": "-40.36976"
+            },
+            {
+              "name": "Pedro Álvares Cabral",
+              "addressType": "Rua",
+              "cep": "29151080",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alto Lage",
+              "latitude": "-20.33111",
+              "longitude": "-40.36657"
+            },
+            {
+              "name": "José Vieira",
+              "addressType": "Travessa",
+              "cep": "29151282",
+              "state": "Espírito Santo",
+              "city": "Cariacica",
+              "district": "Alto Lage",
+              "latitude": "-20.33438",
+              "longitude": "-40.37234"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Colatina",
+      "ibgeCode": "3201506",
+      "ddd": "27",
+      "districts": [
+        {
+          "name": "15 de Outubro",
+          "streets": [
+            {
+              "name": "Germano Giorge Birchler",
+              "addressType": "Praça",
+              "cep": "29719220",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "15 de Outubro",
+              "latitude": "-19.50504",
+              "longitude": "-40.61229"
+            },
+            {
+              "name": "Marechal Rondon",
+              "addressType": "Rua",
+              "cep": "29719210",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "15 de Outubro",
+              "latitude": "-19.52265",
+              "longitude": "-40.64176"
+            },
+            {
+              "name": "Mário Bianchi",
+              "addressType": "Rua",
+              "cep": "29719227",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "15 de Outubro",
+              "latitude": "-19.53781",
+              "longitude": "-40.63083"
+            },
+            {
+              "name": "Francisco Mateus",
+              "addressType": "Rua",
+              "cep": "29707730",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "15 de Outubro",
+              "latitude": "-19.45527",
+              "longitude": "-40.69336"
+            },
+            {
+              "name": "Córrego Boa Esperança",
+              "addressType": "Estrada",
+              "cep": "29719315",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "15 de Outubro",
+              "latitude": "-19.49898",
+              "longitude": "-40.65136"
+            },
+            {
+              "name": "Geraldo Luiz Dos Santos",
+              "addressType": "Rua",
+              "cep": "29719214",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "15 de Outubro",
+              "latitude": "-19.51416",
+              "longitude": "-40.64279"
+            },
+            {
+              "name": "Lúcia Forechi Nicchio",
+              "addressType": "Rua",
+              "cep": "29719222",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "15 de Outubro",
+              "latitude": "-19.51903",
+              "longitude": "-40.65171"
+            },
+            {
+              "name": "João Frederico Hungaro",
+              "addressType": "Rua",
+              "cep": "29707706",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "15 de Outubro",
+              "latitude": "-19.52742",
+              "longitude": "-40.67004"
+            }
+          ]
+        },
+        {
+          "name": "25 De Janeiro",
+          "streets": [
+            {
+              "name": "America",
+              "addressType": "Travessa",
+              "cep": "29706235",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "25 De Janeiro",
+              "latitude": "-19.52054",
+              "longitude": "-40.64331"
+            },
+            {
+              "name": "B",
+              "addressType": "Beco",
+              "cep": "29706245",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "25 De Janeiro",
+              "latitude": "-19.52074",
+              "longitude": "-40.64616"
+            },
+            {
+              "name": "Cearense",
+              "addressType": "Rua",
+              "cep": "29706190",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "25 De Janeiro",
+              "latitude": "-19.53008",
+              "longitude": "-40.66367"
+            },
+            {
+              "name": "Jose De Oliveira",
+              "addressType": "Rua",
+              "cep": "29706230",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "25 De Janeiro",
+              "latitude": "-19.52085",
+              "longitude": "-40.64521"
+            },
+            {
+              "name": "Luiz Maranhao",
+              "addressType": "Rua",
+              "cep": "29706240",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "25 De Janeiro",
+              "latitude": "-19.52064",
+              "longitude": "-40.64528"
+            },
+            {
+              "name": "Xingu",
+              "addressType": "Beco",
+              "cep": "29706215",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "25 De Janeiro",
+              "latitude": "-19.52016",
+              "longitude": "-40.64655"
+            },
+            {
+              "name": "Rio Branco",
+              "addressType": "Rua",
+              "cep": "29706220",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "25 De Janeiro",
+              "latitude": "-19.52571",
+              "longitude": "-40.70514"
+            },
+            {
+              "name": "Marechal Rondon",
+              "addressType": "Rua",
+              "cep": "29706200",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "25 De Janeiro",
+              "latitude": "-19.52262",
+              "longitude": "-40.64179"
+            }
+          ]
+        },
+        {
+          "name": "Adélia Giuberti",
+          "streets": [
+            {
+              "name": "Champagnat",
+              "addressType": "Avenida",
+              "cep": "29702819",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "Adélia Giuberti",
+              "latitude": "-19.54295",
+              "longitude": "-40.66766"
+            },
+            {
+              "name": "Avelino Guerra",
+              "addressType": "Travessa",
+              "cep": "29702813",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "Adélia Giuberti",
+              "latitude": "-19.53933",
+              "longitude": "-40.64495"
+            },
+            {
+              "name": "José Iglésias",
+              "addressType": "Rua",
+              "cep": "29702812",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "Adélia Giuberti",
+              "latitude": "-19.53821",
+              "longitude": "-40.63825"
+            },
+            {
+              "name": "Castro Alves",
+              "addressType": "Rua",
+              "cep": "29702805",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "Adélia Giuberti",
+              "latitude": "-19.53798",
+              "longitude": "-40.63902"
+            },
+            {
+              "name": "Gervásio Vitali",
+              "addressType": "Rua",
+              "cep": "29702803",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "Adélia Giuberti",
+              "latitude": "-19.54147",
+              "longitude": "-40.6376"
+            },
+            {
+              "name": "Liberalino Rufino",
+              "addressType": "Escadaria",
+              "cep": "29702824",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "Adélia Giuberti",
+              "latitude": "-19.53775",
+              "longitude": "-40.64247"
+            },
+            {
+              "name": "Pedro Vitali",
+              "addressType": "Avenida",
+              "cep": "29702801",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "Adélia Giuberti",
+              "latitude": "-19.53933",
+              "longitude": "-40.64495"
+            },
+            {
+              "name": "Basílio Malavasi",
+              "addressType": "Rua",
+              "cep": "29702802",
+              "state": "Espírito Santo",
+              "city": "Colatina",
+              "district": "Adélia Giuberti",
+              "latitude": "-19.5377",
+              "longitude": "-40.64226"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Guarapari",
+      "ibgeCode": "3202405",
+      "ddd": "27",
+      "districts": [
+        {
+          "name": "Adalberto Simão Nader",
+          "streets": [
+            {
+              "name": "João Almeida",
+              "addressType": "Avenida",
+              "cep": "29214400",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Adalberto Simão Nader",
+              "latitude": "-20.64611",
+              "longitude": "-40.49932"
+            },
+            {
+              "name": "H",
+              "addressType": "Rua",
+              "cep": "29214260",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Adalberto Simão Nader",
+              "latitude": "-20.64787",
+              "longitude": "-40.49918"
+            },
+            {
+              "name": "L",
+              "addressType": "Rua",
+              "cep": "29214300",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Adalberto Simão Nader",
+              "latitude": "-20.64823",
+              "longitude": "-40.50074"
+            },
+            {
+              "name": "T",
+              "addressType": "Rua",
+              "cep": "29214380",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Adalberto Simão Nader",
+              "latitude": "-20.64747",
+              "longitude": "-40.50029"
+            },
+            {
+              "name": "D",
+              "addressType": "Rua",
+              "cep": "29214220",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Adalberto Simão Nader",
+              "latitude": "-20.64922",
+              "longitude": "-40.49959"
+            },
+            {
+              "name": "Pastor Heber Cirilo de Paula",
+              "addressType": "Rua",
+              "cep": "29214350",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Adalberto Simão Nader",
+              "latitude": "-20.64648",
+              "longitude": "-40.50014"
+            },
+            {
+              "name": "Celi Alves da Silva",
+              "addressType": "Rua",
+              "cep": "29214280",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Adalberto Simão Nader",
+              "latitude": "-20.66106",
+              "longitude": "-40.50255"
+            },
+            {
+              "name": "Elvira Maria da Silva",
+              "addressType": "Rua",
+              "cep": "29214270",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Adalberto Simão Nader",
+              "latitude": "-20.64737",
+              "longitude": "-40.49903"
+            }
+          ]
+        },
+        {
+          "name": "Aeroporto",
+          "streets": [
+            {
+              "name": "Francisco Vieira Simões",
+              "addressType": "Avenida",
+              "cep": "29216795",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Aeroporto",
+              "latitude": "-20.68151",
+              "longitude": "-40.51227"
+            },
+            {
+              "name": "José Lauro de Andrade",
+              "addressType": "Avenida",
+              "cep": "29216723",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Aeroporto",
+              "latitude": "-20.65537",
+              "longitude": "-40.49128"
+            },
+            {
+              "name": "Benedito Rangel",
+              "addressType": "Rua",
+              "cep": "29216710",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Aeroporto",
+              "latitude": "-20.64383",
+              "longitude": "-40.48727"
+            },
+            {
+              "name": "José Krohling",
+              "addressType": "Rua",
+              "cep": "29216760",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Aeroporto",
+              "latitude": "-20.64354",
+              "longitude": "-40.48759"
+            },
+            {
+              "name": "Otacílio Vieira Passos",
+              "addressType": "Avenida",
+              "cep": "29216790",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Aeroporto",
+              "latitude": "-20.64337",
+              "longitude": "-40.48714"
+            },
+            {
+              "name": "Padre José de Anchieta",
+              "addressType": "Avenida",
+              "cep": "29216705",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Aeroporto",
+              "latitude": "-20.64749",
+              "longitude": "-40.49026"
+            },
+            {
+              "name": "Bigossi",
+              "addressType": "Praça",
+              "cep": "29216740",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Aeroporto",
+              "latitude": "-20.64337",
+              "longitude": "-40.48714"
+            },
+            {
+              "name": "Manoel Teixeira de Melo",
+              "addressType": "Avenida",
+              "cep": "29216720",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Aeroporto",
+              "latitude": "-20.63954",
+              "longitude": "-40.48864"
+            }
+          ]
+        },
+        {
+          "name": "Baia Nova",
+          "streets": [
+            {
+              "name": "Santa Luzia",
+              "addressType": "Comunidade",
+              "cep": "29226130",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Baia Nova",
+              "latitude": "-20.65669",
+              "longitude": "-40.50316"
+            },
+            {
+              "name": "Rio Calçado-Baia Nova",
+              "addressType": "Estrada",
+              "cep": "29226100",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Baia Nova",
+              "latitude": "-20.49989",
+              "longitude": "-40.58611"
+            },
+            {
+              "name": "Santa Rita",
+              "addressType": "Comunidade",
+              "cep": "29226115",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Baia Nova",
+              "latitude": "-20.66094",
+              "longitude": "-40.50155"
+            },
+            {
+              "name": "Baia Nova",
+              "addressType": "Comunidade",
+              "cep": "29226105",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Baia Nova",
+              "latitude": "-20.67798",
+              "longitude": "-40.5175"
+            },
+            {
+              "name": "Catarina Bertulani",
+              "addressType": "Estrada",
+              "cep": "29226120",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Baia Nova",
+              "latitude": "-20.64151",
+              "longitude": "-40.51409"
+            },
+            {
+              "name": "Rio Calçado-Baía Nova, s/n",
+              "addressType": "Estrada",
+              "cep": "29227982",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Baia Nova",
+              "latitude": "-20.49989",
+              "longitude": "-40.58611"
+            },
+            {
+              "name": "José Bernardo Entringer",
+              "addressType": "Rodovia",
+              "cep": "29226110",
+              "state": "Espírito Santo",
+              "city": "Guarapari",
+              "district": "Baia Nova",
+              "latitude": "-20.64126",
+              "longitude": "-40.51402"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Linhares",
+      "ibgeCode": "3203205",
+      "ddd": "27",
+      "districts": [
+        {
+          "name": "Aeroporto",
+          "streets": [
+            {
+              "name": "Jadyr Marin",
+              "addressType": "Avenida",
+              "cep": "29907422",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Aeroporto",
+              "latitude": "-19.3684",
+              "longitude": "-40.05134"
+            },
+            {
+              "name": "Joaquim Roberte",
+              "addressType": "Avenida",
+              "cep": "29907420",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Aeroporto",
+              "latitude": "-19.33511",
+              "longitude": "-40.06357"
+            },
+            {
+              "name": "João Piana",
+              "addressType": "Avenida",
+              "cep": "29907426",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Aeroporto",
+              "latitude": "-19.33667",
+              "longitude": "-40.06022"
+            },
+            {
+              "name": "Prefeito Samuel Batista Cruz",
+              "addressType": "Avenida",
+              "cep": "29907400",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Aeroporto",
+              "latitude": "-19.37732",
+              "longitude": "-40.06679"
+            },
+            {
+              "name": "José Caldara",
+              "addressType": "Rua",
+              "cep": "29907428",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Aeroporto",
+              "latitude": "-19.37277",
+              "longitude": "-40.07196"
+            },
+            {
+              "name": "Perobas",
+              "addressType": "Rua",
+              "cep": "29907430",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Aeroporto",
+              "latitude": "-19.35781",
+              "longitude": "-40.06038"
+            },
+            {
+              "name": "José Mauro Gomes E Gama",
+              "addressType": "Avenida",
+              "cep": "29907424",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Aeroporto",
+              "latitude": "-19.36232",
+              "longitude": "-40.05385"
+            },
+            {
+              "name": "Orsulina Cypriano SantAna",
+              "addressType": "Avenida",
+              "cep": "29907410",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Aeroporto",
+              "latitude": "-19.36248",
+              "longitude": "-40.0492"
+            }
+          ]
+        },
+        {
+          "name": "Araçá",
+          "streets": [
+            {
+              "name": "Monsenhor Pedrinha",
+              "addressType": "Rua",
+              "cep": "29901440",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Araçá",
+              "latitude": "-19.39736",
+              "longitude": "-40.05787"
+            },
+            {
+              "name": "Professor Jones",
+              "addressType": "Travessa",
+              "cep": "29901410",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Araçá",
+              "latitude": "-19.40092",
+              "longitude": "-40.05858"
+            },
+            {
+              "name": "Monsenhor Pedrinha",
+              "addressType": "Rua",
+              "cep": "29901442",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Araçá",
+              "latitude": "-19.39736",
+              "longitude": "-40.05804"
+            },
+            {
+              "name": "Guaçuí",
+              "addressType": "Avenida",
+              "cep": "29901394",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Araçá",
+              "latitude": "-19.39364",
+              "longitude": "-40.06386"
+            },
+            {
+              "name": "Maria Lúcia Durão Nascimento",
+              "addressType": "Rua",
+              "cep": "29901402",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Araçá",
+              "latitude": "-19.39522",
+              "longitude": "-40.05592"
+            },
+            {
+              "name": "Abdon Simões de Mattos",
+              "addressType": "Rua",
+              "cep": "29901404",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Araçá",
+              "latitude": "-19.32191",
+              "longitude": "-40.07029"
+            },
+            {
+              "name": "Professor Paulo Shultz",
+              "addressType": "Rua",
+              "cep": "29901425",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Araçá",
+              "latitude": "-19.39644",
+              "longitude": "-40.05553"
+            },
+            {
+              "name": "Professor Jones",
+              "addressType": "Rua",
+              "cep": "29901417",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Araçá",
+              "latitude": "-19.40083",
+              "longitude": "-40.05831"
+            }
+          ]
+        },
+        {
+          "name": "Aviso",
+          "streets": [
+            {
+              "name": "José Turi",
+              "addressType": "Avenida",
+              "cep": "29901381",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Aviso",
+              "latitude": "-19.40553",
+              "longitude": "-40.05022"
+            },
+            {
+              "name": "Filogônio Peixoto",
+              "addressType": "Avenida",
+              "cep": "29901294",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Aviso",
+              "latitude": "-19.40601",
+              "longitude": "-40.05773"
+            },
+            {
+              "name": "Rio Araguaia",
+              "addressType": "Rua",
+              "cep": "29901008",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Aviso",
+              "latitude": "-19.4048",
+              "longitude": "-40.05341"
+            },
+            {
+              "name": "Celina Francisca dos Reis Côtes",
+              "addressType": "Rua",
+              "cep": "29901373",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Aviso",
+              "latitude": "-19.4048",
+              "longitude": "-40.05341"
+            },
+            {
+              "name": "de Dentro",
+              "addressType": "Alameda",
+              "cep": "29901154",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Aviso",
+              "latitude": "-19.40053",
+              "longitude": "-40.04856"
+            },
+            {
+              "name": "Rio Negro",
+              "addressType": "Rua",
+              "cep": "29901016",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Aviso",
+              "latitude": "-19.40123",
+              "longitude": "-40.05217"
+            },
+            {
+              "name": "Rio Paraná",
+              "addressType": "Rua",
+              "cep": "29901006",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Aviso",
+              "latitude": "-19.4048",
+              "longitude": "-40.05341"
+            },
+            {
+              "name": "Camargo",
+              "addressType": "Alameda",
+              "cep": "29901143",
+              "state": "Espírito Santo",
+              "city": "Linhares",
+              "district": "Aviso",
+              "latitude": "-19.40491",
+              "longitude": "-40.05238"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

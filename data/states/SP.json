@@ -1,0 +1,1331 @@
+{
+  "code": "SP",
+  "name": "São Paulo",
+  "capital": "São Paulo",
+  "ddd": "17",
+  "regiao": "Sudeste",
+  "cities": [
+    {
+      "name": "Aguaí",
+      "ibgeCode": "3500303",
+      "ddd": "19",
+      "districts": [
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "Doutor Leonardo Guaranha",
+              "addressType": "Avenida",
+              "cep": "13860025",
+              "state": "São Paulo",
+              "city": "Aguaí",
+              "district": "Centro",
+              "latitude": "-22.05529",
+              "longitude": "-46.98079"
+            },
+            {
+              "name": "Capitão Silva Borges",
+              "addressType": "Rua",
+              "cep": "13860017",
+              "state": "São Paulo",
+              "city": "Aguaí",
+              "district": "Centro",
+              "latitude": "-22.05722",
+              "longitude": "-46.98155"
+            },
+            {
+              "name": "Azevedo Marques",
+              "addressType": "Avenida",
+              "cep": "13860047",
+              "state": "São Paulo",
+              "city": "Aguaí",
+              "district": "Centro",
+              "latitude": "-22.05385",
+              "longitude": "-46.97678"
+            },
+            {
+              "name": "Carlos Gomes",
+              "addressType": "Rua",
+              "cep": "13860077",
+              "state": "São Paulo",
+              "city": "Aguaí",
+              "district": "Centro",
+              "latitude": "-22.73684",
+              "longitude": "-47.32803"
+            },
+            {
+              "name": "Doutor Waldomiro Osório Valim",
+              "addressType": "Rua",
+              "cep": "13860089",
+              "state": "São Paulo",
+              "city": "Aguaí",
+              "district": "Centro",
+              "latitude": "-22.05841",
+              "longitude": "-46.9689"
+            },
+            {
+              "name": "Benjamin Constant",
+              "addressType": "Rua",
+              "cep": "13860013",
+              "state": "São Paulo",
+              "city": "Aguaí",
+              "district": "Centro",
+              "latitude": "-23.20295",
+              "longitude": "-47.29167"
+            },
+            {
+              "name": "Presidente Castelo Branco",
+              "addressType": "Avenida",
+              "cep": "13860045",
+              "state": "São Paulo",
+              "city": "Aguaí",
+              "district": "Centro",
+              "latitude": "-23.62025",
+              "longitude": "-45.4065"
+            },
+            {
+              "name": "Ana Euclídia Silveira Cruz",
+              "addressType": "Rua",
+              "cep": "13860001",
+              "state": "São Paulo",
+              "city": "Aguaí",
+              "district": "Centro",
+              "latitude": "-22.06231",
+              "longitude": "-46.98171"
+            }
+          ]
+        },
+        {
+          "name": "Chácara Bela Vista",
+          "streets": [
+            {
+              "name": "Alexandrino de Alencar",
+              "addressType": "Rua",
+              "cep": "13860124",
+              "state": "São Paulo",
+              "city": "Aguaí",
+              "district": "Chácara Bela Vista",
+              "latitude": "-22.06325",
+              "longitude": "-46.97475"
+            },
+            {
+              "name": "Dom Pedro II",
+              "addressType": "Rua",
+              "cep": "13860120",
+              "state": "São Paulo",
+              "city": "Aguaí",
+              "district": "Chácara Bela Vista",
+              "latitude": "-22.06228",
+              "longitude": "-46.97512"
+            },
+            {
+              "name": "João Paulo Braido da Silva",
+              "addressType": "Rua",
+              "cep": "13860122",
+              "state": "São Paulo",
+              "city": "Aguaí",
+              "district": "Chácara Bela Vista",
+              "latitude": "-22.79239",
+              "longitude": "-45.1979"
+            },
+            {
+              "name": "Presidente Castelo Branco",
+              "addressType": "Avenida",
+              "cep": "13860128",
+              "state": "São Paulo",
+              "city": "Aguaí",
+              "district": "Chácara Bela Vista",
+              "latitude": "-21.19918",
+              "longitude": "-48.16279"
+            },
+            {
+              "name": "José Janhel",
+              "addressType": "Rua",
+              "cep": "13860126",
+              "state": "São Paulo",
+              "city": "Aguaí",
+              "district": "Chácara Bela Vista",
+              "latitude": "-22.06396",
+              "longitude": "-46.97463"
+            }
+          ]
+        },
+        {
+          "name": "Chácara Boa Sorte",
+          "streets": [
+            {
+              "name": "Dona Amélia",
+              "addressType": "Rua",
+              "cep": "13863262",
+              "state": "São Paulo",
+              "city": "Aguaí",
+              "district": "Chácara Boa Sorte",
+              "latitude": "-22.05441",
+              "longitude": "-46.98059"
+            },
+            {
+              "name": "Antônio Rodrigues Pinto",
+              "addressType": "Rua",
+              "cep": "13863266",
+              "state": "São Paulo",
+              "city": "Aguaí",
+              "district": "Chácara Boa Sorte",
+              "latitude": "-22.0529",
+              "longitude": "-46.98168"
+            },
+            {
+              "name": "Benjamin Constant",
+              "addressType": "Rua",
+              "cep": "13863250",
+              "state": "São Paulo",
+              "city": "Aguaí",
+              "district": "Chácara Boa Sorte",
+              "latitude": "-22.05287",
+              "longitude": "-46.98129"
+            },
+            {
+              "name": "Marechal Deodoro",
+              "addressType": "Rua",
+              "cep": "13863254",
+              "state": "São Paulo",
+              "city": "Aguaí",
+              "district": "Chácara Boa Sorte",
+              "latitude": "-22.05319",
+              "longitude": "-46.98196"
+            },
+            {
+              "name": "Eduardo Pereira Rangel",
+              "addressType": "Rua",
+              "cep": "13863258",
+              "state": "São Paulo",
+              "city": "Aguaí",
+              "district": "Chácara Boa Sorte",
+              "latitude": "-22.05321",
+              "longitude": "-46.98269"
+            },
+            {
+              "name": "José Legaspe",
+              "addressType": "Rua",
+              "cep": "13863264",
+              "state": "São Paulo",
+              "city": "Aguaí",
+              "district": "Chácara Boa Sorte",
+              "latitude": "-22.05364",
+              "longitude": "-46.98066"
+            },
+            {
+              "name": "Doutor Leonardo Guaranha",
+              "addressType": "Avenida",
+              "cep": "13863256",
+              "state": "São Paulo",
+              "city": "Aguaí",
+              "district": "Chácara Boa Sorte",
+              "latitude": "-22.05513",
+              "longitude": "-46.98155"
+            },
+            {
+              "name": "Francisco Antonio Poletti",
+              "addressType": "Rua",
+              "cep": "13863260",
+              "state": "São Paulo",
+              "city": "Aguaí",
+              "district": "Chácara Boa Sorte",
+              "latitude": "-22.05244",
+              "longitude": "-46.98342"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Agudos",
+      "ibgeCode": "3500709",
+      "ddd": "14",
+      "districts": [
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "Odon Pessoa de Albuquerque",
+              "addressType": "Avenida",
+              "cep": "17120029",
+              "state": "São Paulo",
+              "city": "Agudos",
+              "district": "Centro",
+              "latitude": "-22.4744",
+              "longitude": "-48.98741"
+            },
+            {
+              "name": "Quinze de Novembro",
+              "addressType": "Rua",
+              "cep": "17120007",
+              "state": "São Paulo",
+              "city": "Agudos",
+              "district": "Centro",
+              "latitude": "-22.43694",
+              "longitude": "-46.82075"
+            },
+            {
+              "name": "Quintino Bocaiúva",
+              "addressType": "Rua",
+              "cep": "17135004",
+              "state": "São Paulo",
+              "city": "Agudos",
+              "district": "Centro",
+              "latitude": "-22.70144",
+              "longitude": "-46.76436"
+            },
+            {
+              "name": "Rui Barbosa",
+              "addressType": "Avenida",
+              "cep": "17120027",
+              "state": "São Paulo",
+              "city": "Agudos",
+              "district": "Centro",
+              "latitude": "-22.6624",
+              "longitude": "-50.42092"
+            },
+            {
+              "name": "Tiradentes",
+              "addressType": "Rua",
+              "cep": "17135016",
+              "state": "São Paulo",
+              "city": "Agudos",
+              "district": "Centro",
+              "latitude": "-20.5327",
+              "longitude": "-47.40216"
+            },
+            {
+              "name": "Dom Pedro II",
+              "addressType": "Rua",
+              "cep": "17135012",
+              "state": "São Paulo",
+              "city": "Agudos",
+              "district": "Centro",
+              "latitude": "-23.93294",
+              "longitude": "-46.32847"
+            },
+            {
+              "name": "Sete de Setembro",
+              "addressType": "Rua",
+              "cep": "17120011",
+              "state": "São Paulo",
+              "city": "Agudos",
+              "district": "Centro",
+              "latitude": "-22.01618",
+              "longitude": "-47.8936"
+            },
+            {
+              "name": "Prefeito Doutor Antônio Condi",
+              "addressType": "Rua",
+              "cep": "17120013",
+              "state": "São Paulo",
+              "city": "Agudos",
+              "district": "Centro",
+              "latitude": "-23.53342",
+              "longitude": "-46.77399"
+            }
+          ]
+        },
+        {
+          "name": "Chácara Alvorada",
+          "streets": [
+            {
+              "name": "Andrade Neves",
+              "addressType": "Rua",
+              "cep": "17132008",
+              "state": "São Paulo",
+              "city": "Agudos",
+              "district": "Chácara Alvorada",
+              "latitude": "-22.46762",
+              "longitude": "-48.98358"
+            },
+            {
+              "name": "Coripheu Pereira de Moraes",
+              "addressType": "Rua",
+              "cep": "17132010",
+              "state": "São Paulo",
+              "city": "Agudos",
+              "district": "Chácara Alvorada",
+              "latitude": "-22.47316",
+              "longitude": "-48.97057"
+            },
+            {
+              "name": "Calimério Pereira de Moraes",
+              "addressType": "Rua",
+              "cep": "17132012",
+              "state": "São Paulo",
+              "city": "Agudos",
+              "district": "Chácara Alvorada",
+              "latitude": "-22.47316",
+              "longitude": "-48.97055"
+            },
+            {
+              "name": "Doutor Fábio Leite Guimarães",
+              "addressType": "Rua",
+              "cep": "17132006",
+              "state": "São Paulo",
+              "city": "Agudos",
+              "district": "Chácara Alvorada",
+              "latitude": "-22.46678",
+              "longitude": "-48.98448"
+            },
+            {
+              "name": "José Salmem",
+              "addressType": "Rua",
+              "cep": "17132002",
+              "state": "São Paulo",
+              "city": "Agudos",
+              "district": "Chácara Alvorada",
+              "latitude": "-22.46688",
+              "longitude": "-48.98547"
+            },
+            {
+              "name": "Fernando Machado",
+              "addressType": "Avenida",
+              "cep": "17132004",
+              "state": "São Paulo",
+              "city": "Agudos",
+              "district": "Chácara Alvorada",
+              "latitude": "-22.46793",
+              "longitude": "-48.98925"
+            },
+            {
+              "name": "Ratelif",
+              "addressType": "Avenida",
+              "cep": "17132000",
+              "state": "São Paulo",
+              "city": "Agudos",
+              "district": "Chácara Alvorada",
+              "latitude": "-23.57654",
+              "longitude": "-47.98629"
+            }
+          ]
+        },
+        {
+          "name": "Chácaras City",
+          "streets": [
+            {
+              "name": "José Palmeira Pereira",
+              "addressType": "Rua",
+              "cep": "17125022",
+              "state": "São Paulo",
+              "city": "Agudos",
+              "district": "Chácaras City",
+              "latitude": "-22.45743",
+              "longitude": "-48.99193"
+            },
+            {
+              "name": "João Candosin",
+              "addressType": "Rua",
+              "cep": "17125026",
+              "state": "São Paulo",
+              "city": "Agudos",
+              "district": "Chácaras City",
+              "latitude": "-22.47081",
+              "longitude": "-48.96337"
+            },
+            {
+              "name": "Gonçalo Ribas Filho",
+              "addressType": "Rua",
+              "cep": "17125020",
+              "state": "São Paulo",
+              "city": "Agudos",
+              "district": "Chácaras City",
+              "latitude": "-22.39206",
+              "longitude": "-49.01436"
+            },
+            {
+              "name": "Gabriela Camargo Brega Pereira",
+              "addressType": "Rua",
+              "cep": "17125024",
+              "state": "São Paulo",
+              "city": "Agudos",
+              "district": "Chácaras City",
+              "latitude": "-22.39372",
+              "longitude": "-49.01135"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alvinlândia",
+      "ibgeCode": "3501509",
+      "ddd": "14",
+      "districts": [
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "Antenor Pires de Almeida",
+              "addressType": "Rua",
+              "cep": "17430023",
+              "state": "São Paulo",
+              "city": "Alvinlândia",
+              "district": "Centro",
+              "latitude": "-22.44588",
+              "longitude": "-49.7663"
+            },
+            {
+              "name": "Alfredo Raymundo da Silva",
+              "addressType": "Rua",
+              "cep": "17430013",
+              "state": "São Paulo",
+              "city": "Alvinlândia",
+              "district": "Centro",
+              "latitude": "-22.43987",
+              "longitude": "-49.7657"
+            },
+            {
+              "name": "Fausto Couto",
+              "addressType": "Rua",
+              "cep": "17430001",
+              "state": "São Paulo",
+              "city": "Alvinlândia",
+              "district": "Centro",
+              "latitude": "-22.44369",
+              "longitude": "-49.76137"
+            },
+            {
+              "name": "Doutor Couto Junior",
+              "addressType": "Avenida",
+              "cep": "17430007",
+              "state": "São Paulo",
+              "city": "Alvinlândia",
+              "district": "Centro",
+              "latitude": "-22.44377",
+              "longitude": "-49.76382"
+            },
+            {
+              "name": "Doutor Couto Junior, 382",
+              "addressType": "Avenida",
+              "cep": "17430970",
+              "state": "São Paulo",
+              "city": "Alvinlândia",
+              "district": "Centro",
+              "latitude": "-22.44377",
+              "longitude": "-49.76382"
+            },
+            {
+              "name": "Ana Margarida",
+              "addressType": "Rua",
+              "cep": "17430025",
+              "state": "São Paulo",
+              "city": "Alvinlândia",
+              "district": "Centro",
+              "latitude": "-22.4469",
+              "longitude": "-49.76646"
+            },
+            {
+              "name": "Iracema",
+              "addressType": "Rua",
+              "cep": "17430017",
+              "state": "São Paulo",
+              "city": "Alvinlândia",
+              "district": "Centro",
+              "latitude": "-22.44262",
+              "longitude": "-49.76726"
+            },
+            {
+              "name": "Galena",
+              "addressType": "Rua",
+              "cep": "17430019",
+              "state": "São Paulo",
+              "city": "Alvinlândia",
+              "district": "Centro",
+              "latitude": "-22.44386",
+              "longitude": "-49.76426"
+            }
+          ]
+        },
+        {
+          "name": "Conjunto Habitacional Jerônimo Carlos Soares",
+          "streets": [
+            {
+              "name": "Ana Margarida",
+              "addressType": "Rua",
+              "cep": "17430030",
+              "state": "São Paulo",
+              "city": "Alvinlândia",
+              "district": "Conjunto Habitacional Jerônimo Carlos Soares",
+              "latitude": "-22.44716",
+              "longitude": "-49.76416"
+            },
+            {
+              "name": "Manoel Domingos dos Santos",
+              "addressType": "Rua",
+              "cep": "17430032",
+              "state": "São Paulo",
+              "city": "Alvinlândia",
+              "district": "Conjunto Habitacional Jerônimo Carlos Soares",
+              "latitude": "-22.29022",
+              "longitude": "-48.54138"
+            },
+            {
+              "name": "Noel Conceição Araujo",
+              "addressType": "Rua",
+              "cep": "17430038",
+              "state": "São Paulo",
+              "city": "Alvinlândia",
+              "district": "Conjunto Habitacional Jerônimo Carlos Soares",
+              "latitude": "-23.27787",
+              "longitude": "-45.88995"
+            },
+            {
+              "name": "José Bonifácio do Couto",
+              "addressType": "Rua",
+              "cep": "17430042",
+              "state": "São Paulo",
+              "city": "Alvinlândia",
+              "district": "Conjunto Habitacional Jerônimo Carlos Soares",
+              "latitude": "-22.44437",
+              "longitude": "-49.76305"
+            },
+            {
+              "name": "Fausto Couto",
+              "addressType": "Rua",
+              "cep": "17430036",
+              "state": "São Paulo",
+              "city": "Alvinlândia",
+              "district": "Conjunto Habitacional Jerônimo Carlos Soares",
+              "latitude": "-22.44369",
+              "longitude": "-49.76137"
+            },
+            {
+              "name": "José Simões de Oliveira",
+              "addressType": "Rua",
+              "cep": "17430034",
+              "state": "São Paulo",
+              "city": "Alvinlândia",
+              "district": "Conjunto Habitacional Jerônimo Carlos Soares",
+              "latitude": "-21.19044",
+              "longitude": "-50.42417"
+            },
+            {
+              "name": "Horácio Couto",
+              "addressType": "Rua",
+              "cep": "17430040",
+              "state": "São Paulo",
+              "city": "Alvinlândia",
+              "district": "Conjunto Habitacional Jerônimo Carlos Soares",
+              "latitude": "-22.44394",
+              "longitude": "-49.76219"
+            }
+          ]
+        },
+        {
+          "name": "Conjunto Habitacional Silvino José Vantin",
+          "streets": [
+            {
+              "name": "Antenor Pires de Almeida",
+              "addressType": "Rua",
+              "cep": "17430208",
+              "state": "São Paulo",
+              "city": "Alvinlândia",
+              "district": "Conjunto Habitacional Silvino José Vantin",
+              "latitude": "-22.4463",
+              "longitude": "-49.76359"
+            },
+            {
+              "name": "Ana Margarida",
+              "addressType": "Rua",
+              "cep": "17430206",
+              "state": "São Paulo",
+              "city": "Alvinlândia",
+              "district": "Conjunto Habitacional Silvino José Vantin",
+              "latitude": "-22.44723",
+              "longitude": "-49.76537"
+            },
+            {
+              "name": "Henrique Natalino",
+              "addressType": "Rua",
+              "cep": "17430200",
+              "state": "São Paulo",
+              "city": "Alvinlândia",
+              "district": "Conjunto Habitacional Silvino José Vantin",
+              "latitude": "-22.44564",
+              "longitude": "-49.76566"
+            },
+            {
+              "name": "José Guaracy Guarido",
+              "addressType": "Rua",
+              "cep": "17430202",
+              "state": "São Paulo",
+              "city": "Alvinlândia",
+              "district": "Conjunto Habitacional Silvino José Vantin",
+              "latitude": "-22.44239",
+              "longitude": "-49.76598"
+            },
+            {
+              "name": "Ângelo Teruel",
+              "addressType": "Rua",
+              "cep": "17430204",
+              "state": "São Paulo",
+              "city": "Alvinlândia",
+              "district": "Conjunto Habitacional Silvino José Vantin",
+              "latitude": "-22.44243",
+              "longitude": "-49.76653"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Americana",
+      "ibgeCode": "3501608",
+      "ddd": "19",
+      "districts": [
+        {
+          "name": "Antônio Zanaga",
+          "streets": [
+            {
+              "name": "Filipe Camarão",
+              "addressType": "Rua",
+              "cep": "13474543",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga",
+              "latitude": "-22.70276",
+              "longitude": "-47.30329"
+            },
+            {
+              "name": "Érico Veríssimo",
+              "addressType": "Rua",
+              "cep": "13474553",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga",
+              "latitude": "-22.70066",
+              "longitude": "-47.30178"
+            },
+            {
+              "name": "Guimarães Rosa",
+              "addressType": "Rua",
+              "cep": "13474550",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga",
+              "latitude": "-22.7015",
+              "longitude": "-47.30206"
+            },
+            {
+              "name": "Herculano Pires",
+              "addressType": "Rua",
+              "cep": "13474526",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga",
+              "latitude": "-22.70236",
+              "longitude": "-47.29893"
+            },
+            {
+              "name": "Humberto Melo Nóbrega",
+              "addressType": "Rua",
+              "cep": "13474525",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga",
+              "latitude": "-22.70173",
+              "longitude": "-47.29928"
+            },
+            {
+              "name": "Eugênio Gomes",
+              "addressType": "Rua",
+              "cep": "13474557",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga",
+              "latitude": "-22.70158",
+              "longitude": "-47.30434"
+            },
+            {
+              "name": "Franklin Távora",
+              "addressType": "Rua",
+              "cep": "13474541",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga",
+              "latitude": "-22.70337",
+              "longitude": "-47.30207"
+            },
+            {
+              "name": "Jesus Gonçalves",
+              "addressType": "Rua",
+              "cep": "13474542",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga",
+              "latitude": "-22.70392",
+              "longitude": "-47.30203"
+            }
+          ]
+        },
+        {
+          "name": "Antônio Zanaga I",
+          "streets": [
+            {
+              "name": "Luiz Otávio",
+              "addressType": "Rua",
+              "cep": "13474630",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga I",
+              "latitude": "-22.70203",
+              "longitude": "-47.29386"
+            },
+            {
+              "name": "Lins de Vasconcelos",
+              "addressType": "Rua",
+              "cep": "13474633",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga I",
+              "latitude": "-22.70342",
+              "longitude": "-47.2943"
+            },
+            {
+              "name": "José Gregório de Macedo",
+              "addressType": "Rua",
+              "cep": "13474666",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga I",
+              "latitude": "-22.69824",
+              "longitude": "-47.2956"
+            },
+            {
+              "name": "Leopoldo Froes",
+              "addressType": "Rua",
+              "cep": "13474651",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga I",
+              "latitude": "-22.70154",
+              "longitude": "-47.29089"
+            },
+            {
+              "name": "Martins Pena",
+              "addressType": "Rua",
+              "cep": "13474667",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga I",
+              "latitude": "-22.69838",
+              "longitude": "-47.29321"
+            },
+            {
+              "name": "Ari Barroso",
+              "addressType": "Rua",
+              "cep": "13474620",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga I",
+              "latitude": "-22.70036",
+              "longitude": "-47.29364"
+            },
+            {
+              "name": "Anita Garibaldi",
+              "addressType": "Rua",
+              "cep": "13474640",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga I",
+              "latitude": "-22.70354",
+              "longitude": "-47.2936"
+            },
+            {
+              "name": "Anália Franco",
+              "addressType": "Rua",
+              "cep": "13474602",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga I",
+              "latitude": "-22.70089",
+              "longitude": "-47.29687"
+            }
+          ]
+        },
+        {
+          "name": "Antônio Zanaga II",
+          "streets": [
+            {
+              "name": "Alberto Seabra",
+              "addressType": "Rua",
+              "cep": "13474402",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga II",
+              "latitude": "-22.70605",
+              "longitude": "-47.29052"
+            },
+            {
+              "name": "Adelmar Tavares",
+              "addressType": "Rua",
+              "cep": "13474422",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga II",
+              "latitude": "-22.70315",
+              "longitude": "-47.28876"
+            },
+            {
+              "name": "Ascenso Ferreira",
+              "addressType": "Rua",
+              "cep": "13474432",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga II",
+              "latitude": "-22.7016",
+              "longitude": "-47.28924"
+            },
+            {
+              "name": "Américo Falcão",
+              "addressType": "Rua",
+              "cep": "13474441",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga II",
+              "latitude": "-22.72738",
+              "longitude": "-47.33445"
+            },
+            {
+              "name": "Anhanguera, Km 128",
+              "addressType": "Rodovia",
+              "cep": "13474901",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga II",
+              "latitude": "-22.70401",
+              "longitude": "-47.30338"
+            },
+            {
+              "name": "Alceu Wamosy",
+              "addressType": "Rua",
+              "cep": "13474423",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga II",
+              "latitude": "-22.70197",
+              "longitude": "-47.28988"
+            },
+            {
+              "name": "Anhanguera, Km 129",
+              "addressType": "Rodovia",
+              "cep": "13474902",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga II",
+              "latitude": "-22.70401",
+              "longitude": "-47.30338"
+            },
+            {
+              "name": "Anhanguera, 128000",
+              "addressType": "Rodovia",
+              "cep": "13474900",
+              "state": "São Paulo",
+              "city": "Americana",
+              "district": "Antônio Zanaga II",
+              "latitude": "-22.70401",
+              "longitude": "-47.30338"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amparo",
+      "ibgeCode": "3501905",
+      "ddd": "19",
+      "districts": [
+        {
+          "name": "Arcadas",
+          "streets": [
+            {
+              "name": "Eneida Angelina Lodetti",
+              "addressType": "Rua",
+              "cep": "13908130",
+              "state": "São Paulo",
+              "city": "Amparo",
+              "district": "Arcadas",
+              "latitude": "-22.71982",
+              "longitude": "-46.83855"
+            },
+            {
+              "name": "Humberto Vitorio Gueratto",
+              "addressType": "Rua",
+              "cep": "13908120",
+              "state": "São Paulo",
+              "city": "Amparo",
+              "district": "Arcadas",
+              "latitude": "-22.7211",
+              "longitude": "-46.83903"
+            },
+            {
+              "name": "Horacilio Rodrigues Alves",
+              "addressType": "Rua",
+              "cep": "13908160",
+              "state": "São Paulo",
+              "city": "Amparo",
+              "district": "Arcadas",
+              "latitude": "-22.72075",
+              "longitude": "-46.83833"
+            },
+            {
+              "name": "Leone Piffer",
+              "addressType": "Rua",
+              "cep": "13908110",
+              "state": "São Paulo",
+              "city": "Amparo",
+              "district": "Arcadas",
+              "latitude": "-22.72524",
+              "longitude": "-46.85389"
+            },
+            {
+              "name": "Ricieri Marchiori",
+              "addressType": "Rua",
+              "cep": "13908140",
+              "state": "São Paulo",
+              "city": "Amparo",
+              "district": "Arcadas",
+              "latitude": "-22.71975",
+              "longitude": "-46.83764"
+            },
+            {
+              "name": "Rubens Paulino De Oliveira",
+              "addressType": "Rua",
+              "cep": "13908150",
+              "state": "São Paulo",
+              "city": "Amparo",
+              "district": "Arcadas",
+              "latitude": "-22.72354",
+              "longitude": "-46.84345"
+            }
+          ]
+        },
+        {
+          "name": "Arruda",
+          "streets": [
+            {
+              "name": "Affonso Ribeiro Persicano",
+              "addressType": "Estrada",
+              "cep": "13901600",
+              "state": "São Paulo",
+              "city": "Amparo",
+              "district": "Arruda",
+              "latitude": "-22.69054",
+              "longitude": "-46.77824"
+            },
+            {
+              "name": "Affonso Ribeiro Persicano",
+              "addressType": "Estrada",
+              "cep": "13901805",
+              "state": "São Paulo",
+              "city": "Amparo",
+              "district": "Arruda",
+              "latitude": "-22.69108",
+              "longitude": "-46.77804"
+            },
+            {
+              "name": "Antônio Cazarini",
+              "addressType": "Rodovia",
+              "cep": "13901800",
+              "state": "São Paulo",
+              "city": "Amparo",
+              "district": "Arruda",
+              "latitude": "-22.68938",
+              "longitude": "-46.77385"
+            },
+            {
+              "name": "Olavo Bilac",
+              "addressType": "Praça",
+              "cep": "13901809",
+              "state": "São Paulo",
+              "city": "Amparo",
+              "district": "Arruda",
+              "latitude": "-22.69433",
+              "longitude": "-46.76958"
+            }
+          ]
+        },
+        {
+          "name": "Bocaina",
+          "streets": [
+            {
+              "name": "Professora Pedrina Maria da Silva Valente",
+              "addressType": "Rodovia",
+              "cep": "13902880",
+              "state": "São Paulo",
+              "city": "Amparo",
+              "district": "Bocaina",
+              "latitude": "-22.68652",
+              "longitude": "-46.73642"
+            },
+            {
+              "name": "Professora Pedrina Maria da Silva Valente",
+              "addressType": "Rodovia",
+              "cep": "13909100",
+              "state": "São Paulo",
+              "city": "Amparo",
+              "district": "Bocaina",
+              "latitude": "-22.68385",
+              "longitude": "-46.74076"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Américo Brasiliense",
+      "ibgeCode": "3501707",
+      "ddd": "16",
+      "districts": [
+        {
+          "name": "Antonio Pavan",
+          "streets": [
+            {
+              "name": "Benedicto Pereira de Godoy",
+              "addressType": "Avenida",
+              "cep": "14820586",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "Antonio Pavan",
+              "latitude": "-21.7422",
+              "longitude": "-48.111"
+            },
+            {
+              "name": "Aparecida Onofra de Godoy",
+              "addressType": "Avenida",
+              "cep": "14820582",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "Antonio Pavan",
+              "latitude": "-21.73528",
+              "longitude": "-48.12181"
+            },
+            {
+              "name": "Pedro Salomão",
+              "addressType": "Avenida",
+              "cep": "14820590",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "Antonio Pavan",
+              "latitude": "-21.74338",
+              "longitude": "-48.11167"
+            },
+            {
+              "name": "Luiza Delfina da Silva",
+              "addressType": "Rua",
+              "cep": "14820594",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "Antonio Pavan",
+              "latitude": "-21.73666",
+              "longitude": "-48.11043"
+            },
+            {
+              "name": "14",
+              "addressType": "Avenida",
+              "cep": "14820592",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "Antonio Pavan",
+              "latitude": "-21.73718",
+              "longitude": "-48.10578"
+            },
+            {
+              "name": "Sebastião Severino",
+              "addressType": "Avenida",
+              "cep": "14820588",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "Antonio Pavan",
+              "latitude": "-21.74278",
+              "longitude": "-48.11105"
+            },
+            {
+              "name": "Ovidio Marchiorato",
+              "addressType": "Rua",
+              "cep": "14820580",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "Antonio Pavan",
+              "latitude": "-21.74033",
+              "longitude": "-48.1104"
+            },
+            {
+              "name": "José Joaquim da Silva",
+              "addressType": "Avenida",
+              "cep": "14820584",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "Antonio Pavan",
+              "latitude": "-21.74166",
+              "longitude": "-48.11095"
+            }
+          ]
+        },
+        {
+          "name": "CECAP",
+          "streets": [
+            {
+              "name": "Dom Pedro II",
+              "addressType": "Rua",
+              "cep": "14820512",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "CECAP",
+              "latitude": "-21.73084",
+              "longitude": "-48.10459"
+            },
+            {
+              "name": "José Paulo Abi Jaudi",
+              "addressType": "Rua",
+              "cep": "14820502",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "CECAP",
+              "latitude": "-21.73375",
+              "longitude": "-48.10734"
+            },
+            {
+              "name": "Doutor Nicolau Carneiro Leão",
+              "addressType": "Rua",
+              "cep": "14820508",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "CECAP",
+              "latitude": "-21.73257",
+              "longitude": "-48.10614"
+            },
+            {
+              "name": "Luiz Imbriani",
+              "addressType": "Avenida",
+              "cep": "14820504",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "CECAP",
+              "latitude": "-21.73599",
+              "longitude": "-48.11001"
+            },
+            {
+              "name": "Nicoleta Piragino Nigro",
+              "addressType": "Rua",
+              "cep": "14820510",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "CECAP",
+              "latitude": "-21.73497",
+              "longitude": "-48.10865"
+            },
+            {
+              "name": "Lourenço Barbieri",
+              "addressType": "Rua",
+              "cep": "14820506",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "CECAP",
+              "latitude": "-21.73669",
+              "longitude": "-48.10689"
+            },
+            {
+              "name": "Santo Antônio",
+              "addressType": "Avenida",
+              "cep": "14820500",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "CECAP",
+              "latitude": "-21.73676",
+              "longitude": "-48.10935"
+            }
+          ]
+        },
+        {
+          "name": "COHAB",
+          "streets": [
+            {
+              "name": "Taubaté",
+              "addressType": "Rua",
+              "cep": "14820774",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "COHAB",
+              "latitude": "-21.74761",
+              "longitude": "-48.12033"
+            },
+            {
+              "name": "Catanduva",
+              "addressType": "Avenida",
+              "cep": "14820754",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "COHAB",
+              "latitude": "-21.74554",
+              "longitude": "-48.11943"
+            },
+            {
+              "name": "Barretos",
+              "addressType": "Avenida",
+              "cep": "14820784",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "COHAB",
+              "latitude": "-21.74639",
+              "longitude": "-48.123"
+            },
+            {
+              "name": "Jaú",
+              "addressType": "Rua",
+              "cep": "14820778",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "COHAB",
+              "latitude": "-21.74848",
+              "longitude": "-48.11918"
+            },
+            {
+              "name": "Guarapuã",
+              "addressType": "Rua",
+              "cep": "14820776",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "COHAB",
+              "latitude": "-21.74808",
+              "longitude": "-48.11984"
+            },
+            {
+              "name": "Sumaré",
+              "addressType": "Avenida",
+              "cep": "14820786",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "COHAB",
+              "latitude": "-21.74972",
+              "longitude": "-48.1218"
+            },
+            {
+              "name": "da Amizade",
+              "addressType": "Praça",
+              "cep": "14820762",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "COHAB",
+              "latitude": "-21.74431",
+              "longitude": "-48.12055"
+            },
+            {
+              "name": "Araraquara",
+              "addressType": "Avenida",
+              "cep": "14820750",
+              "state": "São Paulo",
+              "city": "Américo Brasiliense",
+              "district": "COHAB",
+              "latitude": "-21.74711",
+              "longitude": "-48.11824"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

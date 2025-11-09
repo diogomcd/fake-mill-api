@@ -1,0 +1,271 @@
+{
+  "code": "AC",
+  "name": "Acre",
+  "capital": "Rio Branco",
+  "ddd": "68",
+  "regiao": "Norte",
+  "cities": [
+    {
+      "name": "Rio Branco",
+      "ibgeCode": "1200401",
+      "ddd": "68",
+      "districts": [
+        {
+          "name": "7º BEC",
+          "streets": [
+            {
+              "name": "Ceará",
+              "addressType": "Avenida",
+              "cep": "69918111",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "7º BEC",
+              "latitude": "-9.96598",
+              "longitude": "-67.83782"
+            },
+            {
+              "name": "Major Ladislau Ferreira",
+              "addressType": "Rua",
+              "cep": "69918117",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "7º BEC",
+              "latitude": "-9.95993",
+              "longitude": "-67.8031"
+            },
+            {
+              "name": "Padre André",
+              "addressType": "Rua",
+              "cep": "69918102",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "7º BEC",
+              "latitude": "-9.96831",
+              "longitude": "-67.82642"
+            },
+            {
+              "name": "Isaura Parente",
+              "addressType": "Rua",
+              "cep": "69918090",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "7º BEC",
+              "latitude": "-9.96451",
+              "longitude": "-67.8154"
+            },
+            {
+              "name": "Caramurú",
+              "addressType": "Travessa",
+              "cep": "69918096",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "7º BEC",
+              "latitude": "-9.96826",
+              "longitude": "-67.82217"
+            },
+            {
+              "name": "Omar Sabino",
+              "addressType": "Rua",
+              "cep": "69918114",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "7º BEC",
+              "latitude": "-10.03952",
+              "longitude": "-67.80312"
+            },
+            {
+              "name": "Nações Unidas",
+              "addressType": "Avenida",
+              "cep": "69918093",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "7º BEC",
+              "latitude": "-9.96574",
+              "longitude": "-67.83338"
+            },
+            {
+              "name": "Ceará, 3607",
+              "addressType": "Avenida",
+              "cep": "69900973",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "7º BEC",
+              "latitude": "-9.97254",
+              "longitude": "-67.80027"
+            }
+          ]
+        },
+        {
+          "name": "Abrahão Alab",
+          "streets": [
+            {
+              "name": "Rubens Carneiro",
+              "addressType": "Rua",
+              "cep": "69907170",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "Abrahão Alab",
+              "latitude": "-9.97165",
+              "longitude": "-67.82264"
+            },
+            {
+              "name": "Mozart",
+              "addressType": "Rua",
+              "cep": "69907100",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "Abrahão Alab",
+              "latitude": "-9.96958",
+              "longitude": "-67.82229"
+            },
+            {
+              "name": "Ari Rodrigues",
+              "addressType": "Rua",
+              "cep": "69907190",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "Abrahão Alab",
+              "latitude": "-9.99036",
+              "longitude": "-67.85001"
+            },
+            {
+              "name": "Ceara",
+              "addressType": "Avenida",
+              "cep": "69907000",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "Abrahão Alab",
+              "latitude": "-9.96913",
+              "longitude": "-67.82371"
+            },
+            {
+              "name": "Veterano Manoel Avelino",
+              "addressType": "Rua",
+              "cep": "69907140",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "Abrahão Alab",
+              "latitude": "-9.97191",
+              "longitude": "-67.8251"
+            },
+            {
+              "name": "Veterano Manoel Barros",
+              "addressType": "Rua",
+              "cep": "69907150",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "Abrahão Alab",
+              "latitude": "-9.97182",
+              "longitude": "-67.82573"
+            },
+            {
+              "name": "Veterano Telmo Julião",
+              "addressType": "Rua",
+              "cep": "69907130",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "Abrahão Alab",
+              "latitude": "-9.97202",
+              "longitude": "-67.82445"
+            },
+            {
+              "name": "Pio XII",
+              "addressType": "Rua",
+              "cep": "69907200",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "Abrahão Alab",
+              "latitude": "-9.97089",
+              "longitude": "-67.82999"
+            }
+          ]
+        },
+        {
+          "name": "Abraão Alab",
+          "streets": [
+            {
+              "name": "Ari Rodrigues",
+              "addressType": "Rua",
+              "cep": "69918046",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "Abraão Alab",
+              "latitude": "-9.97229",
+              "longitude": "-67.82412"
+            },
+            {
+              "name": "Rio de Janeiro",
+              "addressType": "Rua",
+              "cep": "69918048",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "Abraão Alab",
+              "latitude": "-9.97304",
+              "longitude": "-67.82722"
+            },
+            {
+              "name": "Carmópolis",
+              "addressType": "Rua",
+              "cep": "69918062",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "Abraão Alab",
+              "latitude": "-9.97256",
+              "longitude": "-67.82192"
+            },
+            {
+              "name": "Itamaracá",
+              "addressType": "Rua",
+              "cep": "69918050",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "Abraão Alab",
+              "latitude": "-9.97182",
+              "longitude": "-67.82691"
+            },
+            {
+              "name": "Raimundo Gama",
+              "addressType": "Travessa",
+              "cep": "69918064",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "Abraão Alab",
+              "latitude": "-9.97293",
+              "longitude": "-67.82261"
+            },
+            {
+              "name": "Leblon",
+              "addressType": "Travessa",
+              "cep": "69918040",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "Abraão Alab",
+              "latitude": "-9.97321",
+              "longitude": "-67.82499"
+            },
+            {
+              "name": "Pio XII",
+              "addressType": "Rua",
+              "cep": "69918042",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "Abraão Alab",
+              "latitude": "-9.97084",
+              "longitude": "-67.82828"
+            },
+            {
+              "name": "Veterano Manoel Avelino",
+              "addressType": "Rua",
+              "cep": "69918054",
+              "state": "Acre",
+              "city": "Rio Branco",
+              "district": "Abraão Alab",
+              "latitude": "-9.96948",
+              "longitude": "-67.82502"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

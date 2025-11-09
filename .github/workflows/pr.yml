@@ -1,0 +1,58 @@
+name: PR Tests
+
+on:
+  pull_request:
+    branches: [ main, develop ]
+
+jobs:
+  test:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.24'
+          cache: true
+      
+      - name: Download dependencies
+        run: |
+          echo "📦 Downloading dependencies..."
+          go mod download
+          echo "✅ Dependencies downloaded successfully"
+      
+      - name: Vet
+        run: |
+          echo "🔍 Running go vet..."
+          go vet ./...
+          echo "✅ go vet passed"
+      
+      - name: Run tests (short)
+        run: |
+          echo "🧪 Running tests (short mode)..."
+          go test ./... -race -short -v
+          TEST_EXIT_CODE=$?
+          echo "📊 Exit code of tests: $TEST_EXIT_CODE"
+          if [ $TEST_EXIT_CODE -ne 0 ]; then
+            echo "❌ Tests failed with exit code $TEST_EXIT_CODE"
+            exit $TEST_EXIT_CODE
+          fi
+          echo "✅ All tests passed"
+      
+      - name: Build
+        run: |
+          echo "🔨 Compiling application..."
+          go build -v ./cmd/api
+          echo "✅ Build completed successfully"
+      
+      - name: Summary
+        if: always()
+        run: |
+          echo "================================"
+          echo "📋 SUMMARY OF WORKFLOW"
+          echo "================================"
+          echo "Go version: $(go version)"
+          echo "OS: $(uname -a)"
+          echo "================================"
+

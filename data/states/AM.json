@@ -1,0 +1,1229 @@
+{
+  "code": "AM",
+  "name": "Amazonas",
+  "capital": "Manaus",
+  "ddd": "92",
+  "regiao": "Norte",
+  "cities": [
+    {
+      "name": "Itacoatiara",
+      "ibgeCode": "1301902",
+      "ddd": "92",
+      "districts": [
+        {
+          "name": "Araújo Costa",
+          "streets": [
+            {
+              "name": "João Valério",
+              "addressType": "Beco",
+              "cep": "69101263",
+              "state": "Amazonas",
+              "city": "Itacoatiara",
+              "district": "Araújo Costa",
+              "latitude": "-3.13548",
+              "longitude": "-58.43969"
+            },
+            {
+              "name": "Ita 2",
+              "addressType": "Rua",
+              "cep": "69101266",
+              "state": "Amazonas",
+              "city": "Itacoatiara",
+              "district": "Araújo Costa",
+              "latitude": "-3.1445",
+              "longitude": "-58.44073"
+            },
+            {
+              "name": "do Fast",
+              "addressType": "Beco",
+              "cep": "69101245",
+              "state": "Amazonas",
+              "city": "Itacoatiara",
+              "district": "Araújo Costa",
+              "latitude": "-3.14244",
+              "longitude": "-58.44098"
+            },
+            {
+              "name": "Osório Fonseca",
+              "addressType": "Beco",
+              "cep": "69101248",
+              "state": "Amazonas",
+              "city": "Itacoatiara",
+              "district": "Araújo Costa",
+              "latitude": "-3.14243",
+              "longitude": "-58.44071"
+            },
+            {
+              "name": "João Valério",
+              "addressType": "Avenida",
+              "cep": "69101260",
+              "state": "Amazonas",
+              "city": "Itacoatiara",
+              "district": "Araújo Costa",
+              "latitude": "-3.14234",
+              "longitude": "-58.44071"
+            },
+            {
+              "name": "Aquilino Barros",
+              "addressType": "Avenida",
+              "cep": "69101230",
+              "state": "Amazonas",
+              "city": "Itacoatiara",
+              "district": "Araújo Costa",
+              "latitude": "-3.14949",
+              "longitude": "-58.44171"
+            },
+            {
+              "name": "Benjamim Constant",
+              "addressType": "Rua",
+              "cep": "69101236",
+              "state": "Amazonas",
+              "city": "Itacoatiara",
+              "district": "Araújo Costa",
+              "latitude": "-3.14005",
+              "longitude": "-58.42536"
+            },
+            {
+              "name": "Acácio Leite",
+              "addressType": "Rua",
+              "cep": "69101251",
+              "state": "Amazonas",
+              "city": "Itacoatiara",
+              "district": "Araújo Costa",
+              "latitude": "-3.13633",
+              "longitude": "-58.44625"
+            }
+          ]
+        },
+        {
+          "name": "Centenário",
+          "streets": [
+            {
+              "name": "do Aeroporto",
+              "addressType": "Estrada",
+              "cep": "69100200",
+              "state": "Amazonas",
+              "city": "Itacoatiara",
+              "district": "Centenário",
+              "latitude": "-3.10827",
+              "longitude": "-58.45739"
+            },
+            {
+              "name": "Álvaro França",
+              "addressType": "Rua",
+              "cep": "69100170",
+              "state": "Amazonas",
+              "city": "Itacoatiara",
+              "district": "Centenário",
+              "latitude": "-3.14337",
+              "longitude": "-58.45264"
+            }
+          ]
+        },
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "Coronel Barbosa",
+              "addressType": "Rua",
+              "cep": "69100051",
+              "state": "Amazonas",
+              "city": "Itacoatiara",
+              "district": "Centro",
+              "latitude": "-3.14977",
+              "longitude": "-58.44361"
+            },
+            {
+              "name": "Eduardo Ribeiro",
+              "addressType": "Rua",
+              "cep": "69100027",
+              "state": "Amazonas",
+              "city": "Itacoatiara",
+              "district": "Centro",
+              "latitude": "-3.14448",
+              "longitude": "-58.44485"
+            },
+            {
+              "name": "Ministro Waldemar Pedrosa",
+              "addressType": "Rua",
+              "cep": "69100060",
+              "state": "Amazonas",
+              "city": "Itacoatiara",
+              "district": "Centro",
+              "latitude": "-3.15019",
+              "longitude": "-58.44409"
+            },
+            {
+              "name": "Nossa Senhora do Rosário",
+              "addressType": "Rua",
+              "cep": "69100099",
+              "state": "Amazonas",
+              "city": "Itacoatiara",
+              "district": "Centro",
+              "latitude": "-3.14263",
+              "longitude": "-58.44647"
+            },
+            {
+              "name": "Manaus",
+              "addressType": "Avenida",
+              "cep": "69100024",
+              "state": "Amazonas",
+              "city": "Itacoatiara",
+              "district": "Centro",
+              "latitude": "-3.14901",
+              "longitude": "-58.4429"
+            },
+            {
+              "name": "Isaac Peres",
+              "addressType": "Rua",
+              "cep": "69100096",
+              "state": "Amazonas",
+              "city": "Itacoatiara",
+              "district": "Centro",
+              "latitude": "-3.1411",
+              "longitude": "-58.4477"
+            },
+            {
+              "name": "Parque, 371",
+              "addressType": "Avenida",
+              "cep": "69100970",
+              "state": "Amazonas",
+              "city": "Itacoatiara",
+              "district": "Centro",
+              "latitude": "-3.14009",
+              "longitude": "-58.44613"
+            },
+            {
+              "name": "Isaac Peres",
+              "addressType": "Rua",
+              "cep": "69100015",
+              "state": "Amazonas",
+              "city": "Itacoatiara",
+              "district": "Centro",
+              "latitude": "-3.14111",
+              "longitude": "-58.44482"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Manacapuru",
+      "ibgeCode": "1302504",
+      "ddd": "92",
+      "districts": [
+        {
+          "name": "Aparecida",
+          "streets": [
+            {
+              "name": "da União",
+              "addressType": "Beco",
+              "cep": "69400454",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Aparecida",
+              "latitude": "-3.29202",
+              "longitude": "-60.62636"
+            },
+            {
+              "name": "Nova Vitória",
+              "addressType": "Rua",
+              "cep": "69400478",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Aparecida",
+              "latitude": "-3.27784",
+              "longitude": "-60.65721"
+            },
+            {
+              "name": "Almirante Tamandaré, 1151",
+              "addressType": "Rua",
+              "cep": "69400906",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Aparecida",
+              "latitude": "-3.29384",
+              "longitude": "-60.62583"
+            },
+            {
+              "name": "Joaquina Alexandre",
+              "addressType": "Rua",
+              "cep": "69400486",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Aparecida",
+              "latitude": "-3.29041",
+              "longitude": "-60.62231"
+            },
+            {
+              "name": "Almirante Tamandaré",
+              "addressType": "Rua",
+              "cep": "69400440",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Aparecida",
+              "latitude": "-3.29531",
+              "longitude": "-60.62403"
+            },
+            {
+              "name": "Waldemar Ventura",
+              "addressType": "Rua",
+              "cep": "69400480",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Aparecida",
+              "latitude": "-3.29118",
+              "longitude": "-60.62685"
+            },
+            {
+              "name": "Coronel Madeira",
+              "addressType": "Beco",
+              "cep": "69400443",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Aparecida",
+              "latitude": "-3.2956",
+              "longitude": "-60.62268"
+            },
+            {
+              "name": "Pedro Rattes",
+              "addressType": "Boulevard",
+              "cep": "69400450",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Aparecida",
+              "latitude": "-3.28022",
+              "longitude": "-60.6486"
+            }
+          ]
+        },
+        {
+          "name": "Biribiri",
+          "streets": [
+            {
+              "name": "Luciano Galvão",
+              "addressType": "Beco",
+              "cep": "69400140",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Biribiri",
+              "latitude": "-3.30084",
+              "longitude": "-60.61748"
+            },
+            {
+              "name": "Antônio Pacheco Teles",
+              "addressType": "Beco",
+              "cep": "69400119",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Biribiri",
+              "latitude": "-3.30061",
+              "longitude": "-60.61332"
+            },
+            {
+              "name": "Joana DÂngelo",
+              "addressType": "Rua",
+              "cep": "69400122",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Biribiri",
+              "latitude": "-3.30011",
+              "longitude": "-60.61486"
+            },
+            {
+              "name": "José Fernandes",
+              "addressType": "Rua",
+              "cep": "69400095",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Biribiri",
+              "latitude": "-3.30042",
+              "longitude": "-60.6152"
+            },
+            {
+              "name": "Olímpio Campos",
+              "addressType": "Beco",
+              "cep": "69400125",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Biribiri",
+              "latitude": "-3.29531",
+              "longitude": "-60.62572"
+            },
+            {
+              "name": "Modesto Barroso",
+              "addressType": "Rua",
+              "cep": "69400107",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Biribiri",
+              "latitude": "-3.29988",
+              "longitude": "-60.61345"
+            },
+            {
+              "name": "Abel",
+              "addressType": "Rua",
+              "cep": "69400098",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Biribiri",
+              "latitude": "-3.29124",
+              "longitude": "-60.63134"
+            },
+            {
+              "name": "José Ventura",
+              "addressType": "Travessa",
+              "cep": "69400113",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Biribiri",
+              "latitude": "-3.2998",
+              "longitude": "-60.61294"
+            }
+          ]
+        },
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "Barão do Rio Branco",
+              "addressType": "Avenida",
+              "cep": "69400342",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Centro",
+              "latitude": "-3.30084",
+              "longitude": "-60.61902"
+            },
+            {
+              "name": "Bahia",
+              "addressType": "Rua",
+              "cep": "69400274",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Centro",
+              "latitude": "-3.29753",
+              "longitude": "-60.62681"
+            },
+            {
+              "name": "Adolfo Cavalcante",
+              "addressType": "Rua",
+              "cep": "69400300",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Centro",
+              "latitude": "-3.2982",
+              "longitude": "-60.62331"
+            },
+            {
+              "name": "Ajuricaba",
+              "addressType": "Travessa",
+              "cep": "69400330",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Centro",
+              "latitude": "-3.2973",
+              "longitude": "-60.62028"
+            },
+            {
+              "name": "Dom Pedro I",
+              "addressType": "Travessa",
+              "cep": "69400310",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Centro",
+              "latitude": "-3.2972",
+              "longitude": "-60.62172"
+            },
+            {
+              "name": "Barão do Rio Branco",
+              "addressType": "Avenida",
+              "cep": "69400240",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Centro",
+              "latitude": "-3.30109",
+              "longitude": "-60.61914"
+            },
+            {
+              "name": "João XXIII",
+              "addressType": "Avenida",
+              "cep": "69400314",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Centro",
+              "latitude": "-3.29788",
+              "longitude": "-60.62114"
+            },
+            {
+              "name": "Ribeiro Júnior",
+              "addressType": "Avenida",
+              "cep": "69400244",
+              "state": "Amazonas",
+              "city": "Manacapuru",
+              "district": "Centro",
+              "latitude": "-3.30009",
+              "longitude": "-60.61969"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Manaus",
+      "ibgeCode": "1302603",
+      "ddd": "92",
+      "districts": [
+        {
+          "name": "Adrianópolis",
+          "streets": [
+            {
+              "name": "Guilherme Paraense",
+              "addressType": "Rua",
+              "cep": "69057082",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Adrianópolis",
+              "latitude": "-3.09261",
+              "longitude": "-60.00376"
+            },
+            {
+              "name": "Mário Hayden",
+              "addressType": "Rua",
+              "cep": "69057012",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Adrianópolis",
+              "latitude": "-3.10254",
+              "longitude": "-60.01608"
+            },
+            {
+              "name": "Leonor Teles",
+              "addressType": "Beco",
+              "cep": "69057515",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Adrianópolis",
+              "latitude": "-3.10059",
+              "longitude": "-60.00734"
+            },
+            {
+              "name": "Jardim Itaóca",
+              "addressType": "Conjunto",
+              "cep": "69057370",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Adrianópolis",
+              "latitude": "-3.09142",
+              "longitude": "-60.01242"
+            },
+            {
+              "name": "Roberto Malatesta",
+              "addressType": "Rua",
+              "cep": "69057092",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Adrianópolis",
+              "latitude": "-3.09078",
+              "longitude": "-60.006"
+            },
+            {
+              "name": "Tavares Teixeira",
+              "addressType": "Rua",
+              "cep": "69057290",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Adrianópolis",
+              "latitude": "-3.09431",
+              "longitude": "-60.01005"
+            },
+            {
+              "name": "da Alegria",
+              "addressType": "Rua",
+              "cep": "69057073",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Adrianópolis",
+              "latitude": "-3.09303",
+              "longitude": "-60.00351"
+            },
+            {
+              "name": "C",
+              "addressType": "Quadra",
+              "cep": "69057610",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Adrianópolis",
+              "latitude": "-3.09015",
+              "longitude": "-60.01922"
+            }
+          ]
+        },
+        {
+          "name": "Aleixo",
+          "streets": [
+            {
+              "name": "Governador José Lindoso",
+              "addressType": "Avenida",
+              "cep": "69060118",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Aleixo",
+              "latitude": "-3.08591",
+              "longitude": "-59.9887"
+            },
+            {
+              "name": "Guarajá",
+              "addressType": "Beco",
+              "cep": "69060691",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Aleixo",
+              "latitude": "-3.09468",
+              "longitude": "-59.99982"
+            },
+            {
+              "name": "Serrana",
+              "addressType": "Travessa",
+              "cep": "69060320",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Aleixo",
+              "latitude": "-3.10162",
+              "longitude": "-59.99914"
+            },
+            {
+              "name": "Olímpia",
+              "addressType": "Beco",
+              "cep": "69060623",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Aleixo",
+              "latitude": "-3.09938",
+              "longitude": "-60.00545"
+            },
+            {
+              "name": "Oriente",
+              "addressType": "Rua",
+              "cep": "69060083",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Aleixo",
+              "latitude": "-3.09659",
+              "longitude": "-59.94596"
+            },
+            {
+              "name": "Serra Fina",
+              "addressType": "Rua",
+              "cep": "69060426",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Aleixo",
+              "latitude": "-3.08245",
+              "longitude": "-59.99598"
+            },
+            {
+              "name": "Oiapoque",
+              "addressType": "Rua",
+              "cep": "69060170",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Aleixo",
+              "latitude": "-3.09969",
+              "longitude": "-59.99812"
+            },
+            {
+              "name": "Serra Negra",
+              "addressType": "Rua",
+              "cep": "69060416",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Aleixo",
+              "latitude": "-3.08489",
+              "longitude": "-59.9979"
+            }
+          ]
+        },
+        {
+          "name": "Alvorada",
+          "streets": [
+            {
+              "name": "Tabira",
+              "addressType": "Rua",
+              "cep": "69046380",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Alvorada",
+              "latitude": "-3.0621",
+              "longitude": "-60.0439"
+            },
+            {
+              "name": "Itaguaçu",
+              "addressType": "Rua",
+              "cep": "69048510",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Alvorada",
+              "latitude": "-3.06574",
+              "longitude": "-60.03989"
+            },
+            {
+              "name": "Doutor Aurélio Pinheiro",
+              "addressType": "Travessa",
+              "cep": "69046280",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Alvorada",
+              "latitude": "-3.06377",
+              "longitude": "-60.04304"
+            },
+            {
+              "name": "Itaji",
+              "addressType": "Rua",
+              "cep": "69042077",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Alvorada",
+              "latitude": "-3.07962",
+              "longitude": "-60.05305"
+            },
+            {
+              "name": "Nadir Nascimento",
+              "addressType": "Rua",
+              "cep": "69043390",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Alvorada",
+              "latitude": "-3.07979",
+              "longitude": "-60.03411"
+            },
+            {
+              "name": "João Ernesto",
+              "addressType": "Rua",
+              "cep": "69043640",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Alvorada",
+              "latitude": "-3.08138",
+              "longitude": "-60.03694"
+            },
+            {
+              "name": "José Augusto de Queiroz",
+              "addressType": "Rua",
+              "cep": "69042130",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Alvorada",
+              "latitude": "-3.08024",
+              "longitude": "-60.05788"
+            },
+            {
+              "name": "José Aldo da S Oliveira",
+              "addressType": "Rua",
+              "cep": "69043162",
+              "state": "Amazonas",
+              "city": "Manaus",
+              "district": "Alvorada",
+              "latitude": "-3.0803",
+              "longitude": "-60.05616"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Parintins",
+      "ibgeCode": "1303403",
+      "ddd": "92",
+      "districts": [
+        {
+          "name": "Castanheira",
+          "streets": [
+            {
+              "name": "Carlos Brandão",
+              "addressType": "Rua",
+              "cep": "69153305",
+              "state": "Amazonas",
+              "city": "Parintins",
+              "district": "Castanheira",
+              "latitude": "-2.62612",
+              "longitude": "-56.71913"
+            },
+            {
+              "name": "da Fraternidade",
+              "addressType": "Rua",
+              "cep": "69153315",
+              "state": "Amazonas",
+              "city": "Parintins",
+              "district": "Castanheira",
+              "latitude": "-2.62577",
+              "longitude": "-56.71953"
+            },
+            {
+              "name": "da Felicidade",
+              "addressType": "Rua",
+              "cep": "69153310",
+              "state": "Amazonas",
+              "city": "Parintins",
+              "district": "Castanheira",
+              "latitude": "-2.62323",
+              "longitude": "-56.71893"
+            },
+            {
+              "name": "Joaquim Góes",
+              "addressType": "Rua",
+              "cep": "69153300",
+              "state": "Amazonas",
+              "city": "Parintins",
+              "district": "Castanheira",
+              "latitude": "-2.62493",
+              "longitude": "-56.71926"
+            },
+            {
+              "name": "Marcos Zagury",
+              "addressType": "Rua",
+              "cep": "69153290",
+              "state": "Amazonas",
+              "city": "Parintins",
+              "district": "Castanheira",
+              "latitude": "-2.62629",
+              "longitude": "-56.71978"
+            }
+          ]
+        },
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "João Meireles",
+              "addressType": "Rua",
+              "cep": "69151110",
+              "state": "Amazonas",
+              "city": "Parintins",
+              "district": "Centro",
+              "latitude": "-2.64238",
+              "longitude": "-56.73585"
+            },
+            {
+              "name": "Quatorze de Maio",
+              "addressType": "Praça",
+              "cep": "69151181",
+              "state": "Amazonas",
+              "city": "Parintins",
+              "district": "Centro",
+              "latitude": "-3.12308",
+              "longitude": "-60.01016"
+            },
+            {
+              "name": "Silva Campos",
+              "addressType": "Rua",
+              "cep": "69151293",
+              "state": "Amazonas",
+              "city": "Parintins",
+              "district": "Centro",
+              "latitude": "-2.62523",
+              "longitude": "-56.73558"
+            },
+            {
+              "name": "Silva Meireles",
+              "addressType": "Rua",
+              "cep": "69151280",
+              "state": "Amazonas",
+              "city": "Parintins",
+              "district": "Centro",
+              "latitude": "-2.62528",
+              "longitude": "-56.73464"
+            },
+            {
+              "name": "Sagrado Coração",
+              "addressType": "Praça",
+              "cep": "69151291",
+              "state": "Amazonas",
+              "city": "Parintins",
+              "district": "Centro",
+              "latitude": "-2.62717",
+              "longitude": "-56.73404"
+            },
+            {
+              "name": "Independência",
+              "addressType": "Beco",
+              "cep": "69151380",
+              "state": "Amazonas",
+              "city": "Parintins",
+              "district": "Centro",
+              "latitude": "-2.63144",
+              "longitude": "-56.73817"
+            },
+            {
+              "name": "Tukasa",
+              "addressType": "Praça",
+              "cep": "69151061",
+              "state": "Amazonas",
+              "city": "Parintins",
+              "district": "Centro",
+              "latitude": "-2.63392",
+              "longitude": "-56.73552"
+            },
+            {
+              "name": "Tomás Meireles",
+              "addressType": "Beco",
+              "cep": "69151042",
+              "state": "Amazonas",
+              "city": "Parintins",
+              "district": "Centro",
+              "latitude": "-2.63154",
+              "longitude": "-56.73628"
+            }
+          ]
+        },
+        {
+          "name": "Distrito Industrial",
+          "streets": [
+            {
+              "name": "Andiroba",
+              "addressType": "Rua",
+              "cep": "69152350",
+              "state": "Amazonas",
+              "city": "Parintins",
+              "district": "Distrito Industrial",
+              "latitude": "-2.64516",
+              "longitude": "-56.75346"
+            },
+            {
+              "name": "Acariúba",
+              "addressType": "Avenida",
+              "cep": "69152310",
+              "state": "Amazonas",
+              "city": "Parintins",
+              "district": "Distrito Industrial",
+              "latitude": "-2.64695",
+              "longitude": "-56.75416"
+            },
+            {
+              "name": "Pau Rosa",
+              "addressType": "Rua",
+              "cep": "69152313",
+              "state": "Amazonas",
+              "city": "Parintins",
+              "district": "Distrito Industrial",
+              "latitude": "-3.00548",
+              "longitude": "-60.0037"
+            },
+            {
+              "name": "Angelin",
+              "addressType": "Rua",
+              "cep": "69152345",
+              "state": "Amazonas",
+              "city": "Parintins",
+              "district": "Distrito Industrial",
+              "latitude": "-2.64691",
+              "longitude": "-56.75227"
+            },
+            {
+              "name": "Um",
+              "addressType": "Alameda",
+              "cep": "69152333",
+              "state": "Amazonas",
+              "city": "Parintins",
+              "district": "Distrito Industrial",
+              "latitude": "-2.64516",
+              "longitude": "-56.75346"
+            },
+            {
+              "name": "Cedro",
+              "addressType": "Rua",
+              "cep": "69152323",
+              "state": "Amazonas",
+              "city": "Parintins",
+              "district": "Distrito Industrial",
+              "latitude": "-3.00538",
+              "longitude": "-60.0037"
+            },
+            {
+              "name": "Muracatiara",
+              "addressType": "Rua",
+              "cep": "69152330",
+              "state": "Amazonas",
+              "city": "Parintins",
+              "district": "Distrito Industrial",
+              "latitude": "-2.64516",
+              "longitude": "-56.75346"
+            },
+            {
+              "name": "Massaranduba",
+              "addressType": "Avenida",
+              "cep": "69152320",
+              "state": "Amazonas",
+              "city": "Parintins",
+              "district": "Distrito Industrial",
+              "latitude": "-2.63744",
+              "longitude": "-56.75684"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tefé",
+      "ibgeCode": "1304203",
+      "ddd": "97",
+      "districts": [
+        {
+          "name": "Abial",
+          "streets": [
+            {
+              "name": "10 de Maio",
+              "addressType": "Rua",
+              "cep": "69550470",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Abial",
+              "latitude": "-3.34519",
+              "longitude": "-64.69842"
+            },
+            {
+              "name": "da Carreira",
+              "addressType": "Rua",
+              "cep": "69550425",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Abial",
+              "latitude": "-3.3439",
+              "longitude": "-64.694"
+            },
+            {
+              "name": "Cuiabá",
+              "addressType": "Travessa",
+              "cep": "69550485",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Abial",
+              "latitude": "-3.34581",
+              "longitude": "-64.70835"
+            },
+            {
+              "name": "Cristóvão Colombo",
+              "addressType": "Rua",
+              "cep": "69550435",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Abial",
+              "latitude": "-3.3437",
+              "longitude": "-64.69516"
+            },
+            {
+              "name": "São Pedro",
+              "addressType": "Rua",
+              "cep": "69550445",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Abial",
+              "latitude": "-3.35461",
+              "longitude": "-64.70856"
+            },
+            {
+              "name": "da Estradinha",
+              "addressType": "Beco",
+              "cep": "69550495",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Abial",
+              "latitude": "-3.35002",
+              "longitude": "-64.71737"
+            },
+            {
+              "name": "Beira Mar",
+              "addressType": "Travessa",
+              "cep": "69550415",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Abial",
+              "latitude": "-3.34451",
+              "longitude": "-64.69314"
+            },
+            {
+              "name": "Beira Mar",
+              "addressType": "Rua",
+              "cep": "69550490",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Abial",
+              "latitude": "-3.34477",
+              "longitude": "-64.69562"
+            }
+          ]
+        },
+        {
+          "name": "Aeroporto",
+          "streets": [
+            {
+              "name": "Tefé",
+              "addressType": "Alameda",
+              "cep": "69555185",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Aeroporto",
+              "latitude": "-3.34742",
+              "longitude": "-64.70964"
+            },
+            {
+              "name": "Estirão do Equador",
+              "addressType": "Rua",
+              "cep": "69555205",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Aeroporto",
+              "latitude": "-3.36959",
+              "longitude": "-64.71643"
+            },
+            {
+              "name": "da Agrovila",
+              "addressType": "Estrada",
+              "cep": "69555305",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Aeroporto",
+              "latitude": "-3.3714",
+              "longitude": "-64.72787"
+            },
+            {
+              "name": "Pedro Teixeira",
+              "addressType": "Rua",
+              "cep": "69555260",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Aeroporto",
+              "latitude": "-3.37689",
+              "longitude": "-64.71375"
+            },
+            {
+              "name": "Montese",
+              "addressType": "Rua",
+              "cep": "69555320",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Aeroporto",
+              "latitude": "-3.37878",
+              "longitude": "-64.7239"
+            },
+            {
+              "name": "das Missões",
+              "addressType": "Rua",
+              "cep": "69555265",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Aeroporto",
+              "latitude": "-3.37679",
+              "longitude": "-64.71361"
+            },
+            {
+              "name": "das Missões",
+              "addressType": "Alameda",
+              "cep": "69555310",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Aeroporto",
+              "latitude": "-3.37708",
+              "longitude": "-64.71362"
+            },
+            {
+              "name": "Tarauacá",
+              "addressType": "Rua",
+              "cep": "69555255",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Aeroporto",
+              "latitude": "-3.37546",
+              "longitude": "-64.71434"
+            }
+          ]
+        },
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "Olavo Bilac, 377",
+              "addressType": "Rua",
+              "cep": "69550901",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Centro",
+              "latitude": "-3.10585",
+              "longitude": "-60.05798"
+            },
+            {
+              "name": "Santa Teresa",
+              "addressType": "Praça",
+              "cep": "69550053",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Centro",
+              "latitude": "-3.35846",
+              "longitude": "-64.72694"
+            },
+            {
+              "name": "Mesquita Braga",
+              "addressType": "Travessa",
+              "cep": "69550021",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Centro",
+              "latitude": "-3.34517",
+              "longitude": "-64.70727"
+            },
+            {
+              "name": "Santa Teresa",
+              "addressType": "Travessa",
+              "cep": "69550029",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Centro",
+              "latitude": "-3.34556",
+              "longitude": "-64.70767"
+            },
+            {
+              "name": "Presidente Costa e Silva",
+              "addressType": "Rua",
+              "cep": "69550117",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Centro",
+              "latitude": "-3.34921",
+              "longitude": "-64.71083"
+            },
+            {
+              "name": "Olavo Bilac, 298",
+              "addressType": "Rua",
+              "cep": "69550900",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Centro",
+              "latitude": "-3.10684",
+              "longitude": "-60.06085"
+            },
+            {
+              "name": "Olavo Bilac, 406",
+              "addressType": "Rua",
+              "cep": "69550902",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Centro",
+              "latitude": "-3.10684",
+              "longitude": "-60.06085"
+            },
+            {
+              "name": "Getúlio Vargas",
+              "addressType": "Praça",
+              "cep": "69550025",
+              "state": "Amazonas",
+              "city": "Tefé",
+              "district": "Centro",
+              "latitude": "-3.34627",
+              "longitude": "-64.70753"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

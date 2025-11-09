@@ -1,0 +1,967 @@
+{
+  "code": "PI",
+  "name": "Piauí",
+  "capital": "Teresina",
+  "ddd": "89",
+  "regiao": "Nordeste",
+  "cities": [
+    {
+      "name": "Floriano",
+      "ibgeCode": "2203909",
+      "ddd": "89",
+      "districts": [
+        {
+          "name": "Alto da Cruz",
+          "streets": [
+            {
+              "name": "Quadra 12",
+              "addressType": "Quadra",
+              "cep": "64803286",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Alto da Cruz",
+              "latitude": "-6.76218",
+              "longitude": "-43.00283"
+            },
+            {
+              "name": "Nossa Senhora de Fátima",
+              "addressType": "Rua",
+              "cep": "64803275",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Alto da Cruz",
+              "latitude": "-6.76203",
+              "longitude": "-43.00368"
+            },
+            {
+              "name": "Raimundo Ramos",
+              "addressType": "Rua",
+              "cep": "64803307",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Alto da Cruz",
+              "latitude": "-6.76165",
+              "longitude": "-43.00531"
+            },
+            {
+              "name": "Quadra 20",
+              "addressType": "Quadra",
+              "cep": "64803299",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Alto da Cruz",
+              "latitude": "-6.76218",
+              "longitude": "-43.00283"
+            },
+            {
+              "name": "Quadra 06",
+              "addressType": "Quadra",
+              "cep": "64803277",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Alto da Cruz",
+              "latitude": "-6.76218",
+              "longitude": "-43.00283"
+            },
+            {
+              "name": "Projetada 157",
+              "addressType": "Rua",
+              "cep": "64803292",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Alto da Cruz",
+              "latitude": "-6.7784",
+              "longitude": "-43.01239"
+            },
+            {
+              "name": "Quadra 17",
+              "addressType": "Quadra",
+              "cep": "64803294",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Alto da Cruz",
+              "latitude": "-6.76218",
+              "longitude": "-43.00283"
+            },
+            {
+              "name": "Quadra 05",
+              "addressType": "Quadra",
+              "cep": "64803276",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Alto da Cruz",
+              "latitude": "-6.76218",
+              "longitude": "-43.00283"
+            }
+          ]
+        },
+        {
+          "name": "Alto da Guia",
+          "streets": [
+            {
+              "name": "José Olegário Correia",
+              "addressType": "Rua",
+              "cep": "64807150",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Alto da Guia",
+              "latitude": "-6.78556",
+              "longitude": "-43.01418"
+            },
+            {
+              "name": "Oito de Julho",
+              "addressType": "Rua",
+              "cep": "64807130",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Alto da Guia",
+              "latitude": "-6.78874",
+              "longitude": "-43.01438"
+            },
+            {
+              "name": "Francisco Pereira Rodrigues",
+              "addressType": "Rua",
+              "cep": "64807110",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Alto da Guia",
+              "latitude": "-6.80098",
+              "longitude": "-43.01092"
+            },
+            {
+              "name": "Gilson Pereira dos Santos",
+              "addressType": "Rua",
+              "cep": "64807105",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Alto da Guia",
+              "latitude": "-6.78147",
+              "longitude": "-43.02126"
+            },
+            {
+              "name": "Cândido Pereira",
+              "addressType": "Rua",
+              "cep": "64807120",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Alto da Guia",
+              "latitude": "-6.76235",
+              "longitude": "-43.00294"
+            },
+            {
+              "name": "José de Sousa Leal",
+              "addressType": "Rua",
+              "cep": "64807060",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Alto da Guia",
+              "latitude": "-6.78821",
+              "longitude": "-43.01526"
+            },
+            {
+              "name": "Princesa do Sul",
+              "addressType": "Rua",
+              "cep": "64807100",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Alto da Guia",
+              "latitude": "-6.78671",
+              "longitude": "-43.0154"
+            },
+            {
+              "name": "João Gonçalves Filho",
+              "addressType": "Rua",
+              "cep": "64807080",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Alto da Guia",
+              "latitude": "-6.77577",
+              "longitude": "-43.0072"
+            }
+          ]
+        },
+        {
+          "name": "Bom Lugar",
+          "streets": [
+            {
+              "name": "das Margaridas",
+              "addressType": "Rua",
+              "cep": "64804465",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Bom Lugar",
+              "latitude": "-6.78098",
+              "longitude": "-43.00337"
+            },
+            {
+              "name": "3",
+              "addressType": "Quadra",
+              "cep": "64804620",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Bom Lugar",
+              "latitude": "-6.78098",
+              "longitude": "-43.00337"
+            },
+            {
+              "name": "dos Girassóis",
+              "addressType": "Rua",
+              "cep": "64804448",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Bom Lugar",
+              "latitude": "-6.78098",
+              "longitude": "-43.00337"
+            },
+            {
+              "name": "Maria de Lourdes Pinheiro Cavalcante",
+              "addressType": "Rua",
+              "cep": "64804555",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Bom Lugar",
+              "latitude": "-6.78098",
+              "longitude": "-43.00337"
+            },
+            {
+              "name": "11",
+              "addressType": "Quadra",
+              "cep": "64804700",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Bom Lugar",
+              "latitude": "-6.79106",
+              "longitude": "-42.9865"
+            },
+            {
+              "name": "Manoel Miguel",
+              "addressType": "Travessa",
+              "cep": "64804480",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Bom Lugar",
+              "latitude": "-6.78169",
+              "longitude": "-43.00406"
+            },
+            {
+              "name": "Solon Miranda",
+              "addressType": "Rua",
+              "cep": "64804420",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Bom Lugar",
+              "latitude": "-6.77688",
+              "longitude": "-43.00697"
+            },
+            {
+              "name": "das Violetas",
+              "addressType": "Avenida",
+              "cep": "64804478",
+              "state": "Piauí",
+              "city": "Floriano",
+              "district": "Bom Lugar",
+              "latitude": "-6.78098",
+              "longitude": "-43.00337"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Parnaíba",
+      "ibgeCode": "2207702",
+      "ddd": "86",
+      "districts": [
+        {
+          "name": "Alto Santa Maria",
+          "streets": [
+            {
+              "name": "Maria dos Prazeres Santos",
+              "addressType": "Rua",
+              "cep": "64212340",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Alto Santa Maria",
+              "latitude": "-2.94233",
+              "longitude": "-41.75206"
+            },
+            {
+              "name": "Santa Madalena",
+              "addressType": "Travessa",
+              "cep": "64212368",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Alto Santa Maria",
+              "latitude": "-2.93551",
+              "longitude": "-41.75038"
+            },
+            {
+              "name": "Santa Rita de Cássia",
+              "addressType": "Rua",
+              "cep": "64212300",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Alto Santa Maria",
+              "latitude": "-2.93619",
+              "longitude": "-41.74941"
+            },
+            {
+              "name": "Iluminada III",
+              "addressType": "Rua",
+              "cep": "64212325",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Alto Santa Maria",
+              "latitude": "-2.93794",
+              "longitude": "-41.75046"
+            },
+            {
+              "name": "Santa Lúcia IV",
+              "addressType": "Travessa",
+              "cep": "64212433",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Alto Santa Maria",
+              "latitude": "-2.93554",
+              "longitude": "-41.75291"
+            },
+            {
+              "name": "São Luís",
+              "addressType": "Rua",
+              "cep": "64212298",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Alto Santa Maria",
+              "latitude": "-2.93266",
+              "longitude": "-41.75388"
+            },
+            {
+              "name": "Santa Maria II",
+              "addressType": "Travessa",
+              "cep": "64212390",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Alto Santa Maria",
+              "latitude": "-2.93779",
+              "longitude": "-41.75126"
+            },
+            {
+              "name": "Doutor Zilmar Duarte Vieira",
+              "addressType": "Rua",
+              "cep": "64212480",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Alto Santa Maria",
+              "latitude": "-2.9376",
+              "longitude": "-41.75026"
+            }
+          ]
+        },
+        {
+          "name": "Bebedouro",
+          "streets": [
+            {
+              "name": "Castelo",
+              "addressType": "Rua",
+              "cep": "64218590",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Bebedouro",
+              "latitude": "-2.91884",
+              "longitude": "-41.77189"
+            },
+            {
+              "name": "das Normalistas",
+              "addressType": "Avenida",
+              "cep": "64218825",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Bebedouro",
+              "latitude": "-2.91154",
+              "longitude": "-41.77355"
+            },
+            {
+              "name": "Josias de Morais Correia",
+              "addressType": "Rua",
+              "cep": "64218530",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Bebedouro",
+              "latitude": "-2.9196",
+              "longitude": "-41.7753"
+            },
+            {
+              "name": "Campo Maior",
+              "addressType": "Rua",
+              "cep": "64218850",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Bebedouro",
+              "latitude": "-2.9201",
+              "longitude": "-41.77181"
+            },
+            {
+              "name": "da Baixinha",
+              "addressType": "Rua",
+              "cep": "64218870",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Bebedouro",
+              "latitude": "-2.9212",
+              "longitude": "-41.76762"
+            },
+            {
+              "name": "Oeiras",
+              "addressType": "Rua",
+              "cep": "64218810",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Bebedouro",
+              "latitude": "-2.91791",
+              "longitude": "-41.77435"
+            },
+            {
+              "name": "Paraná",
+              "addressType": "Rua",
+              "cep": "64218840",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Bebedouro",
+              "latitude": "-2.9213",
+              "longitude": "-41.77093"
+            },
+            {
+              "name": "Castelo",
+              "addressType": "Rua",
+              "cep": "64218835",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Bebedouro",
+              "latitude": "-2.91846",
+              "longitude": "-41.77182"
+            }
+          ]
+        },
+        {
+          "name": "Boa Esperança",
+          "streets": [
+            {
+              "name": "Tarcísio Furtado Melo",
+              "addressType": "Rua",
+              "cep": "64215660",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Boa Esperança",
+              "latitude": "-2.91387",
+              "longitude": "-41.76487"
+            },
+            {
+              "name": "Timbiras",
+              "addressType": "Rua",
+              "cep": "64215510",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Boa Esperança",
+              "latitude": "-2.91436",
+              "longitude": "-41.75788"
+            },
+            {
+              "name": "Tremembés",
+              "addressType": "Rua",
+              "cep": "64215430",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Boa Esperança",
+              "latitude": "-2.92026",
+              "longitude": "-41.76053"
+            },
+            {
+              "name": "Três",
+              "addressType": "Rua",
+              "cep": "64215720",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Boa Esperança",
+              "latitude": "-2.89862",
+              "longitude": "-41.73869"
+            },
+            {
+              "name": "Onofre Martins de Sousa",
+              "addressType": "Praça",
+              "cep": "64215442",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Boa Esperança",
+              "latitude": "-2.91799",
+              "longitude": "-41.75676"
+            },
+            {
+              "name": "Nova",
+              "addressType": "Rua",
+              "cep": "64215550",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Boa Esperança",
+              "latitude": "-2.91973",
+              "longitude": "-41.75726"
+            },
+            {
+              "name": "Tupi",
+              "addressType": "Travessa",
+              "cep": "64215560",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Boa Esperança",
+              "latitude": "-2.92414",
+              "longitude": "-41.76195"
+            },
+            {
+              "name": "Três",
+              "addressType": "Rua",
+              "cep": "64215438",
+              "state": "Piauí",
+              "city": "Parnaíba",
+              "district": "Boa Esperança",
+              "latitude": "-2.90332",
+              "longitude": "-41.72617"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Picos",
+      "ibgeCode": "2208007",
+      "ddd": "89",
+      "districts": [
+        {
+          "name": "Aerolândia",
+          "streets": [
+            {
+              "name": "Projetada 28",
+              "addressType": "Rua",
+              "cep": "64601203",
+              "state": "Piauí",
+              "city": "Picos",
+              "district": "Aerolândia",
+              "latitude": "-7.0801",
+              "longitude": "-41.47825"
+            },
+            {
+              "name": "Professora Benvinda Nunes Santos",
+              "addressType": "Rua",
+              "cep": "64601185",
+              "state": "Piauí",
+              "city": "Picos",
+              "district": "Aerolândia",
+              "latitude": "-7.07952",
+              "longitude": "-41.47754"
+            },
+            {
+              "name": "da Chesf",
+              "addressType": "Rua",
+              "cep": "64601176",
+              "state": "Piauí",
+              "city": "Picos",
+              "district": "Aerolândia",
+              "latitude": "-7.07876",
+              "longitude": "-41.47646"
+            },
+            {
+              "name": "Doutor Nicodemos Barros",
+              "addressType": "Rua",
+              "cep": "64601172",
+              "state": "Piauí",
+              "city": "Picos",
+              "district": "Aerolândia",
+              "latitude": "-7.08009",
+              "longitude": "-41.4732"
+            },
+            {
+              "name": "Otacílio Antonio de Moura",
+              "addressType": "Rua",
+              "cep": "64601179",
+              "state": "Piauí",
+              "city": "Picos",
+              "district": "Aerolândia",
+              "latitude": "-7.06933",
+              "longitude": "-41.45617"
+            },
+            {
+              "name": "Sobradinho",
+              "addressType": "Loteamento",
+              "cep": "64601209",
+              "state": "Piauí",
+              "city": "Picos",
+              "district": "Aerolândia",
+              "latitude": "-7.08104",
+              "longitude": "-41.47001"
+            },
+            {
+              "name": "Elda Barbosa",
+              "addressType": "Rua",
+              "cep": "64601173",
+              "state": "Piauí",
+              "city": "Picos",
+              "district": "Aerolândia",
+              "latitude": "-7.07941",
+              "longitude": "-41.47768"
+            },
+            {
+              "name": "Dina Nobre Guimarães",
+              "addressType": "Rua",
+              "cep": "64601188",
+              "state": "Piauí",
+              "city": "Picos",
+              "district": "Aerolândia",
+              "latitude": "-7.08009",
+              "longitude": "-41.4732"
+            }
+          ]
+        },
+        {
+          "name": "Altamira",
+          "streets": [
+            {
+              "name": "BR-316",
+              "addressType": "Rodovia",
+              "cep": "64602000",
+              "state": "Piauí",
+              "city": "Picos",
+              "district": "Altamira",
+              "latitude": "-7.06638",
+              "longitude": "-41.51287"
+            },
+            {
+              "name": "Altamira",
+              "addressType": "Loteamento",
+              "cep": "64602001",
+              "state": "Piauí",
+              "city": "Picos",
+              "district": "Altamira",
+              "latitude": "-7.06263",
+              "longitude": "-41.51799"
+            },
+            {
+              "name": "Santa Amélia",
+              "addressType": "Loteamento",
+              "cep": "64602004",
+              "state": "Piauí",
+              "city": "Picos",
+              "district": "Altamira",
+              "latitude": "-7.06263",
+              "longitude": "-41.51799"
+            },
+            {
+              "name": "Flor da Terra",
+              "addressType": "Loteamento",
+              "cep": "64602002",
+              "state": "Piauí",
+              "city": "Picos",
+              "district": "Altamira",
+              "latitude": "-5.10444",
+              "longitude": "-42.71527"
+            },
+            {
+              "name": "Manoel Casimiro",
+              "addressType": "Loteamento",
+              "cep": "64602003",
+              "state": "Piauí",
+              "city": "Picos",
+              "district": "Altamira",
+              "latitude": "-7.06263",
+              "longitude": "-41.51799"
+            }
+          ]
+        },
+        {
+          "name": "Alto da Boa Vista",
+          "streets": [
+            {
+              "name": "Salustiano Roberto de Sousa",
+              "addressType": "Loteamento",
+              "cep": "64606210",
+              "state": "Piauí",
+              "city": "Picos",
+              "district": "Alto da Boa Vista",
+              "latitude": "-7.08593",
+              "longitude": "-41.4342"
+            },
+            {
+              "name": "Joana Paula de Sousa",
+              "addressType": "Loteamento",
+              "cep": "64606190",
+              "state": "Piauí",
+              "city": "Picos",
+              "district": "Alto da Boa Vista",
+              "latitude": "-7.08591",
+              "longitude": "-41.43434"
+            },
+            {
+              "name": "Boa Vista",
+              "addressType": "Loteamento",
+              "cep": "64606170",
+              "state": "Piauí",
+              "city": "Picos",
+              "district": "Alto da Boa Vista",
+              "latitude": "-7.09634",
+              "longitude": "-41.47558"
+            },
+            {
+              "name": "Bárbara Leopoldo",
+              "addressType": "Loteamento",
+              "cep": "64606160",
+              "state": "Piauí",
+              "city": "Picos",
+              "district": "Alto da Boa Vista",
+              "latitude": "-7.07812",
+              "longitude": "-41.46765"
+            },
+            {
+              "name": "João Martinho Leal",
+              "addressType": "Loteamento",
+              "cep": "64606200",
+              "state": "Piauí",
+              "city": "Picos",
+              "district": "Alto da Boa Vista",
+              "latitude": "-7.09591",
+              "longitude": "-41.47675"
+            },
+            {
+              "name": "Deputado Sá Urtiga",
+              "addressType": "Loteamento",
+              "cep": "64606180",
+              "state": "Piauí",
+              "city": "Picos",
+              "district": "Alto da Boa Vista",
+              "latitude": "-7.07632",
+              "longitude": "-41.47588"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Teresina",
+      "ibgeCode": "2211001",
+      "ddd": "86",
+      "districts": [
+        {
+          "name": "Acarape",
+          "streets": [
+            {
+              "name": "Minas Gerais",
+              "addressType": "Rua",
+              "cep": "64003835",
+              "state": "Piauí",
+              "city": "Teresina",
+              "district": "Acarape",
+              "latitude": "-5.06878",
+              "longitude": "-42.82901"
+            },
+            {
+              "name": "Alberoni Lemos",
+              "addressType": "Rua",
+              "cep": "64003780",
+              "state": "Piauí",
+              "city": "Teresina",
+              "district": "Acarape",
+              "latitude": "-5.07207",
+              "longitude": "-42.83024"
+            },
+            {
+              "name": "Almirante Tamandaré",
+              "addressType": "Rua",
+              "cep": "64002115",
+              "state": "Piauí",
+              "city": "Teresina",
+              "district": "Acarape",
+              "latitude": "-5.07781",
+              "longitude": "-42.82214"
+            },
+            {
+              "name": "Chico Doca",
+              "addressType": "Rua",
+              "cep": "64003830",
+              "state": "Piauí",
+              "city": "Teresina",
+              "district": "Acarape",
+              "latitude": "-5.06995",
+              "longitude": "-42.83122"
+            },
+            {
+              "name": "Bernardo Melo",
+              "addressType": "Rua",
+              "cep": "64002120",
+              "state": "Piauí",
+              "city": "Teresina",
+              "district": "Acarape",
+              "latitude": "-5.07143",
+              "longitude": "-42.83137"
+            },
+            {
+              "name": "Comandante Helvécio",
+              "addressType": "Rua",
+              "cep": "64003770",
+              "state": "Piauí",
+              "city": "Teresina",
+              "district": "Acarape",
+              "latitude": "-5.07067",
+              "longitude": "-42.82521"
+            },
+            {
+              "name": "Boa Esperança",
+              "addressType": "Avenida",
+              "cep": "64002085",
+              "state": "Piauí",
+              "city": "Teresina",
+              "district": "Acarape",
+              "latitude": "-5.0452",
+              "longitude": "-42.83736"
+            },
+            {
+              "name": "Teotônio Vilela",
+              "addressType": "Praça",
+              "cep": "64002100",
+              "state": "Piauí",
+              "city": "Teresina",
+              "district": "Acarape",
+              "latitude": "-5.07033",
+              "longitude": "-42.8297"
+            }
+          ]
+        },
+        {
+          "name": "Aeroporto",
+          "streets": [
+            {
+              "name": "Guaporé",
+              "addressType": "Rua",
+              "cep": "64007050",
+              "state": "Piauí",
+              "city": "Teresina",
+              "district": "Aeroporto",
+              "latitude": "-5.06353",
+              "longitude": "-42.81758"
+            },
+            {
+              "name": "Gonçalves Lêdo",
+              "addressType": "Rua",
+              "cep": "64007350",
+              "state": "Piauí",
+              "city": "Teresina",
+              "district": "Aeroporto",
+              "latitude": "-5.05689",
+              "longitude": "-42.82081"
+            },
+            {
+              "name": "Gonçalves Lêdo, 2344",
+              "addressType": "Rua",
+              "cep": "64007970",
+              "state": "Piauí",
+              "city": "Teresina",
+              "district": "Aeroporto",
+              "latitude": "-5.057",
+              "longitude": "-42.82072"
+            },
+            {
+              "name": "Doutor Area Leão",
+              "addressType": "Rua",
+              "cep": "64003635",
+              "state": "Piauí",
+              "city": "Teresina",
+              "district": "Aeroporto",
+              "latitude": "-5.09423",
+              "longitude": "-42.80621"
+            },
+            {
+              "name": "João Agrícola",
+              "addressType": "Praça",
+              "cep": "64003590",
+              "state": "Piauí",
+              "city": "Teresina",
+              "district": "Aeroporto",
+              "latitude": "-5.06565",
+              "longitude": "-42.81646"
+            },
+            {
+              "name": "João Paulo II",
+              "addressType": "Conjunto",
+              "cep": "64007170",
+              "state": "Piauí",
+              "city": "Teresina",
+              "district": "Aeroporto",
+              "latitude": "-5.06983",
+              "longitude": "-42.79116"
+            },
+            {
+              "name": "Ipase Velho",
+              "addressType": "Conjunto",
+              "cep": "64003630",
+              "state": "Piauí",
+              "city": "Teresina",
+              "district": "Aeroporto",
+              "latitude": "-5.06565",
+              "longitude": "-42.81646"
+            },
+            {
+              "name": "Ipase Novo",
+              "addressType": "Conjunto",
+              "cep": "64006050",
+              "state": "Piauí",
+              "city": "Teresina",
+              "district": "Aeroporto",
+              "latitude": "-5.03673",
+              "longitude": "-42.7285"
+            }
+          ]
+        },
+        {
+          "name": "Alegre",
+          "streets": [
+            {
+              "name": "Vinte e Cinco",
+              "addressType": "Rua",
+              "cep": "64011330",
+              "state": "Piauí",
+              "city": "Teresina",
+              "district": "Alegre",
+              "latitude": "-5.01088",
+              "longitude": "-42.79808"
+            },
+            {
+              "name": "Projetada 33",
+              "addressType": "Rua",
+              "cep": "64011310",
+              "state": "Piauí",
+              "city": "Teresina",
+              "district": "Alegre",
+              "latitude": "-5.1577",
+              "longitude": "-42.76849"
+            },
+            {
+              "name": "Senador Fausto Castelo Branco",
+              "addressType": "Avenida",
+              "cep": "64011300",
+              "state": "Piauí",
+              "city": "Teresina",
+              "district": "Alegre",
+              "latitude": "-5.11173",
+              "longitude": "-42.79366"
+            },
+            {
+              "name": "Doutor Josué de Moura Santos",
+              "addressType": "Avenida",
+              "cep": "64011320",
+              "state": "Piauí",
+              "city": "Teresina",
+              "district": "Alegre",
+              "latitude": "-5.02108",
+              "longitude": "-42.78811"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

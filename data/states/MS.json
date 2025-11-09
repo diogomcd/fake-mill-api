@@ -1,0 +1,1009 @@
+{
+  "code": "MS",
+  "name": "Mato Grosso do Sul",
+  "capital": "Campo Grande",
+  "ddd": "67",
+  "regiao": "Centro-Oeste",
+  "cities": [
+    {
+      "name": "Campo Grande",
+      "ibgeCode": "5002704",
+      "ddd": "67",
+      "districts": [
+        {
+          "name": "Aguadinha",
+          "streets": [
+            {
+              "name": "Benedicto Mercado Pedroza",
+              "addressType": "Rua",
+              "cep": "79045583",
+              "state": "Mato Grosso do Sul",
+              "city": "Campo Grande",
+              "district": "Aguadinha",
+              "latitude": "-20.45091",
+              "longitude": "-54.65569"
+            },
+            {
+              "name": "Flores da Cunha",
+              "addressType": "Avenida",
+              "cep": "79045580",
+              "state": "Mato Grosso do Sul",
+              "city": "Campo Grande",
+              "district": "Aguadinha",
+              "latitude": "-20.46081",
+              "longitude": "-54.51708"
+            },
+            {
+              "name": "Irene Gutierres",
+              "addressType": "Rua",
+              "cep": "79045582",
+              "state": "Mato Grosso do Sul",
+              "city": "Campo Grande",
+              "district": "Aguadinha",
+              "latitude": "-20.52095",
+              "longitude": "-54.60562"
+            },
+            {
+              "name": "Renato Takayassu",
+              "addressType": "Rua",
+              "cep": "79045584",
+              "state": "Mato Grosso do Sul",
+              "city": "Campo Grande",
+              "district": "Aguadinha",
+              "latitude": "-20.44284",
+              "longitude": "-54.57085"
+            },
+            {
+              "name": "Mario Silveira Leite",
+              "addressType": "Rua",
+              "cep": "79045581",
+              "state": "Mato Grosso do Sul",
+              "city": "Campo Grande",
+              "district": "Aguadinha",
+              "latitude": "-20.48518",
+              "longitude": "-54.67568"
+            }
+          ]
+        },
+        {
+          "name": "Alameda dos Castelos",
+          "streets": [
+            {
+              "name": "Adebaran",
+              "addressType": "Rua",
+              "cep": "79052434",
+              "state": "Mato Grosso do Sul",
+              "city": "Campo Grande",
+              "district": "Alameda dos Castelos",
+              "latitude": "-20.48497",
+              "longitude": "-54.57444"
+            },
+            {
+              "name": "Benedito Gonçalves",
+              "addressType": "Rua",
+              "cep": "79052435",
+              "state": "Mato Grosso do Sul",
+              "city": "Campo Grande",
+              "district": "Alameda dos Castelos",
+              "latitude": "-20.52535",
+              "longitude": "-54.62731"
+            },
+            {
+              "name": "Mariza Andrade Ribeiro",
+              "addressType": "Rua",
+              "cep": "79052431",
+              "state": "Mato Grosso do Sul",
+              "city": "Campo Grande",
+              "district": "Alameda dos Castelos",
+              "latitude": "-20.50182",
+              "longitude": "-54.58554"
+            },
+            {
+              "name": "Doutor José Villela Bastos",
+              "addressType": "Rua",
+              "cep": "79052433",
+              "state": "Mato Grosso do Sul",
+              "city": "Campo Grande",
+              "district": "Alameda dos Castelos",
+              "latitude": "-20.49998",
+              "longitude": "-54.57514"
+            },
+            {
+              "name": "Medieval",
+              "addressType": "Rua",
+              "cep": "79052432",
+              "state": "Mato Grosso do Sul",
+              "city": "Campo Grande",
+              "district": "Alameda dos Castelos",
+              "latitude": "-20.48497",
+              "longitude": "-54.57444"
+            }
+          ]
+        },
+        {
+          "name": "Alphaville Campo Grande",
+          "streets": [
+            {
+              "name": "Coleirinha",
+              "addressType": "Rua",
+              "cep": "79035515",
+              "state": "Mato Grosso do Sul",
+              "city": "Campo Grande",
+              "district": "Alphaville Campo Grande",
+              "latitude": "-20.40813",
+              "longitude": "-54.56439"
+            },
+            {
+              "name": "dos Imarés",
+              "addressType": "Rua",
+              "cep": "79035520",
+              "state": "Mato Grosso do Sul",
+              "city": "Campo Grande",
+              "district": "Alphaville Campo Grande",
+              "latitude": "-20.40813",
+              "longitude": "-54.56585"
+            },
+            {
+              "name": "Sanhaço",
+              "addressType": "Rua",
+              "cep": "79035540",
+              "state": "Mato Grosso do Sul",
+              "city": "Campo Grande",
+              "district": "Alphaville Campo Grande",
+              "latitude": "-20.40791",
+              "longitude": "-54.56498"
+            },
+            {
+              "name": "Mangona",
+              "addressType": "Rua",
+              "cep": "79035525",
+              "state": "Mato Grosso do Sul",
+              "city": "Campo Grande",
+              "district": "Alphaville Campo Grande",
+              "latitude": "-20.4091",
+              "longitude": "-54.56564"
+            },
+            {
+              "name": "Abadia de Oliveira Lima",
+              "addressType": "Avenida",
+              "cep": "79035500",
+              "state": "Mato Grosso do Sul",
+              "city": "Campo Grande",
+              "district": "Alphaville Campo Grande",
+              "latitude": "-20.53742",
+              "longitude": "-54.6207"
+            },
+            {
+              "name": "Itambé",
+              "addressType": "Rua",
+              "cep": "79035555",
+              "state": "Mato Grosso do Sul",
+              "city": "Campo Grande",
+              "district": "Alphaville Campo Grande",
+              "latitude": "-20.5026",
+              "longitude": "-54.67815"
+            },
+            {
+              "name": "Cambacica",
+              "addressType": "Rua",
+              "cep": "79035505",
+              "state": "Mato Grosso do Sul",
+              "city": "Campo Grande",
+              "district": "Alphaville Campo Grande",
+              "latitude": "-20.40695",
+              "longitude": "-54.5636"
+            },
+            {
+              "name": "Muriqui",
+              "addressType": "Rua",
+              "cep": "79035530",
+              "state": "Mato Grosso do Sul",
+              "city": "Campo Grande",
+              "district": "Alphaville Campo Grande",
+              "latitude": "-20.40589",
+              "longitude": "-54.56716"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Corumbá",
+      "ibgeCode": "5003207",
+      "ddd": "67",
+      "districts": [
+        {
+          "name": "Aeroporto",
+          "streets": [
+            {
+              "name": "Vinte Um de Setembro, 1880",
+              "addressType": "Rua",
+              "cep": "79320900",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Aeroporto",
+              "latitude": "-19.00851",
+              "longitude": "-57.66017"
+            },
+            {
+              "name": "Vinte Um de Setembro",
+              "addressType": "Rua",
+              "cep": "79332080",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Aeroporto",
+              "latitude": "-19.04839",
+              "longitude": "-57.64606"
+            },
+            {
+              "name": "José Silvino da Costa",
+              "addressType": "Rua",
+              "cep": "79320205",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Aeroporto",
+              "latitude": "-19.01758",
+              "longitude": "-57.6704"
+            },
+            {
+              "name": "Catarina",
+              "addressType": "Alameda",
+              "cep": "79320098",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Aeroporto",
+              "latitude": "-19.0058",
+              "longitude": "-57.66896"
+            },
+            {
+              "name": "José Fragelli",
+              "addressType": "Rua",
+              "cep": "79320170",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Aeroporto",
+              "latitude": "-19.03895",
+              "longitude": "-57.65448"
+            },
+            {
+              "name": "Joana Darc",
+              "addressType": "Alameda",
+              "cep": "79320290",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Aeroporto",
+              "latitude": "-19.00971",
+              "longitude": "-57.65461"
+            },
+            {
+              "name": "República do Paraguai",
+              "addressType": "Rua",
+              "cep": "79320220",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Aeroporto",
+              "latitude": "-19.02845",
+              "longitude": "-57.66679"
+            },
+            {
+              "name": "Doutor Antonio Leite de Barros",
+              "addressType": "Alameda",
+              "cep": "79320235",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Aeroporto",
+              "latitude": "-19.02759",
+              "longitude": "-57.65416"
+            }
+          ]
+        },
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "General Rondon",
+              "addressType": "Rua",
+              "cep": "79301010",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Centro",
+              "latitude": "-21.11812",
+              "longitude": "-56.48405"
+            },
+            {
+              "name": "Santo Antonio",
+              "addressType": "Alameda",
+              "cep": "79302003",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Centro",
+              "latitude": "-19.03201",
+              "longitude": "-57.64322"
+            },
+            {
+              "name": "Delamare, 708",
+              "addressType": "Rua",
+              "cep": "79301959",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Centro",
+              "latitude": "-18.99872",
+              "longitude": "-57.65256"
+            },
+            {
+              "name": "Domingos Sahib",
+              "addressType": "Rua",
+              "cep": "79300130",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Centro",
+              "latitude": "-18.99721",
+              "longitude": "-57.65892"
+            },
+            {
+              "name": "Ayrton",
+              "addressType": "Alameda",
+              "cep": "79303241",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Centro",
+              "latitude": "-19.00971",
+              "longitude": "-57.65461"
+            },
+            {
+              "name": "Cuiabá",
+              "addressType": "Rua",
+              "cep": "79300060",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Centro",
+              "latitude": "-19.00034",
+              "longitude": "-57.64311"
+            },
+            {
+              "name": "Tenente Melquíades de Jesus",
+              "addressType": "Rua",
+              "cep": "79303031",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Centro",
+              "latitude": "-19.00353",
+              "longitude": "-57.64318"
+            },
+            {
+              "name": "Porto Carreiro",
+              "addressType": "Avenida",
+              "cep": "79300110",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Centro",
+              "latitude": "-19.0073",
+              "longitude": "-57.63908"
+            }
+          ]
+        },
+        {
+          "name": "Centro América",
+          "streets": [
+            {
+              "name": "Albuquerque",
+              "addressType": "Rua",
+              "cep": "79310148",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Centro América",
+              "latitude": "-19.00207",
+              "longitude": "-57.64344"
+            },
+            {
+              "name": "17 B C",
+              "addressType": "Alameda",
+              "cep": "79310138",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Centro América",
+              "latitude": "-19.002",
+              "longitude": "-57.64231"
+            },
+            {
+              "name": "Professor Hélio Benzi",
+              "addressType": "Rua",
+              "cep": "79310135",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Centro América",
+              "latitude": "-19.01386",
+              "longitude": "-57.634"
+            },
+            {
+              "name": "Interna",
+              "addressType": "Alameda",
+              "cep": "79310149",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Centro América",
+              "latitude": "-19.02241",
+              "longitude": "-57.65093"
+            },
+            {
+              "name": "Geraldino Martins de Barros",
+              "addressType": "Rua",
+              "cep": "79310602",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Centro América",
+              "latitude": "-18.99939",
+              "longitude": "-57.64312"
+            },
+            {
+              "name": "Presidente Tancredo Neves",
+              "addressType": "Avenida",
+              "cep": "79310166",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Centro América",
+              "latitude": "-20.52094",
+              "longitude": "-54.64688"
+            },
+            {
+              "name": "Dom Pedro II",
+              "addressType": "Rua",
+              "cep": "79310168",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Centro América",
+              "latitude": "-19.02116",
+              "longitude": "-57.64657"
+            },
+            {
+              "name": "Geraldino Martins de Barros - Impar",
+              "addressType": "Avenida",
+              "cep": "79310144",
+              "state": "Mato Grosso do Sul",
+              "city": "Corumbá",
+              "district": "Centro América",
+              "latitude": "-19.00207",
+              "longitude": "-57.64341"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dourados",
+      "ibgeCode": "5003702",
+      "ddd": "67",
+      "districts": [
+        {
+          "name": "Aldeia Bororó",
+          "streets": [
+            {
+              "name": "BR-156, s/n",
+              "addressType": "Rodovia",
+              "cep": "79827970",
+              "state": "Mato Grosso do Sul",
+              "city": "Dourados",
+              "district": "Aldeia Bororó",
+              "latitude": "-22.22965",
+              "longitude": "-54.76836"
+            },
+            {
+              "name": "BR-156",
+              "addressType": "Rodovia",
+              "cep": "79827000",
+              "state": "Mato Grosso do Sul",
+              "city": "Dourados",
+              "district": "Aldeia Bororó",
+              "latitude": "-22.21934",
+              "longitude": "-54.7246"
+            }
+          ]
+        },
+        {
+          "name": "Aldeia Jaguapiru",
+          "streets": [
+            {
+              "name": "BR-156",
+              "addressType": "Rodovia",
+              "cep": "79827500",
+              "state": "Mato Grosso do Sul",
+              "city": "Dourados",
+              "district": "Aldeia Jaguapiru",
+              "latitude": "-22.21934",
+              "longitude": "-54.7246"
+            },
+            {
+              "name": "BR-156, s/n",
+              "addressType": "Rodovia",
+              "cep": "79827971",
+              "state": "Mato Grosso do Sul",
+              "city": "Dourados",
+              "district": "Aldeia Jaguapiru",
+              "latitude": "-22.23106",
+              "longitude": "-54.76818"
+            }
+          ]
+        },
+        {
+          "name": "Alto da Boa Vista",
+          "streets": [
+            {
+              "name": "Alto da Boa Vista",
+              "addressType": "Rua",
+              "cep": "79825231",
+              "state": "Mato Grosso do Sul",
+              "city": "Dourados",
+              "district": "Alto da Boa Vista",
+              "latitude": "-22.20057",
+              "longitude": "-54.81887"
+            },
+            {
+              "name": "Frei Hugolino Becker",
+              "addressType": "Rua",
+              "cep": "79825230",
+              "state": "Mato Grosso do Sul",
+              "city": "Dourados",
+              "district": "Alto da Boa Vista",
+              "latitude": "-22.20133",
+              "longitude": "-54.81831"
+            },
+            {
+              "name": "Tomijiro Hiroi",
+              "addressType": "Rua",
+              "cep": "79825233",
+              "state": "Mato Grosso do Sul",
+              "city": "Dourados",
+              "district": "Alto da Boa Vista",
+              "latitude": "-22.20057",
+              "longitude": "-54.81887"
+            },
+            {
+              "name": "Irmã Josélia Thomas",
+              "addressType": "Rua",
+              "cep": "79825234",
+              "state": "Mato Grosso do Sul",
+              "city": "Dourados",
+              "district": "Alto da Boa Vista",
+              "latitude": "-22.20017",
+              "longitude": "-54.81916"
+            },
+            {
+              "name": "Dom Teodardo Leitz",
+              "addressType": "Rua",
+              "cep": "79825232",
+              "state": "Mato Grosso do Sul",
+              "city": "Dourados",
+              "district": "Alto da Boa Vista",
+              "latitude": "-22.20074",
+              "longitude": "-54.81847"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ponta Porã",
+      "ibgeCode": "5006606",
+      "ddd": "67",
+      "districts": [
+        {
+          "name": "Bairro Ignes Andreazza",
+          "streets": [
+            {
+              "name": "Antenor do Amaral",
+              "addressType": "Rua",
+              "cep": "79906142",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro Ignes Andreazza",
+              "latitude": "-22.54834",
+              "longitude": "-55.69926"
+            },
+            {
+              "name": "Cláudio Coutinho",
+              "addressType": "Rua",
+              "cep": "79906146",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro Ignes Andreazza",
+              "latitude": "-22.54763",
+              "longitude": "-55.69996"
+            },
+            {
+              "name": "Luíz Quintana",
+              "addressType": "Rua",
+              "cep": "79906128",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro Ignes Andreazza",
+              "latitude": "-22.5508",
+              "longitude": "-55.70093"
+            },
+            {
+              "name": "Francilícia Anastácio",
+              "addressType": "Rua",
+              "cep": "79906122",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro Ignes Andreazza",
+              "latitude": "-22.55071",
+              "longitude": "-55.70007"
+            },
+            {
+              "name": "Manê Garrincha",
+              "addressType": "Rua",
+              "cep": "79906126",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro Ignes Andreazza",
+              "latitude": "-22.55021",
+              "longitude": "-55.70088"
+            },
+            {
+              "name": "Juventino Nunes dos Santos",
+              "addressType": "Rua",
+              "cep": "79906148",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro Ignes Andreazza",
+              "latitude": "-22.54631",
+              "longitude": "-55.69957"
+            },
+            {
+              "name": "Anaurelino Gonçalves de Mattos",
+              "addressType": "Travessa",
+              "cep": "79906134",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro Ignes Andreazza",
+              "latitude": "-22.55794",
+              "longitude": "-55.71083"
+            },
+            {
+              "name": "18 de Maio",
+              "addressType": "Rua",
+              "cep": "79906138",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro Ignes Andreazza",
+              "latitude": "-22.54859",
+              "longitude": "-55.6993"
+            }
+          ]
+        },
+        {
+          "name": "Bairro Santa Isabel",
+          "streets": [
+            {
+              "name": "Godofredo da Silva",
+              "addressType": "Rua",
+              "cep": "79904384",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro Santa Isabel",
+              "latitude": "-22.52223",
+              "longitude": "-55.71022"
+            },
+            {
+              "name": "Aline Espindola Marques",
+              "addressType": "Rua",
+              "cep": "79904397",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro Santa Isabel",
+              "latitude": "-22.50348",
+              "longitude": "-55.71676"
+            },
+            {
+              "name": "Emílio Dias Brandão",
+              "addressType": "Rua",
+              "cep": "79904388",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro Santa Isabel",
+              "latitude": "-22.52255",
+              "longitude": "-55.71195"
+            },
+            {
+              "name": "7 de Setembro",
+              "addressType": "Rua",
+              "cep": "79904378",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro Santa Isabel",
+              "latitude": "-22.5289",
+              "longitude": "-55.71196"
+            },
+            {
+              "name": "Amambai",
+              "addressType": "Rua",
+              "cep": "79904382",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro Santa Isabel",
+              "latitude": "-22.52",
+              "longitude": "-55.71027"
+            },
+            {
+              "name": "Anhanduí",
+              "addressType": "Rua",
+              "cep": "79904376",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro Santa Isabel",
+              "latitude": "-22.52772",
+              "longitude": "-55.71193"
+            },
+            {
+              "name": "Intendente Felisberto Marques",
+              "addressType": "Rua",
+              "cep": "79904402",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro Santa Isabel",
+              "latitude": "-22.50345",
+              "longitude": "-55.71647"
+            },
+            {
+              "name": "Intendente Heliodoro Alves Salgueiro",
+              "addressType": "Rua",
+              "cep": "79904396",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro Santa Isabel",
+              "latitude": "-22.52654",
+              "longitude": "-55.71382"
+            }
+          ]
+        },
+        {
+          "name": "Bairro São Domingos",
+          "streets": [
+            {
+              "name": "Alcemiro Camilo Ranzi",
+              "addressType": "Avenida",
+              "cep": "79906600",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro São Domingos",
+              "latitude": "-22.49053",
+              "longitude": "-55.74128"
+            },
+            {
+              "name": "Coronel Ponce",
+              "addressType": "Rua",
+              "cep": "79906604",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro São Domingos",
+              "latitude": "-22.56035",
+              "longitude": "-55.69845"
+            },
+            {
+              "name": "Nelson Hungria",
+              "addressType": "Rua",
+              "cep": "79906616",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro São Domingos",
+              "latitude": "-22.56061",
+              "longitude": "-55.69428"
+            },
+            {
+              "name": "Jundiaí",
+              "addressType": "Rua",
+              "cep": "79906610",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro São Domingos",
+              "latitude": "-21.60654",
+              "longitude": "-55.16602"
+            },
+            {
+              "name": "Figueiredo",
+              "addressType": "Rua",
+              "cep": "79906608",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro São Domingos",
+              "latitude": "-22.51917",
+              "longitude": "-55.7104"
+            },
+            {
+              "name": "Maria Izabel Manvailler",
+              "addressType": "Rua",
+              "cep": "79906602",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro São Domingos",
+              "latitude": "-22.52434",
+              "longitude": "-55.71434"
+            },
+            {
+              "name": "Olintho Cadinal de Jesus",
+              "addressType": "Avenida",
+              "cep": "79906612",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro São Domingos",
+              "latitude": "-22.49094",
+              "longitude": "-55.73728"
+            },
+            {
+              "name": "Edmundo Lins",
+              "addressType": "Rua",
+              "cep": "79906618",
+              "state": "Mato Grosso do Sul",
+              "city": "Ponta Porã",
+              "district": "Bairro São Domingos",
+              "latitude": "-22.5607",
+              "longitude": "-55.69299"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Três Lagoas",
+      "ibgeCode": "5008305",
+      "ddd": "67",
+      "districts": [
+        {
+          "name": "Alto da Boa Vista",
+          "streets": [
+            {
+              "name": "Equador",
+              "addressType": "Rua",
+              "cep": "79642154",
+              "state": "Mato Grosso do Sul",
+              "city": "Três Lagoas",
+              "district": "Alto da Boa Vista",
+              "latitude": "-20.76722",
+              "longitude": "-51.7252"
+            },
+            {
+              "name": "Alfredo Justino",
+              "addressType": "Travessa",
+              "cep": "79640510",
+              "state": "Mato Grosso do Sul",
+              "city": "Três Lagoas",
+              "district": "Alto da Boa Vista",
+              "latitude": "-20.78052",
+              "longitude": "-51.71286"
+            },
+            {
+              "name": "Egídio Thome",
+              "addressType": "Rua",
+              "cep": "79640484",
+              "state": "Mato Grosso do Sul",
+              "city": "Três Lagoas",
+              "district": "Alto da Boa Vista",
+              "latitude": "-20.77302",
+              "longitude": "-51.71454"
+            },
+            {
+              "name": "Uruguai",
+              "addressType": "Rua",
+              "cep": "79642150",
+              "state": "Mato Grosso do Sul",
+              "city": "Três Lagoas",
+              "district": "Alto da Boa Vista",
+              "latitude": "-20.80871",
+              "longitude": "-51.67723"
+            },
+            {
+              "name": "Santiago",
+              "addressType": "Rua",
+              "cep": "79642164",
+              "state": "Mato Grosso do Sul",
+              "city": "Três Lagoas",
+              "district": "Alto da Boa Vista",
+              "latitude": "-20.77025",
+              "longitude": "-51.72751"
+            },
+            {
+              "name": "Colombia",
+              "addressType": "Rua",
+              "cep": "79642148",
+              "state": "Mato Grosso do Sul",
+              "city": "Três Lagoas",
+              "district": "Alto da Boa Vista",
+              "latitude": "-20.7685",
+              "longitude": "-51.72308"
+            },
+            {
+              "name": "Venezuela",
+              "addressType": "Rua",
+              "cep": "79642166",
+              "state": "Mato Grosso do Sul",
+              "city": "Três Lagoas",
+              "district": "Alto da Boa Vista",
+              "latitude": "-20.76849",
+              "longitude": "-51.72939"
+            },
+            {
+              "name": "Paraguai",
+              "addressType": "Rua",
+              "cep": "79642168",
+              "state": "Mato Grosso do Sul",
+              "city": "Três Lagoas",
+              "district": "Alto da Boa Vista",
+              "latitude": "-20.76948",
+              "longitude": "-51.72907"
+            }
+          ]
+        },
+        {
+          "name": "Alto dos Ipês",
+          "streets": [
+            {
+              "name": "BR 262",
+              "addressType": "Rodovia",
+              "cep": "79622100",
+              "state": "Mato Grosso do Sul",
+              "city": "Três Lagoas",
+              "district": "Alto dos Ipês",
+              "latitude": "-20.80576",
+              "longitude": "-51.68756"
+            },
+            {
+              "name": "BR 262, KM 11",
+              "addressType": "Rodovia",
+              "cep": "79622900",
+              "state": "Mato Grosso do Sul",
+              "city": "Três Lagoas",
+              "district": "Alto dos Ipês",
+              "latitude": "-20.80576",
+              "longitude": "-51.68756"
+            }
+          ]
+        },
+        {
+          "name": "Bairro Santos Dumont",
+          "streets": [
+            {
+              "name": "Manoel Mendes",
+              "addressType": "Rua",
+              "cep": "79621287",
+              "state": "Mato Grosso do Sul",
+              "city": "Três Lagoas",
+              "district": "Bairro Santos Dumont",
+              "latitude": "-20.79474",
+              "longitude": "-51.69793"
+            },
+            {
+              "name": "Vigário Valdemar",
+              "addressType": "Rua",
+              "cep": "79621288",
+              "state": "Mato Grosso do Sul",
+              "city": "Três Lagoas",
+              "district": "Bairro Santos Dumont",
+              "latitude": "-20.80422",
+              "longitude": "-51.72505"
+            },
+            {
+              "name": "Bernardo Antônio Leite, 350",
+              "addressType": "Rua",
+              "cep": "79630901",
+              "state": "Mato Grosso do Sul",
+              "city": "Três Lagoas",
+              "district": "Bairro Santos Dumont",
+              "latitude": "-20.8032",
+              "longitude": "-51.70564"
+            },
+            {
+              "name": "Otávio Sigefredo Roriz",
+              "addressType": "Rua",
+              "cep": "79621286",
+              "state": "Mato Grosso do Sul",
+              "city": "Três Lagoas",
+              "district": "Bairro Santos Dumont",
+              "latitude": "-20.78857",
+              "longitude": "-51.69501"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

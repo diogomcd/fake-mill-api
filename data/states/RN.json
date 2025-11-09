@@ -1,0 +1,1319 @@
+{
+  "code": "RN",
+  "name": "Rio Grande do Norte",
+  "capital": "Natal",
+  "ddd": "84",
+  "regiao": "Nordeste",
+  "cities": [
+    {
+      "name": "Macaíba",
+      "ibgeCode": "2407104",
+      "ddd": "84",
+      "districts": [
+        {
+          "name": "Alfredo Mesquita",
+          "streets": [
+            {
+              "name": "da Saudade",
+              "addressType": "Praça",
+              "cep": "59286238",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Alfredo Mesquita",
+              "latitude": "-5.8532",
+              "longitude": "-35.35745"
+            },
+            {
+              "name": "José Batista de Macedo Filho",
+              "addressType": "Rua",
+              "cep": "59286175",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Alfredo Mesquita",
+              "latitude": "-5.85267",
+              "longitude": "-35.35808"
+            },
+            {
+              "name": "Severino Galdino Ribeiro",
+              "addressType": "Rua",
+              "cep": "59286124",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Alfredo Mesquita",
+              "latitude": "-5.85365",
+              "longitude": "-35.35625"
+            },
+            {
+              "name": "Maria Policarpo de Oliveira",
+              "addressType": "Rua",
+              "cep": "59286178",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Alfredo Mesquita",
+              "latitude": "-5.85968",
+              "longitude": "-35.35915"
+            },
+            {
+              "name": "José Gabriel Fernandes Pinheiro",
+              "addressType": "Rua",
+              "cep": "59286196",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Alfredo Mesquita",
+              "latitude": "-5.85988",
+              "longitude": "-35.3597"
+            },
+            {
+              "name": "Centenário",
+              "addressType": "Rua",
+              "cep": "59286208",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Alfredo Mesquita",
+              "latitude": "-5.85334",
+              "longitude": "-35.35696"
+            },
+            {
+              "name": "Pax",
+              "addressType": "Rua",
+              "cep": "59286280",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Alfredo Mesquita",
+              "latitude": "-5.85357",
+              "longitude": "-35.35645"
+            },
+            {
+              "name": "Campo Santo",
+              "addressType": "Rua",
+              "cep": "59286253",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Alfredo Mesquita",
+              "latitude": "-5.85632",
+              "longitude": "-35.35882"
+            }
+          ]
+        },
+        {
+          "name": "Augusto Severo",
+          "streets": [
+            {
+              "name": "Antenor Borges de Oliveira",
+              "addressType": "Rua",
+              "cep": "59286080",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Augusto Severo",
+              "latitude": "-5.91835",
+              "longitude": "-35.29466"
+            },
+            {
+              "name": "Manoel Antônio Faustino",
+              "addressType": "Rua",
+              "cep": "59286089",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Augusto Severo",
+              "latitude": "-5.91843",
+              "longitude": "-35.29485"
+            },
+            {
+              "name": "Ivaneide Dias Santos",
+              "addressType": "Rua",
+              "cep": "59286083",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Augusto Severo",
+              "latitude": "-5.91856",
+              "longitude": "-35.29473"
+            },
+            {
+              "name": "Braulio Gonçalves Pereira",
+              "addressType": "Rua",
+              "cep": "59286029",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Augusto Severo",
+              "latitude": "-5.91888",
+              "longitude": "-35.2952"
+            },
+            {
+              "name": "Izabel Gomes",
+              "addressType": "Rua",
+              "cep": "59286023",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Augusto Severo",
+              "latitude": "-5.91891",
+              "longitude": "-35.29526"
+            },
+            {
+              "name": "Antenor Borges de Oliveira",
+              "addressType": "Travessa",
+              "cep": "59286077",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Augusto Severo",
+              "latitude": "-5.91859",
+              "longitude": "-35.29478"
+            },
+            {
+              "name": "Antílio Viana da Costa",
+              "addressType": "Rua",
+              "cep": "59286074",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Augusto Severo",
+              "latitude": "-5.91827",
+              "longitude": "-35.29426"
+            },
+            {
+              "name": "Auta de Souza",
+              "addressType": "Rua",
+              "cep": "59286068",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Augusto Severo",
+              "latitude": "-5.84735",
+              "longitude": "-35.28503"
+            }
+          ]
+        },
+        {
+          "name": "Auta de Souza",
+          "streets": [
+            {
+              "name": "Francisco Canindé de Moura",
+              "addressType": "Rua",
+              "cep": "59280286",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Auta de Souza",
+              "latitude": "-5.86353",
+              "longitude": "-35.34551"
+            },
+            {
+              "name": "Rufino Julião Dantas",
+              "addressType": "Rua",
+              "cep": "59280433",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Auta de Souza",
+              "latitude": "-5.84864",
+              "longitude": "-35.34975"
+            },
+            {
+              "name": "Padre Chacon",
+              "addressType": "Travessa",
+              "cep": "59280288",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Auta de Souza",
+              "latitude": "-5.86265",
+              "longitude": "-35.34426"
+            },
+            {
+              "name": "Bridenor Trigueiro Costa",
+              "addressType": "Rua",
+              "cep": "59280319",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Auta de Souza",
+              "latitude": "-5.86056",
+              "longitude": "-35.34485"
+            },
+            {
+              "name": "João Santiago de Oliveira",
+              "addressType": "Rua",
+              "cep": "59280325",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Auta de Souza",
+              "latitude": "-5.86128",
+              "longitude": "-35.3448"
+            },
+            {
+              "name": "Doutor Pedro Matos",
+              "addressType": "Rua",
+              "cep": "59280370",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Auta de Souza",
+              "latitude": "-5.8585",
+              "longitude": "-35.3446"
+            },
+            {
+              "name": "do Engole",
+              "addressType": "Alameda",
+              "cep": "59280415",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Auta de Souza",
+              "latitude": "-5.84849",
+              "longitude": "-35.34962"
+            },
+            {
+              "name": "Ubenildo Eufrásio Timóteo",
+              "addressType": "Rua",
+              "cep": "59280271",
+              "state": "Rio Grande do Norte",
+              "city": "Macaíba",
+              "district": "Auta de Souza",
+              "latitude": "-5.84694",
+              "longitude": "-35.285"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mossoró",
+      "ibgeCode": "2408003",
+      "ddd": "84",
+      "districts": [
+        {
+          "name": "Abolição",
+          "streets": [
+            {
+              "name": "Comerciante Marcondes Genival de Morais",
+              "addressType": "Rua",
+              "cep": "59617696",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Abolição",
+              "latitude": "-5.20451",
+              "longitude": "-37.30905"
+            },
+            {
+              "name": "Adonias Clementino Lima",
+              "addressType": "Rua",
+              "cep": "59614240",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Abolição",
+              "latitude": "-5.15363",
+              "longitude": "-37.36398"
+            },
+            {
+              "name": "Elis Regina",
+              "addressType": "Rua",
+              "cep": "59614100",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Abolição",
+              "latitude": "-5.16061",
+              "longitude": "-37.3598"
+            },
+            {
+              "name": "José Acrísio",
+              "addressType": "Rua",
+              "cep": "59619250",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Abolição",
+              "latitude": "-5.17391",
+              "longitude": "-37.3498"
+            },
+            {
+              "name": "Gentil Magalhães",
+              "addressType": "Rua",
+              "cep": "59614270",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Abolição",
+              "latitude": "-5.15273",
+              "longitude": "-37.36499"
+            },
+            {
+              "name": "Manoel Leonardo",
+              "addressType": "Rua",
+              "cep": "59619220",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Abolição",
+              "latitude": "-5.17548",
+              "longitude": "-37.35111"
+            },
+            {
+              "name": "Doutor Galvão Neto",
+              "addressType": "Rua",
+              "cep": "59612600",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Abolição",
+              "latitude": "-5.16907",
+              "longitude": "-37.35916"
+            },
+            {
+              "name": "Francisco Souto",
+              "addressType": "Vila",
+              "cep": "59619204",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Abolição",
+              "latitude": "-5.17614",
+              "longitude": "-37.35044"
+            }
+          ]
+        },
+        {
+          "name": "Aeroporto",
+          "streets": [
+            {
+              "name": "Pedro Leopoldo",
+              "addressType": "Praça",
+              "cep": "59607700",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Aeroporto",
+              "latitude": "-5.2002",
+              "longitude": "-37.36894"
+            },
+            {
+              "name": "Luiz Macaco",
+              "addressType": "Rua",
+              "cep": "59607535",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Aeroporto",
+              "latitude": "-5.15417",
+              "longitude": "-37.36671"
+            },
+            {
+              "name": "Francisco Heronildes da Silva",
+              "addressType": "Rua",
+              "cep": "59607230",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Aeroporto",
+              "latitude": "-5.18272",
+              "longitude": "-37.36366"
+            },
+            {
+              "name": "Miguel Antônio da Silva Neto",
+              "addressType": "Rua",
+              "cep": "59607360",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Aeroporto",
+              "latitude": "-5.18996",
+              "longitude": "-37.36846"
+            },
+            {
+              "name": "Cornélio Barbalho",
+              "addressType": "Rua",
+              "cep": "59607560",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Aeroporto",
+              "latitude": "-5.18963",
+              "longitude": "-37.36027"
+            },
+            {
+              "name": "Sebastião José da Silveira",
+              "addressType": "Rua",
+              "cep": "59607816",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Aeroporto",
+              "latitude": "-5.19968",
+              "longitude": "-37.37294"
+            },
+            {
+              "name": "Edmar Francisco Pereira",
+              "addressType": "Rua",
+              "cep": "59607240",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Aeroporto",
+              "latitude": "-5.18873",
+              "longitude": "-37.36603"
+            },
+            {
+              "name": "Francisca Vanessa de Oliveira",
+              "addressType": "Rua",
+              "cep": "59607523",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Aeroporto",
+              "latitude": "-5.18451",
+              "longitude": "-37.36967"
+            }
+          ]
+        },
+        {
+          "name": "Alto da Conceição",
+          "streets": [
+            {
+              "name": "Coronel Gurgel",
+              "addressType": "Travessa",
+              "cep": "59600321",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Alto da Conceição",
+              "latitude": "-5.20009",
+              "longitude": "-37.34768"
+            },
+            {
+              "name": "João Damázio",
+              "addressType": "Rua",
+              "cep": "59600622",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Alto da Conceição",
+              "latitude": "-5.20669",
+              "longitude": "-37.36504"
+            },
+            {
+              "name": "Francisca Elizângela M Filgueira",
+              "addressType": "Rua",
+              "cep": "59600343",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Alto da Conceição",
+              "latitude": "-5.1938",
+              "longitude": "-37.38325"
+            },
+            {
+              "name": "Frei Antônio da Conceição",
+              "addressType": "Rua",
+              "cep": "59600670",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Alto da Conceição",
+              "latitude": "-5.23186",
+              "longitude": "-37.32971"
+            },
+            {
+              "name": "José Couto",
+              "addressType": "Rua",
+              "cep": "59600297",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Alto da Conceição",
+              "latitude": "-5.19694",
+              "longitude": "-37.34598"
+            },
+            {
+              "name": "Getúlio Vargas",
+              "addressType": "Praça",
+              "cep": "59600680",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Alto da Conceição",
+              "latitude": "-5.19513",
+              "longitude": "-37.34449"
+            },
+            {
+              "name": "Haroldo Gurgel",
+              "addressType": "Rua",
+              "cep": "59600390",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Alto da Conceição",
+              "latitude": "-5.20354",
+              "longitude": "-37.35294"
+            },
+            {
+              "name": "João Pessoa",
+              "addressType": "Avenida",
+              "cep": "59600600",
+              "state": "Rio Grande do Norte",
+              "city": "Mossoró",
+              "district": "Alto da Conceição",
+              "latitude": "-5.19823",
+              "longitude": "-37.35027"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Natal",
+      "ibgeCode": "2408102",
+      "ddd": "84",
+      "districts": [
+        {
+          "name": "Alecrim",
+          "streets": [
+            {
+              "name": "Monteiro",
+              "addressType": "Rua",
+              "cep": "59037410",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Alecrim",
+              "latitude": "-5.80324",
+              "longitude": "-35.22296"
+            },
+            {
+              "name": "da Paz",
+              "addressType": "Travessa",
+              "cep": "59040115",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Alecrim",
+              "latitude": "-5.7895",
+              "longitude": "-35.21515"
+            },
+            {
+              "name": "Marcílio Dias",
+              "addressType": "Travessa",
+              "cep": "59037025",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Alecrim",
+              "latitude": "-5.7678",
+              "longitude": "-35.26034"
+            },
+            {
+              "name": "Fábio Rino",
+              "addressType": "Vila",
+              "cep": "59031185",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Alecrim",
+              "latitude": "-5.80039",
+              "longitude": "-35.2149"
+            },
+            {
+              "name": "Visconde de Cairu",
+              "addressType": "Rua",
+              "cep": "59032010",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Alecrim",
+              "latitude": "-5.80177",
+              "longitude": "-35.21612"
+            },
+            {
+              "name": "Presidente Sarmento",
+              "addressType": "Travessa",
+              "cep": "59032405",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Alecrim",
+              "latitude": "-5.80827",
+              "longitude": "-35.21582"
+            },
+            {
+              "name": "Eduardo Carlos Pereira",
+              "addressType": "Praça",
+              "cep": "59031440",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Alecrim",
+              "latitude": "-5.80639",
+              "longitude": "-35.22104"
+            },
+            {
+              "name": "Coronel João Tinoco",
+              "addressType": "Rua",
+              "cep": "59040113",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Alecrim",
+              "latitude": "-5.78993",
+              "longitude": "-35.2144"
+            }
+          ]
+        },
+        {
+          "name": "Areia Preta",
+          "streets": [
+            {
+              "name": "Valentim de Almeida",
+              "addressType": "Rua",
+              "cep": "59014070",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Areia Preta",
+              "latitude": "-5.78396",
+              "longitude": "-35.19063"
+            },
+            {
+              "name": "Teófilo Brandão",
+              "addressType": "Rua",
+              "cep": "59014130",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Areia Preta",
+              "latitude": "-5.78623",
+              "longitude": "-35.19337"
+            },
+            {
+              "name": "Herculano Ramos",
+              "addressType": "Travessa",
+              "cep": "59014108",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Areia Preta",
+              "latitude": "-5.78733",
+              "longitude": "-35.19154"
+            },
+            {
+              "name": "Guanabara",
+              "addressType": "Rua",
+              "cep": "59014106",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Areia Preta",
+              "latitude": "-5.78863",
+              "longitude": "-35.19004"
+            },
+            {
+              "name": "Coronel Joaquim Manoel",
+              "addressType": "Rua",
+              "cep": "59014077",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Areia Preta",
+              "latitude": "-5.78182",
+              "longitude": "-35.19701"
+            },
+            {
+              "name": "Aprígio Alves",
+              "addressType": "Travessa",
+              "cep": "59014055",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Areia Preta",
+              "latitude": "-5.78498",
+              "longitude": "-35.19347"
+            },
+            {
+              "name": "Desembargador Dionísio Filgueira",
+              "addressType": "Rua",
+              "cep": "59014078",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Areia Preta",
+              "latitude": "-5.18854",
+              "longitude": "-37.33988"
+            },
+            {
+              "name": "Doutor José Augusto Bezerra de Medeiros",
+              "addressType": "Rua",
+              "cep": "59014075",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Areia Preta",
+              "latitude": "-5.7834",
+              "longitude": "-35.19073"
+            }
+          ]
+        },
+        {
+          "name": "Barro Vermelho",
+          "streets": [
+            {
+              "name": "Senador Georgino Avelino",
+              "addressType": "Rua",
+              "cep": "59022630",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Barro Vermelho",
+              "latitude": "-5.8037",
+              "longitude": "-35.20652"
+            },
+            {
+              "name": "Xavier Miranda",
+              "addressType": "Rua",
+              "cep": "59030520",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Barro Vermelho",
+              "latitude": "-5.79651",
+              "longitude": "-35.20834"
+            },
+            {
+              "name": "Almirante Nelson Fernandes",
+              "addressType": "Rua",
+              "cep": "59022600",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Barro Vermelho",
+              "latitude": "-5.80225",
+              "longitude": "-35.20564"
+            },
+            {
+              "name": "Joaquim Fagundes",
+              "addressType": "Travessa",
+              "cep": "59022480",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Barro Vermelho",
+              "latitude": "-5.8001",
+              "longitude": "-35.20489"
+            },
+            {
+              "name": "Bacharel Heráclito Vilar",
+              "addressType": "Rua",
+              "cep": "59030450",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Barro Vermelho",
+              "latitude": "-5.79906",
+              "longitude": "-35.20962"
+            },
+            {
+              "name": "Augusto Leite",
+              "addressType": "Travessa",
+              "cep": "59020370",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Barro Vermelho",
+              "latitude": "-5.79937",
+              "longitude": "-35.20369"
+            },
+            {
+              "name": "Ernesto Fonseca",
+              "addressType": "Rua",
+              "cep": "59030510",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Barro Vermelho",
+              "latitude": "-5.79668",
+              "longitude": "-35.20876"
+            },
+            {
+              "name": "Ana Medeiros",
+              "addressType": "Rua",
+              "cep": "59030340",
+              "state": "Rio Grande do Norte",
+              "city": "Natal",
+              "district": "Barro Vermelho",
+              "latitude": "-5.79476",
+              "longitude": "-35.20955"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Parnamirim",
+      "ibgeCode": "2403251",
+      "ddd": "84",
+      "districts": [
+        {
+          "name": "Bela Parnamirim",
+          "streets": [
+            {
+              "name": "Lírios do Vale",
+              "addressType": "Rua",
+              "cep": "59142732",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Bela Parnamirim",
+              "latitude": "-5.92607",
+              "longitude": "-35.29091"
+            },
+            {
+              "name": "Netuno",
+              "addressType": "Rua",
+              "cep": "59142520",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Bela Parnamirim",
+              "latitude": "-5.89081",
+              "longitude": "-35.21382"
+            },
+            {
+              "name": "João Irineu Antunes",
+              "addressType": "Rua",
+              "cep": "59142810",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Bela Parnamirim",
+              "latitude": "-5.91712",
+              "longitude": "-35.28645"
+            },
+            {
+              "name": "Paulistana",
+              "addressType": "Rua",
+              "cep": "59142510",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Bela Parnamirim",
+              "latitude": "-5.89082",
+              "longitude": "-35.21381"
+            },
+            {
+              "name": "Júpiter",
+              "addressType": "Rua",
+              "cep": "59142516",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Bela Parnamirim",
+              "latitude": "-5.89082",
+              "longitude": "-35.21382"
+            },
+            {
+              "name": "Jaime de Souza",
+              "addressType": "Rua",
+              "cep": "59142684",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Bela Parnamirim",
+              "latitude": "-5.92632",
+              "longitude": "-35.28501"
+            },
+            {
+              "name": "22 de Maio",
+              "addressType": "Rua",
+              "cep": "59142725",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Bela Parnamirim",
+              "latitude": "-5.92688",
+              "longitude": "-35.28915"
+            },
+            {
+              "name": "Maria Augusta",
+              "addressType": "Rua",
+              "cep": "59142770",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Bela Parnamirim",
+              "latitude": "-5.89559",
+              "longitude": "-35.20244"
+            }
+          ]
+        },
+        {
+          "name": "Boa Esperança",
+          "streets": [
+            {
+              "name": "Vinte e Cinco de Dezembro",
+              "addressType": "Rua",
+              "cep": "59140500",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Boa Esperança",
+              "latitude": "-5.93281",
+              "longitude": "-35.26182"
+            },
+            {
+              "name": "Governador Juvenal Lamartine",
+              "addressType": "Rua",
+              "cep": "59140360",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Boa Esperança",
+              "latitude": "-5.92682",
+              "longitude": "-35.26143"
+            },
+            {
+              "name": "Águas Frias",
+              "addressType": "Rua",
+              "cep": "59140555",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Boa Esperança",
+              "latitude": "-5.90663",
+              "longitude": "-35.20857"
+            },
+            {
+              "name": "Doutor Luís Antônio",
+              "addressType": "Travessa",
+              "cep": "59140405",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Boa Esperança",
+              "latitude": "-5.92808",
+              "longitude": "-35.25922"
+            },
+            {
+              "name": "Doze de Outubro",
+              "addressType": "Rua",
+              "cep": "59140450",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Boa Esperança",
+              "latitude": "-5.93053",
+              "longitude": "-35.25994"
+            },
+            {
+              "name": "Odilon Braga",
+              "addressType": "Rua",
+              "cep": "59140370",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Boa Esperança",
+              "latitude": "-5.92813",
+              "longitude": "-35.26166"
+            },
+            {
+              "name": "Águas Quentes",
+              "addressType": "Rua",
+              "cep": "59140546",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Boa Esperança",
+              "latitude": "-5.90659",
+              "longitude": "-35.20884"
+            },
+            {
+              "name": "Primeiro de Janeiro",
+              "addressType": "Rua",
+              "cep": "59140540",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Boa Esperança",
+              "latitude": "-5.93182",
+              "longitude": "-35.26362"
+            }
+          ]
+        },
+        {
+          "name": "Cajupiranga",
+          "streets": [
+            {
+              "name": "Cinqüenta e Cinco",
+              "addressType": "Rua",
+              "cep": "59157375",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Cajupiranga",
+              "latitude": "-5.88198",
+              "longitude": "-35.25089"
+            },
+            {
+              "name": "Caminho de Pipa",
+              "addressType": "Rua",
+              "cep": "59156355",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Cajupiranga",
+              "latitude": "-5.9424",
+              "longitude": "-35.25736"
+            },
+            {
+              "name": "Celina Dulce do Nascimento",
+              "addressType": "Rua",
+              "cep": "59157380",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Cajupiranga",
+              "latitude": "-5.93066",
+              "longitude": "-35.26819"
+            },
+            {
+              "name": "Maria Puresa Viana",
+              "addressType": "Rua",
+              "cep": "59157350",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Cajupiranga",
+              "latitude": "-5.9195",
+              "longitude": "-35.2867"
+            },
+            {
+              "name": "Caminho do Pescador",
+              "addressType": "Rua",
+              "cep": "59156227",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Cajupiranga",
+              "latitude": "-5.93927",
+              "longitude": "-35.24807"
+            },
+            {
+              "name": "Arvoredo",
+              "addressType": "Rua",
+              "cep": "59156490",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Cajupiranga",
+              "latitude": "-5.91885",
+              "longitude": "-35.29059"
+            },
+            {
+              "name": "Campos Vergueiros",
+              "addressType": "Rua",
+              "cep": "59156818",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Cajupiranga",
+              "latitude": "-5.95527",
+              "longitude": "-35.25453"
+            },
+            {
+              "name": "Campo Alegre",
+              "addressType": "Rua",
+              "cep": "59156740",
+              "state": "Rio Grande do Norte",
+              "city": "Parnamirim",
+              "district": "Cajupiranga",
+              "latitude": "-5.94925",
+              "longitude": "-35.25805"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "São Gonçalo do Amarante",
+      "ibgeCode": "2412005",
+      "ddd": "84",
+      "districts": [
+        {
+          "name": "Amarante",
+          "streets": [
+            {
+              "name": "Bacharel Tomaz Landim",
+              "addressType": "Avenida",
+              "cep": "59296608",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Amarante",
+              "latitude": "-5.77691",
+              "longitude": "-35.25115"
+            },
+            {
+              "name": "Nova Iorque",
+              "addressType": "Rua",
+              "cep": "59296497",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Amarante",
+              "latitude": "-5.77361",
+              "longitude": "-35.27782"
+            },
+            {
+              "name": "Criciúma",
+              "addressType": "Rua",
+              "cep": "59296590",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Amarante",
+              "latitude": "-5.77126",
+              "longitude": "-35.27121"
+            },
+            {
+              "name": "Osvaldo Cruz",
+              "addressType": "Travessa",
+              "cep": "59296713",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Amarante",
+              "latitude": "-5.77696",
+              "longitude": "-35.26973"
+            },
+            {
+              "name": "do Largo do Criciúma",
+              "addressType": "Travessa",
+              "cep": "59296584",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Amarante",
+              "latitude": "-5.77126",
+              "longitude": "-35.27121"
+            },
+            {
+              "name": "Timbira",
+              "addressType": "Rua",
+              "cep": "59296650",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Amarante",
+              "latitude": "-5.77506",
+              "longitude": "-35.27199"
+            },
+            {
+              "name": "Largo do Criciúma",
+              "addressType": "Rua",
+              "cep": "59296587",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Amarante",
+              "latitude": "-5.77211",
+              "longitude": "-35.268"
+            },
+            {
+              "name": "Bahia",
+              "addressType": "Rua",
+              "cep": "59296689",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Amarante",
+              "latitude": "-5.77869",
+              "longitude": "-35.27223"
+            }
+          ]
+        },
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "Agnaldo Correia de Melo",
+              "addressType": "Travessa",
+              "cep": "59291577",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Centro",
+              "latitude": "-5.79063",
+              "longitude": "-35.3314"
+            },
+            {
+              "name": "Coronel Estevam Moura",
+              "addressType": "Avenida",
+              "cep": "59291550",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Centro",
+              "latitude": "-5.79005",
+              "longitude": "-35.32876"
+            },
+            {
+              "name": "31 de Março",
+              "addressType": "Rua",
+              "cep": "59291631",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Centro",
+              "latitude": "-5.79323",
+              "longitude": "-35.33394"
+            },
+            {
+              "name": "Agnaldo Correia",
+              "addressType": "Rua",
+              "cep": "59291578",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Centro",
+              "latitude": "-5.79063",
+              "longitude": "-35.3314"
+            },
+            {
+              "name": "Alexandre Cavalcanti",
+              "addressType": "Avenida",
+              "cep": "59291625",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Centro",
+              "latitude": "-5.79054",
+              "longitude": "-35.33404"
+            },
+            {
+              "name": "Alexandre Cavalcante",
+              "addressType": "Travessa",
+              "cep": "59291643",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Centro",
+              "latitude": "-5.79042",
+              "longitude": "-35.33432"
+            },
+            {
+              "name": "Coronel Estevam Moura 306",
+              "addressType": "Rua",
+              "cep": "59290970",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Centro",
+              "latitude": "-5.7907",
+              "longitude": "-35.3288"
+            },
+            {
+              "name": "Coronel Estevam Moura, 306",
+              "addressType": "Avenida",
+              "cep": "59291959",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Centro",
+              "latitude": "-5.7907",
+              "longitude": "-35.3288"
+            }
+          ]
+        },
+        {
+          "name": "Golandim",
+          "streets": [
+            {
+              "name": "Belvedere",
+              "addressType": "Rua",
+              "cep": "59296159",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Golandim",
+              "latitude": "-5.79319",
+              "longitude": "-35.32883"
+            },
+            {
+              "name": "Coronel Estevam",
+              "addressType": "Rua",
+              "cep": "59296012",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Golandim",
+              "latitude": "-5.78656",
+              "longitude": "-35.33354"
+            },
+            {
+              "name": "Olinda",
+              "addressType": "Rua",
+              "cep": "59296132",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Golandim",
+              "latitude": "-5.7735",
+              "longitude": "-35.28353"
+            },
+            {
+              "name": "Travessa Aluízio Alves",
+              "addressType": "1ª",
+              "cep": "59296066",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Golandim",
+              "latitude": "-5.76981",
+              "longitude": "-35.27949"
+            },
+            {
+              "name": "São Daniel",
+              "addressType": "Rua",
+              "cep": "59296144",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Golandim",
+              "latitude": "-5.77554",
+              "longitude": "-35.28233"
+            },
+            {
+              "name": "Santa Mariana",
+              "addressType": "Rua",
+              "cep": "59296168",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Golandim",
+              "latitude": "-5.77471",
+              "longitude": "-35.28335"
+            },
+            {
+              "name": "Sapucaí",
+              "addressType": "Travessa",
+              "cep": "59296096",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Golandim",
+              "latitude": "-5.79319",
+              "longitude": "-35.32883"
+            },
+            {
+              "name": "São João",
+              "addressType": "Rua",
+              "cep": "59295841",
+              "state": "Rio Grande do Norte",
+              "city": "São Gonçalo do Amarante",
+              "district": "Golandim",
+              "latitude": "-5.76941",
+              "longitude": "-35.28014"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

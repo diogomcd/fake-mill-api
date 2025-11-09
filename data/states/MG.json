@@ -1,0 +1,1431 @@
+{
+  "code": "MG",
+  "name": "Minas Gerais",
+  "capital": "Belo Horizonte",
+  "ddd": "33",
+  "regiao": "Sudeste",
+  "cities": [
+    {
+      "name": "Alfenas",
+      "ibgeCode": "3101607",
+      "ddd": "35",
+      "districts": [
+        {
+          "name": "Aparecida",
+          "streets": [
+            {
+              "name": "Dom Silvério",
+              "addressType": "Travessa",
+              "cep": "37135086",
+              "state": "Minas Gerais",
+              "city": "Alfenas",
+              "district": "Aparecida",
+              "latitude": "-21.42394",
+              "longitude": "-45.9574"
+            },
+            {
+              "name": "João Pinheiro",
+              "addressType": "Rua",
+              "cep": "37135066",
+              "state": "Minas Gerais",
+              "city": "Alfenas",
+              "district": "Aparecida",
+              "latitude": "-21.42442",
+              "longitude": "-45.94948"
+            },
+            {
+              "name": "Afonso Pena",
+              "addressType": "Avenida",
+              "cep": "37135072",
+              "state": "Minas Gerais",
+              "city": "Alfenas",
+              "district": "Aparecida",
+              "latitude": "-21.42278",
+              "longitude": "-45.94257"
+            },
+            {
+              "name": "Padre Rolim",
+              "addressType": "Rua",
+              "cep": "37135032",
+              "state": "Minas Gerais",
+              "city": "Alfenas",
+              "district": "Aparecida",
+              "latitude": "-21.42309",
+              "longitude": "-45.95351"
+            },
+            {
+              "name": "Dom Silvério",
+              "addressType": "Rua",
+              "cep": "37135048",
+              "state": "Minas Gerais",
+              "city": "Alfenas",
+              "district": "Aparecida",
+              "latitude": "-21.4239",
+              "longitude": "-45.95619"
+            },
+            {
+              "name": "Antônio Fernandes de Sales",
+              "addressType": "Rua",
+              "cep": "37135068",
+              "state": "Minas Gerais",
+              "city": "Alfenas",
+              "district": "Aparecida",
+              "latitude": "-21.42575",
+              "longitude": "-45.95841"
+            },
+            {
+              "name": "da Saudade",
+              "addressType": "Praça",
+              "cep": "37135076",
+              "state": "Minas Gerais",
+              "city": "Alfenas",
+              "district": "Aparecida",
+              "latitude": "-21.4224",
+              "longitude": "-45.95368"
+            },
+            {
+              "name": "Ministro Salgado Filho",
+              "addressType": "Rua",
+              "cep": "37135050",
+              "state": "Minas Gerais",
+              "city": "Alfenas",
+              "district": "Aparecida",
+              "latitude": "-21.42655",
+              "longitude": "-45.94992"
+            }
+          ]
+        },
+        {
+          "name": "Barranco Alto",
+          "streets": [
+            {
+              "name": "Ana Quitéria, s/n",
+              "addressType": "Rua",
+              "cep": "37139971",
+              "state": "Minas Gerais",
+              "city": "Alfenas",
+              "district": "Barranco Alto",
+              "latitude": "-21.18039",
+              "longitude": "-45.95748"
+            },
+            {
+              "name": "Ana Quitéria s/n",
+              "addressType": "Rua",
+              "cep": "37131971",
+              "state": "Minas Gerais",
+              "city": "Alfenas",
+              "district": "Barranco Alto",
+              "latitude": "-21.18039",
+              "longitude": "-45.95748"
+            }
+          ]
+        },
+        {
+          "name": "Bosque do Lobo",
+          "streets": [
+            {
+              "name": "Bosque das Quaresmeiras",
+              "addressType": "Rua",
+              "cep": "37130506",
+              "state": "Minas Gerais",
+              "city": "Alfenas",
+              "district": "Bosque do Lobo",
+              "latitude": "-21.42223",
+              "longitude": "-45.93255"
+            },
+            {
+              "name": "Bosque Chico Mendes",
+              "addressType": "Rua",
+              "cep": "37130502",
+              "state": "Minas Gerais",
+              "city": "Alfenas",
+              "district": "Bosque do Lobo",
+              "latitude": "-21.42223",
+              "longitude": "-45.93255"
+            },
+            {
+              "name": "Bosque das Grevíleas",
+              "addressType": "Rua",
+              "cep": "37130528",
+              "state": "Minas Gerais",
+              "city": "Alfenas",
+              "district": "Bosque do Lobo",
+              "latitude": "-21.42223",
+              "longitude": "-45.93255"
+            },
+            {
+              "name": "Bosque do Trabalhador",
+              "addressType": "Rua",
+              "cep": "37130504",
+              "state": "Minas Gerais",
+              "city": "Alfenas",
+              "district": "Bosque do Lobo",
+              "latitude": "-21.42223",
+              "longitude": "-45.93255"
+            },
+            {
+              "name": "Bosque dos Álamos",
+              "addressType": "Rua",
+              "cep": "37130512",
+              "state": "Minas Gerais",
+              "city": "Alfenas",
+              "district": "Bosque do Lobo",
+              "latitude": "-21.43159",
+              "longitude": "-45.94254"
+            },
+            {
+              "name": "Bosque dos Tropeiros",
+              "addressType": "Rua",
+              "cep": "37130508",
+              "state": "Minas Gerais",
+              "city": "Alfenas",
+              "district": "Bosque do Lobo",
+              "latitude": "-21.42223",
+              "longitude": "-45.93255"
+            },
+            {
+              "name": "Bosque das Ararunas",
+              "addressType": "Rua",
+              "cep": "37130510",
+              "state": "Minas Gerais",
+              "city": "Alfenas",
+              "district": "Bosque do Lobo",
+              "latitude": "-21.42223",
+              "longitude": "-45.93255"
+            },
+            {
+              "name": "Bosque dos Italianos",
+              "addressType": "Rua",
+              "cep": "37130522",
+              "state": "Minas Gerais",
+              "city": "Alfenas",
+              "district": "Bosque do Lobo",
+              "latitude": "-21.42223",
+              "longitude": "-45.93255"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Araguari",
+      "ibgeCode": "3103504",
+      "ddd": "34",
+      "districts": [
+        {
+          "name": "Amorim",
+          "streets": [
+            {
+              "name": "Abolição",
+              "addressType": "Rua",
+              "cep": "38446227",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Amorim",
+              "latitude": "-18.66327",
+              "longitude": "-48.18023"
+            },
+            {
+              "name": "São Salvador",
+              "addressType": "Rua",
+              "cep": "38446130",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Amorim",
+              "latitude": "-18.66258",
+              "longitude": "-48.1802"
+            },
+            {
+              "name": "Santos Dumont",
+              "addressType": "Avenida",
+              "cep": "38446089",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Amorim",
+              "latitude": "-18.65887",
+              "longitude": "-48.18442"
+            },
+            {
+              "name": "Coromandel",
+              "addressType": "Travessa",
+              "cep": "38446144",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Amorim",
+              "latitude": "-18.66958",
+              "longitude": "-48.17926"
+            },
+            {
+              "name": "Humaitá",
+              "addressType": "Rua",
+              "cep": "38446086",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Amorim",
+              "latitude": "-18.66107",
+              "longitude": "-48.18421"
+            },
+            {
+              "name": "Arlindo Mendes",
+              "addressType": "Rua",
+              "cep": "38446221",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Amorim",
+              "latitude": "-18.66246",
+              "longitude": "-48.18078"
+            },
+            {
+              "name": "João Fernandes da Silva",
+              "addressType": "Rua",
+              "cep": "38446096",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Amorim",
+              "latitude": "-18.64803",
+              "longitude": "-48.176"
+            },
+            {
+              "name": "Joaquim Barbosa",
+              "addressType": "Rua",
+              "cep": "38446146",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Amorim",
+              "latitude": "-18.66034",
+              "longitude": "-48.18557"
+            }
+          ]
+        },
+        {
+          "name": "Beatriz",
+          "streets": [
+            {
+              "name": "Antimônio",
+              "addressType": "Rua",
+              "cep": "38446141",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Beatriz",
+              "latitude": "-18.67488",
+              "longitude": "-48.17612"
+            },
+            {
+              "name": "Joaquim Alves Rodrigues",
+              "addressType": "Rua",
+              "cep": "38446383",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Beatriz",
+              "latitude": "-18.67579",
+              "longitude": "-48.1763"
+            },
+            {
+              "name": "Rio das Velhas",
+              "addressType": "Rua",
+              "cep": "38446282",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Beatriz",
+              "latitude": "-18.68178",
+              "longitude": "-48.17363"
+            },
+            {
+              "name": "Satélite",
+              "addressType": "Rua",
+              "cep": "38446294",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Beatriz",
+              "latitude": "-18.67365",
+              "longitude": "-48.17687"
+            },
+            {
+              "name": "Tambu",
+              "addressType": "Rua",
+              "cep": "38446384",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Beatriz",
+              "latitude": "-18.67405",
+              "longitude": "-48.17608"
+            },
+            {
+              "name": "Guanabara",
+              "addressType": "Rua",
+              "cep": "38446140",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Beatriz",
+              "latitude": "-18.66549",
+              "longitude": "-48.18163"
+            },
+            {
+              "name": "Coromandel",
+              "addressType": "Rua",
+              "cep": "38446142",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Beatriz",
+              "latitude": "-18.6275",
+              "longitude": "-48.1964"
+            },
+            {
+              "name": "Bandeirante",
+              "addressType": "Rua",
+              "cep": "38446230",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Beatriz",
+              "latitude": "-18.6725",
+              "longitude": "-48.17673"
+            }
+          ]
+        },
+        {
+          "name": "Bosque",
+          "streets": [
+            {
+              "name": "Abolição",
+              "addressType": "Rua",
+              "cep": "38446098",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Bosque",
+              "latitude": "-18.66453",
+              "longitude": "-48.18188"
+            },
+            {
+              "name": "Goiás",
+              "addressType": "Rua",
+              "cep": "38446158",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Bosque",
+              "latitude": "-18.66785",
+              "longitude": "-48.18645"
+            },
+            {
+              "name": "Bom Retiro",
+              "addressType": "Rua",
+              "cep": "38440116",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Bosque",
+              "latitude": "-18.63315",
+              "longitude": "-48.19702"
+            },
+            {
+              "name": "Sueli Maria Marques dos Santos",
+              "addressType": "Rua",
+              "cep": "38446081",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Bosque",
+              "latitude": "-18.63683",
+              "longitude": "-48.21863"
+            },
+            {
+              "name": "Pedro Teixeira",
+              "addressType": "Praça",
+              "cep": "38446067",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Bosque",
+              "latitude": "-18.65343",
+              "longitude": "-48.18251"
+            },
+            {
+              "name": "Sebastiana Maria Novaes",
+              "addressType": "Rua",
+              "cep": "38446177",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Bosque",
+              "latitude": "-18.65931",
+              "longitude": "-48.20744"
+            },
+            {
+              "name": "K",
+              "addressType": "Rua",
+              "cep": "38446878",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Bosque",
+              "latitude": "-18.65534",
+              "longitude": "-48.17986"
+            },
+            {
+              "name": "Caiapó",
+              "addressType": "Rua",
+              "cep": "38446062",
+              "state": "Minas Gerais",
+              "city": "Araguari",
+              "district": "Bosque",
+              "latitude": "-18.65375",
+              "longitude": "-48.17837"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Araxá",
+      "ibgeCode": "3104007",
+      "ddd": "34",
+      "districts": [
+        {
+          "name": "Abolição",
+          "streets": [
+            {
+              "name": "Tia Mariinha Di Mambro",
+              "addressType": "Rua",
+              "cep": "38180254",
+              "state": "Minas Gerais",
+              "city": "Araxá",
+              "district": "Abolição",
+              "latitude": "-19.56869",
+              "longitude": "-46.9518"
+            },
+            {
+              "name": "José Pinto da Silva",
+              "addressType": "Rua",
+              "cep": "38180252",
+              "state": "Minas Gerais",
+              "city": "Araxá",
+              "district": "Abolição",
+              "latitude": "-19.56936",
+              "longitude": "-46.95099"
+            },
+            {
+              "name": "José Passos de Oliveira",
+              "addressType": "Rua",
+              "cep": "38180270",
+              "state": "Minas Gerais",
+              "city": "Araxá",
+              "district": "Abolição",
+              "latitude": "-19.56786",
+              "longitude": "-46.95425"
+            },
+            {
+              "name": "Poeta Hélio Ferreira",
+              "addressType": "Rua",
+              "cep": "38180253",
+              "state": "Minas Gerais",
+              "city": "Araxá",
+              "district": "Abolição",
+              "latitude": "-19.5692",
+              "longitude": "-46.95073"
+            },
+            {
+              "name": "José Montandon de Paiva",
+              "addressType": "Rua",
+              "cep": "38180256",
+              "state": "Minas Gerais",
+              "city": "Araxá",
+              "district": "Abolição",
+              "latitude": "-19.56767",
+              "longitude": "-46.9511"
+            },
+            {
+              "name": "Carlos Ribeiro",
+              "addressType": "Rua",
+              "cep": "38180262",
+              "state": "Minas Gerais",
+              "city": "Araxá",
+              "district": "Abolição",
+              "latitude": "-19.56733",
+              "longitude": "-46.95339"
+            },
+            {
+              "name": "Rosalvo Francisco Machado",
+              "addressType": "Rua",
+              "cep": "38180258",
+              "state": "Minas Gerais",
+              "city": "Araxá",
+              "district": "Abolição",
+              "latitude": "-19.56717",
+              "longitude": "-46.9515"
+            },
+            {
+              "name": "Joana DArc Gonçalves",
+              "addressType": "Rua",
+              "cep": "38180228",
+              "state": "Minas Gerais",
+              "city": "Araxá",
+              "district": "Abolição",
+              "latitude": "-19.57008",
+              "longitude": "-46.95273"
+            }
+          ]
+        },
+        {
+          "name": "Ademar Rodrigues Vale",
+          "streets": [
+            {
+              "name": "Ana da Cunha",
+              "addressType": "Rua",
+              "cep": "38182400",
+              "state": "Minas Gerais",
+              "city": "Araxá",
+              "district": "Ademar Rodrigues Vale",
+              "latitude": "-19.61475",
+              "longitude": "-46.9244"
+            },
+            {
+              "name": "Jovino Augusto da Silva",
+              "addressType": "Rua",
+              "cep": "38182392",
+              "state": "Minas Gerais",
+              "city": "Araxá",
+              "district": "Ademar Rodrigues Vale",
+              "latitude": "-19.61272",
+              "longitude": "-46.92469"
+            },
+            {
+              "name": "Maria Lucinda da Mota",
+              "addressType": "Rua",
+              "cep": "38182396",
+              "state": "Minas Gerais",
+              "city": "Araxá",
+              "district": "Ademar Rodrigues Vale",
+              "latitude": "-19.61391",
+              "longitude": "-46.92451"
+            },
+            {
+              "name": "Ademar Montandon",
+              "addressType": "Rua",
+              "cep": "38182394",
+              "state": "Minas Gerais",
+              "city": "Araxá",
+              "district": "Ademar Rodrigues Vale",
+              "latitude": "-19.6133",
+              "longitude": "-46.92459"
+            },
+            {
+              "name": "Benedita Margarida da Mota",
+              "addressType": "Rua",
+              "cep": "38182398",
+              "state": "Minas Gerais",
+              "city": "Araxá",
+              "district": "Ademar Rodrigues Vale",
+              "latitude": "-19.61453",
+              "longitude": "-46.92442"
+            }
+          ]
+        },
+        {
+          "name": "Aeroporto",
+          "streets": [
+            {
+              "name": "Ministro Olavo Drummond",
+              "addressType": "Avenida",
+              "cep": "38180400",
+              "state": "Minas Gerais",
+              "city": "Araxá",
+              "district": "Aeroporto",
+              "latitude": "-19.57134",
+              "longitude": "-46.95552"
+            },
+            {
+              "name": "Celina Maria de Jesus",
+              "addressType": "Rua",
+              "cep": "38180410",
+              "state": "Minas Gerais",
+              "city": "Araxá",
+              "district": "Aeroporto",
+              "latitude": "-19.56713",
+              "longitude": "-46.94819"
+            },
+            {
+              "name": "João Marcelino",
+              "addressType": "Rua",
+              "cep": "38180404",
+              "state": "Minas Gerais",
+              "city": "Araxá",
+              "district": "Aeroporto",
+              "latitude": "-19.56793",
+              "longitude": "-46.94986"
+            },
+            {
+              "name": "Ricardo Roberto de Oliveira",
+              "addressType": "Rua",
+              "cep": "38180402",
+              "state": "Minas Gerais",
+              "city": "Araxá",
+              "district": "Aeroporto",
+              "latitude": "-19.5681",
+              "longitude": "-46.95046"
+            },
+            {
+              "name": "da Vitória",
+              "addressType": "Travessa",
+              "cep": "38180422",
+              "state": "Minas Gerais",
+              "city": "Araxá",
+              "district": "Aeroporto",
+              "latitude": "-19.56822",
+              "longitude": "-46.94766"
+            },
+            {
+              "name": "Tarcísio Nepomuceno",
+              "addressType": "Rua",
+              "cep": "38180424",
+              "state": "Minas Gerais",
+              "city": "Araxá",
+              "district": "Aeroporto",
+              "latitude": "-19.56638",
+              "longitude": "-46.94969"
+            },
+            {
+              "name": "Mário Eduardo Brilhante",
+              "addressType": "Rua",
+              "cep": "38180418",
+              "state": "Minas Gerais",
+              "city": "Araxá",
+              "district": "Aeroporto",
+              "latitude": "-19.56732",
+              "longitude": "-46.94847"
+            },
+            {
+              "name": "Oito",
+              "addressType": "Rua",
+              "cep": "38180426",
+              "state": "Minas Gerais",
+              "city": "Araxá",
+              "district": "Aeroporto",
+              "latitude": "-19.5772",
+              "longitude": "-46.96102"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Barbacena",
+      "ibgeCode": "3105608",
+      "ddd": "32",
+      "districts": [
+        {
+          "name": "Aeroporto",
+          "streets": [
+            {
+              "name": "Maria Rita Bertolucci",
+              "addressType": "Travessa",
+              "cep": "36200775",
+              "state": "Minas Gerais",
+              "city": "Barbacena",
+              "district": "Aeroporto",
+              "latitude": "-21.23448",
+              "longitude": "-43.78094"
+            },
+            {
+              "name": "Olga Bertolucci Simões",
+              "addressType": "Rua",
+              "cep": "36200770",
+              "state": "Minas Gerais",
+              "city": "Barbacena",
+              "district": "Aeroporto",
+              "latitude": "-21.22401",
+              "longitude": "-43.78706"
+            },
+            {
+              "name": "Vale dos Imigrantes",
+              "addressType": "Estrada",
+              "cep": "36200773",
+              "state": "Minas Gerais",
+              "city": "Barbacena",
+              "district": "Aeroporto",
+              "latitude": "-21.21455",
+              "longitude": "-43.77037"
+            }
+          ]
+        },
+        {
+          "name": "Andaraí",
+          "streets": [
+            {
+              "name": "Amazonas",
+              "addressType": "Rua",
+              "cep": "36204010",
+              "state": "Minas Gerais",
+              "city": "Barbacena",
+              "district": "Andaraí",
+              "latitude": "-21.21707",
+              "longitude": "-43.76678"
+            },
+            {
+              "name": "Cônego Geraldo Magela Teixeira",
+              "addressType": "Rua",
+              "cep": "36204016",
+              "state": "Minas Gerais",
+              "city": "Barbacena",
+              "district": "Andaraí",
+              "latitude": "-21.21655",
+              "longitude": "-43.76575"
+            },
+            {
+              "name": "Doutor Joaquim Murtinho",
+              "addressType": "Rua",
+              "cep": "36204002",
+              "state": "Minas Gerais",
+              "city": "Barbacena",
+              "district": "Andaraí",
+              "latitude": "-21.21625",
+              "longitude": "-43.76828"
+            },
+            {
+              "name": "Mato Grosso",
+              "addressType": "Rua",
+              "cep": "36204006",
+              "state": "Minas Gerais",
+              "city": "Barbacena",
+              "district": "Andaraí",
+              "latitude": "-21.21645",
+              "longitude": "-43.76756"
+            },
+            {
+              "name": "Padre Lobo",
+              "addressType": "Rua",
+              "cep": "36204008",
+              "state": "Minas Gerais",
+              "city": "Barbacena",
+              "district": "Andaraí",
+              "latitude": "-21.21697",
+              "longitude": "-43.76762"
+            },
+            {
+              "name": "Pará",
+              "addressType": "Rua",
+              "cep": "36204004",
+              "state": "Minas Gerais",
+              "city": "Barbacena",
+              "district": "Andaraí",
+              "latitude": "-21.21559",
+              "longitude": "-43.76788"
+            },
+            {
+              "name": "São Paulo",
+              "addressType": "Rua",
+              "cep": "36204014",
+              "state": "Minas Gerais",
+              "city": "Barbacena",
+              "district": "Andaraí",
+              "latitude": "-21.2165",
+              "longitude": "-43.76624"
+            },
+            {
+              "name": "São Vicente de Paula",
+              "addressType": "Rua",
+              "cep": "36204000",
+              "state": "Minas Gerais",
+              "city": "Barbacena",
+              "district": "Andaraí",
+              "latitude": "-21.19641",
+              "longitude": "-43.64051"
+            }
+          ]
+        },
+        {
+          "name": "Belvedere",
+          "streets": [
+            {
+              "name": "Pedro Viol",
+              "addressType": "Praça",
+              "cep": "36201136",
+              "state": "Minas Gerais",
+              "city": "Barbacena",
+              "district": "Belvedere",
+              "latitude": "-21.21141",
+              "longitude": "-43.78581"
+            },
+            {
+              "name": "João Calmeto de Castro",
+              "addressType": "Rua",
+              "cep": "36201132",
+              "state": "Minas Gerais",
+              "city": "Barbacena",
+              "district": "Belvedere",
+              "latitude": "-21.22719",
+              "longitude": "-43.80638"
+            },
+            {
+              "name": "Orozimbo Paolucci",
+              "addressType": "Avenida",
+              "cep": "36201140",
+              "state": "Minas Gerais",
+              "city": "Barbacena",
+              "district": "Belvedere",
+              "latitude": "-21.2311",
+              "longitude": "-43.79055"
+            },
+            {
+              "name": "Antônio Mazzoni",
+              "addressType": "Rua",
+              "cep": "36201138",
+              "state": "Minas Gerais",
+              "city": "Barbacena",
+              "district": "Belvedere",
+              "latitude": "-21.22545",
+              "longitude": "-43.76901"
+            },
+            {
+              "name": "Professora Maria Jorge",
+              "addressType": "Rua",
+              "cep": "36201300",
+              "state": "Minas Gerais",
+              "city": "Barbacena",
+              "district": "Belvedere",
+              "latitude": "-21.21112",
+              "longitude": "-43.7832"
+            },
+            {
+              "name": "BR-338",
+              "addressType": "Rodovia",
+              "cep": "36201139",
+              "state": "Minas Gerais",
+              "city": "Barbacena",
+              "district": "Belvedere",
+              "latitude": "-21.21388",
+              "longitude": "-43.77245"
+            },
+            {
+              "name": "Vicente Basílio de Oliveira",
+              "addressType": "Rua",
+              "cep": "36201130",
+              "state": "Minas Gerais",
+              "city": "Barbacena",
+              "district": "Belvedere",
+              "latitude": "-21.23203",
+              "longitude": "-43.79154"
+            },
+            {
+              "name": "Barbosa Silva",
+              "addressType": "Rua",
+              "cep": "36201134",
+              "state": "Minas Gerais",
+              "city": "Barbacena",
+              "district": "Belvedere",
+              "latitude": "-21.23061",
+              "longitude": "-43.79064"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Belo Horizonte",
+      "ibgeCode": "3106200",
+      "ddd": "31",
+      "districts": [
+        {
+          "name": "Aarão Reis",
+          "streets": [
+            {
+              "name": "Oliveira Fortes",
+              "addressType": "Rua",
+              "cep": "31814320",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Aarão Reis",
+              "latitude": "-19.91647",
+              "longitude": "-43.93338"
+            },
+            {
+              "name": "Publicitário Antônio Rocha",
+              "addressType": "Rua",
+              "cep": "31814690",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Aarão Reis",
+              "latitude": "-19.84864",
+              "longitude": "-43.92348"
+            },
+            {
+              "name": "Pastor Eli Liberato",
+              "addressType": "Rua",
+              "cep": "31814540",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Aarão Reis",
+              "latitude": "-19.84734",
+              "longitude": "-43.92431"
+            },
+            {
+              "name": "Olaria Gomes",
+              "addressType": "Beco",
+              "cep": "31814660",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Aarão Reis",
+              "latitude": "-19.84946",
+              "longitude": "-43.92082"
+            },
+            {
+              "name": "Quatro Mil Cento e Setenta e Cinco",
+              "addressType": "Avenida",
+              "cep": "31814662",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Aarão Reis",
+              "latitude": "-19.83195",
+              "longitude": "-43.98458"
+            },
+            {
+              "name": "Raimunda Ferreira da Rocha",
+              "addressType": "Rua",
+              "cep": "31814652",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Aarão Reis",
+              "latitude": "-19.84801",
+              "longitude": "-43.91863"
+            },
+            {
+              "name": "Ródio",
+              "addressType": "Rua",
+              "cep": "31814530",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Aarão Reis",
+              "latitude": "-19.84613",
+              "longitude": "-43.92689"
+            },
+            {
+              "name": "Maria Tereza de Souza",
+              "addressType": "Rua",
+              "cep": "31814680",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Aarão Reis",
+              "latitude": "-19.84855",
+              "longitude": "-43.92422"
+            }
+          ]
+        },
+        {
+          "name": "Acaba Mundo",
+          "streets": [
+            {
+              "name": "Desengano",
+              "addressType": "Rua",
+              "cep": "30315280",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Acaba Mundo",
+              "latitude": "-19.96098",
+              "longitude": "-43.92841"
+            },
+            {
+              "name": "da Igreja",
+              "addressType": "Beco",
+              "cep": "30315325",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Acaba Mundo",
+              "latitude": "-19.96052",
+              "longitude": "-43.92887"
+            },
+            {
+              "name": "dos Carvalhos",
+              "addressType": "Rua",
+              "cep": "30315320",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Acaba Mundo",
+              "latitude": "-19.96135",
+              "longitude": "-43.9294"
+            },
+            {
+              "name": "São João",
+              "addressType": "Beco",
+              "cep": "30315322",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Acaba Mundo",
+              "latitude": "-20.01158",
+              "longitude": "-44.01913"
+            },
+            {
+              "name": "da Mina",
+              "addressType": "Beco",
+              "cep": "30315342",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Acaba Mundo",
+              "latitude": "-19.85625",
+              "longitude": "-43.8957"
+            },
+            {
+              "name": "Professor Darcy Ribeiro",
+              "addressType": "Praça",
+              "cep": "30315285",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Acaba Mundo",
+              "latitude": "-19.96007",
+              "longitude": "-43.9286"
+            },
+            {
+              "name": "Isabel Baggio Guimarães",
+              "addressType": "Praça",
+              "cep": "30315330",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Acaba Mundo",
+              "latitude": "-19.96034",
+              "longitude": "-43.92879"
+            }
+          ]
+        },
+        {
+          "name": "Acaiaca",
+          "streets": [
+            {
+              "name": "Dezessete",
+              "addressType": "Rua",
+              "cep": "31995070",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Acaiaca",
+              "latitude": "-19.85002",
+              "longitude": "-43.89208"
+            },
+            {
+              "name": "Cleanto",
+              "addressType": "Rua",
+              "cep": "31990366",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Acaiaca",
+              "latitude": "-19.8455",
+              "longitude": "-43.89693"
+            },
+            {
+              "name": "Artur de Castro Cunha",
+              "addressType": "Rua",
+              "cep": "31995090",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Acaiaca",
+              "latitude": "-19.84597",
+              "longitude": "-43.89289"
+            },
+            {
+              "name": "Capitão Eduardo",
+              "addressType": "Rua",
+              "cep": "31998450",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Acaiaca",
+              "latitude": "-19.84371",
+              "longitude": "-43.89688"
+            },
+            {
+              "name": "Antônio Telles Pereira",
+              "addressType": "Rua",
+              "cep": "31995095",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Acaiaca",
+              "latitude": "-19.84486",
+              "longitude": "-43.89595"
+            },
+            {
+              "name": "Lauro Rodrigues da Cunha",
+              "addressType": "Rua",
+              "cep": "31995120",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Acaiaca",
+              "latitude": "-19.84379",
+              "longitude": "-43.89409"
+            },
+            {
+              "name": "Everest",
+              "addressType": "Rua",
+              "cep": "31990380",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Acaiaca",
+              "latitude": "-19.84566",
+              "longitude": "-43.89798"
+            },
+            {
+              "name": "Estrada de Ferro",
+              "addressType": "Rua",
+              "cep": "31990385",
+              "state": "Minas Gerais",
+              "city": "Belo Horizonte",
+              "district": "Acaiaca",
+              "latitude": "-19.8453",
+              "longitude": "-43.89864"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Betim",
+      "ibgeCode": "3106705",
+      "ddd": "31",
+      "districts": [
+        {
+          "name": "Alta Villa",
+          "streets": [
+            {
+              "name": "B",
+              "addressType": "Rua",
+              "cep": "32606754",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alta Villa",
+              "latitude": "-19.95615",
+              "longitude": "-44.26634"
+            },
+            {
+              "name": "A",
+              "addressType": "Rua",
+              "cep": "32606750",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alta Villa",
+              "latitude": "-20.01974",
+              "longitude": "-44.12329"
+            },
+            {
+              "name": "C",
+              "addressType": "Rua",
+              "cep": "32606758",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alta Villa",
+              "latitude": "-20.00018",
+              "longitude": "-44.22185"
+            },
+            {
+              "name": "D",
+              "addressType": "Rua",
+              "cep": "32606766",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alta Villa",
+              "latitude": "-19.93405",
+              "longitude": "-44.08553"
+            },
+            {
+              "name": "I",
+              "addressType": "Rua",
+              "cep": "32606800",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alta Villa",
+              "latitude": "-19.93844",
+              "longitude": "-44.13726"
+            },
+            {
+              "name": "E",
+              "addressType": "Rua",
+              "cep": "32606770",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alta Villa",
+              "latitude": "-19.94516",
+              "longitude": "-44.2055"
+            },
+            {
+              "name": "G",
+              "addressType": "Rua",
+              "cep": "32606778",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alta Villa",
+              "latitude": "-19.94198",
+              "longitude": "-44.12625"
+            },
+            {
+              "name": "J",
+              "addressType": "Rua",
+              "cep": "32606804",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alta Villa",
+              "latitude": "-19.93894",
+              "longitude": "-44.13639"
+            }
+          ]
+        },
+        {
+          "name": "Alto das Flores",
+          "streets": [
+            {
+              "name": "Pedra Azul",
+              "addressType": "Rua",
+              "cep": "32605172",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alto das Flores",
+              "latitude": "-19.93327",
+              "longitude": "-44.18405"
+            },
+            {
+              "name": "Quinze",
+              "addressType": "Rua",
+              "cep": "32605130",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alto das Flores",
+              "latitude": "-19.93558",
+              "longitude": "-44.18218"
+            },
+            {
+              "name": "Laranjeiras",
+              "addressType": "Rua",
+              "cep": "32605106",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alto das Flores",
+              "latitude": "-19.93407",
+              "longitude": "-44.18129"
+            },
+            {
+              "name": "Hibisco",
+              "addressType": "Avenida",
+              "cep": "32605155",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alto das Flores",
+              "latitude": "-19.9327",
+              "longitude": "-44.1859"
+            },
+            {
+              "name": "Senhora das Graças",
+              "addressType": "Rua",
+              "cep": "32605100",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alto das Flores",
+              "latitude": "-19.93165",
+              "longitude": "-44.18627"
+            },
+            {
+              "name": "Quatorze",
+              "addressType": "Rua",
+              "cep": "32605132",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alto das Flores",
+              "latitude": "-19.93799",
+              "longitude": "-44.12621"
+            },
+            {
+              "name": "Dez",
+              "addressType": "Rua",
+              "cep": "32605122",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alto das Flores",
+              "latitude": "-19.93546",
+              "longitude": "-44.18301"
+            },
+            {
+              "name": "Baviera",
+              "addressType": "Rua",
+              "cep": "32605198",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alto das Flores",
+              "latitude": "-19.93236",
+              "longitude": "-44.18387"
+            }
+          ]
+        },
+        {
+          "name": "Alvorada",
+          "streets": [
+            {
+              "name": "Santo Antonio",
+              "addressType": "Rua",
+              "cep": "32690685",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alvorada",
+              "latitude": "-19.93829",
+              "longitude": "-44.09416"
+            },
+            {
+              "name": "C",
+              "addressType": "Rua",
+              "cep": "32687038",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alvorada",
+              "latitude": "-19.93823",
+              "longitude": "-44.09929"
+            },
+            {
+              "name": "Esperança",
+              "addressType": "Rua",
+              "cep": "32687066",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alvorada",
+              "latitude": "-19.93863",
+              "longitude": "-44.09633"
+            },
+            {
+              "name": "Porto Velho",
+              "addressType": "Rua",
+              "cep": "32687022",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alvorada",
+              "latitude": "-19.93906",
+              "longitude": "-44.10052"
+            },
+            {
+              "name": "dos Novatos",
+              "addressType": "Rua",
+              "cep": "32687042",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alvorada",
+              "latitude": "-19.93968",
+              "longitude": "-44.09897"
+            },
+            {
+              "name": "Santo Antônio",
+              "addressType": "Rua",
+              "cep": "32687082",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alvorada",
+              "latitude": "-19.93718",
+              "longitude": "-44.09609"
+            },
+            {
+              "name": "Manaus",
+              "addressType": "Rua",
+              "cep": "32687006",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alvorada",
+              "latitude": "-19.93888",
+              "longitude": "-44.09947"
+            },
+            {
+              "name": "Dona Silvina",
+              "addressType": "Rua",
+              "cep": "32687050",
+              "state": "Minas Gerais",
+              "city": "Betim",
+              "district": "Alvorada",
+              "latitude": "-19.93999",
+              "longitude": "-44.0971"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

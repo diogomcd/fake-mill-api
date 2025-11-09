@@ -1,0 +1,1451 @@
+{
+  "code": "GO",
+  "name": "Goiás",
+  "capital": "Goiânia",
+  "ddd": "64",
+  "regiao": "Centro-Oeste",
+  "cities": [
+    {
+      "name": "Anápolis",
+      "ibgeCode": "5201108",
+      "ddd": "62",
+      "districts": [
+        {
+          "name": "Adriana Parque",
+          "streets": [
+            {
+              "name": "C",
+              "addressType": "Rua",
+              "cep": "75053192",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Adriana Parque",
+              "latitude": "-16.34813",
+              "longitude": "-48.90336"
+            },
+            {
+              "name": "Alessandra",
+              "addressType": "Rua",
+              "cep": "75053300",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Adriana Parque",
+              "latitude": "-16.27624",
+              "longitude": "-48.98392"
+            },
+            {
+              "name": "Abadia",
+              "addressType": "Rua",
+              "cep": "75053373",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Adriana Parque",
+              "latitude": "-16.2748",
+              "longitude": "-48.98596"
+            },
+            {
+              "name": "Alice",
+              "addressType": "Rua",
+              "cep": "75053313",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Adriana Parque",
+              "latitude": "-16.27811",
+              "longitude": "-48.98683"
+            },
+            {
+              "name": "4",
+              "addressType": "Rua",
+              "cep": "75053427",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Adriana Parque",
+              "latitude": "-16.28239",
+              "longitude": "-48.98765"
+            },
+            {
+              "name": "Adriana Parque",
+              "addressType": "Rua",
+              "cep": "75053415",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Adriana Parque",
+              "latitude": "-16.28355",
+              "longitude": "-48.98765"
+            },
+            {
+              "name": "Cristiane",
+              "addressType": "Rua",
+              "cep": "75053170",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Adriana Parque",
+              "latitude": "-16.35899",
+              "longitude": "-48.94452"
+            },
+            {
+              "name": "Cristina",
+              "addressType": "Rua",
+              "cep": "75053180",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Adriana Parque",
+              "latitude": "-16.27846",
+              "longitude": "-48.9835"
+            }
+          ]
+        },
+        {
+          "name": "Alto da Bela Vista",
+          "streets": [
+            {
+              "name": "132",
+              "addressType": "Rua",
+              "cep": "75105650",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Alto da Bela Vista",
+              "latitude": "-16.35092",
+              "longitude": "-48.95785"
+            },
+            {
+              "name": "133",
+              "addressType": "Rua",
+              "cep": "75105660",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Alto da Bela Vista",
+              "latitude": "-16.35092",
+              "longitude": "-48.95785"
+            },
+            {
+              "name": "Felipe Abrão",
+              "addressType": "Rua",
+              "cep": "75105510",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Alto da Bela Vista",
+              "latitude": "-16.35293",
+              "longitude": "-48.93551"
+            },
+            {
+              "name": "141",
+              "addressType": "Rua",
+              "cep": "75105740",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Alto da Bela Vista",
+              "latitude": "-16.35092",
+              "longitude": "-48.95785"
+            },
+            {
+              "name": "25",
+              "addressType": "Rua",
+              "cep": "75105622",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Alto da Bela Vista",
+              "latitude": "-16.35092",
+              "longitude": "-48.95785"
+            },
+            {
+              "name": "Monte Alto",
+              "addressType": "Rua",
+              "cep": "75105540",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Alto da Bela Vista",
+              "latitude": "-16.35127",
+              "longitude": "-48.93843"
+            },
+            {
+              "name": "João Luís de Oliveira",
+              "addressType": "Rua",
+              "cep": "75105530",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Alto da Bela Vista",
+              "latitude": "-16.27178",
+              "longitude": "-48.83257"
+            },
+            {
+              "name": "36",
+              "addressType": "Rua",
+              "cep": "75105765",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Alto da Bela Vista",
+              "latitude": "-16.352",
+              "longitude": "-48.9369"
+            }
+          ]
+        },
+        {
+          "name": "Alvorada",
+          "streets": [
+            {
+              "name": "1",
+              "addressType": "Travessa",
+              "cep": "75084650",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Alvorada",
+              "latitude": "-16.37517",
+              "longitude": "-48.95225"
+            },
+            {
+              "name": "Mem de Sá",
+              "addressType": "Travessa",
+              "cep": "75084570",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Alvorada",
+              "latitude": "-16.30964",
+              "longitude": "-48.93941"
+            },
+            {
+              "name": "das Nações",
+              "addressType": "Rua",
+              "cep": "75084580",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Alvorada",
+              "latitude": "-16.3088",
+              "longitude": "-48.94205"
+            },
+            {
+              "name": "Colômbia",
+              "addressType": "Rua",
+              "cep": "75084660",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Alvorada",
+              "latitude": "-16.30655",
+              "longitude": "-48.94062"
+            },
+            {
+              "name": "Edvardes José Ribeiro",
+              "addressType": "Rua",
+              "cep": "75084687",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Alvorada",
+              "latitude": "-16.30451",
+              "longitude": "-48.93957"
+            },
+            {
+              "name": "Quinze de Novembro",
+              "addressType": "Rua",
+              "cep": "75084600",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Alvorada",
+              "latitude": "-16.79552",
+              "longitude": "-49.30644"
+            },
+            {
+              "name": "Duque de Caxias",
+              "addressType": "Travessa",
+              "cep": "75084675",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Alvorada",
+              "latitude": "-16.30707",
+              "longitude": "-48.93915"
+            },
+            {
+              "name": "9",
+              "addressType": "Rua",
+              "cep": "75084655",
+              "state": "Goiás",
+              "city": "Anápolis",
+              "district": "Alvorada",
+              "latitude": "-16.30723",
+              "longitude": "-48.93826"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aparecida de Goiânia",
+      "ibgeCode": "5201405",
+      "ddd": "62",
+      "districts": [
+        {
+          "name": "All Park Polo Empresarial",
+          "streets": [
+            {
+              "name": "Lafaiete de Campos",
+              "addressType": "Alameda",
+              "cep": "74988866",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "All Park Polo Empresarial",
+              "latitude": "-16.82039",
+              "longitude": "-49.20773"
+            },
+            {
+              "name": "Mário Melo",
+              "addressType": "Alameda",
+              "cep": "74988872",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "All Park Polo Empresarial",
+              "latitude": "-16.82392",
+              "longitude": "-49.25289"
+            },
+            {
+              "name": "Joaquim Câmara Filho",
+              "addressType": "Alameda",
+              "cep": "74988856",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "All Park Polo Empresarial",
+              "latitude": "-16.82039",
+              "longitude": "-49.20773"
+            },
+            {
+              "name": "Nazine Martins Vilela",
+              "addressType": "Alameda",
+              "cep": "74988868",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "All Park Polo Empresarial",
+              "latitude": "-16.82039",
+              "longitude": "-49.20773"
+            },
+            {
+              "name": "Alcides Araújo Romão",
+              "addressType": "Alameda",
+              "cep": "74988858",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "All Park Polo Empresarial",
+              "latitude": "-16.82039",
+              "longitude": "-49.20773"
+            },
+            {
+              "name": "Aquino Porto",
+              "addressType": "Alameda",
+              "cep": "74988862",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "All Park Polo Empresarial",
+              "latitude": "-16.77808",
+              "longitude": "-49.25005"
+            },
+            {
+              "name": "Tanner de Melo",
+              "addressType": "Avenida",
+              "cep": "74988850",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "All Park Polo Empresarial",
+              "latitude": "-16.84101",
+              "longitude": "-49.35973"
+            },
+            {
+              "name": "Antônio Ferreira Pacheco",
+              "addressType": "Avenida",
+              "cep": "74988854",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "All Park Polo Empresarial",
+              "latitude": "-16.82039",
+              "longitude": "-49.20773"
+            }
+          ]
+        },
+        {
+          "name": "Alvorada Oeste",
+          "streets": [
+            {
+              "name": "103",
+              "addressType": "Rua",
+              "cep": "74988233",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "Alvorada Oeste",
+              "latitude": "-16.74559",
+              "longitude": "-49.27532"
+            },
+            {
+              "name": "101",
+              "addressType": "Rua",
+              "cep": "74988231",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "Alvorada Oeste",
+              "latitude": "-16.74559",
+              "longitude": "-49.27532"
+            },
+            {
+              "name": "105",
+              "addressType": "Rua",
+              "cep": "74988239",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "Alvorada Oeste",
+              "latitude": "-16.74433",
+              "longitude": "-49.27607"
+            },
+            {
+              "name": "106",
+              "addressType": "Rua",
+              "cep": "74988242",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "Alvorada Oeste",
+              "latitude": "-16.74433",
+              "longitude": "-49.27607"
+            },
+            {
+              "name": "104",
+              "addressType": "Rua",
+              "cep": "74988236",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "Alvorada Oeste",
+              "latitude": "-16.77026",
+              "longitude": "-49.34679"
+            },
+            {
+              "name": "102",
+              "addressType": "Rua",
+              "cep": "74988230",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "Alvorada Oeste",
+              "latitude": "-16.83651",
+              "longitude": "-49.2268"
+            },
+            {
+              "name": "109",
+              "addressType": "Rua",
+              "cep": "74988251",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "Alvorada Oeste",
+              "latitude": "-16.74433",
+              "longitude": "-49.27607"
+            },
+            {
+              "name": "107",
+              "addressType": "Rua",
+              "cep": "74988245",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "Alvorada Oeste",
+              "latitude": "-16.74433",
+              "longitude": "-49.27607"
+            }
+          ]
+        },
+        {
+          "name": "Alvorada Sul",
+          "streets": [
+            {
+              "name": "das Palmeiras",
+              "addressType": "Rua",
+              "cep": "74988120",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "Alvorada Sul",
+              "latitude": "-16.77449",
+              "longitude": "-49.30876"
+            },
+            {
+              "name": "Arnaldo Soares",
+              "addressType": "Rua",
+              "cep": "74988080",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "Alvorada Sul",
+              "latitude": "-16.84402",
+              "longitude": "-49.2205"
+            },
+            {
+              "name": "Correia de Araujo",
+              "addressType": "Rua",
+              "cep": "74988090",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "Alvorada Sul",
+              "latitude": "-16.84049",
+              "longitude": "-49.2184"
+            },
+            {
+              "name": "Carlos Siqueira",
+              "addressType": "Avenida",
+              "cep": "74988075",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "Alvorada Sul",
+              "latitude": "-16.84444",
+              "longitude": "-49.22315"
+            },
+            {
+              "name": "José David de Castro",
+              "addressType": "Rua",
+              "cep": "74988100",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "Alvorada Sul",
+              "latitude": "-16.84434",
+              "longitude": "-49.22179"
+            },
+            {
+              "name": "Leônidas Silva",
+              "addressType": "Rua",
+              "cep": "74988110",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "Alvorada Sul",
+              "latitude": "-16.84409",
+              "longitude": "-49.21984"
+            },
+            {
+              "name": "Nunes Freire",
+              "addressType": "Rua",
+              "cep": "74988070",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "Alvorada Sul",
+              "latitude": "-16.84447",
+              "longitude": "-49.22119"
+            },
+            {
+              "name": "João de Souza Rollins",
+              "addressType": "Rua",
+              "cep": "74988123",
+              "state": "Goiás",
+              "city": "Aparecida de Goiânia",
+              "district": "Alvorada Sul",
+              "latitude": "-16.84085",
+              "longitude": "-49.21992"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Caldas Novas",
+      "ibgeCode": "5204508",
+      "ddd": "64",
+      "districts": [
+        {
+          "name": "Anhanguera",
+          "streets": [
+            {
+              "name": "1",
+              "addressType": "Rua",
+              "cep": "75691602",
+              "state": "Goiás",
+              "city": "Caldas Novas",
+              "district": "Anhanguera",
+              "latitude": "-17.74039",
+              "longitude": "-48.6167"
+            },
+            {
+              "name": "2",
+              "addressType": "Rua",
+              "cep": "75691606",
+              "state": "Goiás",
+              "city": "Caldas Novas",
+              "district": "Anhanguera",
+              "latitude": "-17.74316",
+              "longitude": "-48.61307"
+            },
+            {
+              "name": "9",
+              "addressType": "Rua",
+              "cep": "75691600",
+              "state": "Goiás",
+              "city": "Caldas Novas",
+              "district": "Anhanguera",
+              "latitude": "-17.75235",
+              "longitude": "-48.64954"
+            },
+            {
+              "name": "4",
+              "addressType": "Rua",
+              "cep": "75691610",
+              "state": "Goiás",
+              "city": "Caldas Novas",
+              "district": "Anhanguera",
+              "latitude": "-17.81131",
+              "longitude": "-48.58964"
+            },
+            {
+              "name": "3",
+              "addressType": "Rua",
+              "cep": "75691608",
+              "state": "Goiás",
+              "city": "Caldas Novas",
+              "district": "Anhanguera",
+              "latitude": "-17.66732",
+              "longitude": "-48.60926"
+            },
+            {
+              "name": "Coronel Bento de Godoy",
+              "addressType": "Avenida",
+              "cep": "75691604",
+              "state": "Goiás",
+              "city": "Caldas Novas",
+              "district": "Anhanguera",
+              "latitude": "-17.73564",
+              "longitude": "-48.61632"
+            }
+          ]
+        },
+        {
+          "name": "Bandeirante",
+          "streets": [
+            {
+              "name": "7 de Setembro",
+              "addressType": "Rua",
+              "cep": "75680120",
+              "state": "Goiás",
+              "city": "Caldas Novas",
+              "district": "Bandeirante",
+              "latitude": "-17.74753",
+              "longitude": "-48.63445"
+            },
+            {
+              "name": "13 de Maio",
+              "addressType": "Travessa",
+              "cep": "75680118",
+              "state": "Goiás",
+              "city": "Caldas Novas",
+              "district": "Bandeirante",
+              "latitude": "-17.74717",
+              "longitude": "-48.63304"
+            },
+            {
+              "name": "1",
+              "addressType": "Rua",
+              "cep": "75680122",
+              "state": "Goiás",
+              "city": "Caldas Novas",
+              "district": "Bandeirante",
+              "latitude": "-17.74039",
+              "longitude": "-48.6167"
+            },
+            {
+              "name": "D 1",
+              "addressType": "Rua",
+              "cep": "75680130",
+              "state": "Goiás",
+              "city": "Caldas Novas",
+              "district": "Bandeirante",
+              "latitude": "-17.74954",
+              "longitude": "-48.63314"
+            },
+            {
+              "name": "15 de Novembro",
+              "addressType": "Rua",
+              "cep": "75680116",
+              "state": "Goiás",
+              "city": "Caldas Novas",
+              "district": "Bandeirante",
+              "latitude": "-17.74678",
+              "longitude": "-48.63463"
+            },
+            {
+              "name": "13",
+              "addressType": "Rua",
+              "cep": "75680170",
+              "state": "Goiás",
+              "city": "Caldas Novas",
+              "district": "Bandeirante",
+              "latitude": "-17.75599",
+              "longitude": "-48.596"
+            },
+            {
+              "name": "10 de Maio",
+              "addressType": "Travessa",
+              "cep": "75680134",
+              "state": "Goiás",
+              "city": "Caldas Novas",
+              "district": "Bandeirante",
+              "latitude": "-17.74717",
+              "longitude": "-48.63304"
+            },
+            {
+              "name": "A",
+              "addressType": "Viela",
+              "cep": "75680166",
+              "state": "Goiás",
+              "city": "Caldas Novas",
+              "district": "Bandeirante",
+              "latitude": "-17.66427",
+              "longitude": "-48.70486"
+            }
+          ]
+        },
+        {
+          "name": "Caldas do Oeste",
+          "streets": [
+            {
+              "name": "3",
+              "addressType": "Rua",
+              "cep": "75689108",
+              "state": "Goiás",
+              "city": "Caldas Novas",
+              "district": "Caldas do Oeste",
+              "latitude": "-17.73391",
+              "longitude": "-48.57116"
+            },
+            {
+              "name": "1",
+              "addressType": "Rua",
+              "cep": "75689057",
+              "state": "Goiás",
+              "city": "Caldas Novas",
+              "district": "Caldas do Oeste",
+              "latitude": "-17.73345",
+              "longitude": "-48.62035"
+            },
+            {
+              "name": "13",
+              "addressType": "Rua",
+              "cep": "75689063",
+              "state": "Goiás",
+              "city": "Caldas Novas",
+              "district": "Caldas do Oeste",
+              "latitude": "-17.73981",
+              "longitude": "-48.61817"
+            },
+            {
+              "name": "23",
+              "addressType": "Rua",
+              "cep": "75689021",
+              "state": "Goiás",
+              "city": "Caldas Novas",
+              "district": "Caldas do Oeste",
+              "latitude": "-17.75821",
+              "longitude": "-48.60198"
+            },
+            {
+              "name": "41",
+              "addressType": "Rua",
+              "cep": "75689060",
+              "state": "Goiás",
+              "city": "Caldas Novas",
+              "district": "Caldas do Oeste",
+              "latitude": "-17.74614",
+              "longitude": "-48.62604"
+            },
+            {
+              "name": "19",
+              "addressType": "Rua",
+              "cep": "75689069",
+              "state": "Goiás",
+              "city": "Caldas Novas",
+              "district": "Caldas do Oeste",
+              "latitude": "-17.74756",
+              "longitude": "-48.58621"
+            },
+            {
+              "name": "33",
+              "addressType": "Rua",
+              "cep": "75689087",
+              "state": "Goiás",
+              "city": "Caldas Novas",
+              "district": "Caldas do Oeste",
+              "latitude": "-17.74289",
+              "longitude": "-48.64815"
+            },
+            {
+              "name": "9",
+              "addressType": "Rua",
+              "cep": "75689045",
+              "state": "Goiás",
+              "city": "Caldas Novas",
+              "district": "Caldas do Oeste",
+              "latitude": "-17.74573",
+              "longitude": "-48.58413"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Catalão",
+      "ibgeCode": "5205109",
+      "ddd": "64",
+      "districts": [
+        {
+          "name": "Alto da Boa Vista",
+          "streets": [
+            {
+              "name": "José Marcolino Alves",
+              "addressType": "Rua",
+              "cep": "75713190",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Alto da Boa Vista",
+              "latitude": "-18.17975",
+              "longitude": "-47.95375"
+            },
+            {
+              "name": "29",
+              "addressType": "Rua",
+              "cep": "75713145",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Alto da Boa Vista",
+              "latitude": "-18.17738",
+              "longitude": "-47.96761"
+            },
+            {
+              "name": "34",
+              "addressType": "Rua",
+              "cep": "75713110",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Alto da Boa Vista",
+              "latitude": "-17.9463",
+              "longitude": "-47.4551"
+            },
+            {
+              "name": "C",
+              "addressType": "Rua",
+              "cep": "75713175",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Alto da Boa Vista",
+              "latitude": "-18.17911",
+              "longitude": "-47.96552"
+            },
+            {
+              "name": "36",
+              "addressType": "Rua",
+              "cep": "75713120",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Alto da Boa Vista",
+              "latitude": "-18.17738",
+              "longitude": "-47.96761"
+            },
+            {
+              "name": "28",
+              "addressType": "Rua",
+              "cep": "75713150",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Alto da Boa Vista",
+              "latitude": "-18.17738",
+              "longitude": "-47.96761"
+            },
+            {
+              "name": "Rodrigo Alves Carvelo Filho",
+              "addressType": "Avenida",
+              "cep": "75713125",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Alto da Boa Vista",
+              "latitude": "-17.92425",
+              "longitude": "-47.78647"
+            },
+            {
+              "name": "35",
+              "addressType": "Rua",
+              "cep": "75713115",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Alto da Boa Vista",
+              "latitude": "-18.17738",
+              "longitude": "-47.96761"
+            }
+          ]
+        },
+        {
+          "name": "Alto da Boa Vista II",
+          "streets": [
+            {
+              "name": "João Costa Matutino Filho",
+              "addressType": "Rua",
+              "cep": "75713240",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Alto da Boa Vista II",
+              "latitude": "-18.17497",
+              "longitude": "-47.96271"
+            },
+            {
+              "name": "Francisco Coelho da Silva",
+              "addressType": "Rua",
+              "cep": "75713210",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Alto da Boa Vista II",
+              "latitude": "-18.14355",
+              "longitude": "-47.92428"
+            },
+            {
+              "name": "Hermes Ferreira de Souza",
+              "addressType": "Rua",
+              "cep": "75713260",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Alto da Boa Vista II",
+              "latitude": "-18.14668",
+              "longitude": "-47.92608"
+            },
+            {
+              "name": "Jesualdo Xavier Gonçalves",
+              "addressType": "Rua",
+              "cep": "75713230",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Alto da Boa Vista II",
+              "latitude": "-18.14268",
+              "longitude": "-47.91906"
+            },
+            {
+              "name": "Henrique José Duarte Borges",
+              "addressType": "Rua",
+              "cep": "75713269",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Alto da Boa Vista II",
+              "latitude": "-18.17221",
+              "longitude": "-47.96551"
+            },
+            {
+              "name": "E",
+              "addressType": "Rua",
+              "cep": "75713255",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Alto da Boa Vista II",
+              "latitude": "-18.14128",
+              "longitude": "-47.94508"
+            },
+            {
+              "name": "Domingos Rodrigues Borges",
+              "addressType": "Rua",
+              "cep": "75713265",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Alto da Boa Vista II",
+              "latitude": "-18.17287",
+              "longitude": "-47.95136"
+            },
+            {
+              "name": "Joaquim José da Silva",
+              "addressType": "Rua",
+              "cep": "75713215",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Alto da Boa Vista II",
+              "latitude": "-18.15277",
+              "longitude": "-47.93092"
+            }
+          ]
+        },
+        {
+          "name": "Bairro das Américas",
+          "streets": [
+            {
+              "name": "B",
+              "addressType": "Rua",
+              "cep": "75703322",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Bairro das Américas",
+              "latitude": "-18.14135",
+              "longitude": "-47.94667"
+            },
+            {
+              "name": "da Saudade",
+              "addressType": "Rua",
+              "cep": "75703470",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Bairro das Américas",
+              "latitude": "-18.15456",
+              "longitude": "-47.94292"
+            },
+            {
+              "name": "Bolívia",
+              "addressType": "Rua",
+              "cep": "75703500",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Bairro das Américas",
+              "latitude": "-18.1548",
+              "longitude": "-47.93884"
+            },
+            {
+              "name": "Argentina",
+              "addressType": "Rua",
+              "cep": "75703360",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Bairro das Américas",
+              "latitude": "-18.15483",
+              "longitude": "-47.93849"
+            },
+            {
+              "name": "Peru",
+              "addressType": "Rua",
+              "cep": "75703450",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Bairro das Américas",
+              "latitude": "-18.15549",
+              "longitude": "-47.94039"
+            },
+            {
+              "name": "A",
+              "addressType": "Rua",
+              "cep": "75703321",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Bairro das Américas",
+              "latitude": "-18.1609",
+              "longitude": "-47.96654"
+            },
+            {
+              "name": "das Américas",
+              "addressType": "Avenida",
+              "cep": "75703490",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Bairro das Américas",
+              "latitude": "-18.15656",
+              "longitude": "-47.93972"
+            },
+            {
+              "name": "Colômbia",
+              "addressType": "Rua",
+              "cep": "75703510",
+              "state": "Goiás",
+              "city": "Catalão",
+              "district": "Bairro das Américas",
+              "latitude": "-18.15486",
+              "longitude": "-47.93818"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cidade Ocidental",
+      "ibgeCode": "5205497",
+      "ddd": "61",
+      "districts": [
+        {
+          "name": "Alphaville Brasília",
+          "streets": [
+            {
+              "name": "Empresarial Quadra UM16",
+              "addressType": "Alphaville",
+              "cep": "72897032",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Alphaville Brasília",
+              "latitude": "-16.05627",
+              "longitude": "-47.79984"
+            },
+            {
+              "name": "Residencial 2 Quadra S",
+              "addressType": "Alphaville",
+              "cep": "72897236",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Alphaville Brasília",
+              "latitude": "-16.05627",
+              "longitude": "-47.79984"
+            },
+            {
+              "name": "Residencial 2 Quadra MF03",
+              "addressType": "Alphaville",
+              "cep": "72897262",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Alphaville Brasília",
+              "latitude": "-16.11363",
+              "longitude": "-47.93792"
+            },
+            {
+              "name": "Residencial 2 Quadra P",
+              "addressType": "Alphaville",
+              "cep": "72897230",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Alphaville Brasília",
+              "latitude": "-16.11363",
+              "longitude": "-47.93792"
+            },
+            {
+              "name": "Residencial 2 Quadra O",
+              "addressType": "Alphaville",
+              "cep": "72897228",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Alphaville Brasília",
+              "latitude": "-16.11363",
+              "longitude": "-47.93792"
+            },
+            {
+              "name": "Residencial 3 Quadra AF",
+              "addressType": "Alphaville",
+              "cep": "72897318",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Alphaville Brasília",
+              "latitude": "-16.11363",
+              "longitude": "-47.93792"
+            },
+            {
+              "name": "Empresarial Quadra UM01",
+              "addressType": "Alphaville",
+              "cep": "72897002",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Alphaville Brasília",
+              "latitude": "-16.05627",
+              "longitude": "-47.79984"
+            },
+            {
+              "name": "Residencial 2 Quadra AX",
+              "addressType": "Alphaville",
+              "cep": "72897250",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Alphaville Brasília",
+              "latitude": "-16.11363",
+              "longitude": "-47.93792"
+            }
+          ]
+        },
+        {
+          "name": "Bela Vitá",
+          "streets": [
+            {
+              "name": "9",
+              "addressType": "Quadra",
+              "cep": "72890304",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Bela Vitá",
+              "latitude": "-16.11363",
+              "longitude": "-47.93792"
+            },
+            {
+              "name": "11",
+              "addressType": "Quadra",
+              "cep": "72890310",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Bela Vitá",
+              "latitude": "-16.11363",
+              "longitude": "-47.93792"
+            },
+            {
+              "name": "5",
+              "addressType": "Quadra",
+              "cep": "72890292",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Bela Vitá",
+              "latitude": "-16.11363",
+              "longitude": "-47.93792"
+            },
+            {
+              "name": "8",
+              "addressType": "Quadra",
+              "cep": "72890301",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Bela Vitá",
+              "latitude": "-16.11363",
+              "longitude": "-47.93792"
+            },
+            {
+              "name": "3",
+              "addressType": "Quadra",
+              "cep": "72890286",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Bela Vitá",
+              "latitude": "-16.11363",
+              "longitude": "-47.93792"
+            },
+            {
+              "name": "12",
+              "addressType": "Quadra",
+              "cep": "72890313",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Bela Vitá",
+              "latitude": "-16.11363",
+              "longitude": "-47.93792"
+            },
+            {
+              "name": "13",
+              "addressType": "Quadra",
+              "cep": "72890316",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Bela Vitá",
+              "latitude": "-16.11363",
+              "longitude": "-47.93792"
+            },
+            {
+              "name": "6",
+              "addressType": "Quadra",
+              "cep": "72890295",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Bela Vitá",
+              "latitude": "-16.11363",
+              "longitude": "-47.93792"
+            }
+          ]
+        },
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "7 Quadra 6",
+              "addressType": "SQ",
+              "cep": "72880371",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Centro",
+              "latitude": "-16.11502",
+              "longitude": "-47.95099"
+            },
+            {
+              "name": "10 Quadra 9",
+              "addressType": "SQ",
+              "cep": "72880455",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Centro",
+              "latitude": "-16.11363",
+              "longitude": "-47.93792"
+            },
+            {
+              "name": "11 Quadra 10",
+              "addressType": "SQ",
+              "cep": "72880437",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Centro",
+              "latitude": "-16.10147",
+              "longitude": "-47.92694"
+            },
+            {
+              "name": "7 Quadra 4",
+              "addressType": "SQ",
+              "cep": "72880365",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Centro",
+              "latitude": "-16.11502",
+              "longitude": "-47.95099"
+            },
+            {
+              "name": "22 Quadra 9",
+              "addressType": "SQ",
+              "cep": "72881012",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Centro",
+              "latitude": "-16.11363",
+              "longitude": "-47.93792"
+            },
+            {
+              "name": "11 Quadra 11",
+              "addressType": "SQ",
+              "cep": "72880440",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Centro",
+              "latitude": "-16.10147",
+              "longitude": "-47.92694"
+            },
+            {
+              "name": "21 Quadra 10",
+              "addressType": "SQ",
+              "cep": "72881110",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Centro",
+              "latitude": "-16.11363",
+              "longitude": "-47.93792"
+            },
+            {
+              "name": "18 Quadra 15",
+              "addressType": "SQ",
+              "cep": "72880644",
+              "state": "Goiás",
+              "city": "Cidade Ocidental",
+              "district": "Centro",
+              "latitude": "-16.11363",
+              "longitude": "-47.93792"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Formosa",
+      "ibgeCode": "5208004",
+      "ddd": "61",
+      "districts": [
+        {
+          "name": "3º Setor Industrial",
+          "streets": [
+            {
+              "name": "Industrial",
+              "addressType": "Avenida",
+              "cep": "73808652",
+              "state": "Goiás",
+              "city": "Formosa",
+              "district": "3º Setor Industrial",
+              "latitude": "-15.54587",
+              "longitude": "-47.29219"
+            },
+            {
+              "name": "BR-020",
+              "addressType": "Rodovia",
+              "cep": "73808650",
+              "state": "Goiás",
+              "city": "Formosa",
+              "district": "3º Setor Industrial",
+              "latitude": "-15.56132",
+              "longitude": "-47.32936"
+            },
+            {
+              "name": "A",
+              "addressType": "Avenida",
+              "cep": "73808640",
+              "state": "Goiás",
+              "city": "Formosa",
+              "district": "3º Setor Industrial",
+              "latitude": "-15.52969",
+              "longitude": "-47.2965"
+            }
+          ]
+        },
+        {
+          "name": "Abreu",
+          "streets": [
+            {
+              "name": "Ademar de Barros",
+              "addressType": "Rua",
+              "cep": "73803050",
+              "state": "Goiás",
+              "city": "Formosa",
+              "district": "Abreu",
+              "latitude": "-15.54515",
+              "longitude": "-47.34461"
+            },
+            {
+              "name": "21 de Abril",
+              "addressType": "Praça",
+              "cep": "73803025",
+              "state": "Goiás",
+              "city": "Formosa",
+              "district": "Abreu",
+              "latitude": "-15.54698",
+              "longitude": "-47.34494"
+            },
+            {
+              "name": "Circular",
+              "addressType": "Avenida",
+              "cep": "73803035",
+              "state": "Goiás",
+              "city": "Formosa",
+              "district": "Abreu",
+              "latitude": "-15.54033",
+              "longitude": "-47.32788"
+            },
+            {
+              "name": "São João",
+              "addressType": "Rua",
+              "cep": "73803015",
+              "state": "Goiás",
+              "city": "Formosa",
+              "district": "Abreu",
+              "latitude": "-15.54297",
+              "longitude": "-47.34273"
+            },
+            {
+              "name": "do Abreu",
+              "addressType": "Avenida",
+              "cep": "73803020",
+              "state": "Goiás",
+              "city": "Formosa",
+              "district": "Abreu",
+              "latitude": "-15.54669",
+              "longitude": "-47.34379"
+            },
+            {
+              "name": "Rifaina",
+              "addressType": "Avenida",
+              "cep": "73803040",
+              "state": "Goiás",
+              "city": "Formosa",
+              "district": "Abreu",
+              "latitude": "-15.54642",
+              "longitude": "-47.36008"
+            },
+            {
+              "name": "3 de Outubro",
+              "addressType": "Rua",
+              "cep": "73803005",
+              "state": "Goiás",
+              "city": "Formosa",
+              "district": "Abreu",
+              "latitude": "-15.54292",
+              "longitude": "-47.34407"
+            },
+            {
+              "name": "Circular II",
+              "addressType": "Avenida",
+              "cep": "73803045",
+              "state": "Goiás",
+              "city": "Formosa",
+              "district": "Abreu",
+              "latitude": "-15.55764",
+              "longitude": "-47.34078"
+            }
+          ]
+        },
+        {
+          "name": "Bezerra",
+          "streets": [
+            {
+              "name": "",
+              "addressType": "",
+              "cep": "73817999",
+              "state": "Goiás",
+              "city": "Formosa",
+              "district": "Bezerra",
+              "latitude": "-15.54353",
+              "longitude": "-47.33482"
+            },
+            {
+              "name": "Principal, s/n",
+              "addressType": "Rua",
+              "cep": "73817970",
+              "state": "Goiás",
+              "city": "Formosa",
+              "district": "Bezerra",
+              "latitude": "-15.48459",
+              "longitude": "-47.10213"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+# Git
+.git
+.gitignore
+.gitattributes
+.github/
+
+# Documentação e arquivos de projeto
+*.md
+
+# Executáveis compilados localmente
+*.exe
+api
+main
+
+# Arquivos temporários e logs
+tmp/
+*.log
+
+# Testes
+tests/
+*_test.go
+
+# Docker
+docker-compose.yml
+Dockerfile
+.dockerignore
+
+# IDE e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependências (já são baixadas via go mod download)
+vendor/
+
+# Arquivos de build
+Makefile
+.air.toml
+
+# Ambiente
+.env
+.env.*
+
+# Cache
+.cache/
+*.cache
+

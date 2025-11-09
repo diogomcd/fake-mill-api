@@ -1,0 +1,271 @@
+{
+  "code": "DF",
+  "name": "Distrito Federal",
+  "capital": "Brasília",
+  "ddd": "61",
+  "regiao": "Centro-Oeste",
+  "cities": [
+    {
+      "name": "Brasilia",
+      "ibgeCode": "5300108",
+      "ddd": "61",
+      "districts": [
+        {
+          "name": "Aguas Claras",
+          "streets": [
+            {
+              "name": "Qs 08",
+              "addressType": "Quadra",
+              "cep": "72030180",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Aguas Claras",
+              "latitude": "-15.84067",
+              "longitude": "-48.02206"
+            },
+            {
+              "name": "Qs 05",
+              "addressType": "Quadra",
+              "cep": "72030150",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Aguas Claras",
+              "latitude": "-15.84067",
+              "longitude": "-48.02206"
+            },
+            {
+              "name": "Qs 03",
+              "addressType": "Quadra",
+              "cep": "72030130",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Aguas Claras",
+              "latitude": "-15.84067",
+              "longitude": "-48.02206"
+            },
+            {
+              "name": "Qs 01",
+              "addressType": "Quadra",
+              "cep": "72030110",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Aguas Claras",
+              "latitude": "-15.84067",
+              "longitude": "-48.02206"
+            },
+            {
+              "name": "Qs 07",
+              "addressType": "Quadra",
+              "cep": "72030170",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Aguas Claras",
+              "latitude": "-15.84067",
+              "longitude": "-48.02206"
+            },
+            {
+              "name": "Qs 09",
+              "addressType": "Quadra",
+              "cep": "72030190",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Aguas Claras",
+              "latitude": "-15.84067",
+              "longitude": "-48.02206"
+            },
+            {
+              "name": "Qs 10",
+              "addressType": "Quadra",
+              "cep": "72030200",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Aguas Claras",
+              "latitude": "-15.84067",
+              "longitude": "-48.02206"
+            },
+            {
+              "name": "Qs 06",
+              "addressType": "Quadra",
+              "cep": "72030160",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Aguas Claras",
+              "latitude": "-15.84067",
+              "longitude": "-48.02206"
+            }
+          ]
+        },
+        {
+          "name": "Alto da Boa Vista",
+          "streets": [
+            {
+              "name": "104 Conjunto 5",
+              "addressType": "Quadra",
+              "cep": "73130175",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Alto da Boa Vista",
+              "latitude": "-15.90096",
+              "longitude": "-48.06922"
+            },
+            {
+              "name": "202 Área Especial AE 2",
+              "addressType": "Quadra",
+              "cep": "73130310",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Alto da Boa Vista",
+              "latitude": "-15.83156",
+              "longitude": "-47.98748"
+            },
+            {
+              "name": "103 Conjunto 1",
+              "addressType": "Quadra",
+              "cep": "73130136",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Alto da Boa Vista",
+              "latitude": "-15.89765",
+              "longitude": "-47.77935"
+            },
+            {
+              "name": "BR-020",
+              "addressType": "Rodovia",
+              "cep": "73130010",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Alto da Boa Vista",
+              "latitude": "-15.75933",
+              "longitude": "-47.94641"
+            },
+            {
+              "name": "106 Conjunto 1",
+              "addressType": "Quadra",
+              "cep": "73130214",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Alto da Boa Vista",
+              "latitude": "-15.74827",
+              "longitude": "-47.92332"
+            },
+            {
+              "name": "206 Conjunto 4",
+              "addressType": "Quadra",
+              "cep": "73130349",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Alto da Boa Vista",
+              "latitude": "-15.89905",
+              "longitude": "-47.78499"
+            },
+            {
+              "name": "203 Conjunto 3",
+              "addressType": "Quadra",
+              "cep": "73130325",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Alto da Boa Vista",
+              "latitude": "-15.90141",
+              "longitude": "-47.78143"
+            },
+            {
+              "name": "201 Conjunto 1",
+              "addressType": "Quadra",
+              "cep": "73130256",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Alto da Boa Vista",
+              "latitude": "-15.90448",
+              "longitude": "-48.05946"
+            }
+          ]
+        },
+        {
+          "name": "Arapoanga",
+          "streets": [
+            {
+              "name": "4K Conjunto C",
+              "addressType": "Quadra",
+              "cep": "73368849",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Arapoanga",
+              "latitude": "-15.74836",
+              "longitude": "-47.9259"
+            },
+            {
+              "name": "21 Conjunto F",
+              "addressType": "Quadra",
+              "cep": "73368550",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Arapoanga",
+              "latitude": "-15.61845",
+              "longitude": "-47.63064"
+            },
+            {
+              "name": "4E Conjunto A",
+              "addressType": "Quadra",
+              "cep": "73368440",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Arapoanga",
+              "latitude": "-15.63218",
+              "longitude": "-47.64227"
+            },
+            {
+              "name": "7J Conjunto F",
+              "addressType": "Quadra",
+              "cep": "73368790",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Arapoanga",
+              "latitude": "-15.74731",
+              "longitude": "-47.92254"
+            },
+            {
+              "name": "9D Conjunto J",
+              "addressType": "Quadra",
+              "cep": "73368816",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Arapoanga",
+              "latitude": "-15.77526",
+              "longitude": "-47.78207"
+            },
+            {
+              "name": "10 Conjunto N",
+              "addressType": "Quadra",
+              "cep": "73369170",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Arapoanga",
+              "latitude": "-15.64111",
+              "longitude": "-47.62705"
+            },
+            {
+              "name": "2 Conjunto N",
+              "addressType": "Quadra",
+              "cep": "73369152",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Arapoanga",
+              "latitude": "-15.674",
+              "longitude": "-48.20334"
+            },
+            {
+              "name": "Real Rua A",
+              "addressType": "Vila",
+              "cep": "73368632",
+              "state": "Distrito Federal",
+              "city": "Brasilia",
+              "district": "Arapoanga",
+              "latitude": "-15.77829",
+              "longitude": "-47.92909"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

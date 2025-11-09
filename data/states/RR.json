@@ -1,0 +1,271 @@
+{
+  "code": "RR",
+  "name": "Roraima",
+  "capital": "Boa Vista",
+  "ddd": "95",
+  "regiao": "Norte",
+  "cities": [
+    {
+      "name": "Boa Vista",
+      "ibgeCode": "1400100",
+      "ddd": "95",
+      "districts": [
+        {
+          "name": "13 de Setembro",
+          "streets": [
+            {
+              "name": "Brasil",
+              "addressType": "Avenida",
+              "cep": "69308050",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "13 de Setembro",
+              "latitude": "2.80582",
+              "longitude": "-60.69116"
+            },
+            {
+              "name": "General Sampaio",
+              "addressType": "Avenida",
+              "cep": "69308150",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "13 de Setembro",
+              "latitude": "2.79552",
+              "longitude": "-60.69167"
+            },
+            {
+              "name": "Gustavo Mesquita",
+              "addressType": "Rua",
+              "cep": "69308170",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "13 de Setembro",
+              "latitude": "2.83954",
+              "longitude": "-60.66862"
+            },
+            {
+              "name": "13 de Setembro",
+              "addressType": "Rua",
+              "cep": "69308005",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "13 de Setembro",
+              "latitude": "2.79433",
+              "longitude": "-60.68494"
+            },
+            {
+              "name": "Salustino Liberato",
+              "addressType": "Rua",
+              "cep": "69308400",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "13 de Setembro",
+              "latitude": "2.7941",
+              "longitude": "-60.6841"
+            },
+            {
+              "name": "Ville Roy",
+              "addressType": "Avenida",
+              "cep": "69308055",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "13 de Setembro",
+              "latitude": "2.80511",
+              "longitude": "-60.68695"
+            },
+            {
+              "name": "dos Tangarás",
+              "addressType": "Rua",
+              "cep": "69308420",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "13 de Setembro",
+              "latitude": "2.8013",
+              "longitude": "-60.68365"
+            },
+            {
+              "name": "Quelçoene",
+              "addressType": "Rua",
+              "cep": "69308320",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "13 de Setembro",
+              "latitude": "2.80056",
+              "longitude": "-60.6838"
+            }
+          ]
+        },
+        {
+          "name": "31 de Março",
+          "streets": [
+            {
+              "name": "Manoel Barbosa de Araújo",
+              "addressType": "Rua",
+              "cep": "69305330",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "31 de Março",
+              "latitude": "2.83867",
+              "longitude": "-60.67483"
+            },
+            {
+              "name": "Domingos Abdala",
+              "addressType": "Rua",
+              "cep": "69305285",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "31 de Março",
+              "latitude": "2.84255",
+              "longitude": "-60.66853"
+            },
+            {
+              "name": "Habib Fraxe",
+              "addressType": "Rua",
+              "cep": "69305310",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "31 de Março",
+              "latitude": "2.83742",
+              "longitude": "-60.67344"
+            },
+            {
+              "name": "Gustavo Mesquita",
+              "addressType": "Rua",
+              "cep": "69305420",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "31 de Março",
+              "latitude": "2.83957",
+              "longitude": "-60.66873"
+            },
+            {
+              "name": "Antônio Rangel",
+              "addressType": "Rua",
+              "cep": "69305430",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "31 de Março",
+              "latitude": "2.84072",
+              "longitude": "-60.67099"
+            },
+            {
+              "name": "Eustáquio Júlio de Macedo",
+              "addressType": "Travessa",
+              "cep": "69305350",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "31 de Março",
+              "latitude": "2.83558",
+              "longitude": "-60.67075"
+            },
+            {
+              "name": "Joaquim Thomé",
+              "addressType": "Rua",
+              "cep": "69305390",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "31 de Março",
+              "latitude": "2.83877",
+              "longitude": "-60.67149"
+            },
+            {
+              "name": "Santos Dumont",
+              "addressType": "Avenida",
+              "cep": "69305340",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "31 de Março",
+              "latitude": "2.82448",
+              "longitude": "-60.65965"
+            }
+          ]
+        },
+        {
+          "name": "Aeroporto",
+          "streets": [
+            {
+              "name": "Santos Dumont",
+              "addressType": "Praça",
+              "cep": "69310006",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "Aeroporto",
+              "latitude": "2.82453",
+              "longitude": "-60.65934"
+            },
+            {
+              "name": "Hélio Magalhães",
+              "addressType": "Rua",
+              "cep": "69310063",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "Aeroporto",
+              "latitude": "2.83246",
+              "longitude": "-60.70966"
+            },
+            {
+              "name": "Venezuela",
+              "addressType": "Avenida",
+              "cep": "69310270",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "Aeroporto",
+              "latitude": "2.80928",
+              "longitude": "-60.69123"
+            },
+            {
+              "name": "Madri",
+              "addressType": "Rua",
+              "cep": "69310043",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "Aeroporto",
+              "latitude": "2.83181",
+              "longitude": "-60.69109"
+            },
+            {
+              "name": "Afonso Pena",
+              "addressType": "Rua",
+              "cep": "69310075",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "Aeroporto",
+              "latitude": "2.84031",
+              "longitude": "-60.71008"
+            },
+            {
+              "name": "Almério Mota Pereira",
+              "addressType": "Rua",
+              "cep": "69310045",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "Aeroporto",
+              "latitude": "2.82463",
+              "longitude": "-60.6971"
+            },
+            {
+              "name": "Ana Cecília Mota da Silva",
+              "addressType": "Rua",
+              "cep": "69310048",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "Aeroporto",
+              "latitude": "2.82944",
+              "longitude": "-60.69958"
+            },
+            {
+              "name": "Yeyê Coelho",
+              "addressType": "Rua",
+              "cep": "69310118",
+              "state": "Roraima",
+              "city": "Boa Vista",
+              "district": "Aeroporto",
+              "latitude": "2.83434",
+              "longitude": "-60.70574"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

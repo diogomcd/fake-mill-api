@@ -1,0 +1,1441 @@
+{
+  "code": "MT",
+  "name": "Mato Grosso",
+  "capital": "Cuiabá",
+  "ddd": "66",
+  "regiao": "Centro-Oeste",
+  "cities": [
+    {
+      "name": "Barra do Garças",
+      "ibgeCode": "5101803",
+      "ddd": "66",
+      "districts": [
+        {
+          "name": "Anchieta",
+          "streets": [
+            {
+              "name": "13",
+              "addressType": "Rua",
+              "cep": "78601594",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Anchieta",
+              "latitude": "-15.87485",
+              "longitude": "-52.23198"
+            },
+            {
+              "name": "22",
+              "addressType": "Rua",
+              "cep": "78601610",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Anchieta",
+              "latitude": "-15.87491",
+              "longitude": "-52.23226"
+            },
+            {
+              "name": "B",
+              "addressType": "Rua",
+              "cep": "78601586",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Anchieta",
+              "latitude": "-15.8853",
+              "longitude": "-52.27064"
+            },
+            {
+              "name": "10",
+              "addressType": "Rua",
+              "cep": "78601592",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Anchieta",
+              "latitude": "-15.87485",
+              "longitude": "-52.23226"
+            },
+            {
+              "name": "A",
+              "addressType": "Rua",
+              "cep": "78601584",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Anchieta",
+              "latitude": "-15.86511",
+              "longitude": "-52.27103"
+            },
+            {
+              "name": "11",
+              "addressType": "Rua",
+              "cep": "78601590",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Anchieta",
+              "latitude": "-15.87484",
+              "longitude": "-52.23198"
+            },
+            {
+              "name": "das Acácias",
+              "addressType": "Rua",
+              "cep": "78601580",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Anchieta",
+              "latitude": "-15.88519",
+              "longitude": "-52.23748"
+            },
+            {
+              "name": "21",
+              "addressType": "Rua",
+              "cep": "78601608",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Anchieta",
+              "latitude": "-15.87489",
+              "longitude": "-52.23198"
+            }
+          ]
+        },
+        {
+          "name": "Campinas",
+          "streets": [
+            {
+              "name": "Independência",
+              "addressType": "Rua",
+              "cep": "78600178",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Campinas",
+              "latitude": "-15.89697",
+              "longitude": "-52.2613"
+            },
+            {
+              "name": "Bahia",
+              "addressType": "Rua",
+              "cep": "78600164",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Campinas",
+              "latitude": "-15.89047",
+              "longitude": "-52.26905"
+            },
+            {
+              "name": "21 de Abril",
+              "addressType": "Rua",
+              "cep": "78600160",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Campinas",
+              "latitude": "-15.88659",
+              "longitude": "-52.2687"
+            },
+            {
+              "name": "Moreira Cabral",
+              "addressType": "Rua",
+              "cep": "78600156",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Campinas",
+              "latitude": "-15.8891",
+              "longitude": "-52.26441"
+            },
+            {
+              "name": "Santo Antônio",
+              "addressType": "Rua",
+              "cep": "78600170",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Campinas",
+              "latitude": "-15.88447",
+              "longitude": "-52.32165"
+            },
+            {
+              "name": "Ministro João Alberto",
+              "addressType": "Avenida",
+              "cep": "78600154",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Campinas",
+              "latitude": "-15.88895",
+              "longitude": "-52.26558"
+            },
+            {
+              "name": "Castro Alves",
+              "addressType": "Rua",
+              "cep": "78600174",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Campinas",
+              "latitude": "-15.89159",
+              "longitude": "-52.27026"
+            },
+            {
+              "name": "Carlos Gomes",
+              "addressType": "Rua",
+              "cep": "78600172",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Campinas",
+              "latitude": "-15.8893",
+              "longitude": "-52.26665"
+            }
+          ]
+        },
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "Ministro João Alberto, 561",
+              "addressType": "Avenida",
+              "cep": "78600901",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Centro",
+              "latitude": "-15.89062",
+              "longitude": "-52.26357"
+            },
+            {
+              "name": "Primeiro de Maio 139",
+              "addressType": "Rua",
+              "cep": "78600970",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Centro",
+              "latitude": "-15.89079",
+              "longitude": "-52.25725"
+            },
+            {
+              "name": "Bandeirantes 304",
+              "addressType": "Rua",
+              "cep": "78600973",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Centro",
+              "latitude": "-15.88974",
+              "longitude": "-52.30618"
+            },
+            {
+              "name": "Ministro João Alberto, 405",
+              "addressType": "Avenida",
+              "cep": "78600902",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Centro",
+              "latitude": "-15.88863",
+              "longitude": "-52.26605"
+            },
+            {
+              "name": "Ministro João Alberto, 549",
+              "addressType": "Avenida",
+              "cep": "78600910",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Centro",
+              "latitude": "-15.88863",
+              "longitude": "-52.26606"
+            },
+            {
+              "name": "Bandeirantes",
+              "addressType": "Rua",
+              "cep": "78600002",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Centro",
+              "latitude": "-15.88987",
+              "longitude": "-52.2654"
+            },
+            {
+              "name": "Avenida Ministro João Alberto",
+              "addressType": "6ª",
+              "cep": "78600006",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Centro",
+              "latitude": "-15.89445",
+              "longitude": "-52.25792"
+            },
+            {
+              "name": "Ministro João Alberto, 567",
+              "addressType": "Avenida",
+              "cep": "78600972",
+              "state": "Mato Grosso",
+              "city": "Barra do Garças",
+              "district": "Centro",
+              "latitude": "-15.88955",
+              "longitude": "-52.26471"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cuiabá",
+      "ibgeCode": "5103403",
+      "ddd": "65",
+      "districts": [
+        {
+          "name": "Altos da Glória",
+          "streets": [
+            {
+              "name": "C",
+              "addressType": "Avenida",
+              "cep": "78057302",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Glória",
+              "latitude": "-15.54258",
+              "longitude": "-56.03082"
+            },
+            {
+              "name": "das Orquídeas",
+              "addressType": "Rua",
+              "cep": "78057320",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Glória",
+              "latitude": "-15.54102",
+              "longitude": "-56.09488"
+            },
+            {
+              "name": "A",
+              "addressType": "Avenida",
+              "cep": "78057300",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Glória",
+              "latitude": "-15.6391",
+              "longitude": "-55.95992"
+            },
+            {
+              "name": "das Hortências",
+              "addressType": "Rua",
+              "cep": "78057326",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Glória",
+              "latitude": "-15.59612",
+              "longitude": "-56.11214"
+            },
+            {
+              "name": "B",
+              "addressType": "Avenida",
+              "cep": "78057301",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Glória",
+              "latitude": "-15.54605",
+              "longitude": "-56.02173"
+            },
+            {
+              "name": "das Papoulas",
+              "addressType": "Rua",
+              "cep": "78057308",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Glória",
+              "latitude": "-15.59667",
+              "longitude": "-56.11444"
+            },
+            {
+              "name": "das Margaridas",
+              "addressType": "Rua",
+              "cep": "78057312",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Glória",
+              "latitude": "-15.59674",
+              "longitude": "-56.11482"
+            },
+            {
+              "name": "das Primaveras",
+              "addressType": "Rua",
+              "cep": "78057306",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Glória",
+              "latitude": "-15.59443",
+              "longitude": "-56.09473"
+            }
+          ]
+        },
+        {
+          "name": "Altos da Serra I",
+          "streets": [
+            {
+              "name": "Boa Viagem",
+              "addressType": "Rua",
+              "cep": "78052327",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Serra I",
+              "latitude": "-15.57778",
+              "longitude": "-56.02933"
+            },
+            {
+              "name": "Sete de Setembro",
+              "addressType": "Rua",
+              "cep": "78052348",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Serra I",
+              "latitude": "-15.59554",
+              "longitude": "-56.0932"
+            },
+            {
+              "name": "Guanabara",
+              "addressType": "Avenida",
+              "cep": "78052310",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Serra I",
+              "latitude": "-15.58042",
+              "longitude": "-56.02387"
+            },
+            {
+              "name": "Santos Dumont",
+              "addressType": "Rua",
+              "cep": "78052320",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Serra I",
+              "latitude": "-15.57922",
+              "longitude": "-56.02736"
+            },
+            {
+              "name": "Tangará",
+              "addressType": "Rua",
+              "cep": "78052318",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Serra I",
+              "latitude": "-15.56107",
+              "longitude": "-56.05018"
+            },
+            {
+              "name": "Amazonas",
+              "addressType": "Rua",
+              "cep": "78052304",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Serra I",
+              "latitude": "-15.57655",
+              "longitude": "-56.01716"
+            },
+            {
+              "name": "Governador Valadares",
+              "addressType": "Rua",
+              "cep": "78052334",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Serra I",
+              "latitude": "-15.58191",
+              "longitude": "-56.02591"
+            },
+            {
+              "name": "Costa e Silva",
+              "addressType": "Rua",
+              "cep": "78052330",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Serra I",
+              "latitude": "-15.58329",
+              "longitude": "-56.02923"
+            }
+          ]
+        },
+        {
+          "name": "Altos da Serra II",
+          "streets": [
+            {
+              "name": "Doze",
+              "addressType": "Rua",
+              "cep": "78052442",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Serra II",
+              "latitude": "-15.59101",
+              "longitude": "-56.05308"
+            },
+            {
+              "name": "Estevão de Mendonça",
+              "addressType": "Rua",
+              "cep": "78052455",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Serra II",
+              "latitude": "-15.59308",
+              "longitude": "-56.10784"
+            },
+            {
+              "name": "Cristo Redentor",
+              "addressType": "Rua",
+              "cep": "78052446",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Serra II",
+              "latitude": "-15.58597",
+              "longitude": "-56.02316"
+            },
+            {
+              "name": "C",
+              "addressType": "Rua",
+              "cep": "78052435",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Serra II",
+              "latitude": "-15.56204",
+              "longitude": "-56.04047"
+            },
+            {
+              "name": "Governador Valadares",
+              "addressType": "Rua",
+              "cep": "78052453",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Serra II",
+              "latitude": "-15.58337",
+              "longitude": "-56.02511"
+            },
+            {
+              "name": "Doutor Barão Viegas",
+              "addressType": "Rua",
+              "cep": "78052450",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Serra II",
+              "latitude": "-15.56219",
+              "longitude": "-56.05048"
+            },
+            {
+              "name": "Costa e Silva",
+              "addressType": "Rua",
+              "cep": "78052448",
+              "state": "Mato Grosso",
+              "city": "Cuiabá",
+              "district": "Altos da Serra II",
+              "latitude": "-15.58407",
+              "longitude": "-56.02873"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cáceres",
+      "ibgeCode": "5102504",
+      "ddd": "65",
+      "districts": [
+        {
+          "name": "Aparecida",
+          "streets": [
+            {
+              "name": "Principal, s/n",
+              "addressType": "Rua",
+              "cep": "78233971",
+              "state": "Mato Grosso",
+              "city": "Cáceres",
+              "district": "Aparecida",
+              "latitude": "-15.84755",
+              "longitude": "-57.85959"
+            },
+            {
+              "name": "Principal",
+              "addressType": "Rua",
+              "cep": "78219801",
+              "state": "Mato Grosso",
+              "city": "Cáceres",
+              "district": "Aparecida",
+              "latitude": "-15.84755",
+              "longitude": "-57.85959"
+            }
+          ]
+        },
+        {
+          "name": "Aroldo Fanaia",
+          "streets": [
+            {
+              "name": "das Carambolas",
+              "addressType": "Rua",
+              "cep": "78206170",
+              "state": "Mato Grosso",
+              "city": "Cáceres",
+              "district": "Aroldo Fanaia",
+              "latitude": "-16.07439",
+              "longitude": "-57.658"
+            },
+            {
+              "name": "do None",
+              "addressType": "Rua",
+              "cep": "78206178",
+              "state": "Mato Grosso",
+              "city": "Cáceres",
+              "district": "Aroldo Fanaia",
+              "latitude": "-15.57965",
+              "longitude": "-56.08567"
+            },
+            {
+              "name": "das Peras",
+              "addressType": "Rua",
+              "cep": "78206172",
+              "state": "Mato Grosso",
+              "city": "Cáceres",
+              "district": "Aroldo Fanaia",
+              "latitude": "-16.07397",
+              "longitude": "-57.68135"
+            },
+            {
+              "name": "Caqui",
+              "addressType": "Rua",
+              "cep": "78206166",
+              "state": "Mato Grosso",
+              "city": "Cáceres",
+              "district": "Aroldo Fanaia",
+              "latitude": "-16.07439",
+              "longitude": "-57.658"
+            },
+            {
+              "name": "das Framboesas",
+              "addressType": "Rua",
+              "cep": "78206168",
+              "state": "Mato Grosso",
+              "city": "Cáceres",
+              "district": "Aroldo Fanaia",
+              "latitude": "-16.07439",
+              "longitude": "-57.658"
+            },
+            {
+              "name": "Pequizeiro",
+              "addressType": "Rua",
+              "cep": "78206164",
+              "state": "Mato Grosso",
+              "city": "Cáceres",
+              "district": "Aroldo Fanaia",
+              "latitude": "-16.07439",
+              "longitude": "-57.658"
+            },
+            {
+              "name": "Abacateiro",
+              "addressType": "Rua",
+              "cep": "78206180",
+              "state": "Mato Grosso",
+              "city": "Cáceres",
+              "district": "Aroldo Fanaia",
+              "latitude": "-15.52147",
+              "longitude": "-54.32924"
+            },
+            {
+              "name": "Mangaba",
+              "addressType": "Rua",
+              "cep": "78206156",
+              "state": "Mato Grosso",
+              "city": "Cáceres",
+              "district": "Aroldo Fanaia",
+              "latitude": "-16.07439",
+              "longitude": "-57.658"
+            }
+          ]
+        },
+        {
+          "name": "Betel",
+          "streets": [
+            {
+              "name": "Guanabara",
+              "addressType": "Rua",
+              "cep": "78217065",
+              "state": "Mato Grosso",
+              "city": "Cáceres",
+              "district": "Betel",
+              "latitude": "-16.05899",
+              "longitude": "-57.65392"
+            },
+            {
+              "name": "Arruda",
+              "addressType": "Rua",
+              "cep": "78217063",
+              "state": "Mato Grosso",
+              "city": "Cáceres",
+              "district": "Betel",
+              "latitude": "-16.08366",
+              "longitude": "-57.6815"
+            },
+            {
+              "name": "das Magnólias",
+              "addressType": "Rua",
+              "cep": "78217084",
+              "state": "Mato Grosso",
+              "city": "Cáceres",
+              "district": "Betel",
+              "latitude": "-16.05115",
+              "longitude": "-57.65843"
+            },
+            {
+              "name": "das Begônias",
+              "addressType": "Rua",
+              "cep": "78217087",
+              "state": "Mato Grosso",
+              "city": "Cáceres",
+              "district": "Betel",
+              "latitude": "-16.05571",
+              "longitude": "-57.65137"
+            },
+            {
+              "name": "das Camélias",
+              "addressType": "Rua",
+              "cep": "78217060",
+              "state": "Mato Grosso",
+              "city": "Cáceres",
+              "district": "Betel",
+              "latitude": "-16.06157",
+              "longitude": "-57.6669"
+            },
+            {
+              "name": "Trambulhão",
+              "addressType": "Rua",
+              "cep": "78217093",
+              "state": "Mato Grosso",
+              "city": "Cáceres",
+              "district": "Betel",
+              "latitude": "-16.07376",
+              "longitude": "-57.68097"
+            },
+            {
+              "name": "Santa Bárbara",
+              "addressType": "Rua",
+              "cep": "78217078",
+              "state": "Mato Grosso",
+              "city": "Cáceres",
+              "district": "Betel",
+              "latitude": "-16.08903",
+              "longitude": "-57.68508"
+            },
+            {
+              "name": "dos Acuris",
+              "addressType": "Via",
+              "cep": "78217096",
+              "state": "Mato Grosso",
+              "city": "Cáceres",
+              "district": "Betel",
+              "latitude": "-16.05079",
+              "longitude": "-57.64406"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rondonópolis",
+      "ibgeCode": "5107602",
+      "ddd": "66",
+      "districts": [
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "Antônio Pires Sobrinho",
+              "addressType": "Travessa",
+              "cep": "78700396",
+              "state": "Mato Grosso",
+              "city": "Rondonópolis",
+              "district": "Centro",
+              "latitude": "-16.4727",
+              "longitude": "-54.6431"
+            },
+            {
+              "name": "Vereador Cornélio",
+              "addressType": "Travessa",
+              "cep": "78700210",
+              "state": "Mato Grosso",
+              "city": "Rondonópolis",
+              "district": "Centro",
+              "latitude": "-16.47353",
+              "longitude": "-54.6387"
+            },
+            {
+              "name": "Rui Barbosa",
+              "addressType": "Avenida",
+              "cep": "78700130",
+              "state": "Mato Grosso",
+              "city": "Rondonópolis",
+              "district": "Centro",
+              "latitude": "-16.46363",
+              "longitude": "-54.62714"
+            },
+            {
+              "name": "Dom Pedro II",
+              "addressType": "Rua",
+              "cep": "78700220",
+              "state": "Mato Grosso",
+              "city": "Rondonópolis",
+              "district": "Centro",
+              "latitude": "-16.48018",
+              "longitude": "-54.616"
+            },
+            {
+              "name": "Dois Horizontes",
+              "addressType": "Rua",
+              "cep": "78700340",
+              "state": "Mato Grosso",
+              "city": "Rondonópolis",
+              "district": "Centro",
+              "latitude": "-16.46253",
+              "longitude": "-54.63218"
+            },
+            {
+              "name": "Raimundo de Matos",
+              "addressType": "Avenida",
+              "cep": "78700350",
+              "state": "Mato Grosso",
+              "city": "Rondonópolis",
+              "district": "Centro",
+              "latitude": "-16.4689",
+              "longitude": "-54.641"
+            },
+            {
+              "name": "Alice Borges de Matos",
+              "addressType": "Travessa",
+              "cep": "78700122",
+              "state": "Mato Grosso",
+              "city": "Rondonópolis",
+              "district": "Centro",
+              "latitude": "-16.46135",
+              "longitude": "-54.63261"
+            },
+            {
+              "name": "Otávio Pitaluga",
+              "addressType": "Rua",
+              "cep": "78700170",
+              "state": "Mato Grosso",
+              "city": "Rondonópolis",
+              "district": "Centro",
+              "latitude": "-16.474",
+              "longitude": "-54.62519"
+            }
+          ]
+        },
+        {
+          "name": "Chácara Alegria",
+          "streets": [
+            {
+              "name": "B",
+              "addressType": "Rua",
+              "cep": "78736190",
+              "state": "Mato Grosso",
+              "city": "Rondonópolis",
+              "district": "Chácara Alegria",
+              "latitude": "-16.48347",
+              "longitude": "-54.57247"
+            },
+            {
+              "name": "C",
+              "addressType": "Rua",
+              "cep": "78736192",
+              "state": "Mato Grosso",
+              "city": "Rondonópolis",
+              "district": "Chácara Alegria",
+              "latitude": "-16.48347",
+              "longitude": "-54.57247"
+            },
+            {
+              "name": "Sete",
+              "addressType": "Rua",
+              "cep": "78736200",
+              "state": "Mato Grosso",
+              "city": "Rondonópolis",
+              "district": "Chácara Alegria",
+              "latitude": "-16.48518",
+              "longitude": "-54.57042"
+            },
+            {
+              "name": "Oito",
+              "addressType": "Rua",
+              "cep": "78736194",
+              "state": "Mato Grosso",
+              "city": "Rondonópolis",
+              "district": "Chácara Alegria",
+              "latitude": "-16.48427",
+              "longitude": "-54.5673"
+            },
+            {
+              "name": "Cinco",
+              "addressType": "Rua",
+              "cep": "78736196",
+              "state": "Mato Grosso",
+              "city": "Rondonópolis",
+              "district": "Chácara Alegria",
+              "latitude": "-16.48373",
+              "longitude": "-54.57638"
+            },
+            {
+              "name": "Seis",
+              "addressType": "Rua",
+              "cep": "78736198",
+              "state": "Mato Grosso",
+              "city": "Rondonópolis",
+              "district": "Chácara Alegria",
+              "latitude": "-16.48393",
+              "longitude": "-54.57055"
+            }
+          ]
+        },
+        {
+          "name": "Chácara Beija-Flor",
+          "streets": [
+            {
+              "name": "Projetada B",
+              "addressType": "Rua",
+              "cep": "78721832",
+              "state": "Mato Grosso",
+              "city": "Rondonópolis",
+              "district": "Chácara Beija-Flor",
+              "latitude": "-16.42062",
+              "longitude": "-54.60222"
+            },
+            {
+              "name": "Projetada A",
+              "addressType": "Rua",
+              "cep": "78721830",
+              "state": "Mato Grosso",
+              "city": "Rondonópolis",
+              "district": "Chácara Beija-Flor",
+              "latitude": "-16.42044",
+              "longitude": "-54.60604"
+            },
+            {
+              "name": "Um",
+              "addressType": "Avenida",
+              "cep": "78721836",
+              "state": "Mato Grosso",
+              "city": "Rondonópolis",
+              "district": "Chácara Beija-Flor",
+              "latitude": "-16.49314",
+              "longitude": "-54.62711"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sinop",
+      "ibgeCode": "5107909",
+      "ddd": "66",
+      "districts": [
+        {
+          "name": "Aquarela Brasil Residencial",
+          "streets": [
+            {
+              "name": "Marisa Monte",
+              "addressType": "Rua",
+              "cep": "78556522",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Aquarela Brasil Residencial",
+              "latitude": "-11.85888",
+              "longitude": "-55.54803"
+            },
+            {
+              "name": "Milton Nascimento",
+              "addressType": "Rua",
+              "cep": "78556506",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Aquarela Brasil Residencial",
+              "latitude": "-11.85893",
+              "longitude": "-55.5461"
+            },
+            {
+              "name": "Milton Nascimento",
+              "addressType": "Rua",
+              "cep": "78556528",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Aquarela Brasil Residencial",
+              "latitude": "-11.85893",
+              "longitude": "-55.5461"
+            },
+            {
+              "name": "Noel Rosa",
+              "addressType": "Rua",
+              "cep": "78556527",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Aquarela Brasil Residencial",
+              "latitude": "-11.86332",
+              "longitude": "-55.54697"
+            },
+            {
+              "name": "Nelson Gonçalves",
+              "addressType": "Rua",
+              "cep": "78556530",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Aquarela Brasil Residencial",
+              "latitude": "-11.92361",
+              "longitude": "-55.50618"
+            },
+            {
+              "name": "Tom Jobim",
+              "addressType": "Rua",
+              "cep": "78556556",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Aquarela Brasil Residencial",
+              "latitude": "-11.86697",
+              "longitude": "-55.54418"
+            },
+            {
+              "name": "Tom Jobim",
+              "addressType": "Rua",
+              "cep": "78556546",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Aquarela Brasil Residencial",
+              "latitude": "-11.86689",
+              "longitude": "-55.54421"
+            },
+            {
+              "name": "Villa-Lobos",
+              "addressType": "Avenida",
+              "cep": "78556552",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Aquarela Brasil Residencial",
+              "latitude": "-11.86149",
+              "longitude": "-55.54677"
+            }
+          ]
+        },
+        {
+          "name": "Aquarela das Artes",
+          "streets": [
+            {
+              "name": "Olavo Bilac",
+              "addressType": "Travessa",
+              "cep": "78555478",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Aquarela das Artes",
+              "latitude": "-11.82747",
+              "longitude": "-55.54701"
+            },
+            {
+              "name": "Rubens Alves",
+              "addressType": "Rua",
+              "cep": "78555486",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Aquarela das Artes",
+              "latitude": "-11.84093",
+              "longitude": "-55.54332"
+            },
+            {
+              "name": "Benedito Calixto",
+              "addressType": "Rua",
+              "cep": "78555482",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Aquarela das Artes",
+              "latitude": "-11.84002",
+              "longitude": "-55.545"
+            },
+            {
+              "name": "Castro Alves",
+              "addressType": "Rua",
+              "cep": "78555455",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Aquarela das Artes",
+              "latitude": "-11.82774",
+              "longitude": "-55.54709"
+            },
+            {
+              "name": "Casimiro de Abreu",
+              "addressType": "Travessa",
+              "cep": "78555464",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Aquarela das Artes",
+              "latitude": "-11.82739",
+              "longitude": "-55.54772"
+            },
+            {
+              "name": "Euclides da Cunha",
+              "addressType": "Travessa",
+              "cep": "78555471",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Aquarela das Artes",
+              "latitude": "-11.83154",
+              "longitude": "-55.5475"
+            },
+            {
+              "name": "Di Cavalcanti",
+              "addressType": "Travessa",
+              "cep": "78555485",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Aquarela das Artes",
+              "latitude": "-11.83992",
+              "longitude": "-55.54405"
+            },
+            {
+              "name": "Manuel Bandeira",
+              "addressType": "Travessa",
+              "cep": "78555480",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Aquarela das Artes",
+              "latitude": "-11.8371",
+              "longitude": "-55.54356"
+            }
+          ]
+        },
+        {
+          "name": "Belvedere Residencial",
+          "streets": [
+            {
+              "name": "Projetada 10",
+              "addressType": "Rua",
+              "cep": "78559581",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Belvedere Residencial",
+              "latitude": "-11.92793",
+              "longitude": "-55.5017"
+            },
+            {
+              "name": "Projetada 19",
+              "addressType": "Rua",
+              "cep": "78559590",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Belvedere Residencial",
+              "latitude": "-11.92987",
+              "longitude": "-55.49777"
+            },
+            {
+              "name": "Projetada 5",
+              "addressType": "Rua",
+              "cep": "78559576",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Belvedere Residencial",
+              "latitude": "-11.92775",
+              "longitude": "-55.50158"
+            },
+            {
+              "name": "Projetada 6",
+              "addressType": "Rua",
+              "cep": "78559577",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Belvedere Residencial",
+              "latitude": "-11.92789",
+              "longitude": "-55.50165"
+            },
+            {
+              "name": "Projetada 16",
+              "addressType": "Rua",
+              "cep": "78559587",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Belvedere Residencial",
+              "latitude": "-11.92795",
+              "longitude": "-55.50156"
+            },
+            {
+              "name": "Projetada 14",
+              "addressType": "Rua",
+              "cep": "78559585",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Belvedere Residencial",
+              "latitude": "-11.92795",
+              "longitude": "-55.50167"
+            },
+            {
+              "name": "Projetada 9",
+              "addressType": "Rua",
+              "cep": "78559580",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Belvedere Residencial",
+              "latitude": "-11.88759",
+              "longitude": "-55.52277"
+            },
+            {
+              "name": "Projetada 4",
+              "addressType": "Rua",
+              "cep": "78559575",
+              "state": "Mato Grosso",
+              "city": "Sinop",
+              "district": "Belvedere Residencial",
+              "latitude": "-11.92621",
+              "longitude": "-55.50095"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sorriso",
+      "ibgeCode": "5107925",
+      "ddd": "66",
+      "districts": [
+        {
+          "name": "Alphaville",
+          "streets": [
+            {
+              "name": "Perimetral Noroeste",
+              "addressType": "Avenida",
+              "cep": "78891078",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Alphaville",
+              "latitude": "-12.54",
+              "longitude": "-55.73952"
+            },
+            {
+              "name": "São Lucas",
+              "addressType": "Rua",
+              "cep": "78891088",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Alphaville",
+              "latitude": "-12.53597",
+              "longitude": "-55.74439"
+            },
+            {
+              "name": "das Hortênsias",
+              "addressType": "Rua",
+              "cep": "78891074",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Alphaville",
+              "latitude": "-12.53748",
+              "longitude": "-55.73102"
+            },
+            {
+              "name": "Noêmia Tonello Dalmolin",
+              "addressType": "Avenida",
+              "cep": "78891094",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Alphaville",
+              "latitude": "-12.51951",
+              "longitude": "-55.73787"
+            },
+            {
+              "name": "São João",
+              "addressType": "Rua",
+              "cep": "78891080",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Alphaville",
+              "latitude": "-12.53857",
+              "longitude": "-55.74016"
+            },
+            {
+              "name": "São Borja",
+              "addressType": "Rua",
+              "cep": "78891082",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Alphaville",
+              "latitude": "-12.53792",
+              "longitude": "-55.74121"
+            },
+            {
+              "name": "Santo Expedito",
+              "addressType": "Rua",
+              "cep": "78891092",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Alphaville",
+              "latitude": "-12.53043",
+              "longitude": "-55.7435"
+            },
+            {
+              "name": "Natalino João Brescansin",
+              "addressType": "Avenida",
+              "cep": "78891070",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Alphaville",
+              "latitude": "-12.55002",
+              "longitude": "-55.71428"
+            }
+          ]
+        },
+        {
+          "name": "Bela Vista",
+          "streets": [
+            {
+              "name": "Porto Alegre",
+              "addressType": "Avenida",
+              "cep": "78890004",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Bela Vista",
+              "latitude": "-12.57106",
+              "longitude": "-55.74558"
+            },
+            {
+              "name": "dos Imigrantes",
+              "addressType": "Avenida",
+              "cep": "78890035",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Bela Vista",
+              "latitude": "-12.53314",
+              "longitude": "-55.72505"
+            },
+            {
+              "name": "Perimetral Noroeste",
+              "addressType": "Avenida",
+              "cep": "78890085",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Bela Vista",
+              "latitude": "-12.54066",
+              "longitude": "-55.73967"
+            },
+            {
+              "name": "Perimetral Sudoeste",
+              "addressType": "Avenida",
+              "cep": "78890083",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Bela Vista",
+              "latitude": "-12.53782",
+              "longitude": "-55.70643"
+            },
+            {
+              "name": "Castelo Branco",
+              "addressType": "Rua",
+              "cep": "78890014",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Bela Vista",
+              "latitude": "-16.08312",
+              "longitude": "-56.57007"
+            },
+            {
+              "name": "Manoel da Nóbrega",
+              "addressType": "Rua",
+              "cep": "78890071",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Bela Vista",
+              "latitude": "-12.54447",
+              "longitude": "-55.73542"
+            },
+            {
+              "name": "Celeste",
+              "addressType": "Rua",
+              "cep": "78890067",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Bela Vista",
+              "latitude": "-12.54374",
+              "longitude": "-55.73494"
+            },
+            {
+              "name": "Floriano Peixoto",
+              "addressType": "Rua",
+              "cep": "78890079",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Bela Vista",
+              "latitude": "-12.54586",
+              "longitude": "-55.7364"
+            }
+          ]
+        },
+        {
+          "name": "Bell Valle",
+          "streets": [
+            {
+              "name": "São Gabriel",
+              "addressType": "Rua",
+              "cep": "78892402",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Bell Valle",
+              "latitude": "-12.56709",
+              "longitude": "-55.71263"
+            },
+            {
+              "name": "Santa Rita",
+              "addressType": "Rua",
+              "cep": "78892420",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Bell Valle",
+              "latitude": "-12.85837",
+              "longitude": "-55.8337"
+            },
+            {
+              "name": "Fortaleza",
+              "addressType": "Rua",
+              "cep": "78892406",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Bell Valle",
+              "latitude": "-12.54336",
+              "longitude": "-55.71313"
+            },
+            {
+              "name": "São Nicolau",
+              "addressType": "Rua",
+              "cep": "78892416",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Bell Valle",
+              "latitude": "-12.54977",
+              "longitude": "-55.75334"
+            },
+            {
+              "name": "São Félix",
+              "addressType": "Rua",
+              "cep": "78892408",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Bell Valle",
+              "latitude": "-12.53301",
+              "longitude": "-55.73153"
+            },
+            {
+              "name": "São Sebastião",
+              "addressType": "Rua",
+              "cep": "78892424",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Bell Valle",
+              "latitude": "-12.54927",
+              "longitude": "-55.74982"
+            },
+            {
+              "name": "São Benedito",
+              "addressType": "Rua",
+              "cep": "78892422",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Bell Valle",
+              "latitude": "-12.55082",
+              "longitude": "-55.74843"
+            },
+            {
+              "name": "Santo Amaro",
+              "addressType": "Rua",
+              "cep": "78892412",
+              "state": "Mato Grosso",
+              "city": "Sorriso",
+              "district": "Bell Valle",
+              "latitude": "-12.55071",
+              "longitude": "-55.75396"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

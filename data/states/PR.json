@@ -1,0 +1,1401 @@
+{
+  "code": "PR",
+  "name": "Paraná",
+  "capital": "Curitiba",
+  "ddd": "41",
+  "regiao": "Sul",
+  "cities": [
+    {
+      "name": "Almirante Tamandaré",
+      "ibgeCode": "4100400",
+      "ddd": "41",
+      "districts": [
+        {
+          "name": "Areias",
+          "streets": [
+            {
+              "name": "Aldo Sebastião Seronato",
+              "addressType": "Rua",
+              "cep": "83514520",
+              "state": "Paraná",
+              "city": "Almirante Tamandaré",
+              "district": "Areias",
+              "latitude": "-25.24725",
+              "longitude": "-49.30223"
+            },
+            {
+              "name": "Durval Soares Vaz",
+              "addressType": "Rua",
+              "cep": "83514222",
+              "state": "Paraná",
+              "city": "Almirante Tamandaré",
+              "district": "Areias",
+              "latitude": "-25.34629",
+              "longitude": "-49.28554"
+            },
+            {
+              "name": "Rosa Sonato",
+              "addressType": "Rua",
+              "cep": "83514628",
+              "state": "Paraná",
+              "city": "Almirante Tamandaré",
+              "district": "Areias",
+              "latitude": "-25.23654",
+              "longitude": "-49.30234"
+            },
+            {
+              "name": "Silvanira de Oliveira",
+              "addressType": "Rua",
+              "cep": "83514618",
+              "state": "Paraná",
+              "city": "Almirante Tamandaré",
+              "district": "Areias",
+              "latitude": "-25.23612",
+              "longitude": "-49.30172"
+            },
+            {
+              "name": "Ana Antoniacomi",
+              "addressType": "Rua",
+              "cep": "83514180",
+              "state": "Paraná",
+              "city": "Almirante Tamandaré",
+              "district": "Areias",
+              "latitude": "-25.24906",
+              "longitude": "-49.29756"
+            },
+            {
+              "name": "Vereador Antônio Dalazuana",
+              "addressType": "Rua",
+              "cep": "83514100",
+              "state": "Paraná",
+              "city": "Almirante Tamandaré",
+              "district": "Areias",
+              "latitude": "-25.37415",
+              "longitude": "-49.30831"
+            },
+            {
+              "name": "Otília de Souza Ferrarini",
+              "addressType": "Rua",
+              "cep": "83514230",
+              "state": "Paraná",
+              "city": "Almirante Tamandaré",
+              "district": "Areias",
+              "latitude": "-25.24515",
+              "longitude": "-49.2978"
+            },
+            {
+              "name": "Aristides Kruguer",
+              "addressType": "Rua",
+              "cep": "83514240",
+              "state": "Paraná",
+              "city": "Almirante Tamandaré",
+              "district": "Areias",
+              "latitude": "-25.24671",
+              "longitude": "-49.29712"
+            }
+          ]
+        },
+        {
+          "name": "Boichininga",
+          "streets": [
+            {
+              "name": "Antônio Alceu Machado",
+              "addressType": "Rua",
+              "cep": "83513516",
+              "state": "Paraná",
+              "city": "Almirante Tamandaré",
+              "district": "Boichininga",
+              "latitude": "-25.374",
+              "longitude": "-49.30827"
+            },
+            {
+              "name": "Domingos Carlesso",
+              "addressType": "Rua",
+              "cep": "83513511",
+              "state": "Paraná",
+              "city": "Almirante Tamandaré",
+              "district": "Boichininga",
+              "latitude": "-25.28633",
+              "longitude": "-49.27605"
+            },
+            {
+              "name": "Irene Perin Zanotto",
+              "addressType": "Rua",
+              "cep": "83513518",
+              "state": "Paraná",
+              "city": "Almirante Tamandaré",
+              "district": "Boichininga",
+              "latitude": "-25.31859",
+              "longitude": "-49.30999"
+            },
+            {
+              "name": "Venâncio da Silva Lisboa",
+              "addressType": "Rua",
+              "cep": "83513513",
+              "state": "Paraná",
+              "city": "Almirante Tamandaré",
+              "district": "Boichininga",
+              "latitude": "-25.27873",
+              "longitude": "-49.26488"
+            },
+            {
+              "name": "Antônio Ferro",
+              "addressType": "Rua",
+              "cep": "83513510",
+              "state": "Paraná",
+              "city": "Almirante Tamandaré",
+              "district": "Boichininga",
+              "latitude": "-25.2887",
+              "longitude": "-49.27957"
+            },
+            {
+              "name": "João Tomé de Morais",
+              "addressType": "Rua",
+              "cep": "83513512",
+              "state": "Paraná",
+              "city": "Almirante Tamandaré",
+              "district": "Boichininga",
+              "latitude": "-25.28522",
+              "longitude": "-49.28171"
+            }
+          ]
+        },
+        {
+          "name": "Bonfim",
+          "streets": [
+            {
+              "name": "Plácido Gomes",
+              "addressType": "Rua",
+              "cep": "83507050",
+              "state": "Paraná",
+              "city": "Almirante Tamandaré",
+              "district": "Bonfim",
+              "latitude": "-25.34339",
+              "longitude": "-49.28513"
+            },
+            {
+              "name": "João Dambrowski",
+              "addressType": "Rua",
+              "cep": "83506410",
+              "state": "Paraná",
+              "city": "Almirante Tamandaré",
+              "district": "Bonfim",
+              "latitude": "-25.34838",
+              "longitude": "-49.28148"
+            },
+            {
+              "name": "Bernardo Stamm",
+              "addressType": "Rua",
+              "cep": "83507030",
+              "state": "Paraná",
+              "city": "Almirante Tamandaré",
+              "district": "Bonfim",
+              "latitude": "-25.34351",
+              "longitude": "-49.28696"
+            },
+            {
+              "name": "G",
+              "addressType": "Rua",
+              "cep": "83511270",
+              "state": "Paraná",
+              "city": "Almirante Tamandaré",
+              "district": "Bonfim",
+              "latitude": "-25.34254",
+              "longitude": "-49.24037"
+            },
+            {
+              "name": "Lindair de Goes",
+              "addressType": "Rua",
+              "cep": "83507080",
+              "state": "Paraná",
+              "city": "Almirante Tamandaré",
+              "district": "Bonfim",
+              "latitude": "-25.34617",
+              "longitude": "-49.2851"
+            },
+            {
+              "name": "Servino Moura",
+              "addressType": "Travessa",
+              "cep": "83506296",
+              "state": "Paraná",
+              "city": "Almirante Tamandaré",
+              "district": "Bonfim",
+              "latitude": "-25.34099",
+              "longitude": "-49.27907"
+            },
+            {
+              "name": "Jonas Callesso",
+              "addressType": "Rua",
+              "cep": "83506334",
+              "state": "Paraná",
+              "city": "Almirante Tamandaré",
+              "district": "Bonfim",
+              "latitude": "-25.3425",
+              "longitude": "-49.24014"
+            },
+            {
+              "name": "João Maria Pereira",
+              "addressType": "Travessa",
+              "cep": "83506298",
+              "state": "Paraná",
+              "city": "Almirante Tamandaré",
+              "district": "Bonfim",
+              "latitude": "-25.34547",
+              "longitude": "-49.28865"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Apucarana",
+      "ibgeCode": "4101408",
+      "ddd": "43",
+      "districts": [
+        {
+          "name": "Barra Funda",
+          "streets": [
+            {
+              "name": "Américo Lunardelli",
+              "addressType": "Rua",
+              "cep": "86800540",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Barra Funda",
+              "latitude": "-23.55369",
+              "longitude": "-51.4763"
+            },
+            {
+              "name": "Geremias Lunardelli",
+              "addressType": "Rua",
+              "cep": "86800600",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Barra Funda",
+              "latitude": "-23.55135",
+              "longitude": "-51.46907"
+            },
+            {
+              "name": "Doutor Munhoz da Rocha",
+              "addressType": "Rua",
+              "cep": "86800607",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Barra Funda",
+              "latitude": "-23.55009",
+              "longitude": "-51.46989"
+            },
+            {
+              "name": "Governador Roberto da Silveira",
+              "addressType": "Avenida",
+              "cep": "86800520",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Barra Funda",
+              "latitude": "-23.55046",
+              "longitude": "-51.47392"
+            },
+            {
+              "name": "Doutor José Franco Domingues Alexandre",
+              "addressType": "Rua",
+              "cep": "86800590",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Barra Funda",
+              "latitude": "-23.55097",
+              "longitude": "-51.47051"
+            },
+            {
+              "name": "Curitiba",
+              "addressType": "Avenida",
+              "cep": "86800605",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Barra Funda",
+              "latitude": "-23.55105",
+              "longitude": "-51.47064"
+            },
+            {
+              "name": "Antônio José de Oliveira",
+              "addressType": "Rua",
+              "cep": "86800490",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Barra Funda",
+              "latitude": "-23.55831",
+              "longitude": "-51.47425"
+            },
+            {
+              "name": "Luiz de Oliveira",
+              "addressType": "Rua",
+              "cep": "86800180",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Barra Funda",
+              "latitude": "-23.54869",
+              "longitude": "-51.46921"
+            }
+          ]
+        },
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "Curitiba, 605",
+              "addressType": "Avenida",
+              "cep": "86801981",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Centro",
+              "latitude": "-23.55235",
+              "longitude": "-51.46369"
+            },
+            {
+              "name": "Professor João Cândido Ferreira",
+              "addressType": "Rua",
+              "cep": "86800100",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Centro",
+              "latitude": "-23.19064",
+              "longitude": "-50.65054"
+            },
+            {
+              "name": "Ruy Barbosa",
+              "addressType": "Praça",
+              "cep": "86800700",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Centro",
+              "latitude": "-23.55237",
+              "longitude": "-51.46097"
+            },
+            {
+              "name": "Doutor Oswaldo Cruz",
+              "addressType": "Rua",
+              "cep": "86800720",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Centro",
+              "latitude": "-23.55328",
+              "longitude": "-51.46255"
+            },
+            {
+              "name": "Doutor Benjamin Braga Filho",
+              "addressType": "Rua",
+              "cep": "86800080",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Centro",
+              "latitude": "-23.54785",
+              "longitude": "-51.45902"
+            },
+            {
+              "name": "Gastão Vidigal",
+              "addressType": "Rua",
+              "cep": "86800050",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Centro",
+              "latitude": "-23.5551",
+              "longitude": "-51.45986"
+            },
+            {
+              "name": "Clóvis da Fonseca",
+              "addressType": "Rua",
+              "cep": "86800110",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Centro",
+              "latitude": "-23.55358",
+              "longitude": "-51.45638"
+            },
+            {
+              "name": "João Gurgel de Macedo",
+              "addressType": "Travessa",
+              "cep": "86800710",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Centro",
+              "latitude": "-23.55832",
+              "longitude": "-51.46225"
+            }
+          ]
+        },
+        {
+          "name": "Chácara Mate Amargo",
+          "streets": [
+            {
+              "name": "Vitório Pepato Filho",
+              "addressType": "Rua",
+              "cep": "86803694",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Chácara Mate Amargo",
+              "latitude": "-23.5296",
+              "longitude": "-51.43284"
+            },
+            {
+              "name": "Nicola Mareze",
+              "addressType": "Rua",
+              "cep": "86803698",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Chácara Mate Amargo",
+              "latitude": "-23.52064",
+              "longitude": "-51.45473"
+            },
+            {
+              "name": "Benjamin Bossa",
+              "addressType": "Rua",
+              "cep": "86803640",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Chácara Mate Amargo",
+              "latitude": "-23.51908",
+              "longitude": "-51.45443"
+            },
+            {
+              "name": "Arlindo Bresolin",
+              "addressType": "Rua",
+              "cep": "86803630",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Chácara Mate Amargo",
+              "latitude": "-23.52198",
+              "longitude": "-51.45588"
+            },
+            {
+              "name": "Professora Leonina de Rezende Martins",
+              "addressType": "Rua",
+              "cep": "86803692",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Chácara Mate Amargo",
+              "latitude": "-23.52887",
+              "longitude": "-51.4328"
+            },
+            {
+              "name": "Guaíba",
+              "addressType": "Travessa",
+              "cep": "86803645",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Chácara Mate Amargo",
+              "latitude": "-23.52108",
+              "longitude": "-51.45514"
+            },
+            {
+              "name": "Valdomiro Vargas",
+              "addressType": "Rua",
+              "cep": "86803696",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Chácara Mate Amargo",
+              "latitude": "-23.52064",
+              "longitude": "-51.45473"
+            },
+            {
+              "name": "Luiz Toschi",
+              "addressType": "Rua",
+              "cep": "86803690",
+              "state": "Paraná",
+              "city": "Apucarana",
+              "district": "Chácara Mate Amargo",
+              "latitude": "-23.52064",
+              "longitude": "-51.45473"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Arapongas",
+      "ibgeCode": "4101507",
+      "ddd": "43",
+      "districts": [
+        {
+          "name": "Campinho",
+          "streets": [
+            {
+              "name": "Alegrinho do Sertão",
+              "addressType": "Rua",
+              "cep": "86702889",
+              "state": "Paraná",
+              "city": "Arapongas",
+              "district": "Campinho",
+              "latitude": "-23.3954",
+              "longitude": "-51.44191"
+            },
+            {
+              "name": "Corruira do Campo",
+              "addressType": "Avenida",
+              "cep": "86702885",
+              "state": "Paraná",
+              "city": "Arapongas",
+              "district": "Campinho",
+              "latitude": "-23.38859",
+              "longitude": "-51.44178"
+            }
+          ]
+        },
+        {
+          "name": "Casa Família Arapongas I",
+          "streets": [
+            {
+              "name": "Bem Te Vi Rajado",
+              "addressType": "Rua",
+              "cep": "86706705",
+              "state": "Paraná",
+              "city": "Arapongas",
+              "district": "Casa Família Arapongas I",
+              "latitude": "-23.45592",
+              "longitude": "-51.43137"
+            },
+            {
+              "name": "Ararajuba",
+              "addressType": "Rua",
+              "cep": "86706706",
+              "state": "Paraná",
+              "city": "Arapongas",
+              "district": "Casa Família Arapongas I",
+              "latitude": "-23.45627",
+              "longitude": "-51.43263"
+            },
+            {
+              "name": "Azulona",
+              "addressType": "Rua",
+              "cep": "86706707",
+              "state": "Paraná",
+              "city": "Arapongas",
+              "district": "Casa Família Arapongas I",
+              "latitude": "-23.457",
+              "longitude": "-51.43331"
+            },
+            {
+              "name": "Uiraçu",
+              "addressType": "Rua",
+              "cep": "86706700",
+              "state": "Paraná",
+              "city": "Arapongas",
+              "district": "Casa Família Arapongas I",
+              "latitude": "-23.45643",
+              "longitude": "-51.43061"
+            }
+          ]
+        },
+        {
+          "name": "Casa Família Arapongas II",
+          "streets": [
+            {
+              "name": "Mello Peixoto",
+              "addressType": "Rodovia",
+              "cep": "86706420",
+              "state": "Paraná",
+              "city": "Arapongas",
+              "district": "Casa Família Arapongas II",
+              "latitude": "-23.41238",
+              "longitude": "-51.43372"
+            },
+            {
+              "name": "Itajubá",
+              "addressType": "Rua",
+              "cep": "86706480",
+              "state": "Paraná",
+              "city": "Arapongas",
+              "district": "Casa Família Arapongas II",
+              "latitude": "-23.49744",
+              "longitude": "-51.42613"
+            },
+            {
+              "name": "N-14",
+              "addressType": "Rua",
+              "cep": "86706437",
+              "state": "Paraná",
+              "city": "Arapongas",
+              "district": "Casa Família Arapongas II",
+              "latitude": "-23.40595",
+              "longitude": "-51.43679"
+            },
+            {
+              "name": "Aimoré",
+              "addressType": "Rua",
+              "cep": "86706470",
+              "state": "Paraná",
+              "city": "Arapongas",
+              "district": "Casa Família Arapongas II",
+              "latitude": "-23.49272",
+              "longitude": "-51.42965"
+            },
+            {
+              "name": "Guaporé",
+              "addressType": "Rua",
+              "cep": "86706460",
+              "state": "Paraná",
+              "city": "Arapongas",
+              "district": "Casa Família Arapongas II",
+              "latitude": "-23.49585",
+              "longitude": "-51.42711"
+            },
+            {
+              "name": "Caiapó",
+              "addressType": "Rua",
+              "cep": "86706490",
+              "state": "Paraná",
+              "city": "Arapongas",
+              "district": "Casa Família Arapongas II",
+              "latitude": "-23.49319",
+              "longitude": "-51.42631"
+            },
+            {
+              "name": "N-15",
+              "addressType": "Rua",
+              "cep": "86706435",
+              "state": "Paraná",
+              "city": "Arapongas",
+              "district": "Casa Família Arapongas II",
+              "latitude": "-23.40595",
+              "longitude": "-51.43679"
+            },
+            {
+              "name": "N-16",
+              "addressType": "Rua",
+              "cep": "86706436",
+              "state": "Paraná",
+              "city": "Arapongas",
+              "district": "Casa Família Arapongas II",
+              "latitude": "-23.40595",
+              "longitude": "-51.43679"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Araucária",
+      "ibgeCode": "4101804",
+      "ddd": "41",
+      "districts": [
+        {
+          "name": "Barigui",
+          "streets": [
+            {
+              "name": "José Lemos",
+              "addressType": "Rua",
+              "cep": "83707451",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Barigui",
+              "latitude": "-25.58337",
+              "longitude": "-49.38133"
+            },
+            {
+              "name": "Sérgio Aleixo Grebos",
+              "addressType": "Rua",
+              "cep": "83707530",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Barigui",
+              "latitude": "-25.52189",
+              "longitude": "-49.34962"
+            },
+            {
+              "name": "Pedro Chempeck",
+              "addressType": "Rua",
+              "cep": "83707460",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Barigui",
+              "latitude": "-25.52287",
+              "longitude": "-49.3524"
+            },
+            {
+              "name": "José Chempeck",
+              "addressType": "Rua",
+              "cep": "83707580",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Barigui",
+              "latitude": "-25.61076",
+              "longitude": "-49.38614"
+            },
+            {
+              "name": "Professor Francisco Ribeiro",
+              "addressType": "Rua",
+              "cep": "83707660",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Barigui",
+              "latitude": "-25.52351",
+              "longitude": "-49.34395"
+            },
+            {
+              "name": "Mário Czaikoski",
+              "addressType": "Rua",
+              "cep": "83707500",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Barigui",
+              "latitude": "-25.52407",
+              "longitude": "-49.35555"
+            },
+            {
+              "name": "Ediberto Hiittener",
+              "addressType": "Rua",
+              "cep": "83707693",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Barigui",
+              "latitude": "-25.61099",
+              "longitude": "-49.38473"
+            },
+            {
+              "name": "Leopoldo Sokulski",
+              "addressType": "Rua",
+              "cep": "83707570",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Barigui",
+              "latitude": "-25.61073",
+              "longitude": "-49.38624"
+            }
+          ]
+        },
+        {
+          "name": "Boqueirão",
+          "streets": [
+            {
+              "name": "Mara Hitener",
+              "addressType": "Rua",
+              "cep": "83704405",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Boqueirão",
+              "latitude": "-25.57269",
+              "longitude": "-49.41897"
+            },
+            {
+              "name": "Professor João Chorosnicki",
+              "addressType": "Rua",
+              "cep": "83704300",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Boqueirão",
+              "latitude": "-25.57798",
+              "longitude": "-49.41415"
+            },
+            {
+              "name": "César Hasselmann",
+              "addressType": "Rua",
+              "cep": "83704360",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Boqueirão",
+              "latitude": "-25.57616",
+              "longitude": "-49.41191"
+            },
+            {
+              "name": "Targino Silva",
+              "addressType": "Rua",
+              "cep": "83704272",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Boqueirão",
+              "latitude": "-25.58127",
+              "longitude": "-49.42008"
+            },
+            {
+              "name": "Tomaz Wolski",
+              "addressType": "Rua",
+              "cep": "83704330",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Boqueirão",
+              "latitude": "-25.57409",
+              "longitude": "-49.41414"
+            },
+            {
+              "name": "Atílio Benevenuto Furlan",
+              "addressType": "Rua",
+              "cep": "83704302",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Boqueirão",
+              "latitude": "-25.57951",
+              "longitude": "-49.41544"
+            },
+            {
+              "name": "João Sérgio Cunha",
+              "addressType": "Rua",
+              "cep": "83704420",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Boqueirão",
+              "latitude": "-25.57221",
+              "longitude": "-49.42146"
+            },
+            {
+              "name": "Aristides Ferreira",
+              "addressType": "Rua",
+              "cep": "83704470",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Boqueirão",
+              "latitude": "-25.57306",
+              "longitude": "-49.42094"
+            }
+          ]
+        },
+        {
+          "name": "Cachoeira",
+          "streets": [
+            {
+              "name": "Estanislau Trauczynski Sobrinho",
+              "addressType": "Rua",
+              "cep": "83708510",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Cachoeira",
+              "latitude": "-25.58702",
+              "longitude": "-49.38947"
+            },
+            {
+              "name": "Gilberto Drewniak Surek",
+              "addressType": "Travessa",
+              "cep": "83708595",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Cachoeira",
+              "latitude": "-25.58979",
+              "longitude": "-49.38599"
+            },
+            {
+              "name": "Dozulina Furlin Buiar",
+              "addressType": "Rua",
+              "cep": "83708500",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Cachoeira",
+              "latitude": "-25.58648",
+              "longitude": "-49.38903"
+            },
+            {
+              "name": "José Celso Batista Bosquet",
+              "addressType": "Rua",
+              "cep": "83701750",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Cachoeira",
+              "latitude": "-25.58839",
+              "longitude": "-49.39169"
+            },
+            {
+              "name": "Raul Domingues Siqueira",
+              "addressType": "Rua",
+              "cep": "83701770",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Cachoeira",
+              "latitude": "-25.58841",
+              "longitude": "-49.39019"
+            },
+            {
+              "name": "Carlos Alberto Luczyszyn",
+              "addressType": "Rua",
+              "cep": "83708450",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Cachoeira",
+              "latitude": "-25.58397",
+              "longitude": "-49.38597"
+            },
+            {
+              "name": "Maria Kaminski Moll",
+              "addressType": "Rua",
+              "cep": "83701642",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Cachoeira",
+              "latitude": "-25.5983",
+              "longitude": "-49.38089"
+            },
+            {
+              "name": "Francisco Jess",
+              "addressType": "Rua",
+              "cep": "83701720",
+              "state": "Paraná",
+              "city": "Araucária",
+              "district": "Cachoeira",
+              "latitude": "-25.58803",
+              "longitude": "-49.39201"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cambé",
+      "ibgeCode": "4103701",
+      "ddd": "43",
+      "districts": [
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "Portugal",
+              "addressType": "Rua",
+              "cep": "86181310",
+              "state": "Paraná",
+              "city": "Cambé",
+              "district": "Centro",
+              "latitude": "-23.27684",
+              "longitude": "-51.28901"
+            },
+            {
+              "name": "Rio Grande do Norte",
+              "addressType": "Rua",
+              "cep": "86181200",
+              "state": "Paraná",
+              "city": "Cambé",
+              "district": "Centro",
+              "latitude": "-23.28029",
+              "longitude": "-51.27739"
+            },
+            {
+              "name": "Salomão Jorge Hauli",
+              "addressType": "Rua",
+              "cep": "86181180",
+              "state": "Paraná",
+              "city": "Cambé",
+              "district": "Centro",
+              "latitude": "-23.27781",
+              "longitude": "-51.27251"
+            },
+            {
+              "name": "Bélgica",
+              "addressType": "Rua",
+              "cep": "86181090",
+              "state": "Paraná",
+              "city": "Cambé",
+              "district": "Centro",
+              "latitude": "-23.28243",
+              "longitude": "-51.28054"
+            },
+            {
+              "name": "Codato",
+              "addressType": "Viela",
+              "cep": "86181120",
+              "state": "Paraná",
+              "city": "Cambé",
+              "district": "Centro",
+              "latitude": "-23.27708",
+              "longitude": "-51.27337"
+            },
+            {
+              "name": "Belo Horizonte",
+              "addressType": "Rua",
+              "cep": "86181020",
+              "state": "Paraná",
+              "city": "Cambé",
+              "district": "Centro",
+              "latitude": "-23.27595",
+              "longitude": "-51.28619"
+            },
+            {
+              "name": "Dom Pedro II",
+              "addressType": "Travessa",
+              "cep": "86181160",
+              "state": "Paraná",
+              "city": "Cambé",
+              "district": "Centro",
+              "latitude": "-23.27628",
+              "longitude": "-51.27381"
+            },
+            {
+              "name": "Carlos Sawade",
+              "addressType": "Rua",
+              "cep": "86181170",
+              "state": "Paraná",
+              "city": "Cambé",
+              "district": "Centro",
+              "latitude": "-23.27717",
+              "longitude": "-51.27133"
+            }
+          ]
+        },
+        {
+          "name": "Chácara Manella",
+          "streets": [
+            {
+              "name": "Pedro Viriato Parigot de Souza",
+              "addressType": "Avenida",
+              "cep": "86186020",
+              "state": "Paraná",
+              "city": "Cambé",
+              "district": "Chácara Manella",
+              "latitude": "-23.29796",
+              "longitude": "-51.23703"
+            },
+            {
+              "name": "Adelino Bianchini",
+              "addressType": "Rua",
+              "cep": "86186019",
+              "state": "Paraná",
+              "city": "Cambé",
+              "district": "Chácara Manella",
+              "latitude": "-23.29779",
+              "longitude": "-51.23397"
+            },
+            {
+              "name": "Humberto Moreschi",
+              "addressType": "Rua",
+              "cep": "86186010",
+              "state": "Paraná",
+              "city": "Cambé",
+              "district": "Chácara Manella",
+              "latitude": "-23.29844",
+              "longitude": "-51.23864"
+            }
+          ]
+        },
+        {
+          "name": "Chácara Santa Maria",
+          "streets": [
+            {
+              "name": "Matinhos",
+              "addressType": "Rua",
+              "cep": "86189050",
+              "state": "Paraná",
+              "city": "Cambé",
+              "district": "Chácara Santa Maria",
+              "latitude": "-23.30768",
+              "longitude": "-51.25489"
+            },
+            {
+              "name": "Ilha do Mel",
+              "addressType": "Rua",
+              "cep": "86189060",
+              "state": "Paraná",
+              "city": "Cambé",
+              "district": "Chácara Santa Maria",
+              "latitude": "-23.30749",
+              "longitude": "-51.25724"
+            },
+            {
+              "name": "Camboriú",
+              "addressType": "Rua",
+              "cep": "86189030",
+              "state": "Paraná",
+              "city": "Cambé",
+              "district": "Chácara Santa Maria",
+              "latitude": "-23.30513",
+              "longitude": "-51.25218"
+            },
+            {
+              "name": "Praia de Leste",
+              "addressType": "Rua",
+              "cep": "86189020",
+              "state": "Paraná",
+              "city": "Cambé",
+              "district": "Chácara Santa Maria",
+              "latitude": "-23.30389",
+              "longitude": "-51.25087"
+            },
+            {
+              "name": "Fabiano Dias Vector",
+              "addressType": "Avenida",
+              "cep": "86189000",
+              "state": "Paraná",
+              "city": "Cambé",
+              "district": "Chácara Santa Maria",
+              "latitude": "-23.30531",
+              "longitude": "-51.25219"
+            },
+            {
+              "name": "Caiobá",
+              "addressType": "Rua",
+              "cep": "86189010",
+              "state": "Paraná",
+              "city": "Cambé",
+              "district": "Chácara Santa Maria",
+              "latitude": "-23.30252",
+              "longitude": "-51.24986"
+            },
+            {
+              "name": "Ipanema",
+              "addressType": "Rua",
+              "cep": "86189040",
+              "state": "Paraná",
+              "city": "Cambé",
+              "district": "Chácara Santa Maria",
+              "latitude": "-23.30742",
+              "longitude": "-51.25193"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Campo Largo",
+      "ibgeCode": "4104204",
+      "ddd": "41",
+      "districts": [
+        {
+          "name": "Bom Jesus",
+          "streets": [
+            {
+              "name": "Ademir José de Andrade Wilsek",
+              "addressType": "Rua",
+              "cep": "83604434",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Bom Jesus",
+              "latitude": "-25.45536",
+              "longitude": "-49.54182"
+            },
+            {
+              "name": "Prefeito Ivahy Martins",
+              "addressType": "Rua",
+              "cep": "83601380",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Bom Jesus",
+              "latitude": "-25.45387",
+              "longitude": "-49.53911"
+            },
+            {
+              "name": "Antônio Gabardo Júnior",
+              "addressType": "Rua",
+              "cep": "83604460",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Bom Jesus",
+              "latitude": "-25.47747",
+              "longitude": "-49.53345"
+            },
+            {
+              "name": "Pedro Vaz da Silva",
+              "addressType": "Rua",
+              "cep": "83601375",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Bom Jesus",
+              "latitude": "-25.45482",
+              "longitude": "-49.53973"
+            },
+            {
+              "name": "Capitão Ângelo José Ferreira Chaves",
+              "addressType": "Rua",
+              "cep": "83604380",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Bom Jesus",
+              "latitude": "-25.45425",
+              "longitude": "-49.55079"
+            },
+            {
+              "name": "José Salles Pinto",
+              "addressType": "Avenida",
+              "cep": "83601400",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Bom Jesus",
+              "latitude": "-25.47251",
+              "longitude": "-49.54146"
+            },
+            {
+              "name": "Ademar de Barros",
+              "addressType": "Avenida",
+              "cep": "83601390",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Bom Jesus",
+              "latitude": "-25.45413",
+              "longitude": "-49.54142"
+            },
+            {
+              "name": "dos Expedicionários",
+              "addressType": "Rodovia",
+              "cep": "83604360",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Bom Jesus",
+              "latitude": "-25.45851",
+              "longitude": "-49.54954"
+            }
+          ]
+        },
+        {
+          "name": "Botiatuva",
+          "streets": [
+            {
+              "name": "Antônio Boaron",
+              "addressType": "Rua",
+              "cep": "83602200",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Botiatuva",
+              "latitude": "-25.48105",
+              "longitude": "-49.53471"
+            },
+            {
+              "name": "Antônio Gitkoski",
+              "addressType": "Rua",
+              "cep": "83602610",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Botiatuva",
+              "latitude": "-25.48395",
+              "longitude": "-49.53057"
+            },
+            {
+              "name": "Antônio Seguro",
+              "addressType": "Rua",
+              "cep": "83602614",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Botiatuva",
+              "latitude": "-25.47868",
+              "longitude": "-49.53308"
+            },
+            {
+              "name": "Daniel Seguro",
+              "addressType": "Rua",
+              "cep": "83602612",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Botiatuva",
+              "latitude": "-25.51212",
+              "longitude": "-49.52383"
+            },
+            {
+              "name": "Gregório Krul",
+              "addressType": "Rua",
+              "cep": "83602608",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Botiatuva",
+              "latitude": "-25.51212",
+              "longitude": "-49.52383"
+            },
+            {
+              "name": "Emilia Firszt Seguro",
+              "addressType": "Rua",
+              "cep": "83602616",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Botiatuva",
+              "latitude": "-25.46628",
+              "longitude": "-49.54028"
+            },
+            {
+              "name": "Evangelista Erwin Bahr",
+              "addressType": "Rua",
+              "cep": "83602615",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Botiatuva",
+              "latitude": "-25.51212",
+              "longitude": "-49.52383"
+            },
+            {
+              "name": "Apolônia Krul Kaminski",
+              "addressType": "Rua",
+              "cep": "83602601",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Botiatuva",
+              "latitude": "-25.51212",
+              "longitude": "-49.52383"
+            }
+          ]
+        },
+        {
+          "name": "Campo do Meio",
+          "streets": [
+            {
+              "name": "Antônio Fedalto",
+              "addressType": "Rua",
+              "cep": "83604714",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Campo do Meio",
+              "latitude": "-25.46458",
+              "longitude": "-49.55774"
+            },
+            {
+              "name": "Luiz Augustyn",
+              "addressType": "Rua",
+              "cep": "83604718",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Campo do Meio",
+              "latitude": "-25.47165",
+              "longitude": "-49.56869"
+            },
+            {
+              "name": "Ângela Garzaro",
+              "addressType": "Rua",
+              "cep": "83604712",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Campo do Meio",
+              "latitude": "-25.49043",
+              "longitude": "-49.57437"
+            },
+            {
+              "name": "Elízio Marco Fedalto",
+              "addressType": "Rua",
+              "cep": "83604716",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Campo do Meio",
+              "latitude": "-25.44645",
+              "longitude": "-49.5187"
+            },
+            {
+              "name": "São Miguel",
+              "addressType": "Travessa",
+              "cep": "83604704",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Campo do Meio",
+              "latitude": "-25.48416",
+              "longitude": "-49.5765"
+            },
+            {
+              "name": "Pedro Skrzipietz",
+              "addressType": "Rua",
+              "cep": "83604720",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Campo do Meio",
+              "latitude": "-25.48073",
+              "longitude": "-49.56882"
+            },
+            {
+              "name": "São Gabriel",
+              "addressType": "Travessa",
+              "cep": "83604706",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Campo do Meio",
+              "latitude": "-25.48416",
+              "longitude": "-49.5765"
+            },
+            {
+              "name": "José Antônio Schepiura",
+              "addressType": "Rua",
+              "cep": "83604723",
+              "state": "Paraná",
+              "city": "Campo Largo",
+              "district": "Campo do Meio",
+              "latitude": "-25.47831",
+              "longitude": "-49.57568"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

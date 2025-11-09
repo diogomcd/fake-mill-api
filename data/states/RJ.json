@@ -1,0 +1,1361 @@
+{
+  "code": "RJ",
+  "name": "Rio de Janeiro",
+  "capital": "Rio de Janeiro",
+  "ddd": "22",
+  "regiao": "Sudeste",
+  "cities": [
+    {
+      "name": "Angra dos Reis",
+      "ibgeCode": "3300100",
+      "ddd": "24",
+      "districts": [
+        {
+          "name": "Aeroporto",
+          "streets": [
+            {
+              "name": "Oito",
+              "addressType": "Rua",
+              "cep": "23934640",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Aeroporto",
+              "latitude": "-22.9013",
+              "longitude": "-44.28647"
+            },
+            {
+              "name": "Barra do Piraí",
+              "addressType": "Rua",
+              "cep": "23934515",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Aeroporto",
+              "latitude": "-22.96991",
+              "longitude": "-44.30254"
+            },
+            {
+              "name": "Cardoso Moreira",
+              "addressType": "Rua",
+              "cep": "23934655",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Aeroporto",
+              "latitude": "-22.98061",
+              "longitude": "-44.30711"
+            },
+            {
+              "name": "Magé",
+              "addressType": "Travessa",
+              "cep": "23934595",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Aeroporto",
+              "latitude": "-22.98178",
+              "longitude": "-44.30401"
+            },
+            {
+              "name": "Beira Mar",
+              "addressType": "Rua",
+              "cep": "23934685",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Aeroporto",
+              "latitude": "-22.97959",
+              "longitude": "-44.30878"
+            },
+            {
+              "name": "Rio das Ostras",
+              "addressType": "Rua",
+              "cep": "23934650",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Aeroporto",
+              "latitude": "-22.98015",
+              "longitude": "-44.30703"
+            },
+            {
+              "name": "São Fidélis",
+              "addressType": "Rua",
+              "cep": "23934510",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Aeroporto",
+              "latitude": "-22.96896",
+              "longitude": "-44.3021"
+            },
+            {
+              "name": "Itaboraí",
+              "addressType": "Travessa",
+              "cep": "23934630",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Aeroporto",
+              "latitude": "-22.97129",
+              "longitude": "-44.30424"
+            }
+          ]
+        },
+        {
+          "name": "Areal",
+          "streets": [
+            {
+              "name": "da União",
+              "addressType": "Rua",
+              "cep": "23932060",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Areal",
+              "latitude": "-22.97963",
+              "longitude": "-44.29449"
+            },
+            {
+              "name": "Caixa DÁgua",
+              "addressType": "Rua",
+              "cep": "23932090",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Areal",
+              "latitude": "-22.98102",
+              "longitude": "-44.29038"
+            },
+            {
+              "name": "da Vitória",
+              "addressType": "Rua",
+              "cep": "23932110",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Areal",
+              "latitude": "-22.98117",
+              "longitude": "-44.291"
+            },
+            {
+              "name": "Aparecida Helena Ribeiro da Silva",
+              "addressType": "Rua",
+              "cep": "23932170",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Areal",
+              "latitude": "-23.00374",
+              "longitude": "-44.31486"
+            },
+            {
+              "name": "Angra dos Reis",
+              "addressType": "Rua",
+              "cep": "23932030",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Areal",
+              "latitude": "-22.98146",
+              "longitude": "-44.29343"
+            },
+            {
+              "name": "Francelino Alves de Lima",
+              "addressType": "Rua",
+              "cep": "23932005",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Areal",
+              "latitude": "-22.96465",
+              "longitude": "-44.2989"
+            },
+            {
+              "name": "Dois de Novembro",
+              "addressType": "Rua",
+              "cep": "23932080",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Areal",
+              "latitude": "-22.97817",
+              "longitude": "-44.29359"
+            },
+            {
+              "name": "do Sossego",
+              "addressType": "Rua",
+              "cep": "23932135",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Areal",
+              "latitude": "-23.00911",
+              "longitude": "-44.21695"
+            }
+          ]
+        },
+        {
+          "name": "Ariró",
+          "streets": [
+            {
+              "name": "da Paz",
+              "addressType": "Travessa",
+              "cep": "23941034",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Ariró",
+              "latitude": "-23.01166",
+              "longitude": "-44.53396"
+            },
+            {
+              "name": "Boa Esperança",
+              "addressType": "Travessa",
+              "cep": "23941032",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Ariró",
+              "latitude": "-22.9884",
+              "longitude": "-44.23406"
+            },
+            {
+              "name": "Floresta",
+              "addressType": "Rua",
+              "cep": "23941010",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Ariró",
+              "latitude": "-23.01117",
+              "longitude": "-44.53161"
+            },
+            {
+              "name": "Procurador Haroldo Fernandes Duarte",
+              "addressType": "Rodovia",
+              "cep": "23941000",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Ariró",
+              "latitude": "-22.9868",
+              "longitude": "-44.29956"
+            },
+            {
+              "name": "Luiz Gerônimo da Cruz",
+              "addressType": "Travessa",
+              "cep": "23941036",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Ariró",
+              "latitude": "-22.95807",
+              "longitude": "-44.32799"
+            },
+            {
+              "name": "do Cristo Libertador",
+              "addressType": "Largo",
+              "cep": "23941038",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Ariró",
+              "latitude": "-23.00453",
+              "longitude": "-44.31115"
+            },
+            {
+              "name": "Francisco Gerônimo",
+              "addressType": "Rua",
+              "cep": "23941030",
+              "state": "Rio de Janeiro",
+              "city": "Angra dos Reis",
+              "district": "Ariró",
+              "latitude": "-22.97089",
+              "longitude": "-44.30457"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Araruama",
+      "ibgeCode": "3300209",
+      "ddd": "22",
+      "districts": [
+        {
+          "name": "Alto da Boa Vista",
+          "streets": [
+            {
+              "name": "Dona Frutuosa",
+              "addressType": "Rua",
+              "cep": "28979335",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Alto da Boa Vista",
+              "latitude": "-22.87798",
+              "longitude": "-42.3435"
+            },
+            {
+              "name": "Jorge Damião",
+              "addressType": "Rua",
+              "cep": "28979326",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Alto da Boa Vista",
+              "latitude": "-22.87624",
+              "longitude": "-42.342"
+            },
+            {
+              "name": "Dona Frutuosa",
+              "addressType": "Travessa",
+              "cep": "28979338",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Alto da Boa Vista",
+              "latitude": "-22.87688",
+              "longitude": "-42.34362"
+            },
+            {
+              "name": "São Pedro da Aldeia",
+              "addressType": "Rua",
+              "cep": "28979341",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Alto da Boa Vista",
+              "latitude": "-22.87695",
+              "longitude": "-42.34226"
+            },
+            {
+              "name": "Talita B Nolasco",
+              "addressType": "Rua",
+              "cep": "28979332",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Alto da Boa Vista",
+              "latitude": "-22.87615",
+              "longitude": "-42.34271"
+            },
+            {
+              "name": "São Sebastião",
+              "addressType": "Rua",
+              "cep": "28979347",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Alto da Boa Vista",
+              "latitude": "-22.8771",
+              "longitude": "-42.34168"
+            },
+            {
+              "name": "Vereador Francisco Campos",
+              "addressType": "Rua",
+              "cep": "28979344",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Alto da Boa Vista",
+              "latitude": "-22.87848",
+              "longitude": "-42.34239"
+            },
+            {
+              "name": "Pastor Benedito Borges",
+              "addressType": "Rua",
+              "cep": "28979329",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Alto da Boa Vista",
+              "latitude": "-22.87566",
+              "longitude": "-42.34312"
+            }
+          ]
+        },
+        {
+          "name": "Areal",
+          "streets": [
+            {
+              "name": "Felipe Camarão",
+              "addressType": "Rua",
+              "cep": "28976276",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Areal",
+              "latitude": "-22.89321",
+              "longitude": "-42.35728"
+            },
+            {
+              "name": "Andradas",
+              "addressType": "Rua",
+              "cep": "28976126",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Areal",
+              "latitude": "-22.89705",
+              "longitude": "-42.35358"
+            },
+            {
+              "name": "Fonseca",
+              "addressType": "Rua",
+              "cep": "28976024",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Areal",
+              "latitude": "-22.90169",
+              "longitude": "-42.35403"
+            },
+            {
+              "name": "Camerino",
+              "addressType": "Rua",
+              "cep": "28976090",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Areal",
+              "latitude": "-22.89588",
+              "longitude": "-42.35243"
+            },
+            {
+              "name": "Meriti",
+              "addressType": "Rua",
+              "cep": "28976354",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Areal",
+              "latitude": "-22.89577",
+              "longitude": "-42.35941"
+            },
+            {
+              "name": "Rosa dos Ventos",
+              "addressType": "Rua",
+              "cep": "28976186",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Areal",
+              "latitude": "-22.8976",
+              "longitude": "-42.3582"
+            },
+            {
+              "name": "Egípcio",
+              "addressType": "Rua",
+              "cep": "28976492",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Areal",
+              "latitude": "-22.89653",
+              "longitude": "-42.36075"
+            },
+            {
+              "name": "dos Cravos",
+              "addressType": "Rua",
+              "cep": "28976384",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Areal",
+              "latitude": "-22.89071",
+              "longitude": "-42.36011"
+            }
+          ]
+        },
+        {
+          "name": "Atlântico",
+          "streets": [
+            {
+              "name": "das Casuarinas",
+              "addressType": "Avenida",
+              "cep": "28972672",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Atlântico",
+              "latitude": "-22.93594",
+              "longitude": "-42.29942"
+            },
+            {
+              "name": "Itapuã",
+              "addressType": "Rua",
+              "cep": "28972666",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Atlântico",
+              "latitude": "-22.86677",
+              "longitude": "-42.28978"
+            },
+            {
+              "name": "Arari",
+              "addressType": "Rua",
+              "cep": "28972630",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Atlântico",
+              "latitude": "-22.93594",
+              "longitude": "-42.29942"
+            },
+            {
+              "name": "Nossa Senhora do Carmo",
+              "addressType": "Avenida",
+              "cep": "28972621",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Atlântico",
+              "latitude": "-22.93535",
+              "longitude": "-42.29608"
+            },
+            {
+              "name": "Atlânitca",
+              "addressType": "Avenida",
+              "cep": "28972636",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Atlântico",
+              "latitude": "-22.93594",
+              "longitude": "-42.29942"
+            },
+            {
+              "name": "Bacuri",
+              "addressType": "Rua",
+              "cep": "28972645",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Atlântico",
+              "latitude": "-22.93511",
+              "longitude": "-42.30243"
+            },
+            {
+              "name": "Iracema",
+              "addressType": "Rua",
+              "cep": "28972660",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Atlântico",
+              "latitude": "-22.93517",
+              "longitude": "-42.30455"
+            },
+            {
+              "name": "Matinhos",
+              "addressType": "Rua",
+              "cep": "28972651",
+              "state": "Rio de Janeiro",
+              "city": "Araruama",
+              "district": "Atlântico",
+              "latitude": "-22.93594",
+              "longitude": "-42.29942"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Armação dos Búzios",
+      "ibgeCode": "3300233",
+      "ddd": "22",
+      "districts": [
+        {
+          "name": "Albatroz",
+          "streets": [
+            {
+              "name": "Anchova",
+              "addressType": "Rua",
+              "cep": "28952760",
+              "state": "Rio de Janeiro",
+              "city": "Armação dos Búzios",
+              "district": "Albatroz",
+              "latitude": "-22.77719",
+              "longitude": "-41.89862"
+            },
+            {
+              "name": "Antônio Antunes Fernandes",
+              "addressType": "Rua",
+              "cep": "28952880",
+              "state": "Rio de Janeiro",
+              "city": "Armação dos Búzios",
+              "district": "Albatroz",
+              "latitude": "-22.7502",
+              "longitude": "-41.88097"
+            },
+            {
+              "name": "Berto Lino Rodrigues",
+              "addressType": "Rua",
+              "cep": "28952670",
+              "state": "Rio de Janeiro",
+              "city": "Armação dos Búzios",
+              "district": "Albatroz",
+              "latitude": "-22.77719",
+              "longitude": "-41.89862"
+            },
+            {
+              "name": "Medusa",
+              "addressType": "Rua",
+              "cep": "28952860",
+              "state": "Rio de Janeiro",
+              "city": "Armação dos Búzios",
+              "district": "Albatroz",
+              "latitude": "-22.77719",
+              "longitude": "-41.89862"
+            },
+            {
+              "name": "Papoulas",
+              "addressType": "Rua",
+              "cep": "28952650",
+              "state": "Rio de Janeiro",
+              "city": "Armação dos Búzios",
+              "district": "Albatroz",
+              "latitude": "-22.77208",
+              "longitude": "-41.89871"
+            },
+            {
+              "name": "Canto Esquerdo de Geribá",
+              "addressType": "Rua",
+              "cep": "28952660",
+              "state": "Rio de Janeiro",
+              "city": "Armação dos Búzios",
+              "district": "Albatroz",
+              "latitude": "-22.75554",
+              "longitude": "-41.89103"
+            },
+            {
+              "name": "Alcatraz",
+              "addressType": "Rua",
+              "cep": "28952730",
+              "state": "Rio de Janeiro",
+              "city": "Armação dos Búzios",
+              "district": "Albatroz",
+              "latitude": "-22.77719",
+              "longitude": "-41.89862"
+            },
+            {
+              "name": "Marco Cândido",
+              "addressType": "Rua",
+              "cep": "28952620",
+              "state": "Rio de Janeiro",
+              "city": "Armação dos Búzios",
+              "district": "Albatroz",
+              "latitude": "-22.77719",
+              "longitude": "-41.89862"
+            }
+          ]
+        },
+        {
+          "name": "Alto da Marina",
+          "streets": [
+            {
+              "name": "Louro Amarelo",
+              "addressType": "Rua",
+              "cep": "28958010",
+              "state": "Rio de Janeiro",
+              "city": "Armação dos Búzios",
+              "district": "Alto da Marina",
+              "latitude": "-22.75019",
+              "longitude": "-41.95063"
+            },
+            {
+              "name": "José Bento Ribeiro Dantas",
+              "addressType": "Avenida",
+              "cep": "28958050",
+              "state": "Rio de Janeiro",
+              "city": "Armação dos Búzios",
+              "district": "Alto da Marina",
+              "latitude": "-22.74865",
+              "longitude": "-41.88143"
+            },
+            {
+              "name": "Jabuticabeiras",
+              "addressType": "Rua",
+              "cep": "28957890",
+              "state": "Rio de Janeiro",
+              "city": "Armação dos Búzios",
+              "district": "Alto da Marina",
+              "latitude": "-22.75245",
+              "longitude": "-41.9483"
+            },
+            {
+              "name": "Atalaia",
+              "addressType": "Rua",
+              "cep": "28958030",
+              "state": "Rio de Janeiro",
+              "city": "Armação dos Búzios",
+              "district": "Alto da Marina",
+              "latitude": "-22.75019",
+              "longitude": "-41.95063"
+            }
+          ]
+        },
+        {
+          "name": "Alto de Búzios",
+          "streets": [
+            {
+              "name": "Alto de Búzios",
+              "addressType": "Rua",
+              "cep": "28952380",
+              "state": "Rio de Janeiro",
+              "city": "Armação dos Búzios",
+              "district": "Alto de Búzios",
+              "latitude": "-22.76555",
+              "longitude": "-41.89955"
+            },
+            {
+              "name": "Canela do Campo",
+              "addressType": "Rua",
+              "cep": "28952340",
+              "state": "Rio de Janeiro",
+              "city": "Armação dos Búzios",
+              "district": "Alto de Búzios",
+              "latitude": "-22.76748",
+              "longitude": "-41.89713"
+            },
+            {
+              "name": "Bugaloo",
+              "addressType": "Rua",
+              "cep": "28952180",
+              "state": "Rio de Janeiro",
+              "city": "Armação dos Búzios",
+              "district": "Alto de Búzios",
+              "latitude": "-22.76691",
+              "longitude": "-41.89559"
+            },
+            {
+              "name": "Canela Branca",
+              "addressType": "Travessa",
+              "cep": "28952400",
+              "state": "Rio de Janeiro",
+              "city": "Armação dos Búzios",
+              "district": "Alto de Búzios",
+              "latitude": "-22.77066",
+              "longitude": "-41.89977"
+            },
+            {
+              "name": "das Conchas",
+              "addressType": "Rua",
+              "cep": "28952220",
+              "state": "Rio de Janeiro",
+              "city": "Armação dos Búzios",
+              "district": "Alto de Búzios",
+              "latitude": "-22.76858",
+              "longitude": "-41.9004"
+            },
+            {
+              "name": "José Bento Ribeiro Dantas",
+              "addressType": "Avenida",
+              "cep": "28952160",
+              "state": "Rio de Janeiro",
+              "city": "Armação dos Búzios",
+              "district": "Alto de Búzios",
+              "latitude": "-22.76703",
+              "longitude": "-41.93463"
+            },
+            {
+              "name": "Doris Homamm",
+              "addressType": "Travessa",
+              "cep": "28952460",
+              "state": "Rio de Janeiro",
+              "city": "Armação dos Búzios",
+              "district": "Alto de Búzios",
+              "latitude": "-22.77066",
+              "longitude": "-41.89977"
+            },
+            {
+              "name": "Élson da Assunção Gonçalves",
+              "addressType": "Rua",
+              "cep": "28952360",
+              "state": "Rio de Janeiro",
+              "city": "Armação dos Búzios",
+              "district": "Alto de Búzios",
+              "latitude": "-22.76754",
+              "longitude": "-41.89745"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Barra Mansa",
+      "ibgeCode": "3300407",
+      "ddd": "24",
+      "districts": [
+        {
+          "name": "9 de Abril",
+          "streets": [
+            {
+              "name": "Álvaro Rego Millen, 175",
+              "addressType": "Rua",
+              "cep": "27335970",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "9 de Abril",
+              "latitude": "-22.54346",
+              "longitude": "-44.11317"
+            },
+            {
+              "name": "José Barbosa Neto",
+              "addressType": "Rua",
+              "cep": "27335240",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "9 de Abril",
+              "latitude": "-22.54298",
+              "longitude": "-44.11539"
+            },
+            {
+              "name": "Vitoriano Rodrigues",
+              "addressType": "Rua",
+              "cep": "27335220",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "9 de Abril",
+              "latitude": "-22.54462",
+              "longitude": "-44.11475"
+            },
+            {
+              "name": "Jair Alves Santos",
+              "addressType": "Rua",
+              "cep": "27332060",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "9 de Abril",
+              "latitude": "-22.5452",
+              "longitude": "-44.11462"
+            },
+            {
+              "name": "Jair Alves Santos",
+              "addressType": "Rua",
+              "cep": "27335410",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "9 de Abril",
+              "latitude": "-22.54626",
+              "longitude": "-44.11512"
+            },
+            {
+              "name": "Jandir Luis Da Rocha",
+              "addressType": "Rua",
+              "cep": "27331720",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "9 de Abril",
+              "latitude": "-22.54399",
+              "longitude": "-44.11414"
+            },
+            {
+              "name": "Elis Gerhart",
+              "addressType": "Rua",
+              "cep": "27335230",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "9 de Abril",
+              "latitude": "-22.54372",
+              "longitude": "-44.11485"
+            },
+            {
+              "name": "Álvaro Rego Millen",
+              "addressType": "Rua",
+              "cep": "27335350",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "9 de Abril",
+              "latitude": "-22.54346",
+              "longitude": "-44.11317"
+            }
+          ]
+        },
+        {
+          "name": "Abelhas",
+          "streets": [
+            {
+              "name": "Alexandre Modesto",
+              "addressType": "Rua",
+              "cep": "27343390",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "Abelhas",
+              "latitude": "-22.55303",
+              "longitude": "-44.17508"
+            },
+            {
+              "name": "Gonçalo Veríssimo de Souza",
+              "addressType": "Rua",
+              "cep": "27343140",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "Abelhas",
+              "latitude": "-22.55333",
+              "longitude": "-44.17431"
+            },
+            {
+              "name": "Goncalo Verissimo De Souza",
+              "addressType": "Rua",
+              "cep": "27336441",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "Abelhas",
+              "latitude": "-22.55333",
+              "longitude": "-44.17431"
+            },
+            {
+              "name": "Coutinho",
+              "addressType": "Avenida",
+              "cep": "27335441",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "Abelhas",
+              "latitude": "-22.55346",
+              "longitude": "-44.17426"
+            },
+            {
+              "name": "Atanalpa Oliveira Martins",
+              "addressType": "Alameda",
+              "cep": "27343270",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "Abelhas",
+              "latitude": "-22.55174",
+              "longitude": "-44.17404"
+            },
+            {
+              "name": "Adelina da Conceição",
+              "addressType": "Rua",
+              "cep": "27347340",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "Abelhas",
+              "latitude": "-22.55516",
+              "longitude": "-44.17582"
+            },
+            {
+              "name": "Coutinho",
+              "addressType": "Avenida",
+              "cep": "27343280",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "Abelhas",
+              "latitude": "-22.55346",
+              "longitude": "-44.17426"
+            },
+            {
+              "name": "José Alves Caldeira",
+              "addressType": "Rua",
+              "cep": "27343401",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "Abelhas",
+              "latitude": "-22.56075",
+              "longitude": "-44.17644"
+            }
+          ]
+        },
+        {
+          "name": "Ano Bom",
+          "streets": [
+            {
+              "name": "Sargento Plauska",
+              "addressType": "Rua",
+              "cep": "27323405",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "Ano Bom",
+              "latitude": "-22.539",
+              "longitude": "-44.16572"
+            },
+            {
+              "name": "Abdo Felipe",
+              "addressType": "Rua",
+              "cep": "27323000",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "Ano Bom",
+              "latitude": "-22.53944",
+              "longitude": "-44.16991"
+            },
+            {
+              "name": "Nelson Barbosa Chafim",
+              "addressType": "Praça",
+              "cep": "27323015",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "Ano Bom",
+              "latitude": "-22.53742",
+              "longitude": "-44.16497"
+            },
+            {
+              "name": "Dois Irmaos",
+              "addressType": "Travessa",
+              "cep": "27325090",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "Ano Bom",
+              "latitude": "-22.5353",
+              "longitude": "-44.21565"
+            },
+            {
+              "name": "Cabo Cesario",
+              "addressType": "Rua",
+              "cep": "27325333",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "Ano Bom",
+              "latitude": "-22.53752",
+              "longitude": "-44.16029"
+            },
+            {
+              "name": "Rotary Club",
+              "addressType": "Rua",
+              "cep": "27323290",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "Ano Bom",
+              "latitude": "-22.53794",
+              "longitude": "-44.16975"
+            },
+            {
+              "name": "Antônio Carlos de Oliveira",
+              "addressType": "Rua",
+              "cep": "27323280",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "Ano Bom",
+              "latitude": "-22.53712",
+              "longitude": "-44.17265"
+            },
+            {
+              "name": "Presidente Kennedy",
+              "addressType": "Praça",
+              "cep": "27325190",
+              "state": "Rio de Janeiro",
+              "city": "Barra Mansa",
+              "district": "Ano Bom",
+              "latitude": "-22.54329",
+              "longitude": "-44.16542"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Barra do Piraí",
+      "ibgeCode": "3300308",
+      "ddd": "24",
+      "districts": [
+        {
+          "name": "Areal",
+          "streets": [
+            {
+              "name": "Silvério Augusto Rosa",
+              "addressType": "Travessa",
+              "cep": "27150600",
+              "state": "Rio de Janeiro",
+              "city": "Barra do Piraí",
+              "district": "Areal",
+              "latitude": "-22.49602",
+              "longitude": "-43.8322"
+            },
+            {
+              "name": "Sargento Francisco Manoel Antônio",
+              "addressType": "Rua",
+              "cep": "27150180",
+              "state": "Rio de Janeiro",
+              "city": "Barra do Piraí",
+              "district": "Areal",
+              "latitude": "-22.48831",
+              "longitude": "-43.83269"
+            },
+            {
+              "name": "Janynier Groetaers Pegas",
+              "addressType": "Rua",
+              "cep": "27150120",
+              "state": "Rio de Janeiro",
+              "city": "Barra do Piraí",
+              "district": "Areal",
+              "latitude": "-22.49582",
+              "longitude": "-43.83015"
+            },
+            {
+              "name": "Antônio Pinto",
+              "addressType": "Travessa",
+              "cep": "27150070",
+              "state": "Rio de Janeiro",
+              "city": "Barra do Piraí",
+              "district": "Areal",
+              "latitude": "-22.49474",
+              "longitude": "-43.82878"
+            },
+            {
+              "name": "Heitor Lópes",
+              "addressType": "Rua",
+              "cep": "27150040",
+              "state": "Rio de Janeiro",
+              "city": "Barra do Piraí",
+              "district": "Areal",
+              "latitude": "-22.49336",
+              "longitude": "-43.83249"
+            },
+            {
+              "name": "Pedro José de Oliveira",
+              "addressType": "Rua",
+              "cep": "27150192",
+              "state": "Rio de Janeiro",
+              "city": "Barra do Piraí",
+              "district": "Areal",
+              "latitude": "-22.48986",
+              "longitude": "-43.81902"
+            },
+            {
+              "name": "Antônio Alvarenga",
+              "addressType": "Rua",
+              "cep": "27150140",
+              "state": "Rio de Janeiro",
+              "city": "Barra do Piraí",
+              "district": "Areal",
+              "latitude": "-22.4869",
+              "longitude": "-43.8324"
+            },
+            {
+              "name": "Teresópolis",
+              "addressType": "Rua",
+              "cep": "27150090",
+              "state": "Rio de Janeiro",
+              "city": "Barra do Piraí",
+              "district": "Areal",
+              "latitude": "-22.49595",
+              "longitude": "-43.833"
+            }
+          ]
+        },
+        {
+          "name": "Arthur Cataldi",
+          "streets": [
+            {
+              "name": "Florentina Edwirges de Almeida",
+              "addressType": "Rua",
+              "cep": "27115470",
+              "state": "Rio de Janeiro",
+              "city": "Barra do Piraí",
+              "district": "Arthur Cataldi",
+              "latitude": "-22.4477",
+              "longitude": "-43.80166"
+            },
+            {
+              "name": "Angelino de Oliveira",
+              "addressType": "Rua",
+              "cep": "27115130",
+              "state": "Rio de Janeiro",
+              "city": "Barra do Piraí",
+              "district": "Arthur Cataldi",
+              "latitude": "-22.50898",
+              "longitude": "-43.80997"
+            },
+            {
+              "name": "Carlos Heleno",
+              "addressType": "Praça",
+              "cep": "27115070",
+              "state": "Rio de Janeiro",
+              "city": "Barra do Piraí",
+              "district": "Arthur Cataldi",
+              "latitude": "-22.44857",
+              "longitude": "-43.79869"
+            },
+            {
+              "name": "Lúcio Meira",
+              "addressType": "Rodovia",
+              "cep": "27115190",
+              "state": "Rio de Janeiro",
+              "city": "Barra do Piraí",
+              "district": "Arthur Cataldi",
+              "latitude": "-22.44708",
+              "longitude": "-43.79499"
+            },
+            {
+              "name": "Jayme Guimarães Arruda",
+              "addressType": "Rua",
+              "cep": "27115520",
+              "state": "Rio de Janeiro",
+              "city": "Barra do Piraí",
+              "district": "Arthur Cataldi",
+              "latitude": "-22.44832",
+              "longitude": "-43.8025"
+            },
+            {
+              "name": "Maria Beatriz Cataldi Franca",
+              "addressType": "Rua",
+              "cep": "27115510",
+              "state": "Rio de Janeiro",
+              "city": "Barra do Piraí",
+              "district": "Arthur Cataldi",
+              "latitude": "-22.48367",
+              "longitude": "-44.04729"
+            },
+            {
+              "name": "Jornalista João Bosco Sene Silveira",
+              "addressType": "Rua",
+              "cep": "27115205",
+              "state": "Rio de Janeiro",
+              "city": "Barra do Piraí",
+              "district": "Arthur Cataldi",
+              "latitude": "-22.47571",
+              "longitude": "-43.82644"
+            },
+            {
+              "name": "Fazenda Ribeirão de Ubá",
+              "addressType": "Estrada",
+              "cep": "27115175",
+              "state": "Rio de Janeiro",
+              "city": "Barra do Piraí",
+              "district": "Arthur Cataldi",
+              "latitude": "-22.50148",
+              "longitude": "-43.93168"
+            }
+          ]
+        },
+        {
+          "name": "Belvedere",
+          "streets": [
+            {
+              "name": "De Ipiabas",
+              "addressType": "Estrada",
+              "cep": "27113361",
+              "state": "Rio de Janeiro",
+              "city": "Barra do Piraí",
+              "district": "Belvedere",
+              "latitude": "-22.38034",
+              "longitude": "-43.88299"
+            },
+            {
+              "name": "Mario Salgueiro",
+              "addressType": "Travessa",
+              "cep": "27113076",
+              "state": "Rio de Janeiro",
+              "city": "Barra do Piraí",
+              "district": "Belvedere",
+              "latitude": "-22.45803",
+              "longitude": "-43.84021"
+            },
+            {
+              "name": "Manuel Ferraz Bueno",
+              "addressType": "Travessa",
+              "cep": "27113235",
+              "state": "Rio de Janeiro",
+              "city": "Barra do Piraí",
+              "district": "Belvedere",
+              "latitude": "-22.46134",
+              "longitude": "-43.84034"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Belford Roxo",
+      "ibgeCode": "3300456",
+      "ddd": "21",
+      "districts": [
+        {
+          "name": "Amélia",
+          "streets": [
+            {
+              "name": "Monte Alegre",
+              "addressType": "Rua",
+              "cep": "26135610",
+              "state": "Rio de Janeiro",
+              "city": "Belford Roxo",
+              "district": "Amélia",
+              "latitude": "-22.74407",
+              "longitude": "-43.38883"
+            },
+            {
+              "name": "Odete",
+              "addressType": "Rua",
+              "cep": "26125001",
+              "state": "Rio de Janeiro",
+              "city": "Belford Roxo",
+              "district": "Amélia",
+              "latitude": "-22.75443",
+              "longitude": "-43.34229"
+            }
+          ]
+        },
+        {
+          "name": "Andrade Araujo",
+          "streets": [
+            {
+              "name": "Elcídio Francelino dos Santos",
+              "addressType": "Rua",
+              "cep": "26135370",
+              "state": "Rio de Janeiro",
+              "city": "Belford Roxo",
+              "district": "Andrade Araujo",
+              "latitude": "-22.74952",
+              "longitude": "-43.41945"
+            },
+            {
+              "name": "Hermínia",
+              "addressType": "Rua",
+              "cep": "26135530",
+              "state": "Rio de Janeiro",
+              "city": "Belford Roxo",
+              "district": "Andrade Araujo",
+              "latitude": "-22.74365",
+              "longitude": "-43.42396"
+            },
+            {
+              "name": "Zamenhof",
+              "addressType": "Rua",
+              "cep": "26135490",
+              "state": "Rio de Janeiro",
+              "city": "Belford Roxo",
+              "district": "Andrade Araujo",
+              "latitude": "-22.74554",
+              "longitude": "-43.42367"
+            },
+            {
+              "name": "Diamantina",
+              "addressType": "Rua",
+              "cep": "26135540",
+              "state": "Rio de Janeiro",
+              "city": "Belford Roxo",
+              "district": "Andrade Araujo",
+              "latitude": "-22.74495",
+              "longitude": "-43.42229"
+            },
+            {
+              "name": "Cinco",
+              "addressType": "Rua",
+              "cep": "26140554",
+              "state": "Rio de Janeiro",
+              "city": "Belford Roxo",
+              "district": "Andrade Araujo",
+              "latitude": "-22.73394",
+              "longitude": "-43.42842"
+            },
+            {
+              "name": "Jaciara",
+              "addressType": "Rua",
+              "cep": "26135645",
+              "state": "Rio de Janeiro",
+              "city": "Belford Roxo",
+              "district": "Andrade Araujo",
+              "latitude": "-22.74238",
+              "longitude": "-43.42033"
+            },
+            {
+              "name": "Moreira da Silva",
+              "addressType": "Rua",
+              "cep": "26135450",
+              "state": "Rio de Janeiro",
+              "city": "Belford Roxo",
+              "district": "Andrade Araujo",
+              "latitude": "-22.74722",
+              "longitude": "-43.41921"
+            },
+            {
+              "name": "Dona Maria",
+              "addressType": "Rua",
+              "cep": "26130692",
+              "state": "Rio de Janeiro",
+              "city": "Belford Roxo",
+              "district": "Andrade Araujo",
+              "latitude": "-22.7407",
+              "longitude": "-43.42357"
+            }
+          ]
+        },
+        {
+          "name": "Arco-Iris",
+          "streets": [
+            {
+              "name": "da Henriqueta",
+              "addressType": "Rua",
+              "cep": "26145365",
+              "state": "Rio de Janeiro",
+              "city": "Belford Roxo",
+              "district": "Arco-Iris",
+              "latitude": "-22.75095",
+              "longitude": "-43.35016"
+            },
+            {
+              "name": "Dona Albertina da Silva",
+              "addressType": "Rua",
+              "cep": "26145340",
+              "state": "Rio de Janeiro",
+              "city": "Belford Roxo",
+              "district": "Arco-Iris",
+              "latitude": "-22.72314",
+              "longitude": "-43.33026"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

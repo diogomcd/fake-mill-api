@@ -1,0 +1,1249 @@
+{
+  "code": "RO",
+  "name": "Rondônia",
+  "capital": "Porto Velho",
+  "ddd": "69",
+  "regiao": "Norte",
+  "cities": [
+    {
+      "name": "Ariquemes",
+      "ibgeCode": "1100023",
+      "ddd": "69",
+      "districts": [
+        {
+          "name": "Apoio BR-364",
+          "streets": [
+            {
+              "name": "BR-364",
+              "addressType": "Rodovia",
+              "cep": "76870202",
+              "state": "Rondônia",
+              "city": "Ariquemes",
+              "district": "Apoio BR-364",
+              "latitude": "-9.90478",
+              "longitude": "-63.05612"
+            },
+            {
+              "name": "BR-364",
+              "addressType": "Rodovia",
+              "cep": "76870192",
+              "state": "Rondônia",
+              "city": "Ariquemes",
+              "district": "Apoio BR-364",
+              "latitude": "-9.90463",
+              "longitude": "-63.0554"
+            },
+            {
+              "name": "Massangana",
+              "addressType": "Avenida",
+              "cep": "76870209",
+              "state": "Rondônia",
+              "city": "Ariquemes",
+              "district": "Apoio BR-364",
+              "latitude": "-9.91049",
+              "longitude": "-63.05477"
+            },
+            {
+              "name": "BR-364",
+              "addressType": "Rodovia",
+              "cep": "76870198",
+              "state": "Rondônia",
+              "city": "Ariquemes",
+              "district": "Apoio BR-364",
+              "latitude": "-9.90463",
+              "longitude": "-63.0554"
+            },
+            {
+              "name": "Massangana",
+              "addressType": "Avenida",
+              "cep": "76870201",
+              "state": "Rondônia",
+              "city": "Ariquemes",
+              "district": "Apoio BR-364",
+              "latitude": "-9.91049",
+              "longitude": "-63.05477"
+            },
+            {
+              "name": "Massangana",
+              "addressType": "Avenida",
+              "cep": "76870207",
+              "state": "Rondônia",
+              "city": "Ariquemes",
+              "district": "Apoio BR-364",
+              "latitude": "-9.91049",
+              "longitude": "-63.05477"
+            },
+            {
+              "name": "Massangana",
+              "addressType": "Avenida",
+              "cep": "76870193",
+              "state": "Rondônia",
+              "city": "Ariquemes",
+              "district": "Apoio BR-364",
+              "latitude": "-9.91049",
+              "longitude": "-63.05477"
+            },
+            {
+              "name": "BR-364",
+              "addressType": "Rodovia",
+              "cep": "76870204",
+              "state": "Rondônia",
+              "city": "Ariquemes",
+              "district": "Apoio BR-364",
+              "latitude": "-9.90463",
+              "longitude": "-63.0554"
+            }
+          ]
+        },
+        {
+          "name": "Apoio BR-421",
+          "streets": [
+            {
+              "name": "BR-421",
+              "addressType": "Rodovia",
+              "cep": "76877071",
+              "state": "Rondônia",
+              "city": "Ariquemes",
+              "district": "Apoio BR-421",
+              "latitude": "-9.95441",
+              "longitude": "-63.11094"
+            },
+            {
+              "name": "BR-421",
+              "addressType": "Rodovia",
+              "cep": "76877073",
+              "state": "Rondônia",
+              "city": "Ariquemes",
+              "district": "Apoio BR-421",
+              "latitude": "-9.95441",
+              "longitude": "-63.11094"
+            },
+            {
+              "name": "BR-421",
+              "addressType": "Rodovia",
+              "cep": "76877075",
+              "state": "Rondônia",
+              "city": "Ariquemes",
+              "district": "Apoio BR-421",
+              "latitude": "-9.95441",
+              "longitude": "-63.11094"
+            },
+            {
+              "name": "BR-421",
+              "addressType": "Rodovia",
+              "cep": "76877076",
+              "state": "Rondônia",
+              "city": "Ariquemes",
+              "district": "Apoio BR-421",
+              "latitude": "-9.95441",
+              "longitude": "-63.11094"
+            },
+            {
+              "name": "BR-364",
+              "addressType": "Rodovia",
+              "cep": "76877070",
+              "state": "Rondônia",
+              "city": "Ariquemes",
+              "district": "Apoio BR-421",
+              "latitude": "-9.92583",
+              "longitude": "-63.02956"
+            },
+            {
+              "name": "Ponta Grossa",
+              "addressType": "Rua",
+              "cep": "76877074",
+              "state": "Rondônia",
+              "city": "Ariquemes",
+              "district": "Apoio BR-421",
+              "latitude": "-9.92112",
+              "longitude": "-63.06395"
+            },
+            {
+              "name": "Apucarana",
+              "addressType": "Rua",
+              "cep": "76877072",
+              "state": "Rondônia",
+              "city": "Ariquemes",
+              "district": "Apoio BR-421",
+              "latitude": "-9.92002",
+              "longitude": "-63.06223"
+            }
+          ]
+        },
+        {
+          "name": "Apoio Rodoviário",
+          "streets": [
+            {
+              "name": "Candeias",
+              "addressType": "Avenida",
+              "cep": "76870181",
+              "state": "Rondônia",
+              "city": "Ariquemes",
+              "district": "Apoio Rodoviário",
+              "latitude": "-9.91508",
+              "longitude": "-63.04766"
+            },
+            {
+              "name": "Tucunaré",
+              "addressType": "Rua",
+              "cep": "76870182",
+              "state": "Rondônia",
+              "city": "Ariquemes",
+              "district": "Apoio Rodoviário",
+              "latitude": "-9.91522",
+              "longitude": "-63.04859"
+            },
+            {
+              "name": "Massangana",
+              "addressType": "Avenida",
+              "cep": "76870188",
+              "state": "Rondônia",
+              "city": "Ariquemes",
+              "district": "Apoio Rodoviário",
+              "latitude": "-9.90346",
+              "longitude": "-63.05527"
+            },
+            {
+              "name": "Capitão Sílvio",
+              "addressType": "Avenida",
+              "cep": "76870185",
+              "state": "Rondônia",
+              "city": "Ariquemes",
+              "district": "Apoio Rodoviário",
+              "latitude": "-9.91556",
+              "longitude": "-63.05123"
+            },
+            {
+              "name": "Dourados",
+              "addressType": "Rua",
+              "cep": "76870184",
+              "state": "Rondônia",
+              "city": "Ariquemes",
+              "district": "Apoio Rodoviário",
+              "latitude": "-9.91478",
+              "longitude": "-63.05157"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cacoal",
+      "ibgeCode": "1100049",
+      "ddd": "69",
+      "districts": [
+        {
+          "name": "Alpha Parque",
+          "streets": [
+            {
+              "name": "Pioneiro Antônio Rodrigues Simões",
+              "addressType": "Rua",
+              "cep": "76965386",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Alpha Parque",
+              "latitude": "-11.42615",
+              "longitude": "-61.41768"
+            },
+            {
+              "name": "Pioneiro João José de Freitas",
+              "addressType": "Rua",
+              "cep": "76965400",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Alpha Parque",
+              "latitude": "-11.42704",
+              "longitude": "-61.41861"
+            },
+            {
+              "name": "Pioneiro Reinaldo Herbest Schmidt",
+              "addressType": "Rua",
+              "cep": "76965384",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Alpha Parque",
+              "latitude": "-11.42684",
+              "longitude": "-61.42587"
+            },
+            {
+              "name": "Pioneiro Felisberto Antônio Topan",
+              "addressType": "Rua",
+              "cep": "76965396",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Alpha Parque",
+              "latitude": "-11.4266",
+              "longitude": "-61.42007"
+            },
+            {
+              "name": "Pioneiro Antônio Rodrigues Simões",
+              "addressType": "Rua",
+              "cep": "76965406",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Alpha Parque",
+              "latitude": "-11.42615",
+              "longitude": "-61.41768"
+            },
+            {
+              "name": "Pioneiro Heitor Olsen",
+              "addressType": "Avenida",
+              "cep": "76965392",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Alpha Parque",
+              "latitude": "-11.42645",
+              "longitude": "-61.42229"
+            },
+            {
+              "name": "Pioneiro Antônio Trevizani Filho",
+              "addressType": "Rua",
+              "cep": "76965380",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Alpha Parque",
+              "latitude": "-11.42449",
+              "longitude": "-61.44109"
+            },
+            {
+              "name": "Pioneiro Napoleão Ferreira Vieira",
+              "addressType": "Rua",
+              "cep": "76965394",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Alpha Parque",
+              "latitude": "-11.42413",
+              "longitude": "-61.42081"
+            }
+          ]
+        },
+        {
+          "name": "Alphaville",
+          "streets": [
+            {
+              "name": "Pioneiro Manoel Mendonça",
+              "addressType": "Rua",
+              "cep": "76965466",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Alphaville",
+              "latitude": "-11.4232",
+              "longitude": "-61.42154"
+            },
+            {
+              "name": "Pioneira Ana Clara da Silva Leal",
+              "addressType": "Rua",
+              "cep": "76965460",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Alphaville",
+              "latitude": "-11.42543",
+              "longitude": "-61.42156"
+            },
+            {
+              "name": "Pioneiro Napoleão Ferreira Vieira",
+              "addressType": "Rua",
+              "cep": "76965458",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Alphaville",
+              "latitude": "-11.42413",
+              "longitude": "-61.42081"
+            },
+            {
+              "name": "Pioneiro Luis Baes Athayde Leal",
+              "addressType": "Rua",
+              "cep": "76965462",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Alphaville",
+              "latitude": "-11.42467",
+              "longitude": "-61.42155"
+            },
+            {
+              "name": "Pioneiro Heitor Olsen",
+              "addressType": "Avenida",
+              "cep": "76965472",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Alphaville",
+              "latitude": "-11.42645",
+              "longitude": "-61.42229"
+            },
+            {
+              "name": "Pioneira Maria Ferreira da Silva O Campos",
+              "addressType": "Rua",
+              "cep": "76965468",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Alphaville",
+              "latitude": "-11.42543",
+              "longitude": "-61.42156"
+            },
+            {
+              "name": "Pioneiro Heitor Olsen",
+              "addressType": "Avenida",
+              "cep": "76965473",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Alphaville",
+              "latitude": "-11.42645",
+              "longitude": "-61.42229"
+            },
+            {
+              "name": "Pioneira Isabel Barbosa de Gois",
+              "addressType": "Rua",
+              "cep": "76965464",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Alphaville",
+              "latitude": "-11.42393",
+              "longitude": "-61.42155"
+            }
+          ]
+        },
+        {
+          "name": "Balneário Arco-Íris",
+          "streets": [
+            {
+              "name": "Topázio",
+              "addressType": "Rua",
+              "cep": "76961880",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Balneário Arco-Íris",
+              "latitude": "-11.43061",
+              "longitude": "-61.46639"
+            },
+            {
+              "name": "Esmeralda",
+              "addressType": "Rua",
+              "cep": "76961872",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Balneário Arco-Íris",
+              "latitude": "-11.4291",
+              "longitude": "-61.46463"
+            },
+            {
+              "name": "Pedro Rodrigues",
+              "addressType": "Rua",
+              "cep": "76961848",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Balneário Arco-Íris",
+              "latitude": "-11.43229",
+              "longitude": "-61.46709"
+            },
+            {
+              "name": "Estanho",
+              "addressType": "Travessa",
+              "cep": "76961864",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Balneário Arco-Íris",
+              "latitude": "-11.42933",
+              "longitude": "-61.46682"
+            },
+            {
+              "name": "Ouro",
+              "addressType": "Travessa",
+              "cep": "76961890",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Balneário Arco-Íris",
+              "latitude": "-11.43205",
+              "longitude": "-61.46424"
+            },
+            {
+              "name": "Safira",
+              "addressType": "Rua",
+              "cep": "76961892",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Balneário Arco-Íris",
+              "latitude": "-11.43218",
+              "longitude": "-61.4649"
+            },
+            {
+              "name": "Pedro Rodrigues",
+              "addressType": "Rua",
+              "cep": "76961862",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Balneário Arco-Íris",
+              "latitude": "-11.43239",
+              "longitude": "-61.46703"
+            },
+            {
+              "name": "Malaquita",
+              "addressType": "Avenida",
+              "cep": "76961869",
+              "state": "Rondônia",
+              "city": "Cacoal",
+              "district": "Balneário Arco-Íris",
+              "latitude": "-11.42634",
+              "longitude": "-61.46369"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ji-Paraná",
+      "ibgeCode": "1100122",
+      "ddd": "69",
+      "districts": [
+        {
+          "name": "2 de Abril",
+          "streets": [
+            {
+              "name": "Dezessete",
+              "addressType": "Rua",
+              "cep": "78962170",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "2 de Abril",
+              "latitude": "-10.8839",
+              "longitude": "-61.94635"
+            },
+            {
+              "name": "Treze",
+              "addressType": "Rua",
+              "cep": "78962130",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "2 de Abril",
+              "latitude": "-10.8839",
+              "longitude": "-61.94635"
+            },
+            {
+              "name": "Vinte e Sete",
+              "addressType": "Rua",
+              "cep": "78962475",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "2 de Abril",
+              "latitude": "-11.16917",
+              "longitude": "-61.90726"
+            },
+            {
+              "name": "Marechal Rondon",
+              "addressType": "Avenida",
+              "cep": "78962510",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "2 de Abril",
+              "latitude": "-10.87139",
+              "longitude": "-61.96065"
+            },
+            {
+              "name": "dos Pioneiros",
+              "addressType": "Rua",
+              "cep": "78962520",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "2 de Abril",
+              "latitude": "-10.87242",
+              "longitude": "-61.96098"
+            },
+            {
+              "name": "Engenheiro Manfredo Barata Almeida da Fonseca",
+              "addressType": "Avenida",
+              "cep": "78962470",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "2 de Abril",
+              "latitude": "-10.86372",
+              "longitude": "-61.96173"
+            },
+            {
+              "name": "João dos Santos Filho",
+              "addressType": "Rua",
+              "cep": "78962020",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "2 de Abril",
+              "latitude": "-10.86516",
+              "longitude": "-61.94977"
+            },
+            {
+              "name": "Cinco",
+              "addressType": "Rua",
+              "cep": "78962100",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "2 de Abril",
+              "latitude": "-10.8839",
+              "longitude": "-61.94635"
+            }
+          ]
+        },
+        {
+          "name": "Alto Alegre",
+          "streets": [
+            {
+              "name": "Pastor Paulo Leivas Macalão",
+              "addressType": "Rua",
+              "cep": "76909646",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "Alto Alegre",
+              "latitude": "-10.86878",
+              "longitude": "-61.90848"
+            },
+            {
+              "name": "Manoel Pinheiro Machado",
+              "addressType": "Rua",
+              "cep": "76909622",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "Alto Alegre",
+              "latitude": "-10.87287",
+              "longitude": "-61.90337"
+            },
+            {
+              "name": "Diadema",
+              "addressType": "Rua",
+              "cep": "76909618",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "Alto Alegre",
+              "latitude": "-10.87394",
+              "longitude": "-61.90208"
+            },
+            {
+              "name": "Francisco Pereira dos Santos",
+              "addressType": "Rua",
+              "cep": "76909642",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "Alto Alegre",
+              "latitude": "-10.89228",
+              "longitude": "-61.90216"
+            },
+            {
+              "name": "Américo Cirino",
+              "addressType": "Rua",
+              "cep": "76909644",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "Alto Alegre",
+              "latitude": "-10.8695",
+              "longitude": "-61.90549"
+            },
+            {
+              "name": "Argemiro Luiz Fontoura",
+              "addressType": "Rua",
+              "cep": "76909599",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "Alto Alegre",
+              "latitude": "-10.89493",
+              "longitude": "-61.8995"
+            },
+            {
+              "name": "Jundiaí",
+              "addressType": "Rua",
+              "cep": "76909640",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "Alto Alegre",
+              "latitude": "-10.87064",
+              "longitude": "-61.90535"
+            },
+            {
+              "name": "Bauru",
+              "addressType": "Rua",
+              "cep": "76909610",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "Alto Alegre",
+              "latitude": "-10.87223",
+              "longitude": "-61.90227"
+            }
+          ]
+        },
+        {
+          "name": "Araçá",
+          "streets": [
+            {
+              "name": "Nair Almeida da Silva Teixeira",
+              "addressType": "Rua",
+              "cep": "76906416",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "Araçá",
+              "latitude": "-10.86528",
+              "longitude": "-61.96144"
+            },
+            {
+              "name": "João Dias",
+              "addressType": "Rua",
+              "cep": "76906464",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "Araçá",
+              "latitude": "-10.88567",
+              "longitude": "-61.93722"
+            },
+            {
+              "name": "Padre Ângelo Cerri",
+              "addressType": "Avenida",
+              "cep": "76906418",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "Araçá",
+              "latitude": "-10.87064",
+              "longitude": "-61.95506"
+            },
+            {
+              "name": "Raimundo Rufino Machado",
+              "addressType": "Rua",
+              "cep": "76906380",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "Araçá",
+              "latitude": "-10.86067",
+              "longitude": "-61.93501"
+            },
+            {
+              "name": "Elena Tavares",
+              "addressType": "Rua",
+              "cep": "76906383",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "Araçá",
+              "latitude": "-10.86795",
+              "longitude": "-61.95603"
+            },
+            {
+              "name": "Raimundo Moreira de Holanda",
+              "addressType": "Rua",
+              "cep": "76906452",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "Araçá",
+              "latitude": "-10.85322",
+              "longitude": "-61.96459"
+            },
+            {
+              "name": "Manoel Fernandes Teixeira",
+              "addressType": "Rua",
+              "cep": "76906390",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "Araçá",
+              "latitude": "-10.88675",
+              "longitude": "-61.88454"
+            },
+            {
+              "name": "Darcides Gerald Pontes",
+              "addressType": "Rua",
+              "cep": "76906420",
+              "state": "Rondônia",
+              "city": "Ji-Paraná",
+              "district": "Araçá",
+              "latitude": "-10.87483",
+              "longitude": "-61.95587"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Porto Velho",
+      "ibgeCode": "1100205",
+      "ddd": "69",
+      "districts": [
+        {
+          "name": "22 de Dezembro",
+          "streets": [
+            {
+              "name": "T",
+              "addressType": "Rua",
+              "cep": "78908767",
+              "state": "Rondônia",
+              "city": "Porto Velho",
+              "district": "22 de Dezembro",
+              "latitude": "-8.79947",
+              "longitude": "-63.87589"
+            },
+            {
+              "name": "A",
+              "addressType": "Rua",
+              "cep": "78908007",
+              "state": "Rondônia",
+              "city": "Porto Velho",
+              "district": "22 de Dezembro",
+              "latitude": "-8.78405",
+              "longitude": "-63.90511"
+            },
+            {
+              "name": "R",
+              "addressType": "Rua",
+              "cep": "78908763",
+              "state": "Rondônia",
+              "city": "Porto Velho",
+              "district": "22 de Dezembro",
+              "latitude": "-8.72678",
+              "longitude": "-63.87461"
+            },
+            {
+              "name": "Adaildo Feitosa",
+              "addressType": "Rua",
+              "cep": "78908750",
+              "state": "Rondônia",
+              "city": "Porto Velho",
+              "district": "22 de Dezembro",
+              "latitude": "-8.74679",
+              "longitude": "-63.87203"
+            },
+            {
+              "name": "Violeta Alceu",
+              "addressType": "Rua",
+              "cep": "78908755",
+              "state": "Rondônia",
+              "city": "Porto Velho",
+              "district": "22 de Dezembro",
+              "latitude": "-8.7468",
+              "longitude": "-63.87012"
+            },
+            {
+              "name": "Mirian Shockness",
+              "addressType": "Rua",
+              "cep": "78908009",
+              "state": "Rondônia",
+              "city": "Porto Velho",
+              "district": "22 de Dezembro",
+              "latitude": "-8.74757",
+              "longitude": "-63.87061"
+            },
+            {
+              "name": "Silas Shockness",
+              "addressType": "Rua",
+              "cep": "78908769",
+              "state": "Rondônia",
+              "city": "Porto Velho",
+              "district": "22 de Dezembro",
+              "latitude": "-8.78546",
+              "longitude": "-63.91712"
+            },
+            {
+              "name": "K",
+              "addressType": "Rua",
+              "cep": "78908757",
+              "state": "Rondônia",
+              "city": "Porto Velho",
+              "district": "22 de Dezembro",
+              "latitude": "-8.79947",
+              "longitude": "-63.87589"
+            }
+          ]
+        },
+        {
+          "name": "Aeroclube",
+          "streets": [
+            {
+              "name": "BR-364",
+              "addressType": "Rodovia",
+              "cep": "76816800",
+              "state": "Rondônia",
+              "city": "Porto Velho",
+              "district": "Aeroclube",
+              "latitude": "-8.80301",
+              "longitude": "-63.79635"
+            },
+            {
+              "name": "Papagaio",
+              "addressType": "Travessa",
+              "cep": "76816462",
+              "state": "Rondônia",
+              "city": "Porto Velho",
+              "district": "Aeroclube",
+              "latitude": "-8.80489",
+              "longitude": "-63.86494"
+            },
+            {
+              "name": "Mondal",
+              "addressType": "Rua",
+              "cep": "76811156",
+              "state": "Rondônia",
+              "city": "Porto Velho",
+              "district": "Aeroclube",
+              "latitude": "-8.80902",
+              "longitude": "-63.86093"
+            },
+            {
+              "name": "Monte Negro",
+              "addressType": "Rua",
+              "cep": "76811136",
+              "state": "Rondônia",
+              "city": "Porto Velho",
+              "district": "Aeroclube",
+              "latitude": "-8.80658",
+              "longitude": "-63.86246"
+            },
+            {
+              "name": "Xangai",
+              "addressType": "Rua",
+              "cep": "78913346",
+              "state": "Rondônia",
+              "city": "Porto Velho",
+              "district": "Aeroclube",
+              "latitude": "-8.80315",
+              "longitude": "-63.86273"
+            },
+            {
+              "name": "Uirapuru",
+              "addressType": "Alameda",
+              "cep": "76816448",
+              "state": "Rondônia",
+              "city": "Porto Velho",
+              "district": "Aeroclube",
+              "latitude": "-8.76393",
+              "longitude": "-63.8653"
+            },
+            {
+              "name": "Treze de Setembro",
+              "addressType": "Estrada",
+              "cep": "76811011",
+              "state": "Rondônia",
+              "city": "Porto Velho",
+              "district": "Aeroclube",
+              "latitude": "-8.80386",
+              "longitude": "-63.86455"
+            },
+            {
+              "name": "Dracema",
+              "addressType": "Rua",
+              "cep": "76811132",
+              "state": "Rondônia",
+              "city": "Porto Velho",
+              "district": "Aeroclube",
+              "latitude": "-8.80571",
+              "longitude": "-63.86176"
+            }
+          ]
+        },
+        {
+          "name": "Aeroporto",
+          "streets": [
+            {
+              "name": "Governador Jorge Teixeira",
+              "addressType": "Avenida",
+              "cep": "76803250",
+              "state": "Rondônia",
+              "city": "Porto Velho",
+              "district": "Aeroporto",
+              "latitude": "-8.76754",
+              "longitude": "-63.88377"
+            },
+            {
+              "name": "Governador Jorge Teixeira 6490",
+              "addressType": "Avenida",
+              "cep": "76803970",
+              "state": "Rondônia",
+              "city": "Porto Velho",
+              "district": "Aeroporto",
+              "latitude": "-8.73873",
+              "longitude": "-63.88878"
+            },
+            {
+              "name": "Lauro Sodre",
+              "addressType": "Avenida",
+              "cep": "76803261",
+              "state": "Rondônia",
+              "city": "Porto Velho",
+              "district": "Aeroporto",
+              "latitude": "-8.73479",
+              "longitude": "-63.9011"
+            },
+            {
+              "name": "Lauro Sodré",
+              "addressType": "Avenida",
+              "cep": "76803260",
+              "state": "Rondônia",
+              "city": "Porto Velho",
+              "district": "Aeroporto",
+              "latitude": "-8.73479",
+              "longitude": "-63.9011"
+            },
+            {
+              "name": "Lauro Sodré",
+              "addressType": "Avenida",
+              "cep": "76803270",
+              "state": "Rondônia",
+              "city": "Porto Velho",
+              "district": "Aeroporto",
+              "latitude": "-8.73969",
+              "longitude": "-63.90203"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vilhena",
+      "ibgeCode": "1100304",
+      "ddd": "69",
+      "districts": [
+        {
+          "name": "Alto Alegre",
+          "streets": [
+            {
+              "name": "Ana Carolina Donato de Azevedo",
+              "addressType": "Rua",
+              "cep": "76985338",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Alto Alegre",
+              "latitude": "-12.7328",
+              "longitude": "-60.11233"
+            },
+            {
+              "name": "Ana Carolina Donato de Azevedo",
+              "addressType": "Rua",
+              "cep": "76985316",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Alto Alegre",
+              "latitude": "-12.73272",
+              "longitude": "-60.11267"
+            },
+            {
+              "name": "Antônio Extekoetter",
+              "addressType": "Rua",
+              "cep": "76985290",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Alto Alegre",
+              "latitude": "-12.73031",
+              "longitude": "-60.14437"
+            },
+            {
+              "name": "Antonio Pereira Bastos",
+              "addressType": "Rua",
+              "cep": "76985346",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Alto Alegre",
+              "latitude": "-12.73197",
+              "longitude": "-60.14451"
+            },
+            {
+              "name": "Ana Neri",
+              "addressType": "Rua",
+              "cep": "76985258",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Alto Alegre",
+              "latitude": "-12.73266",
+              "longitude": "-60.11294"
+            },
+            {
+              "name": "Ana Neri",
+              "addressType": "Rua",
+              "cep": "76985314",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Alto Alegre",
+              "latitude": "-12.73271",
+              "longitude": "-60.11268"
+            },
+            {
+              "name": "Fernandes Felipe",
+              "addressType": "Rua",
+              "cep": "76985274",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Alto Alegre",
+              "latitude": "-12.73123",
+              "longitude": "-60.1157"
+            },
+            {
+              "name": "Carmelita Fermina dos Anjos",
+              "addressType": "Avenida",
+              "cep": "76985251",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Alto Alegre",
+              "latitude": "-12.73225",
+              "longitude": "-60.11793"
+            }
+          ]
+        },
+        {
+          "name": "Aripuanã",
+          "streets": [
+            {
+              "name": "H-Seis",
+              "addressType": "Rua",
+              "cep": "76985498",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Aripuanã",
+              "latitude": "-12.72479",
+              "longitude": "-60.10876"
+            },
+            {
+              "name": "V-Nove",
+              "addressType": "Rua",
+              "cep": "76985496",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Aripuanã",
+              "latitude": "-12.72066",
+              "longitude": "-60.10829"
+            },
+            {
+              "name": "H-Doze",
+              "addressType": "Rua",
+              "cep": "76985478",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Aripuanã",
+              "latitude": "-12.7379",
+              "longitude": "-60.11668"
+            },
+            {
+              "name": "V-Sete",
+              "addressType": "Rua",
+              "cep": "76985502",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Aripuanã",
+              "latitude": "-12.72066",
+              "longitude": "-60.1083"
+            },
+            {
+              "name": "H-Três",
+              "addressType": "Rua",
+              "cep": "76985522",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Aripuanã",
+              "latitude": "-12.71967",
+              "longitude": "-60.10742"
+            },
+            {
+              "name": "Paraná",
+              "addressType": "Avenida",
+              "cep": "76985510",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Aripuanã",
+              "latitude": "-12.74133",
+              "longitude": "-60.11397"
+            },
+            {
+              "name": "H-Catorze",
+              "addressType": "Rua",
+              "cep": "76985492",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Aripuanã",
+              "latitude": "-12.72471",
+              "longitude": "-60.10873"
+            },
+            {
+              "name": "Novecentos e Dezenove",
+              "addressType": "Rua",
+              "cep": "76985484",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Aripuanã",
+              "latitude": "-12.72617",
+              "longitude": "-60.10665"
+            }
+          ]
+        },
+        {
+          "name": "Assosete",
+          "streets": [
+            {
+              "name": "Oito Mil Quinhentos e Doze",
+              "addressType": "Avenida",
+              "cep": "76986378",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Assosete",
+              "latitude": "-12.72517",
+              "longitude": "-60.12383"
+            },
+            {
+              "name": "Oito Mil Quinhentos e Dezesseis",
+              "addressType": "Rua",
+              "cep": "76986342",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Assosete",
+              "latitude": "-12.71561",
+              "longitude": "-60.1492"
+            },
+            {
+              "name": "Oito Mil Quinhentos e Nove",
+              "addressType": "Rua",
+              "cep": "76986344",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Assosete",
+              "latitude": "-12.72047",
+              "longitude": "-60.14965"
+            },
+            {
+              "name": "Oito Mil Quinhentos",
+              "addressType": "Rua",
+              "cep": "76986382",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Assosete",
+              "latitude": "-12.72665",
+              "longitude": "-60.15004"
+            },
+            {
+              "name": "Oito Mil Quinhentos e Seis",
+              "addressType": "Rua",
+              "cep": "76986372",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Assosete",
+              "latitude": "-12.72184",
+              "longitude": "-60.15005"
+            },
+            {
+              "name": "Oito Mil Quinhentos e Quatorze",
+              "addressType": "Rua",
+              "cep": "76986346",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Assosete",
+              "latitude": "-12.72047",
+              "longitude": "-60.14965"
+            },
+            {
+              "name": "Oito Mil Quinhentos e Vinte",
+              "addressType": "Rua",
+              "cep": "76986334",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Assosete",
+              "latitude": "-12.72047",
+              "longitude": "-60.14965"
+            },
+            {
+              "name": "A",
+              "addressType": "Rua",
+              "cep": "76986338",
+              "state": "Rondônia",
+              "city": "Vilhena",
+              "district": "Assosete",
+              "latitude": "-12.7302",
+              "longitude": "-60.15984"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

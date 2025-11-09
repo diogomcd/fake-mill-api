@@ -1,0 +1,1229 @@
+{
+  "code": "MA",
+  "name": "Maranhão",
+  "capital": "São Luís",
+  "ddd": "99",
+  "regiao": "Nordeste",
+  "cities": [
+    {
+      "name": "Caxias",
+      "ibgeCode": "2103000",
+      "ddd": "99",
+      "districts": [
+        {
+          "name": "Antenor Viana",
+          "streets": [
+            {
+              "name": "Alagoas",
+              "addressType": "Rua",
+              "cep": "65603530",
+              "state": "Maranhão",
+              "city": "Caxias",
+              "district": "Antenor Viana",
+              "latitude": "-4.8405",
+              "longitude": "-43.34624"
+            },
+            {
+              "name": "Amazonas",
+              "addressType": "Rua",
+              "cep": "65603500",
+              "state": "Maranhão",
+              "city": "Caxias",
+              "district": "Antenor Viana",
+              "latitude": "-4.84186",
+              "longitude": "-43.34757"
+            },
+            {
+              "name": "Boa Vontade",
+              "addressType": "Travessa",
+              "cep": "65603507",
+              "state": "Maranhão",
+              "city": "Caxias",
+              "district": "Antenor Viana",
+              "latitude": "-4.83542",
+              "longitude": "-43.34554"
+            },
+            {
+              "name": "Bahia",
+              "addressType": "Rua",
+              "cep": "65603515",
+              "state": "Maranhão",
+              "city": "Caxias",
+              "district": "Antenor Viana",
+              "latitude": "-4.84022",
+              "longitude": "-43.34816"
+            },
+            {
+              "name": "Bela Vista",
+              "addressType": "Rua",
+              "cep": "65603565",
+              "state": "Maranhão",
+              "city": "Caxias",
+              "district": "Antenor Viana",
+              "latitude": "-4.84091",
+              "longitude": "-43.35019"
+            },
+            {
+              "name": "da Saúde",
+              "addressType": "Rua",
+              "cep": "65603320",
+              "state": "Maranhão",
+              "city": "Caxias",
+              "district": "Antenor Viana",
+              "latitude": "-4.8447",
+              "longitude": "-43.3531"
+            },
+            {
+              "name": "Aluísio Lobo",
+              "addressType": "Rua",
+              "cep": "65603597",
+              "state": "Maranhão",
+              "city": "Caxias",
+              "district": "Antenor Viana",
+              "latitude": "-4.84743",
+              "longitude": "-43.3464"
+            },
+            {
+              "name": "Boa Vontade",
+              "addressType": "Rua",
+              "cep": "65603505",
+              "state": "Maranhão",
+              "city": "Caxias",
+              "district": "Antenor Viana",
+              "latitude": "-4.84091",
+              "longitude": "-43.35194"
+            }
+          ]
+        },
+        {
+          "name": "Bacuri",
+          "streets": [
+            {
+              "name": "da Bandeira",
+              "addressType": "Travessa",
+              "cep": "65603803",
+              "state": "Maranhão",
+              "city": "Caxias",
+              "district": "Bacuri",
+              "latitude": "-4.84246",
+              "longitude": "-43.33778"
+            },
+            {
+              "name": "Santo Antonio",
+              "addressType": "Rua",
+              "cep": "65603810",
+              "state": "Maranhão",
+              "city": "Caxias",
+              "district": "Bacuri",
+              "latitude": "-4.87521",
+              "longitude": "-43.37024"
+            },
+            {
+              "name": "Marcia Marinho",
+              "addressType": "Rua",
+              "cep": "65603830",
+              "state": "Maranhão",
+              "city": "Caxias",
+              "district": "Bacuri",
+              "latitude": "-4.86384",
+              "longitude": "-43.34339"
+            },
+            {
+              "name": "São José",
+              "addressType": "Travessa",
+              "cep": "65603825",
+              "state": "Maranhão",
+              "city": "Caxias",
+              "district": "Bacuri",
+              "latitude": "-4.83966",
+              "longitude": "-43.33965"
+            },
+            {
+              "name": "do Cemitério",
+              "addressType": "Rua",
+              "cep": "65603860",
+              "state": "Maranhão",
+              "city": "Caxias",
+              "district": "Bacuri",
+              "latitude": "-4.88513",
+              "longitude": "-43.37392"
+            },
+            {
+              "name": "da Bandeira",
+              "addressType": "Rua",
+              "cep": "65603800",
+              "state": "Maranhão",
+              "city": "Caxias",
+              "district": "Bacuri",
+              "latitude": "-4.84113",
+              "longitude": "-43.33792"
+            },
+            {
+              "name": "Matadouro",
+              "addressType": "Rua",
+              "cep": "65603850",
+              "state": "Maranhão",
+              "city": "Caxias",
+              "district": "Bacuri",
+              "latitude": "-4.83906",
+              "longitude": "-43.36331"
+            },
+            {
+              "name": "Santo Antonio",
+              "addressType": "Travessa",
+              "cep": "65603815",
+              "state": "Maranhão",
+              "city": "Caxias",
+              "district": "Bacuri",
+              "latitude": "-1.7358",
+              "longitude": "-45.13914"
+            }
+          ]
+        },
+        {
+          "name": "Baixinha",
+          "streets": [
+            {
+              "name": "Saturnino Belo",
+              "addressType": "Travessa",
+              "cep": "65600439",
+              "state": "Maranhão",
+              "city": "Caxias",
+              "district": "Baixinha",
+              "latitude": "-4.85284",
+              "longitude": "-43.3422"
+            },
+            {
+              "name": "Dois",
+              "addressType": "Rua",
+              "cep": "65600432",
+              "state": "Maranhão",
+              "city": "Caxias",
+              "district": "Baixinha",
+              "latitude": "-4.84489",
+              "longitude": "-43.35157"
+            },
+            {
+              "name": "Três",
+              "addressType": "Rua",
+              "cep": "65600433",
+              "state": "Maranhão",
+              "city": "Caxias",
+              "district": "Baixinha",
+              "latitude": "-4.85831",
+              "longitude": "-43.3454"
+            },
+            {
+              "name": "Um",
+              "addressType": "Rua",
+              "cep": "65600431",
+              "state": "Maranhão",
+              "city": "Caxias",
+              "district": "Baixinha",
+              "latitude": "-4.85397",
+              "longitude": "-43.34301"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Imperatriz",
+      "ibgeCode": "2105302",
+      "ddd": "99",
+      "districts": [
+        {
+          "name": "Aeroporto",
+          "streets": [
+            {
+              "name": "BR-010, s/n",
+              "addressType": "Rodovia",
+              "cep": "65913970",
+              "state": "Maranhão",
+              "city": "Imperatriz",
+              "district": "Aeroporto",
+              "latitude": "-5.51862",
+              "longitude": "-47.47134"
+            },
+            {
+              "name": "BR-010",
+              "addressType": "Rodovia",
+              "cep": "65913417",
+              "state": "Maranhão",
+              "city": "Imperatriz",
+              "district": "Aeroporto",
+              "latitude": "-5.55237",
+              "longitude": "-47.45819"
+            },
+            {
+              "name": "Moacyr Spósito Ribeiro",
+              "addressType": "Avenida",
+              "cep": "65913415",
+              "state": "Maranhão",
+              "city": "Imperatriz",
+              "district": "Aeroporto",
+              "latitude": "-5.536",
+              "longitude": "-47.461"
+            }
+          ]
+        },
+        {
+          "name": "Alto Bonito do Triângulo",
+          "streets": [
+            {
+              "name": "14",
+              "addressType": "Rua",
+              "cep": "65908371",
+              "state": "Maranhão",
+              "city": "Imperatriz",
+              "district": "Alto Bonito do Triângulo",
+              "latitude": "-5.74956",
+              "longitude": "-47.36449"
+            },
+            {
+              "name": "Trizidela",
+              "addressType": "Rua",
+              "cep": "65908394",
+              "state": "Maranhão",
+              "city": "Imperatriz",
+              "district": "Alto Bonito do Triângulo",
+              "latitude": "-5.49506",
+              "longitude": "-47.45937"
+            },
+            {
+              "name": "Trapézio",
+              "addressType": "Rua",
+              "cep": "65908388",
+              "state": "Maranhão",
+              "city": "Imperatriz",
+              "district": "Alto Bonito do Triângulo",
+              "latitude": "-5.49415",
+              "longitude": "-47.46025"
+            },
+            {
+              "name": "Quadrilátero",
+              "addressType": "Rua",
+              "cep": "65908391",
+              "state": "Maranhão",
+              "city": "Imperatriz",
+              "district": "Alto Bonito do Triângulo",
+              "latitude": "-5.4946",
+              "longitude": "-47.45981"
+            },
+            {
+              "name": "Esquadro",
+              "addressType": "Rua",
+              "cep": "65908379",
+              "state": "Maranhão",
+              "city": "Imperatriz",
+              "district": "Alto Bonito do Triângulo",
+              "latitude": "-5.74946",
+              "longitude": "-47.3645"
+            },
+            {
+              "name": "Paralelogramo",
+              "addressType": "Rua",
+              "cep": "65908409",
+              "state": "Maranhão",
+              "city": "Imperatriz",
+              "district": "Alto Bonito do Triângulo",
+              "latitude": "-5.74909",
+              "longitude": "-47.3645"
+            },
+            {
+              "name": "Perpendicular",
+              "addressType": "Rua",
+              "cep": "65908382",
+              "state": "Maranhão",
+              "city": "Imperatriz",
+              "district": "Alto Bonito do Triângulo",
+              "latitude": "-5.49434",
+              "longitude": "-47.46204"
+            },
+            {
+              "name": "Cateto",
+              "addressType": "Rua",
+              "cep": "65908385",
+              "state": "Maranhão",
+              "city": "Imperatriz",
+              "district": "Alto Bonito do Triângulo",
+              "latitude": "-5.74938",
+              "longitude": "-47.3645"
+            }
+          ]
+        },
+        {
+          "name": "Alto da Boa Vista",
+          "streets": [
+            {
+              "name": "Bacuri",
+              "addressType": "Alameda",
+              "cep": "65910651",
+              "state": "Maranhão",
+              "city": "Imperatriz",
+              "district": "Alto da Boa Vista",
+              "latitude": "-5.50655",
+              "longitude": "-47.4692"
+            },
+            {
+              "name": "São Francisco",
+              "addressType": "Rua",
+              "cep": "65910603",
+              "state": "Maranhão",
+              "city": "Imperatriz",
+              "district": "Alto da Boa Vista",
+              "latitude": "-5.51845",
+              "longitude": "-47.49337"
+            },
+            {
+              "name": "Araguaia",
+              "addressType": "Avenida",
+              "cep": "65910633",
+              "state": "Maranhão",
+              "city": "Imperatriz",
+              "district": "Alto da Boa Vista",
+              "latitude": "-5.52621",
+              "longitude": "-47.47748"
+            },
+            {
+              "name": "Amazonas",
+              "addressType": "Avenida",
+              "cep": "65910624",
+              "state": "Maranhão",
+              "city": "Imperatriz",
+              "district": "Alto da Boa Vista",
+              "latitude": "-5.53154",
+              "longitude": "-47.48094"
+            },
+            {
+              "name": "Projetada B",
+              "addressType": "Rua",
+              "cep": "65910639",
+              "state": "Maranhão",
+              "city": "Imperatriz",
+              "district": "Alto da Boa Vista",
+              "latitude": "-5.50428",
+              "longitude": "-47.48571"
+            },
+            {
+              "name": "C",
+              "addressType": "Rua",
+              "cep": "65910606",
+              "state": "Maranhão",
+              "city": "Imperatriz",
+              "district": "Alto da Boa Vista",
+              "latitude": "-5.49817",
+              "longitude": "-47.46755"
+            },
+            {
+              "name": "dos Tucanos",
+              "addressType": "Rua",
+              "cep": "65910660",
+              "state": "Maranhão",
+              "city": "Imperatriz",
+              "district": "Alto da Boa Vista",
+              "latitude": "-5.50821",
+              "longitude": "-47.44608"
+            },
+            {
+              "name": "Murici",
+              "addressType": "Alameda",
+              "cep": "65910657",
+              "state": "Maranhão",
+              "city": "Imperatriz",
+              "district": "Alto da Boa Vista",
+              "latitude": "-5.50734",
+              "longitude": "-47.46994"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Santa Inês",
+      "ibgeCode": "2109908",
+      "ddd": "98",
+      "districts": [
+        {
+          "name": "Adelaide Cabral",
+          "streets": [
+            {
+              "name": "Castelo Branco",
+              "addressType": "Travessa",
+              "cep": "65300785",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Adelaide Cabral",
+              "latitude": "-3.66649",
+              "longitude": "-45.37543"
+            },
+            {
+              "name": "Padre Rolim",
+              "addressType": "Travessa",
+              "cep": "65300755",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Adelaide Cabral",
+              "latitude": "-3.6558",
+              "longitude": "-45.39531"
+            },
+            {
+              "name": "Ipaumirim",
+              "addressType": "Rua",
+              "cep": "65300760",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Adelaide Cabral",
+              "latitude": "-3.66788",
+              "longitude": "-45.35619"
+            },
+            {
+              "name": "Olho DÁgua",
+              "addressType": "Rua",
+              "cep": "65300775",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Adelaide Cabral",
+              "latitude": "-3.66387",
+              "longitude": "-45.35766"
+            },
+            {
+              "name": "Antonio Carlos Bringel",
+              "addressType": "Rua",
+              "cep": "65300780",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Adelaide Cabral",
+              "latitude": "-3.65489",
+              "longitude": "-45.39343"
+            },
+            {
+              "name": "Juazeiro do Norte",
+              "addressType": "Rua",
+              "cep": "65300790",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Adelaide Cabral",
+              "latitude": "-3.65424",
+              "longitude": "-45.39471"
+            },
+            {
+              "name": "Juarez Távora",
+              "addressType": "Travessa",
+              "cep": "65300745",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Adelaide Cabral",
+              "latitude": "-3.66919",
+              "longitude": "-45.35373"
+            },
+            {
+              "name": "José Américo de Almeida",
+              "addressType": "Travessa",
+              "cep": "65300740",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Adelaide Cabral",
+              "latitude": "-3.65631",
+              "longitude": "-45.39176"
+            }
+          ]
+        },
+        {
+          "name": "Aeroporto",
+          "streets": [
+            {
+              "name": "Nova Esperança",
+              "addressType": "Rua",
+              "cep": "65302060",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Aeroporto",
+              "latitude": "-3.64867",
+              "longitude": "-45.36899"
+            },
+            {
+              "name": "do Aeroporto",
+              "addressType": "Travessa",
+              "cep": "65302005",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Aeroporto",
+              "latitude": "-3.65274",
+              "longitude": "-45.37517"
+            },
+            {
+              "name": "Esperança",
+              "addressType": "Rua",
+              "cep": "65302105",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Aeroporto",
+              "latitude": "-3.65241",
+              "longitude": "-45.37664"
+            },
+            {
+              "name": "Esperança",
+              "addressType": "Travessa",
+              "cep": "65302055",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Aeroporto",
+              "latitude": "-3.65237",
+              "longitude": "-45.37602"
+            },
+            {
+              "name": "Jonas Catarino",
+              "addressType": "Rua",
+              "cep": "65302045",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Aeroporto",
+              "latitude": "-3.65236",
+              "longitude": "-45.37589"
+            },
+            {
+              "name": "do Aeroporto",
+              "addressType": "Rua",
+              "cep": "65302010",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Aeroporto",
+              "latitude": "-3.65203",
+              "longitude": "-45.3735"
+            },
+            {
+              "name": "Luís Barros Elouf",
+              "addressType": "Avenida",
+              "cep": "65302040",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Aeroporto",
+              "latitude": "-3.6475",
+              "longitude": "-45.36971"
+            },
+            {
+              "name": "Dois Irmãos",
+              "addressType": "Travessa",
+              "cep": "65302015",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Aeroporto",
+              "latitude": "-3.67065",
+              "longitude": "-45.36087"
+            }
+          ]
+        },
+        {
+          "name": "Angelim",
+          "streets": [
+            {
+              "name": "das Paparaúbas",
+              "addressType": "Rua",
+              "cep": "65302505",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Angelim",
+              "latitude": "-3.64974",
+              "longitude": "-45.36675"
+            },
+            {
+              "name": "da Ingá",
+              "addressType": "Rua",
+              "cep": "65302500",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Angelim",
+              "latitude": "-3.66425",
+              "longitude": "-45.35507"
+            },
+            {
+              "name": "da Embaúba",
+              "addressType": "Rua",
+              "cep": "65302490",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Angelim",
+              "latitude": "-3.65238",
+              "longitude": "-45.3667"
+            },
+            {
+              "name": "das Flores",
+              "addressType": "Rua",
+              "cep": "65302510",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Angelim",
+              "latitude": "-3.65374",
+              "longitude": "-45.36503"
+            },
+            {
+              "name": "das Margaridas",
+              "addressType": "Rua",
+              "cep": "65302515",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Angelim",
+              "latitude": "-3.65347",
+              "longitude": "-45.36455"
+            },
+            {
+              "name": "do Cedro",
+              "addressType": "Rua",
+              "cep": "65302460",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Angelim",
+              "latitude": "-3.65308",
+              "longitude": "-45.36757"
+            },
+            {
+              "name": "do Angelim",
+              "addressType": "Rua",
+              "cep": "65302450",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Angelim",
+              "latitude": "-3.66288",
+              "longitude": "-45.38154"
+            },
+            {
+              "name": "do Milho",
+              "addressType": "Rua",
+              "cep": "65302495",
+              "state": "Maranhão",
+              "city": "Santa Inês",
+              "district": "Angelim",
+              "latitude": "-3.65373",
+              "longitude": "-45.36621"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "São Luís",
+      "ibgeCode": "2111300",
+      "ddd": "98",
+      "districts": [
+        {
+          "name": "Alameda dos Sonhos",
+          "streets": [
+            {
+              "name": "Projetada",
+              "addressType": "Rua",
+              "cep": "65055467",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alameda dos Sonhos",
+              "latitude": "-2.56305",
+              "longitude": "-44.23715"
+            },
+            {
+              "name": "Quarenta e Seis",
+              "addressType": "Rua",
+              "cep": "65055464",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alameda dos Sonhos",
+              "latitude": "-2.56276",
+              "longitude": "-44.23775"
+            },
+            {
+              "name": "Vinte e Cinco",
+              "addressType": "Rua",
+              "cep": "65055463",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alameda dos Sonhos",
+              "latitude": "-2.56305",
+              "longitude": "-44.2367"
+            },
+            {
+              "name": "Vinte e Quatro",
+              "addressType": "Rua",
+              "cep": "65055462",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alameda dos Sonhos",
+              "latitude": "-2.56241",
+              "longitude": "-44.23767"
+            },
+            {
+              "name": "Travessa Projetada 23",
+              "addressType": "2ª",
+              "cep": "65055466",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alameda dos Sonhos",
+              "latitude": "-2.56363",
+              "longitude": "-44.23668"
+            },
+            {
+              "name": "Quarenta e Cinco",
+              "addressType": "Rua",
+              "cep": "65055465",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alameda dos Sonhos",
+              "latitude": "-2.5631",
+              "longitude": "-44.23655"
+            },
+            {
+              "name": "Vinte e Três",
+              "addressType": "Rua",
+              "cep": "65055461",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alameda dos Sonhos",
+              "latitude": "-2.56214",
+              "longitude": "-44.23669"
+            },
+            {
+              "name": "Travessa Projetada 23",
+              "addressType": "1ª",
+              "cep": "65055459",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alameda dos Sonhos",
+              "latitude": "-2.56363",
+              "longitude": "-44.23668"
+            }
+          ]
+        },
+        {
+          "name": "Alemanha",
+          "streets": [
+            {
+              "name": "Moreira Serra",
+              "addressType": "Rua",
+              "cep": "65036450",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alemanha",
+              "latitude": "-2.50608",
+              "longitude": "-44.29547"
+            },
+            {
+              "name": "Newton Bello",
+              "addressType": "Conjunto",
+              "cep": "65036460",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alemanha",
+              "latitude": "-2.5357",
+              "longitude": "-44.26945"
+            },
+            {
+              "name": "Piauí",
+              "addressType": "Rua",
+              "cep": "65036530",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alemanha",
+              "latitude": "-2.52866",
+              "longitude": "-44.23231"
+            },
+            {
+              "name": "Moreira Serra",
+              "addressType": "Travessa",
+              "cep": "65037220",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alemanha",
+              "latitude": "-2.53452",
+              "longitude": "-44.27166"
+            },
+            {
+              "name": "Pereira do Lago",
+              "addressType": "Rua",
+              "cep": "65036520",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alemanha",
+              "latitude": "-2.5332",
+              "longitude": "-44.268"
+            },
+            {
+              "name": "Parque Veneza",
+              "addressType": "Conjunto",
+              "cep": "65036690",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alemanha",
+              "latitude": "-2.5357",
+              "longitude": "-44.26945"
+            },
+            {
+              "name": "Novo Tempo I",
+              "addressType": "Residencial",
+              "cep": "65036815",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alemanha",
+              "latitude": "-2.5357",
+              "longitude": "-44.26945"
+            },
+            {
+              "name": "Travessa Quatro",
+              "addressType": "3ª",
+              "cep": "65036752",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alemanha",
+              "latitude": "-2.532",
+              "longitude": "-44.26861"
+            }
+          ]
+        },
+        {
+          "name": "Alterosa",
+          "streets": [
+            {
+              "name": "Um",
+              "addressType": "Avenida",
+              "cep": "65073141",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alterosa",
+              "latitude": "-2.49844",
+              "longitude": "-44.22616"
+            },
+            {
+              "name": "Três",
+              "addressType": "Rua",
+              "cep": "65073142",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alterosa",
+              "latitude": "-2.51528",
+              "longitude": "-44.23783"
+            },
+            {
+              "name": "Dois",
+              "addressType": "Avenida",
+              "cep": "65073139",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alterosa",
+              "latitude": "-2.53235",
+              "longitude": "-44.21776"
+            },
+            {
+              "name": "Cinco",
+              "addressType": "Rua",
+              "cep": "65073145",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alterosa",
+              "latitude": "-2.59536",
+              "longitude": "-44.24896"
+            },
+            {
+              "name": "Santo Antonio",
+              "addressType": "Rua",
+              "cep": "65073147",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alterosa",
+              "latitude": "-2.55741",
+              "longitude": "-44.24824"
+            },
+            {
+              "name": "Vinte e Oito",
+              "addressType": "Rua",
+              "cep": "65073135",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alterosa",
+              "latitude": "-2.56801",
+              "longitude": "-44.21455"
+            },
+            {
+              "name": "Seis",
+              "addressType": "Rua",
+              "cep": "65073143",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alterosa",
+              "latitude": "-2.50648",
+              "longitude": "-44.30504"
+            },
+            {
+              "name": "Onze",
+              "addressType": "Rua",
+              "cep": "65073134",
+              "state": "Maranhão",
+              "city": "São Luís",
+              "district": "Alterosa",
+              "latitude": "-2.56535",
+              "longitude": "-44.30642"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Timon",
+      "ibgeCode": "2112209",
+      "ddd": "99",
+      "districts": [
+        {
+          "name": "Bela Vista",
+          "streets": [
+            {
+              "name": "Axixá",
+              "addressType": "Rua",
+              "cep": "65637656",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Bela Vista",
+              "latitude": "-5.09581",
+              "longitude": "-42.8684"
+            },
+            {
+              "name": "Vinte e Seis",
+              "addressType": "Beco",
+              "cep": "65637584",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Bela Vista",
+              "latitude": "-5.08372",
+              "longitude": "-42.84954"
+            },
+            {
+              "name": "Sete",
+              "addressType": "Beco",
+              "cep": "65637562",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Bela Vista",
+              "latitude": "-5.09623",
+              "longitude": "-42.85566"
+            },
+            {
+              "name": "Coelho Neto",
+              "addressType": "Rua",
+              "cep": "65637641",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Bela Vista",
+              "latitude": "-5.09855",
+              "longitude": "-42.86843"
+            },
+            {
+              "name": "Vinte e Oito",
+              "addressType": "Beco",
+              "cep": "65637586",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Bela Vista",
+              "latitude": "-5.12334",
+              "longitude": "-42.83823"
+            },
+            {
+              "name": "São Luís",
+              "addressType": "Rua",
+              "cep": "65637631",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Bela Vista",
+              "latitude": "-5.08571",
+              "longitude": "-42.83695"
+            },
+            {
+              "name": "Vinte e Cinco",
+              "addressType": "Beco",
+              "cep": "65637583",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Bela Vista",
+              "latitude": "-5.10218",
+              "longitude": "-42.85022"
+            },
+            {
+              "name": "Tuntum",
+              "addressType": "Rua",
+              "cep": "65637662",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Bela Vista",
+              "latitude": "-5.09311",
+              "longitude": "-42.8695"
+            }
+          ]
+        },
+        {
+          "name": "Boa Esperança",
+          "streets": [
+            {
+              "name": "Treze",
+              "addressType": "Rua",
+              "cep": "65636842",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Boa Esperança",
+              "latitude": "-5.14002",
+              "longitude": "-42.83131"
+            },
+            {
+              "name": "N",
+              "addressType": "Quadra",
+              "cep": "65636886",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Boa Esperança",
+              "latitude": "-5.13857",
+              "longitude": "-42.82446"
+            },
+            {
+              "name": "P",
+              "addressType": "Quadra",
+              "cep": "65636887",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Boa Esperança",
+              "latitude": "-5.13794",
+              "longitude": "-42.82183"
+            },
+            {
+              "name": "Parnaíba",
+              "addressType": "Vila",
+              "cep": "65636870",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Boa Esperança",
+              "latitude": "-5.13857",
+              "longitude": "-42.82446"
+            },
+            {
+              "name": "X",
+              "addressType": "Quadra",
+              "cep": "65636854",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Boa Esperança",
+              "latitude": "-5.13857",
+              "longitude": "-42.82446"
+            },
+            {
+              "name": "03",
+              "addressType": "Rua",
+              "cep": "65636893",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Boa Esperança",
+              "latitude": "-5.14002",
+              "longitude": "-42.83131"
+            },
+            {
+              "name": "J",
+              "addressType": "Quadra",
+              "cep": "65636881",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Boa Esperança",
+              "latitude": "-5.13794",
+              "longitude": "-42.82183"
+            },
+            {
+              "name": "A",
+              "addressType": "Quadra",
+              "cep": "65636871",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Boa Esperança",
+              "latitude": "-5.13795",
+              "longitude": "-42.82184"
+            }
+          ]
+        },
+        {
+          "name": "Boa Vista",
+          "streets": [
+            {
+              "name": "Cinco",
+              "addressType": "Beco",
+              "cep": "65631550",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Boa Vista",
+              "latitude": "-5.08474",
+              "longitude": "-42.83588"
+            },
+            {
+              "name": "da Rodoviária",
+              "addressType": "Praça",
+              "cep": "65631345",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Boa Vista",
+              "latitude": "-5.08782",
+              "longitude": "-42.83403"
+            },
+            {
+              "name": "Alberto Manoel",
+              "addressType": "Travessa",
+              "cep": "65631420",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Boa Vista",
+              "latitude": "-5.08774",
+              "longitude": "-42.83559"
+            },
+            {
+              "name": "Tenente Edir",
+              "addressType": "Rua",
+              "cep": "65631330",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Boa Vista",
+              "latitude": "-5.08607",
+              "longitude": "-42.83563"
+            },
+            {
+              "name": "Boa Vista",
+              "addressType": "Avenida",
+              "cep": "65631430",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Boa Vista",
+              "latitude": "-5.0439",
+              "longitude": "-42.84591"
+            },
+            {
+              "name": "Tenente Antônio Correia da Silva",
+              "addressType": "Rua",
+              "cep": "65631360",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Boa Vista",
+              "latitude": "-5.08838",
+              "longitude": "-42.83843"
+            },
+            {
+              "name": "Tenente Martins",
+              "addressType": "Rua",
+              "cep": "65631470",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Boa Vista",
+              "latitude": "-5.08552",
+              "longitude": "-42.83627"
+            },
+            {
+              "name": "Quinze",
+              "addressType": "Rua",
+              "cep": "65631860",
+              "state": "Maranhão",
+              "city": "Timon",
+              "district": "Boa Vista",
+              "latitude": "-5.07701",
+              "longitude": "-42.84474"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

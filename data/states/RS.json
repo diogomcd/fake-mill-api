@@ -1,0 +1,1431 @@
+{
+  "code": "RS",
+  "name": "Rio Grande do Sul",
+  "capital": "Porto Alegre",
+  "ddd": "55",
+  "regiao": "Sul",
+  "cities": [
+    {
+      "name": "Alegrete",
+      "ibgeCode": "4300406",
+      "ddd": "55",
+      "districts": [
+        {
+          "name": "Airton Senna",
+          "streets": [
+            {
+              "name": "Castelo Branco",
+              "addressType": "Praça",
+              "cep": "97546130",
+              "state": "Rio Grande do Sul",
+              "city": "Alegrete",
+              "district": "Airton Senna",
+              "latitude": "-29.80205",
+              "longitude": "-55.7428"
+            },
+            {
+              "name": "Policarpo Rodrigues",
+              "addressType": "Rua",
+              "cep": "97546369",
+              "state": "Rio Grande do Sul",
+              "city": "Alegrete",
+              "district": "Airton Senna",
+              "latitude": "-29.80256",
+              "longitude": "-55.77103"
+            },
+            {
+              "name": "Eulália Gamino Grisoste",
+              "addressType": "Rua",
+              "cep": "97546136",
+              "state": "Rio Grande do Sul",
+              "city": "Alegrete",
+              "district": "Airton Senna",
+              "latitude": "-29.80081",
+              "longitude": "-55.77059"
+            },
+            {
+              "name": "J",
+              "addressType": "Rua",
+              "cep": "97546133",
+              "state": "Rio Grande do Sul",
+              "city": "Alegrete",
+              "district": "Airton Senna",
+              "latitude": "-29.80247",
+              "longitude": "-55.74244"
+            },
+            {
+              "name": "Florisbela Nunes dos Santos",
+              "addressType": "Rua",
+              "cep": "97546138",
+              "state": "Rio Grande do Sul",
+              "city": "Alegrete",
+              "district": "Airton Senna",
+              "latitude": "-29.80187",
+              "longitude": "-55.76988"
+            },
+            {
+              "name": "Luiza Rodrigues Guterres",
+              "addressType": "Rua",
+              "cep": "97546137",
+              "state": "Rio Grande do Sul",
+              "city": "Alegrete",
+              "district": "Airton Senna",
+              "latitude": "-29.80171",
+              "longitude": "-55.77042"
+            },
+            {
+              "name": "Leonel Hartmann",
+              "addressType": "Rua",
+              "cep": "97546492",
+              "state": "Rio Grande do Sul",
+              "city": "Alegrete",
+              "district": "Airton Senna",
+              "latitude": "-29.80098",
+              "longitude": "-55.74578"
+            },
+            {
+              "name": "Iro da Costa Guedes",
+              "addressType": "Rua",
+              "cep": "97546134",
+              "state": "Rio Grande do Sul",
+              "city": "Alegrete",
+              "district": "Airton Senna",
+              "latitude": "-29.80026",
+              "longitude": "-55.77014"
+            }
+          ]
+        },
+        {
+          "name": "Alberto Grande",
+          "streets": [
+            {
+              "name": "Joaquim do Prado Lima",
+              "addressType": "Rua",
+              "cep": "97545095",
+              "state": "Rio Grande do Sul",
+              "city": "Alegrete",
+              "district": "Alberto Grande",
+              "latitude": "-29.80705",
+              "longitude": "-55.8079"
+            },
+            {
+              "name": "Primeiro de Maio",
+              "addressType": "Rua",
+              "cep": "97545650",
+              "state": "Rio Grande do Sul",
+              "city": "Alegrete",
+              "district": "Alberto Grande",
+              "latitude": "-29.80701",
+              "longitude": "-55.80623"
+            }
+          ]
+        },
+        {
+          "name": "Anita Garibaldi",
+          "streets": [
+            {
+              "name": "Brasil",
+              "addressType": "Rua",
+              "cep": "97545377",
+              "state": "Rio Grande do Sul",
+              "city": "Alegrete",
+              "district": "Anita Garibaldi",
+              "latitude": "-29.80939",
+              "longitude": "-55.80641"
+            },
+            {
+              "name": "Nova Conquista",
+              "addressType": "Rua",
+              "cep": "97545379",
+              "state": "Rio Grande do Sul",
+              "city": "Alegrete",
+              "district": "Anita Garibaldi",
+              "latitude": "-29.80883",
+              "longitude": "-55.80584"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alvorada",
+      "ibgeCode": "4300604",
+      "ddd": "51",
+      "districts": [
+        {
+          "name": "Americana",
+          "streets": [
+            {
+              "name": "Vítor Hugo",
+              "addressType": "Rua",
+              "cep": "94820310",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Americana",
+              "latitude": "-29.98653",
+              "longitude": "-51.08784"
+            },
+            {
+              "name": "PP-5",
+              "addressType": "Rua",
+              "cep": "94820614",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Americana",
+              "latitude": "-29.99145",
+              "longitude": "-51.06783"
+            },
+            {
+              "name": "Olinda",
+              "addressType": "Rua",
+              "cep": "94820415",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Americana",
+              "latitude": "-29.99592",
+              "longitude": "-51.08066"
+            },
+            {
+              "name": "Visconde de Sinimbu",
+              "addressType": "Rua",
+              "cep": "94820500",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Americana",
+              "latitude": "-29.9978",
+              "longitude": "-51.08033"
+            },
+            {
+              "name": "Mário Totta",
+              "addressType": "Rua",
+              "cep": "94820400",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Americana",
+              "latitude": "-29.99399",
+              "longitude": "-51.08207"
+            },
+            {
+              "name": "Prisco Martyr Pereira",
+              "addressType": "Rua",
+              "cep": "94820322",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Americana",
+              "latitude": "-29.98666",
+              "longitude": "-51.08814"
+            },
+            {
+              "name": "Quinze de Novembro",
+              "addressType": "Rua",
+              "cep": "94820580",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Americana",
+              "latitude": "-29.98569",
+              "longitude": "-51.08131"
+            },
+            {
+              "name": "Barão de Torres Homem",
+              "addressType": "Rua",
+              "cep": "94820330",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Americana",
+              "latitude": "-29.98659",
+              "longitude": "-51.08814"
+            }
+          ]
+        },
+        {
+          "name": "Aparecida",
+          "streets": [
+            {
+              "name": "Ebenezer",
+              "addressType": "Travessa",
+              "cep": "94850084",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Aparecida",
+              "latitude": "-30.01716",
+              "longitude": "-51.07824"
+            },
+            {
+              "name": "Fortaleza",
+              "addressType": "Travessa",
+              "cep": "94838380",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Aparecida",
+              "latitude": "-30.02888",
+              "longitude": "-51.06256"
+            },
+            {
+              "name": "Júlia Dib",
+              "addressType": "Rua",
+              "cep": "94850818",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Aparecida",
+              "latitude": "-30.01357",
+              "longitude": "-51.08457"
+            },
+            {
+              "name": "Galdino Jacinto da Silva",
+              "addressType": "Rua",
+              "cep": "94850490",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Aparecida",
+              "latitude": "-30.01719",
+              "longitude": "-51.08566"
+            },
+            {
+              "name": "Euclides da Cunha",
+              "addressType": "Rua",
+              "cep": "94853730",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Aparecida",
+              "latitude": "-28.36711",
+              "longitude": "-53.93798"
+            },
+            {
+              "name": "Pedro Lessa",
+              "addressType": "Rua",
+              "cep": "94853600",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Aparecida",
+              "latitude": "-30.02539",
+              "longitude": "-51.05919"
+            },
+            {
+              "name": "Bento Ribeiro",
+              "addressType": "Rua",
+              "cep": "94850190",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Aparecida",
+              "latitude": "-30.0184",
+              "longitude": "-51.08631"
+            },
+            {
+              "name": "Rubem Berta",
+              "addressType": "Rua",
+              "cep": "94855630",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Aparecida",
+              "latitude": "-30.0375",
+              "longitude": "-51.05917"
+            }
+          ]
+        },
+        {
+          "name": "Bela Vista",
+          "streets": [
+            {
+              "name": "Acre",
+              "addressType": "Rua",
+              "cep": "94810010",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Bela Vista",
+              "latitude": "-30.00573",
+              "longitude": "-51.07898"
+            },
+            {
+              "name": "Hermínio Mouro",
+              "addressType": "Rua",
+              "cep": "94810760",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Bela Vista",
+              "latitude": "-30.03225",
+              "longitude": "-51.08306"
+            },
+            {
+              "name": "Manoel Almeida",
+              "addressType": "Rua",
+              "cep": "94810350",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Bela Vista",
+              "latitude": "-30.00991",
+              "longitude": "-51.07871"
+            },
+            {
+              "name": "Flor da Serra Futebol Clube",
+              "addressType": "Rua",
+              "cep": "94810670",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Bela Vista",
+              "latitude": "-30.00593",
+              "longitude": "-51.08264"
+            },
+            {
+              "name": "João de Deus Oliveira",
+              "addressType": "Rua",
+              "cep": "94810290",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Bela Vista",
+              "latitude": "-30.00953",
+              "longitude": "-51.07725"
+            },
+            {
+              "name": "Amapá",
+              "addressType": "Rua",
+              "cep": "94810070",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Bela Vista",
+              "latitude": "-30.00644",
+              "longitude": "-51.07903"
+            },
+            {
+              "name": "Dez",
+              "addressType": "Rua",
+              "cep": "94810720",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Bela Vista",
+              "latitude": "-30.02903",
+              "longitude": "-51.0687"
+            },
+            {
+              "name": "Elpídio Correa da Silveira",
+              "addressType": "Avenida",
+              "cep": "94810752",
+              "state": "Rio Grande do Sul",
+              "city": "Alvorada",
+              "district": "Bela Vista",
+              "latitude": "-30.03332",
+              "longitude": "-51.07763"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bagé",
+      "ibgeCode": "4301602",
+      "ddd": "53",
+      "districts": [
+        {
+          "name": "Arvorezinha",
+          "streets": [
+            {
+              "name": "Duzentos e Trinta e Seis",
+              "addressType": "Rua",
+              "cep": "96405170",
+              "state": "Rio Grande do Sul",
+              "city": "Bagé",
+              "district": "Arvorezinha",
+              "latitude": "-31.31842",
+              "longitude": "-54.13984"
+            },
+            {
+              "name": "Duzentos e Trinta e Cinco",
+              "addressType": "Rua",
+              "cep": "96405180",
+              "state": "Rio Grande do Sul",
+              "city": "Bagé",
+              "district": "Arvorezinha",
+              "latitude": "-31.31693",
+              "longitude": "-54.14024"
+            },
+            {
+              "name": "Doutor Attila Taborda",
+              "addressType": "Avenida",
+              "cep": "96405000",
+              "state": "Rio Grande do Sul",
+              "city": "Bagé",
+              "district": "Arvorezinha",
+              "latitude": "-31.31431",
+              "longitude": "-54.13542"
+            },
+            {
+              "name": "Cento e Seis",
+              "addressType": "Travessa",
+              "cep": "96405090",
+              "state": "Rio Grande do Sul",
+              "city": "Bagé",
+              "district": "Arvorezinha",
+              "latitude": "-31.3105",
+              "longitude": "-54.13855"
+            },
+            {
+              "name": "Cento e Oito",
+              "addressType": "Travessa",
+              "cep": "96405060",
+              "state": "Rio Grande do Sul",
+              "city": "Bagé",
+              "district": "Arvorezinha",
+              "latitude": "-31.31102",
+              "longitude": "-54.14394"
+            },
+            {
+              "name": "Jorge Mansur",
+              "addressType": "Rua",
+              "cep": "96405150",
+              "state": "Rio Grande do Sul",
+              "city": "Bagé",
+              "district": "Arvorezinha",
+              "latitude": "-31.31336",
+              "longitude": "-54.1425"
+            },
+            {
+              "name": "João Teixeira de Oliveira",
+              "addressType": "Rua",
+              "cep": "96405030",
+              "state": "Rio Grande do Sul",
+              "city": "Bagé",
+              "district": "Arvorezinha",
+              "latitude": "-31.30555",
+              "longitude": "-54.12222"
+            },
+            {
+              "name": "Cento e Nove",
+              "addressType": "Travessa",
+              "cep": "96405040",
+              "state": "Rio Grande do Sul",
+              "city": "Bagé",
+              "district": "Arvorezinha",
+              "latitude": "-31.31063",
+              "longitude": "-54.14536"
+            }
+          ]
+        },
+        {
+          "name": "Balança",
+          "streets": [
+            {
+              "name": "Governador Leonel Brizola",
+              "addressType": "Avenida",
+              "cep": "96418672",
+              "state": "Rio Grande do Sul",
+              "city": "Bagé",
+              "district": "Balança",
+              "latitude": "-29.72201",
+              "longitude": "-51.63882"
+            },
+            {
+              "name": "Onze",
+              "addressType": "Travessa",
+              "cep": "96418660",
+              "state": "Rio Grande do Sul",
+              "city": "Bagé",
+              "district": "Balança",
+              "latitude": "-31.33067",
+              "longitude": "-54.07251"
+            },
+            {
+              "name": "Quatrocentos e Oitenta e Dois",
+              "addressType": "Rua",
+              "cep": "96418662",
+              "state": "Rio Grande do Sul",
+              "city": "Bagé",
+              "district": "Balança",
+              "latitude": "-31.34648",
+              "longitude": "-54.12853"
+            },
+            {
+              "name": "Ema Silva Moreira",
+              "addressType": "Rua",
+              "cep": "96418665",
+              "state": "Rio Grande do Sul",
+              "city": "Bagé",
+              "district": "Balança",
+              "latitude": "-31.33068",
+              "longitude": "-54.07088"
+            },
+            {
+              "name": "Dez",
+              "addressType": "Travessa",
+              "cep": "96418670",
+              "state": "Rio Grande do Sul",
+              "city": "Bagé",
+              "district": "Balança",
+              "latitude": "-31.33067",
+              "longitude": "-54.07371"
+            }
+          ]
+        },
+        {
+          "name": "Castro Alves",
+          "streets": [
+            {
+              "name": "Nilton Vaz Cachapuz",
+              "addressType": "Rua",
+              "cep": "96418100",
+              "state": "Rio Grande do Sul",
+              "city": "Bagé",
+              "district": "Castro Alves",
+              "latitude": "-31.32793",
+              "longitude": "-54.12877"
+            },
+            {
+              "name": "Cecyra Fallace Saraiva",
+              "addressType": "Rua",
+              "cep": "96418150",
+              "state": "Rio Grande do Sul",
+              "city": "Bagé",
+              "district": "Castro Alves",
+              "latitude": "-31.34915",
+              "longitude": "-54.08407"
+            },
+            {
+              "name": "Pedro Osório",
+              "addressType": "Avenida",
+              "cep": "96420150",
+              "state": "Rio Grande do Sul",
+              "city": "Bagé",
+              "district": "Castro Alves",
+              "latitude": "-31.86048",
+              "longitude": "-52.82955"
+            },
+            {
+              "name": "Trezentos e Seis",
+              "addressType": "Rua",
+              "cep": "96420370",
+              "state": "Rio Grande do Sul",
+              "city": "Bagé",
+              "district": "Castro Alves",
+              "latitude": "-31.35984",
+              "longitude": "-54.08957"
+            },
+            {
+              "name": "Quarenta",
+              "addressType": "Travessa",
+              "cep": "96420012",
+              "state": "Rio Grande do Sul",
+              "city": "Bagé",
+              "district": "Castro Alves",
+              "latitude": "-31.32514",
+              "longitude": "-54.12211"
+            },
+            {
+              "name": "Cinqüenta e Três",
+              "addressType": "Rua",
+              "cep": "96420420",
+              "state": "Rio Grande do Sul",
+              "city": "Bagé",
+              "district": "Castro Alves",
+              "latitude": "-31.28498",
+              "longitude": "-54.14438"
+            },
+            {
+              "name": "Quarenta e Três",
+              "addressType": "Travessa",
+              "cep": "96420220",
+              "state": "Rio Grande do Sul",
+              "city": "Bagé",
+              "district": "Castro Alves",
+              "latitude": "-31.30124",
+              "longitude": "-54.07973"
+            },
+            {
+              "name": "Portugal",
+              "addressType": "Avenida",
+              "cep": "96415000",
+              "state": "Rio Grande do Sul",
+              "city": "Bagé",
+              "district": "Castro Alves",
+              "latitude": "-31.34135",
+              "longitude": "-54.09185"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bento Gonçalves",
+      "ibgeCode": "4302105",
+      "ddd": "54",
+      "districts": [
+        {
+          "name": "Aparecida",
+          "streets": [
+            {
+              "name": "Constante Zatt",
+              "addressType": "Rua",
+              "cep": "95708724",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Aparecida",
+              "latitude": "-29.13629",
+              "longitude": "-51.54014"
+            },
+            {
+              "name": "Giovani Menegotto",
+              "addressType": "Rua",
+              "cep": "95708722",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Aparecida",
+              "latitude": "-29.18106",
+              "longitude": "-51.51476"
+            },
+            {
+              "name": "Mário Luiz Masuti",
+              "addressType": "Rua",
+              "cep": "95708788",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Aparecida",
+              "latitude": "-29.13688",
+              "longitude": "-51.54104"
+            },
+            {
+              "name": "Giácomo Baccin",
+              "addressType": "Rua",
+              "cep": "95708734",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Aparecida",
+              "latitude": "-29.13048",
+              "longitude": "-51.53938"
+            },
+            {
+              "name": "São Roque",
+              "addressType": "Avenida",
+              "cep": "95708700",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Aparecida",
+              "latitude": "-29.14512",
+              "longitude": "-51.52934"
+            },
+            {
+              "name": "Severo Cesca",
+              "addressType": "Rua",
+              "cep": "95708738",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Aparecida",
+              "latitude": "-29.13537",
+              "longitude": "-51.5376"
+            },
+            {
+              "name": "Giácomo Baccin",
+              "addressType": "Rua",
+              "cep": "95708770",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Aparecida",
+              "latitude": "-29.12774",
+              "longitude": "-51.53815"
+            },
+            {
+              "name": "Bento Ferreira da Silva",
+              "addressType": "Rua",
+              "cep": "95708794",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Aparecida",
+              "latitude": "-29.12597",
+              "longitude": "-51.54221"
+            }
+          ]
+        },
+        {
+          "name": "Barracão",
+          "streets": [
+            {
+              "name": "Francisco Ferrari 220",
+              "addressType": "Rua",
+              "cep": "95700974",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Barracão",
+              "latitude": "-29.16426",
+              "longitude": "-51.48128"
+            },
+            {
+              "name": "E",
+              "addressType": "Rua",
+              "cep": "95703754",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Barracão",
+              "latitude": "-29.76766",
+              "longitude": "-51.14749"
+            },
+            {
+              "name": "Luiz Franceschi",
+              "addressType": "Rua",
+              "cep": "95703758",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Barracão",
+              "latitude": "-29.16239",
+              "longitude": "-51.51324"
+            },
+            {
+              "name": "Gilberto Pedralli",
+              "addressType": "Rua",
+              "cep": "95703756",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Barracão",
+              "latitude": "-29.17182",
+              "longitude": "-51.48034"
+            },
+            {
+              "name": "Adriano Spanholi",
+              "addressType": "Rua",
+              "cep": "95703605",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Barracão",
+              "latitude": "-29.16576",
+              "longitude": "-51.47957"
+            },
+            {
+              "name": "Domênico Marini",
+              "addressType": "Rua",
+              "cep": "95703532",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Barracão",
+              "latitude": "-29.17426",
+              "longitude": "-51.49489"
+            },
+            {
+              "name": "Armando Donadel",
+              "addressType": "Rua",
+              "cep": "95703750",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Barracão",
+              "latitude": "-29.16109",
+              "longitude": "-51.47241"
+            },
+            {
+              "name": "João Carlet",
+              "addressType": "Rua",
+              "cep": "95703570",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Barracão",
+              "latitude": "-29.17086",
+              "longitude": "-51.4755"
+            }
+          ]
+        },
+        {
+          "name": "Borgo",
+          "streets": [
+            {
+              "name": "Angela Tecchio",
+              "addressType": "Rua",
+              "cep": "95705494",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Borgo",
+              "latitude": "-29.15753",
+              "longitude": "-51.50673"
+            },
+            {
+              "name": "Achylles Brogiolli",
+              "addressType": "Rua",
+              "cep": "95705454",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Borgo",
+              "latitude": "-29.16069",
+              "longitude": "-51.51035"
+            },
+            {
+              "name": "Albino Ciprandi",
+              "addressType": "Rua",
+              "cep": "95705544",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Borgo",
+              "latitude": "-29.15435",
+              "longitude": "-51.51026"
+            },
+            {
+              "name": "Ângelo Piletti",
+              "addressType": "Rua",
+              "cep": "95705428",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Borgo",
+              "latitude": "-29.15735",
+              "longitude": "-51.51184"
+            },
+            {
+              "name": "Amábile Campagnolo Sonza",
+              "addressType": "Rua",
+              "cep": "95705400",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Borgo",
+              "latitude": "-29.15214",
+              "longitude": "-51.51921"
+            },
+            {
+              "name": "Amábile Tusset Flaiban",
+              "addressType": "Rua",
+              "cep": "95705610",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Borgo",
+              "latitude": "-29.15142",
+              "longitude": "-51.50842"
+            },
+            {
+              "name": "Amadeu Zambon",
+              "addressType": "Rua",
+              "cep": "95705520",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Borgo",
+              "latitude": "-29.15561",
+              "longitude": "-51.5072"
+            },
+            {
+              "name": "Victorino Antônio Fedatto",
+              "addressType": "Rua",
+              "cep": "95705402",
+              "state": "Rio Grande do Sul",
+              "city": "Bento Gonçalves",
+              "district": "Borgo",
+              "latitude": "-29.15117",
+              "longitude": "-51.51181"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cachoeira do Sul",
+      "ibgeCode": "4303004",
+      "ddd": "51",
+      "districts": [
+        {
+          "name": "Barcelos",
+          "streets": [
+            {
+              "name": "Jacinto Falcão",
+              "addressType": "Travessa",
+              "cep": "96506650",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Barcelos",
+              "latitude": "-30.03549",
+              "longitude": "-52.90223"
+            },
+            {
+              "name": "Vinte e Quatro de Maio - lado par",
+              "addressType": "Rua",
+              "cep": "96506620",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Barcelos",
+              "latitude": "-30.04244",
+              "longitude": "-52.88774"
+            },
+            {
+              "name": "Bertulina de Paula Nunes",
+              "addressType": "Rua",
+              "cep": "96506860",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Barcelos",
+              "latitude": "-30.03438",
+              "longitude": "-52.9044"
+            },
+            {
+              "name": "Joaquim José Machado",
+              "addressType": "Rua",
+              "cep": "96506400",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Barcelos",
+              "latitude": "-30.03161",
+              "longitude": "-52.8835"
+            },
+            {
+              "name": "Bernardo Moreira Lírio",
+              "addressType": "Rua",
+              "cep": "96506350",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Barcelos",
+              "latitude": "-30.03244",
+              "longitude": "-52.88764"
+            },
+            {
+              "name": "Batista Carlos",
+              "addressType": "Rua",
+              "cep": "96506820",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Barcelos",
+              "latitude": "-30.03881",
+              "longitude": "-52.88546"
+            },
+            {
+              "name": "Jeremias Betencourt",
+              "addressType": "Rua",
+              "cep": "96506700",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Barcelos",
+              "latitude": "-30.03373",
+              "longitude": "-52.8842"
+            },
+            {
+              "name": "Alzira da Cunha Carlos",
+              "addressType": "Rua",
+              "cep": "96506866",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Barcelos",
+              "latitude": "-30.03443",
+              "longitude": "-52.90411"
+            }
+          ]
+        },
+        {
+          "name": "Carvalho",
+          "streets": [
+            {
+              "name": "Tiradentes - lado par",
+              "addressType": "Rua",
+              "cep": "96508200",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Carvalho",
+              "latitude": "-30.04813",
+              "longitude": "-52.88227"
+            },
+            {
+              "name": "Conde de Porto Alegre",
+              "addressType": "Rua",
+              "cep": "96508314",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Carvalho",
+              "latitude": "-30.0442",
+              "longitude": "-52.88002"
+            },
+            {
+              "name": "Batista Carlos",
+              "addressType": "Rua",
+              "cep": "96508226",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Carvalho",
+              "latitude": "-30.04405",
+              "longitude": "-52.88246"
+            },
+            {
+              "name": "Orlando da Cunha Carlos",
+              "addressType": "Rua",
+              "cep": "96508490",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Carvalho",
+              "latitude": "-30.02921",
+              "longitude": "-52.86833"
+            },
+            {
+              "name": "Tiradentes",
+              "addressType": "Rua",
+              "cep": "96508332",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Carvalho",
+              "latitude": "-30.04923",
+              "longitude": "-52.88474"
+            },
+            {
+              "name": "São Carlos",
+              "addressType": "Rua",
+              "cep": "96508390",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Carvalho",
+              "latitude": "-30.0318",
+              "longitude": "-52.8913"
+            },
+            {
+              "name": "Esperanto",
+              "addressType": "Rua",
+              "cep": "96508310",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Carvalho",
+              "latitude": "-30.04767",
+              "longitude": "-52.87739"
+            },
+            {
+              "name": "São Pedro",
+              "addressType": "Rua",
+              "cep": "96508480",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Carvalho",
+              "latitude": "-30.04629",
+              "longitude": "-52.87623"
+            }
+          ]
+        },
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "General Osório - lado par",
+              "addressType": "Rua",
+              "cep": "96508080",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Centro",
+              "latitude": "-30.03957",
+              "longitude": "-52.87498"
+            },
+            {
+              "name": "Reinaldo Feldmann",
+              "addressType": "Praça",
+              "cep": "96501355",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Centro",
+              "latitude": "-30.03361",
+              "longitude": "-52.90726"
+            },
+            {
+              "name": "Marechal Deodoro",
+              "addressType": "Rua",
+              "cep": "96506754",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Centro",
+              "latitude": "-30.0388",
+              "longitude": "-52.89553"
+            },
+            {
+              "name": "General Portinho - lado par",
+              "addressType": "Rua",
+              "cep": "96508060",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Centro",
+              "latitude": "-30.03987",
+              "longitude": "-52.88018"
+            },
+            {
+              "name": "Ramiro Barcelos - lado par",
+              "addressType": "Rua",
+              "cep": "96508070",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Centro",
+              "latitude": "-30.03897",
+              "longitude": "-52.87592"
+            },
+            {
+              "name": "David Barcelos",
+              "addressType": "Rua",
+              "cep": "96501360",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Centro",
+              "latitude": "-30.03646",
+              "longitude": "-52.90069"
+            },
+            {
+              "name": "Riachuelo",
+              "addressType": "Rua",
+              "cep": "96508761",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Centro",
+              "latitude": "-30.04754",
+              "longitude": "-52.88767"
+            },
+            {
+              "name": "Conde de Porto Alegre",
+              "addressType": "Rua",
+              "cep": "96508804",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeira do Sul",
+              "district": "Centro",
+              "latitude": "-30.04434",
+              "longitude": "-52.88023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cachoeirinha",
+      "ibgeCode": "4303103",
+      "ddd": "51",
+      "districts": [
+        {
+          "name": "COHAB",
+          "streets": [
+            {
+              "name": "Arminda Lombardo",
+              "addressType": "Rua",
+              "cep": "94935070",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "COHAB",
+              "latitude": "-29.9444",
+              "longitude": "-51.09974"
+            },
+            {
+              "name": "Alvarenga Peixoto",
+              "addressType": "Rua",
+              "cep": "94935390",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "COHAB",
+              "latitude": "-29.94251",
+              "longitude": "-51.09963"
+            },
+            {
+              "name": "Tomé de Souza",
+              "addressType": "Rua",
+              "cep": "94935370",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "COHAB",
+              "latitude": "-29.90153",
+              "longitude": "-51.07883"
+            },
+            {
+              "name": "Augusto Correia Freitas",
+              "addressType": "Rua",
+              "cep": "94935080",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "COHAB",
+              "latitude": "-29.94039",
+              "longitude": "-51.10024"
+            },
+            {
+              "name": "Trinta e Um de Outubro",
+              "addressType": "Rua",
+              "cep": "94935710",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "COHAB",
+              "latitude": "-29.94306",
+              "longitude": "-51.09145"
+            },
+            {
+              "name": "Vitorino José dos Santos",
+              "addressType": "Rua",
+              "cep": "94935740",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "COHAB",
+              "latitude": "-29.93783",
+              "longitude": "-51.09223"
+            },
+            {
+              "name": "Antônio Jacob Renner",
+              "addressType": "Rua",
+              "cep": "94935790",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "COHAB",
+              "latitude": "-29.9493",
+              "longitude": "-51.10147"
+            },
+            {
+              "name": "Almirante Barroso",
+              "addressType": "Rua",
+              "cep": "94935360",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "COHAB",
+              "latitude": "-29.94527",
+              "longitude": "-51.10126"
+            }
+          ]
+        },
+        {
+          "name": "Cedic",
+          "streets": [
+            {
+              "name": "Frederico Augusto Ritter",
+              "addressType": "Avenida",
+              "cep": "94930380",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "Cedic",
+              "latitude": "-29.94915",
+              "longitude": "-51.10359"
+            },
+            {
+              "name": "Marcos Wainstein",
+              "addressType": "Rua",
+              "cep": "94930360",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "Cedic",
+              "latitude": "-29.94136",
+              "longitude": "-51.11189"
+            },
+            {
+              "name": "Ítalo Raffo",
+              "addressType": "Rua",
+              "cep": "94930240",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "Cedic",
+              "latitude": "-29.93871",
+              "longitude": "-51.11266"
+            },
+            {
+              "name": "Donato da Silva Ramos",
+              "addressType": "Rua",
+              "cep": "94930365",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "Cedic",
+              "latitude": "-29.94292",
+              "longitude": "-51.10791"
+            },
+            {
+              "name": "Maurício Sirotski Sobrinho",
+              "addressType": "Rua",
+              "cep": "94930370",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "Cedic",
+              "latitude": "-29.94385",
+              "longitude": "-51.1064"
+            },
+            {
+              "name": "Tancredo Neves",
+              "addressType": "Avenida",
+              "cep": "94930540",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "Cedic",
+              "latitude": "-29.93918",
+              "longitude": "-51.1093"
+            },
+            {
+              "name": "Sesi",
+              "addressType": "Beco",
+              "cep": "94930390",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "Cedic",
+              "latitude": "-29.88441",
+              "longitude": "-51.10791"
+            },
+            {
+              "name": "Vereador Ruy Souza Feijó",
+              "addressType": "Rua",
+              "cep": "94930005",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "Cedic",
+              "latitude": "-29.91243",
+              "longitude": "-51.08352"
+            }
+          ]
+        },
+        {
+          "name": "Central Park",
+          "streets": [
+            {
+              "name": "Um",
+              "addressType": "Rua",
+              "cep": "94931090",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "Central Park",
+              "latitude": "-29.91362",
+              "longitude": "-51.0739"
+            },
+            {
+              "name": "Doze",
+              "addressType": "Rua",
+              "cep": "94931027",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "Central Park",
+              "latitude": "-29.91979",
+              "longitude": "-51.08309"
+            },
+            {
+              "name": "Nove",
+              "addressType": "Rua",
+              "cep": "94931043",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "Central Park",
+              "latitude": "-29.89498",
+              "longitude": "-51.08267"
+            },
+            {
+              "name": "Vereador Clóvis Elias Prytula",
+              "addressType": "Avenida",
+              "cep": "94931080",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "Central Park",
+              "latitude": "-29.96057",
+              "longitude": "-51.10226"
+            },
+            {
+              "name": "Dezessete",
+              "addressType": "Rua",
+              "cep": "94931075",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "Central Park",
+              "latitude": "-29.91682",
+              "longitude": "-50.09768"
+            },
+            {
+              "name": "Dez",
+              "addressType": "Rua",
+              "cep": "94931030",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "Central Park",
+              "latitude": "-29.89442",
+              "longitude": "-51.08296"
+            },
+            {
+              "name": "Breno Rosa dos Santos",
+              "addressType": "Rua",
+              "cep": "94931115",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "Central Park",
+              "latitude": "-29.95068",
+              "longitude": "-51.08367"
+            },
+            {
+              "name": "Onze",
+              "addressType": "Rua",
+              "cep": "94931039",
+              "state": "Rio Grande do Sul",
+              "city": "Cachoeirinha",
+              "district": "Central Park",
+              "latitude": "-29.94564",
+              "longitude": "-51.08323"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

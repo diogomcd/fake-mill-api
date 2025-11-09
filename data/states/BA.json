@@ -1,0 +1,1501 @@
+{
+  "code": "BA",
+  "name": "Bahia",
+  "capital": "Salvador",
+  "ddd": "75",
+  "regiao": "Nordeste",
+  "cities": [
+    {
+      "name": "Alagoinhas",
+      "ibgeCode": "2900702",
+      "ddd": "75",
+      "districts": [
+        {
+          "name": "2 de Julho",
+          "streets": [
+            {
+              "name": "Palestina",
+              "addressType": "Travessa",
+              "cep": "48000680",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "2 de Julho",
+              "latitude": "-12.14911",
+              "longitude": "-38.42763"
+            },
+            {
+              "name": "Pérsia",
+              "addressType": "Rua",
+              "cep": "48000682",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "2 de Julho",
+              "latitude": "-12.15051",
+              "longitude": "-38.42903"
+            },
+            {
+              "name": "Rio Aramari",
+              "addressType": "Rua",
+              "cep": "48000638",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "2 de Julho",
+              "latitude": "-12.1503",
+              "longitude": "-38.43048"
+            },
+            {
+              "name": "Rio da Prata",
+              "addressType": "Rua",
+              "cep": "48000616",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "2 de Julho",
+              "latitude": "-12.15051",
+              "longitude": "-38.42903"
+            },
+            {
+              "name": "Rio Seco",
+              "addressType": "Rua",
+              "cep": "48000614",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "2 de Julho",
+              "latitude": "-12.15051",
+              "longitude": "-38.42903"
+            },
+            {
+              "name": "Enéas de Santana",
+              "addressType": "Praça",
+              "cep": "48000626",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "2 de Julho",
+              "latitude": "-12.24292",
+              "longitude": "-38.97542"
+            },
+            {
+              "name": "Trem das Onze",
+              "addressType": "Rua",
+              "cep": "48000662",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "2 de Julho",
+              "latitude": "-12.14423",
+              "longitude": "-38.42947"
+            },
+            {
+              "name": "Sargento Cosme Xavier de Araújo",
+              "addressType": "Rua",
+              "cep": "48000724",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "2 de Julho",
+              "latitude": "-12.14047",
+              "longitude": "-38.41881"
+            }
+          ]
+        },
+        {
+          "name": "Alagoinhas Velha",
+          "streets": [
+            {
+              "name": "João Lima",
+              "addressType": "Travessa",
+              "cep": "48007640",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "Alagoinhas Velha",
+              "latitude": "-12.1251",
+              "longitude": "-38.41827"
+            },
+            {
+              "name": "Marquês de Abrantes",
+              "addressType": "Praça",
+              "cep": "48007090",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "Alagoinhas Velha",
+              "latitude": "-12.13568",
+              "longitude": "-38.40044"
+            },
+            {
+              "name": "Francisco Xavier dos Santos",
+              "addressType": "Rua",
+              "cep": "48007278",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "Alagoinhas Velha",
+              "latitude": "-12.1498",
+              "longitude": "-38.41409"
+            },
+            {
+              "name": "Rio Branco",
+              "addressType": "Avenida",
+              "cep": "48030050",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "Alagoinhas Velha",
+              "latitude": "-12.13459",
+              "longitude": "-38.40641"
+            },
+            {
+              "name": "José Martins Fontes",
+              "addressType": "Praça",
+              "cep": "48007616",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "Alagoinhas Velha",
+              "latitude": "-12.13568",
+              "longitude": "-38.40044"
+            },
+            {
+              "name": "Eulina Ribeiro Lima",
+              "addressType": "Travessa",
+              "cep": "48007302",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "Alagoinhas Velha",
+              "latitude": "-12.12874",
+              "longitude": "-38.41369"
+            },
+            {
+              "name": "Governador Mário Covas",
+              "addressType": "Rodovia",
+              "cep": "48007010",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "Alagoinhas Velha",
+              "latitude": "-12.15226",
+              "longitude": "-38.40105"
+            },
+            {
+              "name": "Pedro Rêgo Nunes",
+              "addressType": "Rua",
+              "cep": "48007410",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "Alagoinhas Velha",
+              "latitude": "-12.13062",
+              "longitude": "-38.43546"
+            }
+          ]
+        },
+        {
+          "name": "Alto Sagrado Coração de Jesus",
+          "streets": [
+            {
+              "name": "Joinville",
+              "addressType": "Rua",
+              "cep": "48002562",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "Alto Sagrado Coração de Jesus",
+              "latitude": "-12.15268",
+              "longitude": "-38.45571"
+            },
+            {
+              "name": "Gramado",
+              "addressType": "Rua",
+              "cep": "48002594",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "Alto Sagrado Coração de Jesus",
+              "latitude": "-12.15268",
+              "longitude": "-38.45571"
+            },
+            {
+              "name": "Galiléia",
+              "addressType": "Rua",
+              "cep": "48002720",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "Alto Sagrado Coração de Jesus",
+              "latitude": "-12.15268",
+              "longitude": "-38.45571"
+            },
+            {
+              "name": "Nova Visão",
+              "addressType": "Rua",
+              "cep": "48002716",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "Alto Sagrado Coração de Jesus",
+              "latitude": "-12.15268",
+              "longitude": "-38.45571"
+            },
+            {
+              "name": "Foz do Iguaçu",
+              "addressType": "Rua",
+              "cep": "48002598",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "Alto Sagrado Coração de Jesus",
+              "latitude": "-12.15268",
+              "longitude": "-38.45571"
+            },
+            {
+              "name": "Tomé de Souza",
+              "addressType": "Rua",
+              "cep": "48002740",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "Alto Sagrado Coração de Jesus",
+              "latitude": "-12.15268",
+              "longitude": "-38.45571"
+            },
+            {
+              "name": "Guarapari",
+              "addressType": "Avenida",
+              "cep": "48002582",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "Alto Sagrado Coração de Jesus",
+              "latitude": "-12.15268",
+              "longitude": "-38.45571"
+            },
+            {
+              "name": "Monte Sinai",
+              "addressType": "Travessa",
+              "cep": "48002728",
+              "state": "Bahia",
+              "city": "Alagoinhas",
+              "district": "Alto Sagrado Coração de Jesus",
+              "latitude": "-12.15268",
+              "longitude": "-38.45571"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Barreiras",
+      "ibgeCode": "2903201",
+      "ddd": "77",
+      "districts": [
+        {
+          "name": "Alphaville",
+          "streets": [
+            {
+              "name": "Sinval Nascimento dos Santos",
+              "addressType": "Rua",
+              "cep": "47803789",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Alphaville",
+              "latitude": "-12.15465",
+              "longitude": "-44.98767"
+            },
+            {
+              "name": "Lagoa Alegre",
+              "addressType": "Rua",
+              "cep": "47803840",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Alphaville",
+              "latitude": "-12.12599",
+              "longitude": "-44.9638"
+            },
+            {
+              "name": "da Fortuna",
+              "addressType": "Rua",
+              "cep": "47803855",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Alphaville",
+              "latitude": "-12.12246",
+              "longitude": "-44.96564"
+            },
+            {
+              "name": "Alta Floresta",
+              "addressType": "Rua",
+              "cep": "47803837",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Alphaville",
+              "latitude": "-12.12661",
+              "longitude": "-44.9641"
+            },
+            {
+              "name": "Rancho Alegre",
+              "addressType": "Rua",
+              "cep": "47803816",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Alphaville",
+              "latitude": "-12.12599",
+              "longitude": "-44.9638"
+            },
+            {
+              "name": "Filadélfia",
+              "addressType": "Rua",
+              "cep": "47803765",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Alphaville",
+              "latitude": "-12.1298",
+              "longitude": "-44.9627"
+            },
+            {
+              "name": "Novaci",
+              "addressType": "Rua",
+              "cep": "47803792",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Alphaville",
+              "latitude": "-12.1298",
+              "longitude": "-44.9627"
+            },
+            {
+              "name": "Esperança Nova",
+              "addressType": "Rua",
+              "cep": "47803822",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Alphaville",
+              "latitude": "-12.11773",
+              "longitude": "-45.00689"
+            }
+          ]
+        },
+        {
+          "name": "Antonio Geraldo",
+          "streets": [
+            {
+              "name": "Noery Carlos Agostini",
+              "addressType": "Rua",
+              "cep": "47808094",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Antonio Geraldo",
+              "latitude": "-12.15691",
+              "longitude": "-45.00937"
+            },
+            {
+              "name": "Irecê",
+              "addressType": "Rua",
+              "cep": "47808098",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Antonio Geraldo",
+              "latitude": "-12.15693",
+              "longitude": "-45.00884"
+            },
+            {
+              "name": "Maria da Glória",
+              "addressType": "Rua",
+              "cep": "47808134",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Antonio Geraldo",
+              "latitude": "-12.15743",
+              "longitude": "-45.00627"
+            },
+            {
+              "name": "Casa Nova",
+              "addressType": "Rua",
+              "cep": "47808178",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Antonio Geraldo",
+              "latitude": "-12.16163",
+              "longitude": "-45.00966"
+            },
+            {
+              "name": "Rio Grande",
+              "addressType": "Avenida",
+              "cep": "47808122",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Antonio Geraldo",
+              "latitude": "-12.15673",
+              "longitude": "-45.00713"
+            },
+            {
+              "name": "José Ferreira Neto",
+              "addressType": "Travessa",
+              "cep": "47808146",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Antonio Geraldo",
+              "latitude": "-12.16042",
+              "longitude": "-45.00757"
+            },
+            {
+              "name": "Petrolina",
+              "addressType": "Travessa",
+              "cep": "47808166",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Antonio Geraldo",
+              "latitude": "-12.15963",
+              "longitude": "-45.0093"
+            },
+            {
+              "name": "Eudilton Miranda",
+              "addressType": "Rua",
+              "cep": "47808162",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Antonio Geraldo",
+              "latitude": "-12.15967",
+              "longitude": "-45.0088"
+            }
+          ]
+        },
+        {
+          "name": "Aratu",
+          "streets": [
+            {
+              "name": "31 de Dezembro",
+              "addressType": "Rua",
+              "cep": "47806164",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Aratu",
+              "latitude": "-12.15685",
+              "longitude": "-44.98948"
+            },
+            {
+              "name": "Beija-flor - até 148/149",
+              "addressType": "Rua",
+              "cep": "47806140",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Aratu",
+              "latitude": "-12.13762",
+              "longitude": "-45.0117"
+            },
+            {
+              "name": "25 de Dezembro",
+              "addressType": "Rua",
+              "cep": "47806158",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Aratu",
+              "latitude": "-12.15714",
+              "longitude": "-44.99143"
+            },
+            {
+              "name": "Boa Esperança",
+              "addressType": "Rua",
+              "cep": "47806190",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Aratu",
+              "latitude": "-12.13929",
+              "longitude": "-45.00348"
+            },
+            {
+              "name": "Atlântica",
+              "addressType": "Rua",
+              "cep": "47806184",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Aratu",
+              "latitude": "-12.15767",
+              "longitude": "-44.99162"
+            },
+            {
+              "name": "Alberto Coimbra",
+              "addressType": "Rua",
+              "cep": "47806168",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Aratu",
+              "latitude": "-12.14767",
+              "longitude": "-44.99232"
+            },
+            {
+              "name": "Edigar de Deus Pitta",
+              "addressType": "Rua",
+              "cep": "47806146",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Aratu",
+              "latitude": "-12.15772",
+              "longitude": "-44.99179"
+            },
+            {
+              "name": "Aylon Macêdo",
+              "addressType": "Avenida",
+              "cep": "47806180",
+              "state": "Bahia",
+              "city": "Barreiras",
+              "district": "Aratu",
+              "latitude": "-12.14801",
+              "longitude": "-45.00406"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Brumado",
+      "ibgeCode": "2904605",
+      "ddd": "77",
+      "districts": [
+        {
+          "name": "Alto do Escalavrado",
+          "streets": [
+            {
+              "name": "João Paulo I",
+              "addressType": "Avenida",
+              "cep": "46115310",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Alto do Escalavrado",
+              "latitude": "-14.20101",
+              "longitude": "-41.6778"
+            },
+            {
+              "name": "Antônio Gonçalves de Aguiar",
+              "addressType": "Rua",
+              "cep": "46115408",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Alto do Escalavrado",
+              "latitude": "-14.20784",
+              "longitude": "-41.68552"
+            },
+            {
+              "name": "Gérson dos Santos Azevedo",
+              "addressType": "Rua",
+              "cep": "46115344",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Alto do Escalavrado",
+              "latitude": "-14.20636",
+              "longitude": "-41.68016"
+            },
+            {
+              "name": "Leobino Gomes",
+              "addressType": "Rua",
+              "cep": "46115322",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Alto do Escalavrado",
+              "latitude": "-14.20964",
+              "longitude": "-41.67986"
+            },
+            {
+              "name": "Gerôncio Santos Azevedo",
+              "addressType": "Rua",
+              "cep": "46115346",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Alto do Escalavrado",
+              "latitude": "-14.20907",
+              "longitude": "-41.67468"
+            },
+            {
+              "name": "Recife",
+              "addressType": "Rua",
+              "cep": "46115358",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Alto do Escalavrado",
+              "latitude": "-9.44458",
+              "longitude": "-38.21873"
+            },
+            {
+              "name": "Gabriel Rodrigues de Souza",
+              "addressType": "Travessa",
+              "cep": "46115318",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Alto do Escalavrado",
+              "latitude": "-14.20952",
+              "longitude": "-41.67893"
+            },
+            {
+              "name": "Brasilia",
+              "addressType": "Rua",
+              "cep": "46115388",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Alto do Escalavrado",
+              "latitude": "-14.20028",
+              "longitude": "-41.66759"
+            }
+          ]
+        },
+        {
+          "name": "Apertado do Morro",
+          "streets": [
+            {
+              "name": "Alberto Alves Marinho",
+              "addressType": "Rua",
+              "cep": "46107374",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Apertado do Morro",
+              "latitude": "-14.19186",
+              "longitude": "-41.66095"
+            },
+            {
+              "name": "Guanambi",
+              "addressType": "Rua",
+              "cep": "46107372",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Apertado do Morro",
+              "latitude": "-12.71694",
+              "longitude": "-38.33671"
+            },
+            {
+              "name": "Porto Luís",
+              "addressType": "Rua",
+              "cep": "46107386",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Apertado do Morro",
+              "latitude": "-14.20199",
+              "longitude": "-41.65044"
+            },
+            {
+              "name": "Trípoli",
+              "addressType": "Rua",
+              "cep": "46107384",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Apertado do Morro",
+              "latitude": "-12.94756",
+              "longitude": "-38.4943"
+            },
+            {
+              "name": "Hungria",
+              "addressType": "Rua",
+              "cep": "46107360",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Apertado do Morro",
+              "latitude": "-14.20028",
+              "longitude": "-41.66759"
+            },
+            {
+              "name": "Manoel Francisco de Lima",
+              "addressType": "Rua",
+              "cep": "46107368",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Apertado do Morro",
+              "latitude": "-14.19106",
+              "longitude": "-41.66053"
+            },
+            {
+              "name": "Índia",
+              "addressType": "Rua",
+              "cep": "46107358",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Apertado do Morro",
+              "latitude": "-9.44458",
+              "longitude": "-38.21873"
+            },
+            {
+              "name": "Beirute",
+              "addressType": "Rua",
+              "cep": "46107376",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Apertado do Morro",
+              "latitude": "-14.20028",
+              "longitude": "-41.66759"
+            }
+          ]
+        },
+        {
+          "name": "Baraúnas",
+          "streets": [
+            {
+              "name": "Travessa dos Namorados",
+              "addressType": "1ª",
+              "cep": "46115594",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Baraúnas",
+              "latitude": "-14.21111",
+              "longitude": "-41.68387"
+            },
+            {
+              "name": "Travessa dos Namorados",
+              "addressType": "4ª",
+              "cep": "46115598",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Baraúnas",
+              "latitude": "-14.21114",
+              "longitude": "-41.68359"
+            },
+            {
+              "name": "Nicefaro dos Santos Coqueiro",
+              "addressType": "Rua",
+              "cep": "46115498",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Baraúnas",
+              "latitude": "-14.20942",
+              "longitude": "-41.67688"
+            },
+            {
+              "name": "Porto Velho",
+              "addressType": "Rua",
+              "cep": "46115584",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Baraúnas",
+              "latitude": "-14.21018",
+              "longitude": "-41.68276"
+            },
+            {
+              "name": "2 de Novembro",
+              "addressType": "Rua",
+              "cep": "46115572",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Baraúnas",
+              "latitude": "-14.20875",
+              "longitude": "-41.68485"
+            },
+            {
+              "name": "Tanque Novo",
+              "addressType": "Rua",
+              "cep": "46115526",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Baraúnas",
+              "latitude": "-13.54915",
+              "longitude": "-42.49213"
+            },
+            {
+              "name": "Rita Sofia Pereira",
+              "addressType": "Rua",
+              "cep": "46115650",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Baraúnas",
+              "latitude": "-14.21153",
+              "longitude": "-41.6804"
+            },
+            {
+              "name": "Roberto do Alívio Marques Ferreira",
+              "addressType": "Rua",
+              "cep": "46115434",
+              "state": "Bahia",
+              "city": "Brumado",
+              "district": "Baraúnas",
+              "latitude": "-14.20869",
+              "longitude": "-41.68553"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Camaçari",
+      "ibgeCode": "2905701",
+      "ddd": "71",
+      "districts": [
+        {
+          "name": "Abrantes",
+          "streets": [
+            {
+              "name": "do Côco, Km 13",
+              "addressType": "Estrada",
+              "cep": "42840971",
+              "state": "Bahia",
+              "city": "Camaçari",
+              "district": "Abrantes",
+              "latitude": "-12.70155",
+              "longitude": "-38.13256"
+            },
+            {
+              "name": "",
+              "addressType": "",
+              "cep": "42840000",
+              "state": "Bahia",
+              "city": "Camaçari",
+              "district": "Abrantes",
+              "latitude": "-12.83227",
+              "longitude": "-38.26641"
+            }
+          ]
+        },
+        {
+          "name": "Acajutiba",
+          "streets": [
+            {
+              "name": "do Triunfo",
+              "addressType": "Rua",
+              "cep": "42807245",
+              "state": "Bahia",
+              "city": "Camaçari",
+              "district": "Acajutiba",
+              "latitude": "-12.71393",
+              "longitude": "-38.33154"
+            },
+            {
+              "name": "Nazaré",
+              "addressType": "Caminho",
+              "cep": "42807275",
+              "state": "Bahia",
+              "city": "Camaçari",
+              "district": "Acajutiba",
+              "latitude": "-12.71551",
+              "longitude": "-38.33075"
+            },
+            {
+              "name": "do Triunfo",
+              "addressType": "Travessa",
+              "cep": "42807243",
+              "state": "Bahia",
+              "city": "Camaçari",
+              "district": "Acajutiba",
+              "latitude": "-12.7141",
+              "longitude": "-38.33142"
+            },
+            {
+              "name": "Travessa Acajutiba",
+              "addressType": "6ª",
+              "cep": "42807279",
+              "state": "Bahia",
+              "city": "Camaçari",
+              "district": "Acajutiba",
+              "latitude": "-12.71659",
+              "longitude": "-38.33134"
+            },
+            {
+              "name": "Travessa Acajutiba",
+              "addressType": "10ª",
+              "cep": "42807235",
+              "state": "Bahia",
+              "city": "Camaçari",
+              "district": "Acajutiba",
+              "latitude": "-12.71597",
+              "longitude": "-38.33081"
+            },
+            {
+              "name": "Mauá",
+              "addressType": "Rua",
+              "cep": "42807233",
+              "state": "Bahia",
+              "city": "Camaçari",
+              "district": "Acajutiba",
+              "latitude": "-12.71393",
+              "longitude": "-38.33154"
+            },
+            {
+              "name": "Acajutiba",
+              "addressType": "Rua",
+              "cep": "42807255",
+              "state": "Bahia",
+              "city": "Camaçari",
+              "district": "Acajutiba",
+              "latitude": "-12.71393",
+              "longitude": "-38.33154"
+            },
+            {
+              "name": "da Aurora",
+              "addressType": "Caminho",
+              "cep": "42807257",
+              "state": "Bahia",
+              "city": "Camaçari",
+              "district": "Acajutiba",
+              "latitude": "-12.71352",
+              "longitude": "-38.33149"
+            }
+          ]
+        },
+        {
+          "name": "Alphaville",
+          "streets": [
+            {
+              "name": "Itaparica",
+              "addressType": "Rua",
+              "cep": "42822008",
+              "state": "Bahia",
+              "city": "Camaçari",
+              "district": "Alphaville",
+              "latitude": "-12.68524",
+              "longitude": "-38.33054"
+            },
+            {
+              "name": "Jauá",
+              "addressType": "Rua",
+              "cep": "42822028",
+              "state": "Bahia",
+              "city": "Camaçari",
+              "district": "Alphaville",
+              "latitude": "-12.82217",
+              "longitude": "-38.23068"
+            },
+            {
+              "name": "Arembepe",
+              "addressType": "Rua",
+              "cep": "42822024",
+              "state": "Bahia",
+              "city": "Camaçari",
+              "district": "Alphaville",
+              "latitude": "-12.77395",
+              "longitude": "-38.17751"
+            },
+            {
+              "name": "Arraial DAjuda",
+              "addressType": "Rua",
+              "cep": "42822016",
+              "state": "Bahia",
+              "city": "Camaçari",
+              "district": "Alphaville",
+              "latitude": "-16.49258",
+              "longitude": "-39.08681"
+            },
+            {
+              "name": "Caraíva",
+              "addressType": "Rua",
+              "cep": "42822004",
+              "state": "Bahia",
+              "city": "Camaçari",
+              "district": "Alphaville",
+              "latitude": "-12.82623",
+              "longitude": "-38.27447"
+            },
+            {
+              "name": "Morro de São Paulo",
+              "addressType": "Rua",
+              "cep": "42822012",
+              "state": "Bahia",
+              "city": "Camaçari",
+              "district": "Alphaville",
+              "latitude": "-14.87138",
+              "longitude": "-40.86438"
+            },
+            {
+              "name": "B",
+              "addressType": "Rua",
+              "cep": "42821854",
+              "state": "Bahia",
+              "city": "Camaçari",
+              "district": "Alphaville",
+              "latitude": "-12.68596",
+              "longitude": "-38.33314"
+            },
+            {
+              "name": "Principal de Portal de Abrantes",
+              "addressType": "Rua",
+              "cep": "42821850",
+              "state": "Bahia",
+              "city": "Camaçari",
+              "district": "Alphaville",
+              "latitude": "-12.85058",
+              "longitude": "-38.27767"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Candeias",
+      "ibgeCode": "2906501",
+      "ddd": "71",
+      "districts": [
+        {
+          "name": "Areia",
+          "streets": [
+            {
+              "name": "General Osório",
+              "addressType": "Rua",
+              "cep": "43825160",
+              "state": "Bahia",
+              "city": "Candeias",
+              "district": "Areia",
+              "latitude": "-12.67829",
+              "longitude": "-38.53744"
+            },
+            {
+              "name": "Getúlio Vargas",
+              "addressType": "Rua",
+              "cep": "43825141",
+              "state": "Bahia",
+              "city": "Candeias",
+              "district": "Areia",
+              "latitude": "-12.68188",
+              "longitude": "-38.53183"
+            },
+            {
+              "name": "Dom Bosco",
+              "addressType": "Rua",
+              "cep": "43825170",
+              "state": "Bahia",
+              "city": "Candeias",
+              "district": "Areia",
+              "latitude": "-12.67812",
+              "longitude": "-38.53836"
+            },
+            {
+              "name": "Calmon",
+              "addressType": "Travessa",
+              "cep": "43825220",
+              "state": "Bahia",
+              "city": "Candeias",
+              "district": "Areia",
+              "latitude": "-12.68014",
+              "longitude": "-38.53305"
+            },
+            {
+              "name": "Voluntários da Pátria",
+              "addressType": "Rua",
+              "cep": "43825180",
+              "state": "Bahia",
+              "city": "Candeias",
+              "district": "Areia",
+              "latitude": "-12.67882",
+              "longitude": "-38.53404"
+            },
+            {
+              "name": "Getúlio Vargas",
+              "addressType": "Travessa",
+              "cep": "43825150",
+              "state": "Bahia",
+              "city": "Candeias",
+              "district": "Areia",
+              "latitude": "-12.92307",
+              "longitude": "-38.44424"
+            },
+            {
+              "name": "Calmon",
+              "addressType": "Rua",
+              "cep": "43825210",
+              "state": "Bahia",
+              "city": "Candeias",
+              "district": "Areia",
+              "latitude": "-12.67997",
+              "longitude": "-38.53318"
+            },
+            {
+              "name": "Primeiro de Maio",
+              "addressType": "Rua",
+              "cep": "43825200",
+              "state": "Bahia",
+              "city": "Candeias",
+              "district": "Areia",
+              "latitude": "-9.4494",
+              "longitude": "-40.48405"
+            }
+          ]
+        },
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "Alto da Boa Vista",
+              "addressType": "Rua",
+              "cep": "43805035",
+              "state": "Bahia",
+              "city": "Candeias",
+              "district": "Centro",
+              "latitude": "-12.67263",
+              "longitude": "-38.54516"
+            },
+            {
+              "name": "Tiradentes",
+              "addressType": "Praça",
+              "cep": "43805220",
+              "state": "Bahia",
+              "city": "Candeias",
+              "district": "Centro",
+              "latitude": "-12.66879",
+              "longitude": "-38.52899"
+            },
+            {
+              "name": "Esperança",
+              "addressType": "Rua",
+              "cep": "43805120",
+              "state": "Bahia",
+              "city": "Candeias",
+              "district": "Centro",
+              "latitude": "-12.67203",
+              "longitude": "-38.54438"
+            },
+            {
+              "name": "da Paz",
+              "addressType": "Rua",
+              "cep": "43805320",
+              "state": "Bahia",
+              "city": "Candeias",
+              "district": "Centro",
+              "latitude": "-12.68391",
+              "longitude": "-38.53086"
+            },
+            {
+              "name": "São José",
+              "addressType": "Rua",
+              "cep": "43805020",
+              "state": "Bahia",
+              "city": "Candeias",
+              "district": "Centro",
+              "latitude": "-12.67035",
+              "longitude": "-38.53244"
+            },
+            {
+              "name": "São Lázaro",
+              "addressType": "Travessa",
+              "cep": "43805050",
+              "state": "Bahia",
+              "city": "Candeias",
+              "district": "Centro",
+              "latitude": "-12.66791",
+              "longitude": "-38.54615"
+            },
+            {
+              "name": "Rio Prado",
+              "addressType": "Rua",
+              "cep": "43805180",
+              "state": "Bahia",
+              "city": "Candeias",
+              "district": "Centro",
+              "latitude": "-14.87547",
+              "longitude": "-40.81473"
+            },
+            {
+              "name": "Doutor Gualberto Dantas Fontes, 54",
+              "addressType": "Praça",
+              "cep": "43805901",
+              "state": "Bahia",
+              "city": "Candeias",
+              "district": "Centro",
+              "latitude": "-12.6708",
+              "longitude": "-38.54413"
+            }
+          ]
+        },
+        {
+          "name": "Distrito Industrial",
+          "streets": [
+            {
+              "name": "Matoim",
+              "addressType": "Via",
+              "cep": "43813000",
+              "state": "Bahia",
+              "city": "Candeias",
+              "district": "Distrito Industrial",
+              "latitude": "-12.76611",
+              "longitude": "-38.49346"
+            },
+            {
+              "name": "BA-522",
+              "addressType": "Rodovia",
+              "cep": "43813300",
+              "state": "Bahia",
+              "city": "Candeias",
+              "district": "Distrito Industrial",
+              "latitude": "-14.82978",
+              "longitude": "-40.83674"
+            },
+            {
+              "name": "das Torres",
+              "addressType": "Via",
+              "cep": "43813100",
+              "state": "Bahia",
+              "city": "Candeias",
+              "district": "Distrito Industrial",
+              "latitude": "-14.82978",
+              "longitude": "-40.83674"
+            },
+            {
+              "name": "BR-324, 6800",
+              "addressType": "Rodovia",
+              "cep": "43813900",
+              "state": "Bahia",
+              "city": "Candeias",
+              "district": "Distrito Industrial",
+              "latitude": "-14.80804",
+              "longitude": "-40.78915"
+            },
+            {
+              "name": "BR-324",
+              "addressType": "Rodovia",
+              "cep": "43813400",
+              "state": "Bahia",
+              "city": "Candeias",
+              "district": "Distrito Industrial",
+              "latitude": "-14.80804",
+              "longitude": "-40.78915"
+            },
+            {
+              "name": "Massuim",
+              "addressType": "Via",
+              "cep": "43813200",
+              "state": "Bahia",
+              "city": "Candeias",
+              "district": "Distrito Industrial",
+              "latitude": "-14.86796",
+              "longitude": "-40.80909"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eunápolis",
+      "ibgeCode": "2910727",
+      "ddd": "73",
+      "districts": [
+        {
+          "name": "Alecrim",
+          "streets": [
+            {
+              "name": "D",
+              "addressType": "Rua",
+              "cep": "45825012",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alecrim",
+              "latitude": "-16.34923",
+              "longitude": "-39.57322"
+            },
+            {
+              "name": "I",
+              "addressType": "Rua",
+              "cep": "45825026",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alecrim",
+              "latitude": "-16.34925",
+              "longitude": "-39.57331"
+            },
+            {
+              "name": "G",
+              "addressType": "Rua",
+              "cep": "45825020",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alecrim",
+              "latitude": "-16.34961",
+              "longitude": "-39.57396"
+            },
+            {
+              "name": "Capixaba",
+              "addressType": "Avenida",
+              "cep": "45825036",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alecrim",
+              "latitude": "-16.34312",
+              "longitude": "-39.5801"
+            },
+            {
+              "name": "L",
+              "addressType": "Rua",
+              "cep": "45825030",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alecrim",
+              "latitude": "-16.34926",
+              "longitude": "-39.57334"
+            },
+            {
+              "name": "B",
+              "addressType": "Rua",
+              "cep": "45825008",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alecrim",
+              "latitude": "-16.34923",
+              "longitude": "-39.5732"
+            },
+            {
+              "name": "C",
+              "addressType": "Rua",
+              "cep": "45825010",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alecrim",
+              "latitude": "-16.34923",
+              "longitude": "-39.57321"
+            },
+            {
+              "name": "M",
+              "addressType": "Rua",
+              "cep": "45825028",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alecrim",
+              "latitude": "-16.34926",
+              "longitude": "-39.57333"
+            }
+          ]
+        },
+        {
+          "name": "Alegria",
+          "streets": [
+            {
+              "name": "da Rosa",
+              "addressType": "Alameda",
+              "cep": "45823120",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alegria",
+              "latitude": "-16.36595",
+              "longitude": "-39.5845"
+            },
+            {
+              "name": "Oswaldo Bonfim",
+              "addressType": "Rua",
+              "cep": "45823127",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alegria",
+              "latitude": "-16.34724",
+              "longitude": "-39.57645"
+            },
+            {
+              "name": "Nova",
+              "addressType": "Rua",
+              "cep": "45823133",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alegria",
+              "latitude": "-16.36605",
+              "longitude": "-39.57471"
+            },
+            {
+              "name": "do Candinho",
+              "addressType": "Rua",
+              "cep": "45823140",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alegria",
+              "latitude": "-16.36729",
+              "longitude": "-39.58237"
+            },
+            {
+              "name": "do Eixo",
+              "addressType": "Rua",
+              "cep": "45823130",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alegria",
+              "latitude": "-17.89188",
+              "longitude": "-39.81249"
+            },
+            {
+              "name": "Bom Jesus",
+              "addressType": "Rua",
+              "cep": "45823139",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alegria",
+              "latitude": "-16.3479",
+              "longitude": "-39.57864"
+            },
+            {
+              "name": "Boa Vista",
+              "addressType": "Rua",
+              "cep": "45823125",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alegria",
+              "latitude": "-16.37091",
+              "longitude": "-39.57853"
+            },
+            {
+              "name": "Frei Constantino",
+              "addressType": "Rua",
+              "cep": "45823141",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alegria",
+              "latitude": "-16.36729",
+              "longitude": "-39.58237"
+            }
+          ]
+        },
+        {
+          "name": "Alto da Boa Vista",
+          "streets": [
+            {
+              "name": "Adolpho Xavier Gomes",
+              "addressType": "Rua",
+              "cep": "45830444",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alto da Boa Vista",
+              "latitude": "-16.39212",
+              "longitude": "-39.59684"
+            },
+            {
+              "name": "Uruguai",
+              "addressType": "Rua",
+              "cep": "45830420",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alto da Boa Vista",
+              "latitude": "-16.36829",
+              "longitude": "-39.57918"
+            },
+            {
+              "name": "Portugal",
+              "addressType": "Avenida",
+              "cep": "45830432",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alto da Boa Vista",
+              "latitude": "-16.38789",
+              "longitude": "-39.57137"
+            },
+            {
+              "name": "La Paz",
+              "addressType": "Rua",
+              "cep": "45830396",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alto da Boa Vista",
+              "latitude": "-16.36887",
+              "longitude": "-39.57919"
+            },
+            {
+              "name": "Guatemala",
+              "addressType": "Rua",
+              "cep": "45830400",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alto da Boa Vista",
+              "latitude": "-16.38759",
+              "longitude": "-39.57354"
+            },
+            {
+              "name": "Equador I",
+              "addressType": "Rua",
+              "cep": "45830430",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alto da Boa Vista",
+              "latitude": "-16.38981",
+              "longitude": "-39.57246"
+            },
+            {
+              "name": "Suriname",
+              "addressType": "Rua",
+              "cep": "45830412",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alto da Boa Vista",
+              "latitude": "-16.36838",
+              "longitude": "-39.57931"
+            },
+            {
+              "name": "Reino Unido",
+              "addressType": "Avenida",
+              "cep": "45830394",
+              "state": "Bahia",
+              "city": "Eunápolis",
+              "district": "Alto da Boa Vista",
+              "latitude": "-16.38814",
+              "longitude": "-39.57479"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

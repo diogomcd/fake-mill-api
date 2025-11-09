@@ -1,0 +1,1540 @@
+{
+    "schemes": [
+        "http",
+        "https"
+    ],
+    "swagger": "2.0",
+    "info": {
+        "description": "API REST para geração de dados fake brasileiros para testes, com foco em performance e simplicidade.",
+        "title": "Fake Mill API",
+        "termsOfService": "http://swagger.io/terms/",
+        "contact": {},
+        "license": {
+            "name": "GPL v3",
+            "url": "https://www.gnu.org/licenses/gpl-3.0.html"
+        },
+        "version": "1.0.0"
+    },
+    "host": "fakemill.com",
+    "basePath": "/api/v1",
+    "paths": {
+        "/address": {
+            "get": {
+                "description": "Gera um ou mais endereços brasileiros fictícios, com opção de estado.",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Endereço"
+                ],
+                "summary": "Gera endereço brasileiro fictício",
+                "parameters": [
+                    {
+                        "maximum": 200,
+                        "minimum": 1,
+                        "type": "integer",
+                        "default": 1,
+                        "description": "Quantidade de endereços (1-200)",
+                        "name": "quantity",
+                        "in": "query"
+                    },
+                    {
+                        "type": "string",
+                        "description": "UF do estado (ex: SP, RJ)",
+                        "name": "state",
+                        "in": "query"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "type": "array",
+                            "items": {
+                                "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.Address"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/bank-account": {
+            "get": {
+                "description": "Gera dados de uma conta bancária fictícia, incluindo banco, agência e número da conta.",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Financeiro"
+                ],
+                "summary": "Gera dados bancários fictícios",
+                "parameters": [
+                    {
+                        "maximum": 200,
+                        "minimum": 1,
+                        "type": "integer",
+                        "default": 1,
+                        "description": "Quantidade de contas (1-200)",
+                        "name": "quantity",
+                        "in": "query"
+                    },
+                    {
+                        "type": "string",
+                        "description": "Código do banco (ex: 001, 237)",
+                        "name": "bank",
+                        "in": "query"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "type": "array",
+                            "items": {
+                                "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.BankAccountResponse"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/cnpj": {
+            "get": {
+                "description": "Gera um ou mais números de CNPJ válidos ou inválidos, com opção de formatação.",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Documentos"
+                ],
+                "summary": "Gera CNPJ válido ou inválido",
+                "parameters": [
+                    {
+                        "maximum": 200,
+                        "minimum": 1,
+                        "type": "integer",
+                        "default": 1,
+                        "description": "Quantidade de CNPJs (1-200)",
+                        "name": "quantity",
+                        "in": "query"
+                    },
+                    {
+                        "type": "boolean",
+                        "default": true,
+                        "description": "Retorna formatado (XX.XXX.XXX/XXXX-XX)",
+                        "name": "formatted",
+                        "in": "query"
+                    },
+                    {
+                        "type": "boolean",
+                        "default": true,
+                        "description": "Gera CNPJ válido com dígitos verificadores corretos",
+                        "name": "valid",
+                        "in": "query"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "type": "array",
+                            "items": {
+                                "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.CNPJResponse"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/company": {
+            "get": {
+                "description": "Gera dados completos de uma ou mais empresas fictícias, incluindo nome, CNPJ, endereço, etc.",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Empresa"
+                ],
+                "summary": "Gera dados completos de empresa fictícia",
+                "parameters": [
+                    {
+                        "maximum": 200,
+                        "minimum": 1,
+                        "type": "integer",
+                        "default": 1,
+                        "description": "Quantidade de empresas (1-200)",
+                        "name": "quantity",
+                        "in": "query"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "type": "array",
+                            "items": {
+                                "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.CompanyResponse"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/cpf": {
+            "get": {
+                "description": "Gera um ou mais números de CPF válidos ou inválidos, com opção de formatação.",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Documentos"
+                ],
+                "summary": "Gera CPF válido ou inválido",
+                "parameters": [
+                    {
+                        "maximum": 200,
+                        "minimum": 1,
+                        "type": "integer",
+                        "default": 1,
+                        "description": "Quantidade de CPFs (1-200)",
+                        "name": "quantity",
+                        "in": "query"
+                    },
+                    {
+                        "type": "boolean",
+                        "default": true,
+                        "description": "Retorna formatado (XXX.XXX.XXX-XX)",
+                        "name": "formatted",
+                        "in": "query"
+                    },
+                    {
+                        "type": "boolean",
+                        "default": true,
+                        "description": "Gera CPF válido com dígitos verificadores corretos",
+                        "name": "valid",
+                        "in": "query"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "type": "array",
+                            "items": {
+                                "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.CPFResponse"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/credit-card": {
+            "get": {
+                "description": "Gera dados de um cartão de crédito fictício, incluindo número, bandeira, CVV e data de validade.",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Financeiro"
+                ],
+                "summary": "Gera dados de cartão de crédito fictício",
+                "parameters": [
+                    {
+                        "maximum": 200,
+                        "minimum": 1,
+                        "type": "integer",
+                        "default": 1,
+                        "description": "Quantidade de cartões (1-200)",
+                        "name": "quantity",
+                        "in": "query"
+                    },
+                    {
+                        "enum": [
+                            "visa",
+                            "mastercard",
+                            "elo",
+                            "amex"
+                        ],
+                        "type": "string",
+                        "description": "Bandeira do cartão",
+                        "name": "brand",
+                        "in": "query"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "type": "array",
+                            "items": {
+                                "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.CreditCardResponse"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/email": {
+            "get": {
+                "description": "Gera um ou mais emails fictícios, com opção de domínio customizado.",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Contato"
+                ],
+                "summary": "Gera email fictício",
+                "parameters": [
+                    {
+                        "maximum": 200,
+                        "minimum": 1,
+                        "type": "integer",
+                        "default": 1,
+                        "description": "Quantidade de emails (1-200)",
+                        "name": "quantity",
+                        "in": "query"
+                    },
+                    {
+                        "type": "string",
+                        "description": "Domínio customizado (ex: minhaempresa.com)",
+                        "name": "domain",
+                        "in": "query"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "type": "array",
+                            "items": {
+                                "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.EmailResponse"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/person": {
+            "get": {
+                "description": "Gera um ou mais registros de pessoas fictícias com nome, CPF, RG, data de nascimento, etc.",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Pessoa"
+                ],
+                "summary": "Gera dados de uma pessoa",
+                "parameters": [
+                    {
+                        "maximum": 200,
+                        "minimum": 1,
+                        "type": "integer",
+                        "default": 1,
+                        "description": "Quantidade de registros (1-200)",
+                        "name": "quantity",
+                        "in": "query"
+                    },
+                    {
+                        "enum": [
+                            "male",
+                            "female",
+                            "random"
+                        ],
+                        "type": "string",
+                        "description": "Gênero da pessoa",
+                        "name": "gender",
+                        "in": "query"
+                    },
+                    {
+                        "type": "string",
+                        "description": "UF do estado (ex: SP, RJ)",
+                        "name": "state",
+                        "in": "query"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "type": "array",
+                            "items": {
+                                "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.Person"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/phone": {
+            "get": {
+                "description": "Gera um ou mais números de telefone brasileiros, com DDD e tipo.",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Contato"
+                ],
+                "summary": "Gera telefone brasileiro",
+                "parameters": [
+                    {
+                        "maximum": 200,
+                        "minimum": 1,
+                        "type": "integer",
+                        "default": 1,
+                        "description": "Quantidade de telefones (1-200)",
+                        "name": "quantity",
+                        "in": "query"
+                    },
+                    {
+                        "type": "string",
+                        "description": "UF do estado (ex: SP, RJ)",
+                        "name": "state",
+                        "in": "query"
+                    },
+                    {
+                        "enum": [
+                            "mobile",
+                            "landline",
+                            "random"
+                        ],
+                        "type": "string",
+                        "default": "random",
+                        "description": "Tipo de telefone",
+                        "name": "type",
+                        "in": "query"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "type": "array",
+                            "items": {
+                                "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.PhoneResponse"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/rg": {
+            "get": {
+                "description": "Gera um ou mais números de RG válidos ou inválidos.",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Documentos"
+                ],
+                "summary": "Gera RG válido ou inválido",
+                "parameters": [
+                    {
+                        "maximum": 200,
+                        "minimum": 1,
+                        "type": "integer",
+                        "default": 1,
+                        "description": "Quantidade de RGs (1-200)",
+                        "name": "quantity",
+                        "in": "query"
+                    },
+                    {
+                        "type": "boolean",
+                        "default": true,
+                        "description": "Retorna formatado (XX.XXX.XXX-X)",
+                        "name": "formatted",
+                        "in": "query"
+                    },
+                    {
+                        "type": "string",
+                        "description": "UF do estado (ex: SP, RJ)",
+                        "name": "state",
+                        "in": "query"
+                    },
+                    {
+                        "type": "boolean",
+                        "default": true,
+                        "description": "Gera RG válido com dígito verificador correto",
+                        "name": "valid",
+                        "in": "query"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "type": "array",
+                            "items": {
+                                "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.RGResponse"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/validate/cnpj/{cnpj}": {
+            "get": {
+                "description": "Verifica se um número de CNPJ é válido de acordo com o algoritmo oficial.",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Validação"
+                ],
+                "summary": "Valida CNPJ",
+                "parameters": [
+                    {
+                        "type": "string",
+                        "description": "Número de CNPJ a validar (com ou sem formatação)",
+                        "name": "cnpj",
+                        "in": "path",
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.CNPJValidationResponse"
+                        }
+                    },
+                    "400": {
+                        "description": "Bad Request",
+                        "schema": {
+                            "type": "object",
+                            "additionalProperties": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/validate/cpf/{cpf}": {
+            "get": {
+                "description": "Verifica se um número de CPF é válido de acordo com o algoritmo oficial.",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Validação"
+                ],
+                "summary": "Valida CPF",
+                "parameters": [
+                    {
+                        "type": "string",
+                        "description": "Número de CPF a validar (com ou sem formatação)",
+                        "name": "cpf",
+                        "in": "path",
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.CPFValidationResponse"
+                        }
+                    },
+                    "400": {
+                        "description": "Bad Request",
+                        "schema": {
+                            "type": "object",
+                            "additionalProperties": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/validate/phone": {
+            "get": {
+                "description": "Valida um número de telefone e retorna informações detalhadas sobre ele.",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Validação"
+                ],
+                "summary": "Valida Telefone",
+                "parameters": [
+                    {
+                        "type": "string",
+                        "description": "Número de telefone a validar (com ou sem DDI)",
+                        "name": "phone_number",
+                        "in": "query",
+                        "required": true
+                    },
+                    {
+                        "type": "string",
+                        "description": "Código do país ISO 3166-1 alpha-2 (ex: BR)",
+                        "name": "country_code",
+                        "in": "query"
+                    },
+                    {
+                        "type": "string",
+                        "description": "DDI - código de discagem internacional (ex: 55)",
+                        "name": "ddi",
+                        "in": "query"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.PhoneValidationResponse"
+                        }
+                    },
+                    "400": {
+                        "description": "Bad Request",
+                        "schema": {
+                            "type": "object",
+                            "additionalProperties": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/validate/rg/{rg}": {
+            "get": {
+                "description": "Verifica se um número de RG tem o formato básico correto.",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Validação"
+                ],
+                "summary": "Valida RG",
+                "parameters": [
+                    {
+                        "type": "string",
+                        "description": "Número de RG a validar (com ou sem formatação)",
+                        "name": "rg",
+                        "in": "path",
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.RGValidationResponse"
+                        }
+                    },
+                    "400": {
+                        "description": "Bad Request",
+                        "schema": {
+                            "type": "object",
+                            "additionalProperties": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/zipcode": {
+            "get": {
+                "description": "Gera um ou mais CEPs válidos, com opção de estado.",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Endereço"
+                ],
+                "summary": "Gera CEP válido",
+                "parameters": [
+                    {
+                        "maximum": 200,
+                        "minimum": 1,
+                        "type": "integer",
+                        "default": 1,
+                        "description": "Quantidade de CEPs (1-200)",
+                        "name": "quantity",
+                        "in": "query"
+                    },
+                    {
+                        "type": "string",
+                        "description": "UF do estado (ex: SP, RJ)",
+                        "name": "state",
+                        "in": "query"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "type": "array",
+                            "items": {
+                                "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.ZipcodeResponse"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "definitions": {
+        "github_com_diogomcd_fake-mill-api_internal_models.Address": {
+            "type": "object",
+            "required": [
+                "city",
+                "neighborhood",
+                "number",
+                "state",
+                "street",
+                "zipcode"
+            ],
+            "properties": {
+                "city": {
+                    "type": "string",
+                    "maxLength": 150,
+                    "minLength": 2
+                },
+                "complement": {
+                    "type": "string",
+                    "maxLength": 50
+                },
+                "coordinates": {
+                    "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.Coordinates"
+                },
+                "neighborhood": {
+                    "type": "string",
+                    "maxLength": 150,
+                    "minLength": 3
+                },
+                "number": {
+                    "type": "string",
+                    "maxLength": 10,
+                    "minLength": 1
+                },
+                "state": {
+                    "type": "string"
+                },
+                "street": {
+                    "type": "string",
+                    "maxLength": 200,
+                    "minLength": 3
+                },
+                "zipcode": {
+                    "type": "string"
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.Bank": {
+            "type": "object",
+            "required": [
+                "code",
+                "name"
+            ],
+            "properties": {
+                "code": {
+                    "type": "string"
+                },
+                "name": {
+                    "type": "string",
+                    "maxLength": 50,
+                    "minLength": 3
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.BankAccountResponse": {
+            "type": "object",
+            "required": [
+                "account",
+                "accountType",
+                "agency",
+                "bank"
+            ],
+            "properties": {
+                "account": {
+                    "type": "string",
+                    "maxLength": 15,
+                    "minLength": 5
+                },
+                "accountType": {
+                    "type": "string",
+                    "enum": [
+                        "checking",
+                        "savings"
+                    ]
+                },
+                "agency": {
+                    "type": "string",
+                    "maxLength": 6,
+                    "minLength": 4
+                },
+                "bank": {
+                    "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.Bank"
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.CNPJResponse": {
+            "type": "object",
+            "required": [
+                "cnpj",
+                "valid"
+            ],
+            "properties": {
+                "cnpj": {
+                    "type": "string"
+                },
+                "valid": {
+                    "type": "boolean"
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.CNPJValidationResponse": {
+            "type": "object",
+            "required": [
+                "cnpj",
+                "valid"
+            ],
+            "properties": {
+                "cnpj": {
+                    "type": "string"
+                },
+                "valid": {
+                    "type": "boolean"
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.CPFResponse": {
+            "type": "object",
+            "required": [
+                "cpf",
+                "valid"
+            ],
+            "properties": {
+                "cpf": {
+                    "type": "string"
+                },
+                "valid": {
+                    "type": "boolean"
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.CPFValidationResponse": {
+            "type": "object",
+            "required": [
+                "cpf",
+                "valid"
+            ],
+            "properties": {
+                "cpf": {
+                    "type": "string"
+                },
+                "valid": {
+                    "type": "boolean"
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.CompanyResponse": {
+            "type": "object",
+            "required": [
+                "address",
+                "cnpj",
+                "email",
+                "foundedAt",
+                "name",
+                "phone",
+                "stateRegistration",
+                "tradeName"
+            ],
+            "properties": {
+                "address": {
+                    "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.Address"
+                },
+                "cnpj": {
+                    "type": "string"
+                },
+                "email": {
+                    "type": "string"
+                },
+                "foundedAt": {
+                    "type": "string"
+                },
+                "name": {
+                    "type": "string",
+                    "maxLength": 100,
+                    "minLength": 3
+                },
+                "phone": {
+                    "type": "string"
+                },
+                "stateRegistration": {
+                    "type": "string",
+                    "maxLength": 14,
+                    "minLength": 9
+                },
+                "tradeName": {
+                    "type": "string",
+                    "maxLength": 100,
+                    "minLength": 3
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.Coordinates": {
+            "type": "object",
+            "required": [
+                "lat",
+                "lng"
+            ],
+            "properties": {
+                "lat": {
+                    "type": "number",
+                    "maximum": 90,
+                    "minimum": -90
+                },
+                "lng": {
+                    "type": "number",
+                    "maximum": 180,
+                    "minimum": -180
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.CreditCardResponse": {
+            "type": "object",
+            "required": [
+                "brand",
+                "cvv",
+                "expirationDate",
+                "holderName",
+                "number"
+            ],
+            "properties": {
+                "brand": {
+                    "type": "string",
+                    "enum": [
+                        "Visa",
+                        "Mastercard",
+                        "Elo",
+                        "Amex"
+                    ]
+                },
+                "cvv": {
+                    "type": "string"
+                },
+                "expirationDate": {
+                    "type": "string"
+                },
+                "holderName": {
+                    "type": "string",
+                    "maxLength": 100,
+                    "minLength": 5
+                },
+                "number": {
+                    "type": "string"
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.EmailResponse": {
+            "type": "object",
+            "required": [
+                "domain",
+                "email",
+                "username"
+            ],
+            "properties": {
+                "domain": {
+                    "type": "string",
+                    "maxLength": 50,
+                    "minLength": 3
+                },
+                "email": {
+                    "type": "string"
+                },
+                "username": {
+                    "type": "string",
+                    "maxLength": 50,
+                    "minLength": 3
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.Filiation": {
+            "type": "object",
+            "required": [
+                "father",
+                "mother"
+            ],
+            "properties": {
+                "father": {
+                    "type": "string",
+                    "maxLength": 100,
+                    "minLength": 5
+                },
+                "mother": {
+                    "type": "string",
+                    "maxLength": 100,
+                    "minLength": 5
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.Height": {
+            "type": "object",
+            "required": [
+                "centimeters",
+                "feet",
+                "inches",
+                "meters"
+            ],
+            "properties": {
+                "centimeters": {
+                    "type": "number",
+                    "maximum": 250,
+                    "minimum": 50
+                },
+                "feet": {
+                    "type": "number",
+                    "maximum": 8.2,
+                    "minimum": 1.64
+                },
+                "inches": {
+                    "type": "number",
+                    "maximum": 98.4,
+                    "minimum": 19.7
+                },
+                "meters": {
+                    "type": "number",
+                    "maximum": 2.5,
+                    "minimum": 0.5
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.Person": {
+            "type": "object",
+            "required": [
+                "address",
+                "age",
+                "birthCity",
+                "birthdate",
+                "bloodType",
+                "bmi",
+                "company",
+                "cpf",
+                "education",
+                "email",
+                "favoriteColor",
+                "filiation",
+                "gender",
+                "height",
+                "maritalStatus",
+                "name",
+                "phone",
+                "profession",
+                "rg",
+                "weight",
+                "zodiacSign"
+            ],
+            "properties": {
+                "address": {
+                    "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.Address"
+                },
+                "age": {
+                    "type": "integer",
+                    "maximum": 120,
+                    "minimum": 0
+                },
+                "birthCity": {
+                    "type": "string",
+                    "maxLength": 50,
+                    "minLength": 2
+                },
+                "birthdate": {
+                    "type": "string"
+                },
+                "bloodType": {
+                    "type": "string",
+                    "enum": [
+                        "A+",
+                        "A-",
+                        "B+",
+                        "B-",
+                        "AB+",
+                        "AB-",
+                        "O+",
+                        "O-"
+                    ]
+                },
+                "bmi": {
+                    "type": "number",
+                    "maximum": 60,
+                    "minimum": 10
+                },
+                "company": {
+                    "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.PersonCompany"
+                },
+                "cpf": {
+                    "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.PersonCPF"
+                },
+                "education": {
+                    "type": "string",
+                    "maxLength": 50,
+                    "minLength": 3
+                },
+                "email": {
+                    "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.PersonEmail"
+                },
+                "favoriteColor": {
+                    "type": "string",
+                    "maxLength": 20,
+                    "minLength": 3
+                },
+                "filiation": {
+                    "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.Filiation"
+                },
+                "gender": {
+                    "type": "string",
+                    "enum": [
+                        "male",
+                        "female"
+                    ]
+                },
+                "height": {
+                    "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.Height"
+                },
+                "maritalStatus": {
+                    "type": "string",
+                    "enum": [
+                        "single",
+                        "married",
+                        "divorced",
+                        "widowed"
+                    ]
+                },
+                "name": {
+                    "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.PersonName"
+                },
+                "phone": {
+                    "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.PersonPhone"
+                },
+                "profession": {
+                    "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.PersonProfession"
+                },
+                "rg": {
+                    "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.PersonRG"
+                },
+                "weight": {
+                    "$ref": "#/definitions/github_com_diogomcd_fake-mill-api_internal_models.Weight"
+                },
+                "zodiacSign": {
+                    "type": "string",
+                    "maxLength": 20,
+                    "minLength": 3
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.PersonCPF": {
+            "type": "object",
+            "required": [
+                "masked",
+                "unmasked"
+            ],
+            "properties": {
+                "masked": {
+                    "type": "string"
+                },
+                "unmasked": {
+                    "type": "string"
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.PersonCompany": {
+            "type": "object",
+            "required": [
+                "cnpj",
+                "name"
+            ],
+            "properties": {
+                "cnpj": {
+                    "type": "string"
+                },
+                "name": {
+                    "type": "string",
+                    "maxLength": 100,
+                    "minLength": 3
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.PersonEmail": {
+            "type": "object",
+            "required": [
+                "address",
+                "password"
+            ],
+            "properties": {
+                "address": {
+                    "type": "string"
+                },
+                "password": {
+                    "type": "string",
+                    "maxLength": 32,
+                    "minLength": 8
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.PersonName": {
+            "type": "object",
+            "required": [
+                "firstName",
+                "fullName",
+                "lastName"
+            ],
+            "properties": {
+                "firstName": {
+                    "type": "string",
+                    "maxLength": 50,
+                    "minLength": 2
+                },
+                "fullName": {
+                    "type": "string",
+                    "maxLength": 100,
+                    "minLength": 5
+                },
+                "lastName": {
+                    "type": "string",
+                    "maxLength": 50,
+                    "minLength": 2
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.PersonPhone": {
+            "type": "object",
+            "required": [
+                "countryCode",
+                "ddi",
+                "e164Format",
+                "internationalFormat",
+                "nationalFormat"
+            ],
+            "properties": {
+                "countryCode": {
+                    "type": "string"
+                },
+                "ddi": {
+                    "type": "integer"
+                },
+                "e164Format": {
+                    "type": "string"
+                },
+                "internationalFormat": {
+                    "type": "string"
+                },
+                "nationalFormat": {
+                    "type": "string"
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.PersonProfession": {
+            "type": "object",
+            "required": [
+                "area",
+                "title"
+            ],
+            "properties": {
+                "area": {
+                    "type": "string",
+                    "maxLength": 50,
+                    "minLength": 3
+                },
+                "salary": {
+                    "type": "string",
+                    "maxLength": 20,
+                    "minLength": 5
+                },
+                "title": {
+                    "type": "string",
+                    "maxLength": 50,
+                    "minLength": 3
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.PersonRG": {
+            "type": "object",
+            "required": [
+                "expirationDate",
+                "issueDate",
+                "issuer",
+                "masked",
+                "state",
+                "unmasked"
+            ],
+            "properties": {
+                "expirationDate": {
+                    "type": "string"
+                },
+                "issueDate": {
+                    "type": "string"
+                },
+                "issuer": {
+                    "type": "string",
+                    "maxLength": 10,
+                    "minLength": 3
+                },
+                "masked": {
+                    "type": "string"
+                },
+                "state": {
+                    "type": "string"
+                },
+                "unmasked": {
+                    "type": "string"
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.PhoneResponse": {
+            "type": "object",
+            "required": [
+                "ddd",
+                "formatted",
+                "phone",
+                "state",
+                "type",
+                "unformatted"
+            ],
+            "properties": {
+                "ddd": {
+                    "type": "string"
+                },
+                "formatted": {
+                    "type": "string"
+                },
+                "phone": {
+                    "type": "string"
+                },
+                "state": {
+                    "type": "string"
+                },
+                "type": {
+                    "type": "string",
+                    "enum": [
+                        "mobile",
+                        "landline"
+                    ]
+                },
+                "unformatted": {
+                    "type": "string"
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.PhoneValidationResponse": {
+            "type": "object",
+            "required": [
+                "country_code",
+                "ddi",
+                "e164_format",
+                "international_format",
+                "national_format",
+                "number_type",
+                "phone_number",
+                "valid"
+            ],
+            "properties": {
+                "country_code": {
+                    "type": "string"
+                },
+                "ddi": {
+                    "type": "integer"
+                },
+                "e164_format": {
+                    "type": "string"
+                },
+                "international_format": {
+                    "type": "string"
+                },
+                "national_format": {
+                    "type": "string"
+                },
+                "number_type": {
+                    "type": "string",
+                    "enum": [
+                        "MOBILE",
+                        "FIXED_LINE",
+                        "FIXED_LINE_OR_MOBILE"
+                    ]
+                },
+                "phone_number": {
+                    "type": "string"
+                },
+                "valid": {
+                    "type": "boolean"
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.RGResponse": {
+            "type": "object",
+            "required": [
+                "expirationDate",
+                "issueDate",
+                "issuer",
+                "rg",
+                "state"
+            ],
+            "properties": {
+                "expirationDate": {
+                    "type": "string"
+                },
+                "issueDate": {
+                    "type": "string"
+                },
+                "issuer": {
+                    "type": "string",
+                    "maxLength": 10,
+                    "minLength": 3
+                },
+                "rg": {
+                    "type": "string"
+                },
+                "state": {
+                    "type": "string"
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.RGValidationResponse": {
+            "type": "object",
+            "required": [
+                "rg",
+                "valid"
+            ],
+            "properties": {
+                "rg": {
+                    "type": "string"
+                },
+                "valid": {
+                    "type": "boolean"
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.Weight": {
+            "type": "object",
+            "required": [
+                "grams",
+                "kilograms",
+                "pounds"
+            ],
+            "properties": {
+                "grams": {
+                    "type": "number",
+                    "maximum": 300000,
+                    "minimum": 30000
+                },
+                "kilograms": {
+                    "type": "number",
+                    "maximum": 300,
+                    "minimum": 30
+                },
+                "pounds": {
+                    "type": "number",
+                    "maximum": 661,
+                    "minimum": 66
+                }
+            }
+        },
+        "github_com_diogomcd_fake-mill-api_internal_models.ZipcodeResponse": {
+            "type": "object",
+            "required": [
+                "city",
+                "formatted",
+                "state",
+                "unformatted",
+                "zipcode"
+            ],
+            "properties": {
+                "city": {
+                    "type": "string",
+                    "maxLength": 50,
+                    "minLength": 2
+                },
+                "formatted": {
+                    "type": "string"
+                },
+                "state": {
+                    "type": "string"
+                },
+                "unformatted": {
+                    "type": "string"
+                },
+                "zipcode": {
+                    "type": "string"
+                }
+            }
+        }
+    },
+    "tags": [
+        {
+            "description": "Endpoints para geração de dados pessoais",
+            "name": "Pessoa"
+        },
+        {
+            "description": "Endpoints para geração de documentos (CPF, CNPJ, RG)",
+            "name": "Documentos"
+        },
+        {
+            "description": "Endpoints para geração de emails e telefones",
+            "name": "Contato"
+        },
+        {
+            "description": "Endpoints para geração de dados bancários e cartões de crédito",
+            "name": "Financeiro"
+        },
+        {
+            "description": "Endpoints para geração de endereços e CEPs",
+            "name": "Endereço"
+        },
+        {
+            "description": "Endpoints para geração de dados de empresas",
+            "name": "Empresa"
+        },
+        {
+            "description": "Endpoints para validação de documentos e telefones",
+            "name": "Validação"
+        }
+    ]
+}

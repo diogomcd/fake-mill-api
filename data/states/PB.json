@@ -1,0 +1,1501 @@
+{
+  "code": "PB",
+  "name": "Paraíba",
+  "capital": "João Pessoa",
+  "ddd": "83",
+  "regiao": "Nordeste",
+  "cities": [
+    {
+      "name": "Bayeux",
+      "ibgeCode": "2501807",
+      "ddd": "83",
+      "districts": [
+        {
+          "name": "Alto da Boa Vista",
+          "streets": [
+            {
+              "name": "Engenheiro Edgar Seager",
+              "addressType": "Avenida",
+              "cep": "58113040",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Alto da Boa Vista",
+              "latitude": "-7.13047",
+              "longitude": "-34.93824"
+            },
+            {
+              "name": "Maria Feitosa",
+              "addressType": "Avenida",
+              "cep": "58113070",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Alto da Boa Vista",
+              "latitude": "-7.132",
+              "longitude": "-34.94264"
+            },
+            {
+              "name": "Vicente Pereira da Silva",
+              "addressType": "Rua",
+              "cep": "58113105",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Alto da Boa Vista",
+              "latitude": "-7.13566",
+              "longitude": "-34.94067"
+            },
+            {
+              "name": "Maria Feitosa",
+              "addressType": "Rua",
+              "cep": "58308460",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Alto da Boa Vista",
+              "latitude": "-7.13217",
+              "longitude": "-34.94091"
+            },
+            {
+              "name": "Nildo José Elias da Silva",
+              "addressType": "Rua",
+              "cep": "58308440",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Alto da Boa Vista",
+              "latitude": "-7.13182",
+              "longitude": "-34.93953"
+            },
+            {
+              "name": "Edgar Seager",
+              "addressType": "Travessa",
+              "cep": "58308610",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Alto da Boa Vista",
+              "latitude": "-7.12835",
+              "longitude": "-34.94063"
+            },
+            {
+              "name": "Tiradentes",
+              "addressType": "Avenida",
+              "cep": "58308490",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Alto da Boa Vista",
+              "latitude": "-7.13068",
+              "longitude": "-34.93905"
+            },
+            {
+              "name": "Antônio Leandro Medeiros",
+              "addressType": "Rua",
+              "cep": "58308300",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Alto da Boa Vista",
+              "latitude": "-7.13897",
+              "longitude": "-34.93729"
+            }
+          ]
+        },
+        {
+          "name": "Baralho",
+          "streets": [
+            {
+              "name": "Iaiá Leite",
+              "addressType": "Vila",
+              "cep": "58305010",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Baralho",
+              "latitude": "-7.12412",
+              "longitude": "-34.90536"
+            },
+            {
+              "name": "Domingos Alves de Pontes",
+              "addressType": "Rua",
+              "cep": "58111730",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Baralho",
+              "latitude": "-7.12382",
+              "longitude": "-34.9304"
+            },
+            {
+              "name": "Iaiá Leite",
+              "addressType": "Vila",
+              "cep": "58111741",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Baralho",
+              "latitude": "-7.11974",
+              "longitude": "-34.90196"
+            },
+            {
+              "name": "Domingos Alves de Pontes",
+              "addressType": "Rua",
+              "cep": "58305004",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Baralho",
+              "latitude": "-7.12931",
+              "longitude": "-34.93399"
+            },
+            {
+              "name": "Jardim São Paulo",
+              "addressType": "Rua",
+              "cep": "58111762",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Baralho",
+              "latitude": "-7.11804",
+              "longitude": "-34.90202"
+            },
+            {
+              "name": "Liberdade",
+              "addressType": "Avenida",
+              "cep": "58305003",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Baralho",
+              "latitude": "-7.11984",
+              "longitude": "-34.89965"
+            },
+            {
+              "name": "Maria do Socorro Ciraulo de Oliveira",
+              "addressType": "Rua",
+              "cep": "58111733",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Baralho",
+              "latitude": "-7.11974",
+              "longitude": "-34.90196"
+            },
+            {
+              "name": "Liberdade",
+              "addressType": "Avenida",
+              "cep": "58111750",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Baralho",
+              "latitude": "-7.11961",
+              "longitude": "-34.90042"
+            }
+          ]
+        },
+        {
+          "name": "Brasília",
+          "streets": [
+            {
+              "name": "Nossa Senhora das Graças",
+              "addressType": "Rua",
+              "cep": "58110470",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Brasília",
+              "latitude": "-7.12675",
+              "longitude": "-34.93311"
+            },
+            {
+              "name": "Marcelino Barbosa",
+              "addressType": "Travessa",
+              "cep": "58307235",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Brasília",
+              "latitude": "-7.12876",
+              "longitude": "-34.9326"
+            },
+            {
+              "name": "Governador José Américo",
+              "addressType": "Rua",
+              "cep": "58307270",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Brasília",
+              "latitude": "-6.61804",
+              "longitude": "-35.46832"
+            },
+            {
+              "name": "Nossa Senhora das Graças",
+              "addressType": "Rua",
+              "cep": "58307360",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Brasília",
+              "latitude": "-7.12675",
+              "longitude": "-34.93311"
+            },
+            {
+              "name": "Olívio Damião Bezerra",
+              "addressType": "Rua",
+              "cep": "58307400",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Brasília",
+              "latitude": "-7.13213",
+              "longitude": "-34.94019"
+            },
+            {
+              "name": "Presidente João Pessoa",
+              "addressType": "Rua",
+              "cep": "58110446",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Brasília",
+              "latitude": "-7.12731",
+              "longitude": "-34.93346"
+            },
+            {
+              "name": "Presidente João Pessoa",
+              "addressType": "Rua",
+              "cep": "58307340",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Brasília",
+              "latitude": "-7.12731",
+              "longitude": "-34.93346"
+            },
+            {
+              "name": "Francisco Marques da Fonseca",
+              "addressType": "Avenida",
+              "cep": "58110435",
+              "state": "Paraíba",
+              "city": "Bayeux",
+              "district": "Brasília",
+              "latitude": "-7.12958",
+              "longitude": "-34.93553"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cabedelo",
+      "ibgeCode": "2503209",
+      "ddd": "83",
+      "districts": [
+        {
+          "name": "Alto Branco",
+          "streets": [
+            {
+              "name": "Aluska Santos Andrade",
+              "addressType": "Rua",
+              "cep": "58102460",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Alto Branco",
+              "latitude": "-7.20641",
+              "longitude": "-35.88531"
+            },
+            {
+              "name": "Franklin Araújo",
+              "addressType": "Rua",
+              "cep": "58102475",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Alto Branco",
+              "latitude": "-7.20787",
+              "longitude": "-35.88583"
+            },
+            {
+              "name": "Deputado Norberto Leal",
+              "addressType": "Rua",
+              "cep": "58102490",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Alto Branco",
+              "latitude": "-7.20676",
+              "longitude": "-35.88421"
+            },
+            {
+              "name": "João Batista Chaves",
+              "addressType": "Rua",
+              "cep": "58102463",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Alto Branco",
+              "latitude": "-7.20202",
+              "longitude": "-35.88602"
+            },
+            {
+              "name": "Francisco Afonso Albuquerque",
+              "addressType": "Rua",
+              "cep": "58102455",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Alto Branco",
+              "latitude": "-7.20855",
+              "longitude": "-35.88686"
+            },
+            {
+              "name": "Deputado Norberto Leal",
+              "addressType": "Rua",
+              "cep": "58102491",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Alto Branco",
+              "latitude": "-7.2068",
+              "longitude": "-35.88303"
+            },
+            {
+              "name": "Francisco Afonso Albuquerque",
+              "addressType": "Travessa",
+              "cep": "58102457",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Alto Branco",
+              "latitude": "-7.20837",
+              "longitude": "-35.88755"
+            },
+            {
+              "name": "General Newton Estilac Leal",
+              "addressType": "Travessa",
+              "cep": "58102487",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Alto Branco",
+              "latitude": "-7.20761",
+              "longitude": "-35.88341"
+            }
+          ]
+        },
+        {
+          "name": "Amazônia Park",
+          "streets": [
+            {
+              "name": "Fernando de Noronha",
+              "addressType": "Rua",
+              "cep": "58106560",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Amazônia Park",
+              "latitude": "-7.04635",
+              "longitude": "-34.84804"
+            },
+            {
+              "name": "Pôr do Sol",
+              "addressType": "Avenida",
+              "cep": "58106406",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Amazônia Park",
+              "latitude": "-7.02823",
+              "longitude": "-34.85054"
+            },
+            {
+              "name": "Jatobá",
+              "addressType": "Rua",
+              "cep": "58106546",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Amazônia Park",
+              "latitude": "-7.04974",
+              "longitude": "-34.85175"
+            },
+            {
+              "name": "Francisco Lopes de Almeida",
+              "addressType": "Rua",
+              "cep": "58106490",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Amazônia Park",
+              "latitude": "-7.04635",
+              "longitude": "-34.84804"
+            },
+            {
+              "name": "Manoel Tranquilino",
+              "addressType": "Rua",
+              "cep": "58106533",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Amazônia Park",
+              "latitude": "-7.04635",
+              "longitude": "-34.84804"
+            },
+            {
+              "name": "Vila Velha",
+              "addressType": "Rua",
+              "cep": "58106550",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Amazônia Park",
+              "latitude": "-7.04635",
+              "longitude": "-34.84804"
+            },
+            {
+              "name": "Evaldo Cruz",
+              "addressType": "Rua",
+              "cep": "58106485",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Amazônia Park",
+              "latitude": "-7.04635",
+              "longitude": "-34.84804"
+            },
+            {
+              "name": "Borborema Central",
+              "addressType": "Conjunto",
+              "cep": "58106440",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Amazônia Park",
+              "latitude": "-7.04635",
+              "longitude": "-34.84804"
+            }
+          ]
+        },
+        {
+          "name": "Areia Dourada",
+          "streets": [
+            {
+              "name": "Travessa Zilda Pessoa Barreto",
+              "addressType": "2ª",
+              "cep": "58101258",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Areia Dourada",
+              "latitude": "-6.99817",
+              "longitude": "-34.82657"
+            },
+            {
+              "name": "Rodrigues Alves",
+              "addressType": "Rua",
+              "cep": "58101291",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Areia Dourada",
+              "latitude": "-7.03633",
+              "longitude": "-34.85315"
+            },
+            {
+              "name": "Capitão João Alves de Lira",
+              "addressType": "Rua",
+              "cep": "58101280",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Areia Dourada",
+              "latitude": "-7.00976",
+              "longitude": "-34.82954"
+            },
+            {
+              "name": "Zilda Pessoa Barreto",
+              "addressType": "Travessa",
+              "cep": "58101255",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Areia Dourada",
+              "latitude": "-6.99846",
+              "longitude": "-34.82731"
+            },
+            {
+              "name": "Rodrigues Alves",
+              "addressType": "Rua",
+              "cep": "58101290",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Areia Dourada",
+              "latitude": "-6.99748",
+              "longitude": "-34.8267"
+            },
+            {
+              "name": "Rui Barbosa",
+              "addressType": "Rua",
+              "cep": "58101210",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Areia Dourada",
+              "latitude": "-7.0291",
+              "longitude": "-34.84101"
+            },
+            {
+              "name": "BR-230",
+              "addressType": "Rodovia",
+              "cep": "58101248",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Areia Dourada",
+              "latitude": "-6.98893",
+              "longitude": "-34.82858"
+            },
+            {
+              "name": "Zilda Pessoa Barreto",
+              "addressType": "Rua",
+              "cep": "58101252",
+              "state": "Paraíba",
+              "city": "Cabedelo",
+              "district": "Areia Dourada",
+              "latitude": "-6.9971",
+              "longitude": "-34.82725"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Campina Grande",
+      "ibgeCode": "2504009",
+      "ddd": "83",
+      "districts": [
+        {
+          "name": "Acácio Figueiredo",
+          "streets": [
+            {
+              "name": "Fernando Gentil Nóbrega Pacheco",
+              "addressType": "Rua",
+              "cep": "58421065",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Acácio Figueiredo",
+              "latitude": "-7.26637",
+              "longitude": "-35.91772"
+            },
+            {
+              "name": "João Alves da Silva",
+              "addressType": "Rua",
+              "cep": "58421225",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Acácio Figueiredo",
+              "latitude": "-7.27443",
+              "longitude": "-35.92211"
+            },
+            {
+              "name": "Travessa Cantor Evaldo Braga",
+              "addressType": "1ª",
+              "cep": "58421383",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Acácio Figueiredo",
+              "latitude": "-7.27616",
+              "longitude": "-35.92303"
+            },
+            {
+              "name": "Severino Souza Santos",
+              "addressType": "Rua",
+              "cep": "58421300",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Acácio Figueiredo",
+              "latitude": "-7.27405",
+              "longitude": "-35.92444"
+            },
+            {
+              "name": "Pedro Azevedo",
+              "addressType": "Rua",
+              "cep": "58421173",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Acácio Figueiredo",
+              "latitude": "-7.26194",
+              "longitude": "-35.91885"
+            },
+            {
+              "name": "Ministro Dilson Funaro",
+              "addressType": "Rua",
+              "cep": "58421070",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Acácio Figueiredo",
+              "latitude": "-7.264",
+              "longitude": "-35.91483"
+            },
+            {
+              "name": "Jovino Nepomuceno",
+              "addressType": "Rua",
+              "cep": "58421345",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Acácio Figueiredo",
+              "latitude": "-7.27317",
+              "longitude": "-35.92263"
+            },
+            {
+              "name": "Felizardo Sezefredo de Almeida",
+              "addressType": "Travessa",
+              "cep": "58421417",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Acácio Figueiredo",
+              "latitude": "-7.27593",
+              "longitude": "-35.9218"
+            }
+          ]
+        },
+        {
+          "name": "Alto Branco",
+          "streets": [
+            {
+              "name": "Edvaldo Holanda Moreira Borges",
+              "addressType": "Rua",
+              "cep": "58401570",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Alto Branco",
+              "latitude": "-7.20084",
+              "longitude": "-35.87879"
+            },
+            {
+              "name": "Estelita Cruz",
+              "addressType": "Rua",
+              "cep": "58100272",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Alto Branco",
+              "latitude": "-7.21428",
+              "longitude": "-35.88087"
+            },
+            {
+              "name": "Ezequiel Rodrigues de Sousa",
+              "addressType": "Rua",
+              "cep": "58401650",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Alto Branco",
+              "latitude": "-7.19929",
+              "longitude": "-35.88121"
+            },
+            {
+              "name": "Doutor Vasconcelos",
+              "addressType": "Rua",
+              "cep": "58401722",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Alto Branco",
+              "latitude": "-7.20522",
+              "longitude": "-35.88087"
+            },
+            {
+              "name": "Francisco Justino do Vale",
+              "addressType": "Rua",
+              "cep": "58401562",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Alto Branco",
+              "latitude": "-7.20065",
+              "longitude": "-35.87808"
+            },
+            {
+              "name": "Francisco Abílio",
+              "addressType": "Rua",
+              "cep": "58401532",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Alto Branco",
+              "latitude": "-7.20432",
+              "longitude": "-35.8754"
+            },
+            {
+              "name": "Francisco Afonso de Albuquerque",
+              "addressType": "Rua",
+              "cep": "58401748",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Alto Branco",
+              "latitude": "-7.20855",
+              "longitude": "-35.88686"
+            },
+            {
+              "name": "Franklin Araújo",
+              "addressType": "Rua",
+              "cep": "58401430",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Alto Branco",
+              "latitude": "-7.20787",
+              "longitude": "-35.88585"
+            }
+          ]
+        },
+        {
+          "name": "Aluízio Campos",
+          "streets": [
+            {
+              "name": "Aldacino Queiroz de Oliveira",
+              "addressType": "Rua",
+              "cep": "58412230",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Aluízio Campos",
+              "latitude": "-7.22227",
+              "longitude": "-35.87336"
+            },
+            {
+              "name": "Doutor Antônio Ventura Filho",
+              "addressType": "Rua",
+              "cep": "58412204",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Aluízio Campos",
+              "latitude": "-7.2124",
+              "longitude": "-35.88205"
+            },
+            {
+              "name": "Malaquias da Silva Amorim Neto",
+              "addressType": "Rua",
+              "cep": "58412094",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Aluízio Campos",
+              "latitude": "-7.24836",
+              "longitude": "-35.93089"
+            },
+            {
+              "name": "Advogado Joás de Brito Pereira",
+              "addressType": "Rua",
+              "cep": "58412160",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Aluízio Campos",
+              "latitude": "-7.25147",
+              "longitude": "-35.88149"
+            },
+            {
+              "name": "Alamir Carvalho Filho",
+              "addressType": "Rua",
+              "cep": "58412097",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Aluízio Campos",
+              "latitude": "-7.29115",
+              "longitude": "-35.885"
+            },
+            {
+              "name": "Crizelda de Menezes Rodrigues",
+              "addressType": "Rua",
+              "cep": "58412141",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Aluízio Campos",
+              "latitude": "-7.21512",
+              "longitude": "-35.92049"
+            },
+            {
+              "name": "Doutor Francisco Celestino Filho",
+              "addressType": "Rua",
+              "cep": "58412073",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Aluízio Campos",
+              "latitude": "-7.23255",
+              "longitude": "-35.87166"
+            },
+            {
+              "name": "Pedro Cavalcante Freire",
+              "addressType": "Rua",
+              "cep": "58412217",
+              "state": "Paraíba",
+              "city": "Campina Grande",
+              "district": "Aluízio Campos",
+              "latitude": "-7.23435",
+              "longitude": "-35.90925"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "João Pessoa",
+      "ibgeCode": "2507507",
+      "ddd": "83",
+      "districts": [
+        {
+          "name": "Aeroclube",
+          "streets": [
+            {
+              "name": "Deputado Ademar Teotônio",
+              "addressType": "Rua",
+              "cep": "58036515",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Aeroclube",
+              "latitude": "-7.16388",
+              "longitude": "-34.87966"
+            },
+            {
+              "name": "Antônio de Oliveira Moura",
+              "addressType": "Rua",
+              "cep": "58036190",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Aeroclube",
+              "latitude": "-7.07807",
+              "longitude": "-34.84293"
+            },
+            {
+              "name": "Tiago dos Anjos Lins",
+              "addressType": "Rua",
+              "cep": "58036660",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Aeroclube",
+              "latitude": "-7.09015",
+              "longitude": "-34.84133"
+            },
+            {
+              "name": "Rosa de Lourdes Guimarães",
+              "addressType": "Rua",
+              "cep": "58036185",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Aeroclube",
+              "latitude": "-7.08029",
+              "longitude": "-34.84143"
+            },
+            {
+              "name": "Doutor Aírton Cordeiro",
+              "addressType": "Rua",
+              "cep": "58036065",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Aeroclube",
+              "latitude": "-7.07648",
+              "longitude": "-34.84266"
+            },
+            {
+              "name": "André Dias",
+              "addressType": "Rua",
+              "cep": "58036235",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Aeroclube",
+              "latitude": "-7.07994",
+              "longitude": "-34.84475"
+            },
+            {
+              "name": "Débora da Silva Braga",
+              "addressType": "Rua",
+              "cep": "58036843",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Aeroclube",
+              "latitude": "-7.09583",
+              "longitude": "-34.84303"
+            },
+            {
+              "name": "Rita Sabino de Andrade",
+              "addressType": "Rua",
+              "cep": "58036610",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Aeroclube",
+              "latitude": "-7.08849",
+              "longitude": "-34.84086"
+            }
+          ]
+        },
+        {
+          "name": "Altiplano Cabo Branco",
+          "streets": [
+            {
+              "name": "Santa Emília",
+              "addressType": "Granja",
+              "cep": "58046007",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Altiplano Cabo Branco",
+              "latitude": "-7.1324",
+              "longitude": "-34.82829"
+            },
+            {
+              "name": "Rui Costa",
+              "addressType": "Rua",
+              "cep": "58046085",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Altiplano Cabo Branco",
+              "latitude": "-7.13328",
+              "longitude": "-34.83115"
+            },
+            {
+              "name": "Maria de Lourdes Coutinho Torres",
+              "addressType": "Rua",
+              "cep": "58046170",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Altiplano Cabo Branco",
+              "latitude": "-7.13222",
+              "longitude": "-34.82936"
+            },
+            {
+              "name": "Severino Ennes de Atayde",
+              "addressType": "Rua",
+              "cep": "58046140",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Altiplano Cabo Branco",
+              "latitude": "-7.13596",
+              "longitude": "-34.83098"
+            },
+            {
+              "name": "Henrique Sales Monteiro",
+              "addressType": "Rua",
+              "cep": "58046260",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Altiplano Cabo Branco",
+              "latitude": "-7.13898",
+              "longitude": "-34.82917"
+            },
+            {
+              "name": "João Alfredo de Souza",
+              "addressType": "Rua",
+              "cep": "58046020",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Altiplano Cabo Branco",
+              "latitude": "-7.13044",
+              "longitude": "-34.8276"
+            },
+            {
+              "name": "Abelardo da Silva Guimarães Barreto",
+              "addressType": "Rua",
+              "cep": "58046110",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Altiplano Cabo Branco",
+              "latitude": "-7.13034",
+              "longitude": "-34.82874"
+            },
+            {
+              "name": "Doutor Manoel Pequeno da Nóbrega",
+              "addressType": "Rua",
+              "cep": "58046270",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Altiplano Cabo Branco",
+              "latitude": "-7.1324",
+              "longitude": "-34.82829"
+            }
+          ]
+        },
+        {
+          "name": "Alto do Céu",
+          "streets": [
+            {
+              "name": "José Gerônimo de Lira",
+              "addressType": "Rua",
+              "cep": "58027710",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Alto do Céu",
+              "latitude": "-7.09553",
+              "longitude": "-34.86436"
+            },
+            {
+              "name": "Luiz França Camboim",
+              "addressType": "Rua",
+              "cep": "58027791",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Alto do Céu",
+              "latitude": "-7.09784",
+              "longitude": "-34.86977"
+            },
+            {
+              "name": "Francisco Alves Batista",
+              "addressType": "Rua",
+              "cep": "58027615",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Alto do Céu",
+              "latitude": "-7.09491",
+              "longitude": "-34.8624"
+            },
+            {
+              "name": "Manoel Silva de Lacerda",
+              "addressType": "Rua",
+              "cep": "58027677",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Alto do Céu",
+              "latitude": "-7.09369",
+              "longitude": "-34.86756"
+            },
+            {
+              "name": "Comendador José Augustus",
+              "addressType": "Rua",
+              "cep": "58027618",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Alto do Céu",
+              "latitude": "-7.13682",
+              "longitude": "-34.9111"
+            },
+            {
+              "name": "Tenente Augusto Pedro Ventura",
+              "addressType": "Rua",
+              "cep": "58027589",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Alto do Céu",
+              "latitude": "-7.10208",
+              "longitude": "-34.86766"
+            },
+            {
+              "name": "Manoel Silva de Lacerda",
+              "addressType": "Rua",
+              "cep": "58027774",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Alto do Céu",
+              "latitude": "-7.09369",
+              "longitude": "-34.86756"
+            },
+            {
+              "name": "Jornalista André Rebouças",
+              "addressType": "Rua",
+              "cep": "58027525",
+              "state": "Paraíba",
+              "city": "João Pessoa",
+              "district": "Alto do Céu",
+              "latitude": "-7.09816",
+              "longitude": "-34.86264"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Patos",
+      "ibgeCode": "2510808",
+      "ddd": "83",
+      "districts": [
+        {
+          "name": "Alto da Tubiba",
+          "streets": [
+            {
+              "name": "Antônio Tranca Ruas",
+              "addressType": "Rua",
+              "cep": "58708530",
+              "state": "Paraíba",
+              "city": "Patos",
+              "district": "Alto da Tubiba",
+              "latitude": "-7.05174",
+              "longitude": "-37.27736"
+            },
+            {
+              "name": "Antônio Aureliano de Brito",
+              "addressType": "Rua",
+              "cep": "58708370",
+              "state": "Paraíba",
+              "city": "Patos",
+              "district": "Alto da Tubiba",
+              "latitude": "-7.07036",
+              "longitude": "-37.2807"
+            },
+            {
+              "name": "Doutor Rui Pereira",
+              "addressType": "Rua",
+              "cep": "58708510",
+              "state": "Paraíba",
+              "city": "Patos",
+              "district": "Alto da Tubiba",
+              "latitude": "-7.07093",
+              "longitude": "-37.28499"
+            },
+            {
+              "name": "Antônio Rui de Brito",
+              "addressType": "Rua",
+              "cep": "58708382",
+              "state": "Paraíba",
+              "city": "Patos",
+              "district": "Alto da Tubiba",
+              "latitude": "-7.07036",
+              "longitude": "-37.2807"
+            },
+            {
+              "name": "Francisco Trindade",
+              "addressType": "Rua",
+              "cep": "58708515",
+              "state": "Paraíba",
+              "city": "Patos",
+              "district": "Alto da Tubiba",
+              "latitude": "-7.07295",
+              "longitude": "-37.2843"
+            },
+            {
+              "name": "Jonas Avelino de Figueiredo",
+              "addressType": "Rua",
+              "cep": "58708372",
+              "state": "Paraíba",
+              "city": "Patos",
+              "district": "Alto da Tubiba",
+              "latitude": "-7.03374",
+              "longitude": "-37.27915"
+            },
+            {
+              "name": "Delmiro Alves Monteiro",
+              "addressType": "Rua",
+              "cep": "58708380",
+              "state": "Paraíba",
+              "city": "Patos",
+              "district": "Alto da Tubiba",
+              "latitude": "-7.07054",
+              "longitude": "-37.28159"
+            },
+            {
+              "name": "Irineu Lacerda",
+              "addressType": "Rua",
+              "cep": "58708360",
+              "state": "Paraíba",
+              "city": "Patos",
+              "district": "Alto da Tubiba",
+              "latitude": "-7.07218",
+              "longitude": "-37.2852"
+            }
+          ]
+        },
+        {
+          "name": "Ana Leite",
+          "streets": [
+            {
+              "name": "BR-230",
+              "addressType": "Rodovia",
+              "cep": "58706810",
+              "state": "Paraíba",
+              "city": "Patos",
+              "district": "Ana Leite",
+              "latitude": "-7.01944",
+              "longitude": "-37.24895"
+            },
+            {
+              "name": "Severino Lustosa Morais",
+              "addressType": "Rua",
+              "cep": "58706800",
+              "state": "Paraíba",
+              "city": "Patos",
+              "district": "Ana Leite",
+              "latitude": "-7.0241",
+              "longitude": "-37.25497"
+            }
+          ]
+        },
+        {
+          "name": "Bela Vista",
+          "streets": [
+            {
+              "name": "Horácio Nóbrega",
+              "addressType": "Rua",
+              "cep": "58704440",
+              "state": "Paraíba",
+              "city": "Patos",
+              "district": "Bela Vista",
+              "latitude": "-7.02031",
+              "longitude": "-37.28072"
+            },
+            {
+              "name": "Cândido das Laranjeiras",
+              "addressType": "Rua",
+              "cep": "58704465",
+              "state": "Paraíba",
+              "city": "Patos",
+              "district": "Bela Vista",
+              "latitude": "-7.0224",
+              "longitude": "-37.28198"
+            },
+            {
+              "name": "José Emídio dos Santos",
+              "addressType": "Rua",
+              "cep": "58704602",
+              "state": "Paraíba",
+              "city": "Patos",
+              "district": "Bela Vista",
+              "latitude": "-7.0126",
+              "longitude": "-37.27947"
+            },
+            {
+              "name": "Oton Fagundes de Araújo",
+              "addressType": "Rua",
+              "cep": "58704570",
+              "state": "Paraíba",
+              "city": "Patos",
+              "district": "Bela Vista",
+              "latitude": "-7.015",
+              "longitude": "-37.28199"
+            },
+            {
+              "name": "Antônio Gomes da Costa",
+              "addressType": "Rua",
+              "cep": "58704412",
+              "state": "Paraíba",
+              "city": "Patos",
+              "district": "Bela Vista",
+              "latitude": "-7.01364",
+              "longitude": "-37.28344"
+            },
+            {
+              "name": "Sargento Everaldo",
+              "addressType": "Rua",
+              "cep": "58704415",
+              "state": "Paraíba",
+              "city": "Patos",
+              "district": "Bela Vista",
+              "latitude": "-7.0162",
+              "longitude": "-37.28207"
+            },
+            {
+              "name": "Tenente Ananias Vicente da Silva",
+              "addressType": "Rua",
+              "cep": "58704550",
+              "state": "Paraíba",
+              "city": "Patos",
+              "district": "Bela Vista",
+              "latitude": "-7.01236",
+              "longitude": "-37.27993"
+            },
+            {
+              "name": "Antônio Justino",
+              "addressType": "Rua",
+              "cep": "58704620",
+              "state": "Paraíba",
+              "city": "Patos",
+              "district": "Bela Vista",
+              "latitude": "-7.0156",
+              "longitude": "-37.28427"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sousa",
+      "ibgeCode": "2516201",
+      "ddd": "83",
+      "districts": [
+        {
+          "name": "Alto Capanema",
+          "streets": [
+            {
+              "name": "Coronel Augusto Braga",
+              "addressType": "Rua",
+              "cep": "58803660",
+              "state": "Paraíba",
+              "city": "Sousa",
+              "district": "Alto Capanema",
+              "latitude": "-6.7661",
+              "longitude": "-38.22428"
+            },
+            {
+              "name": "Epitácio Pessoa",
+              "addressType": "Avenida",
+              "cep": "58803750",
+              "state": "Paraíba",
+              "city": "Sousa",
+              "district": "Alto Capanema",
+              "latitude": "-6.7653",
+              "longitude": "-38.2339"
+            },
+            {
+              "name": "Primeiro de Maio",
+              "addressType": "Rua",
+              "cep": "58803720",
+              "state": "Paraíba",
+              "city": "Sousa",
+              "district": "Alto Capanema",
+              "latitude": "-6.76251",
+              "longitude": "-38.23529"
+            },
+            {
+              "name": "Diamante",
+              "addressType": "Fazenda",
+              "cep": "58803790",
+              "state": "Paraíba",
+              "city": "Sousa",
+              "district": "Alto Capanema",
+              "latitude": "-6.76405",
+              "longitude": "-38.23829"
+            },
+            {
+              "name": "Doutor José Gadelha",
+              "addressType": "Rua",
+              "cep": "58803760",
+              "state": "Paraíba",
+              "city": "Sousa",
+              "district": "Alto Capanema",
+              "latitude": "-6.77581",
+              "longitude": "-38.22953"
+            },
+            {
+              "name": "Tiradentes",
+              "addressType": "Rua",
+              "cep": "58803740",
+              "state": "Paraíba",
+              "city": "Sousa",
+              "district": "Alto Capanema",
+              "latitude": "-6.76403",
+              "longitude": "-38.23261"
+            }
+          ]
+        },
+        {
+          "name": "Alto do Capanema",
+          "streets": [
+            {
+              "name": "Amadeu Silva",
+              "addressType": "Rua",
+              "cep": "58807605",
+              "state": "Paraíba",
+              "city": "Sousa",
+              "district": "Alto do Capanema",
+              "latitude": "-6.7639",
+              "longitude": "-38.23559"
+            },
+            {
+              "name": "Boa Ventura Rocha",
+              "addressType": "Rua",
+              "cep": "58807660",
+              "state": "Paraíba",
+              "city": "Sousa",
+              "district": "Alto do Capanema",
+              "latitude": "-6.76133",
+              "longitude": "-38.23144"
+            },
+            {
+              "name": "Amadeu Silva",
+              "addressType": "Rua",
+              "cep": "58803770",
+              "state": "Paraíba",
+              "city": "Sousa",
+              "district": "Alto do Capanema",
+              "latitude": "-6.7639",
+              "longitude": "-38.23559"
+            },
+            {
+              "name": "Maria Emília Ferreira Sarmento",
+              "addressType": "Rua",
+              "cep": "58803680",
+              "state": "Paraíba",
+              "city": "Sousa",
+              "district": "Alto do Capanema",
+              "latitude": "-6.75313",
+              "longitude": "-38.21681"
+            },
+            {
+              "name": "Eládio Pedrosa de Melo",
+              "addressType": "Rua",
+              "cep": "58803730",
+              "state": "Paraíba",
+              "city": "Sousa",
+              "district": "Alto do Capanema",
+              "latitude": "-6.76205",
+              "longitude": "-38.23556"
+            },
+            {
+              "name": "Doutor José Gadelha",
+              "addressType": "Rua",
+              "cep": "58807610",
+              "state": "Paraíba",
+              "city": "Sousa",
+              "district": "Alto do Capanema",
+              "latitude": "-6.76473",
+              "longitude": "-38.23303"
+            },
+            {
+              "name": "Crizeuda Gadelha",
+              "addressType": "Rua",
+              "cep": "58807640",
+              "state": "Paraíba",
+              "city": "Sousa",
+              "district": "Alto do Capanema",
+              "latitude": "-6.76291",
+              "longitude": "-38.23391"
+            },
+            {
+              "name": "Anísio Fausto",
+              "addressType": "Rua",
+              "cep": "58807633",
+              "state": "Paraíba",
+              "city": "Sousa",
+              "district": "Alto do Capanema",
+              "latitude": "-6.76297",
+              "longitude": "-38.23311"
+            }
+          ]
+        },
+        {
+          "name": "Alto do Cruzeiro",
+          "streets": [
+            {
+              "name": "Luiz Lucélio Ferreira",
+              "addressType": "Rua",
+              "cep": "58806560",
+              "state": "Paraíba",
+              "city": "Sousa",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-6.77494",
+              "longitude": "-38.2332"
+            },
+            {
+              "name": "Raimundo Nonato Marques",
+              "addressType": "Rua",
+              "cep": "58806170",
+              "state": "Paraíba",
+              "city": "Sousa",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-6.7496",
+              "longitude": "-38.23964"
+            },
+            {
+              "name": "José Francisco de Sousa",
+              "addressType": "Rua",
+              "cep": "58806550",
+              "state": "Paraíba",
+              "city": "Sousa",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-6.76747",
+              "longitude": "-38.22416"
+            },
+            {
+              "name": "Cândida Maria da Silva",
+              "addressType": "Rua",
+              "cep": "58806010",
+              "state": "Paraíba",
+              "city": "Sousa",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-6.76347",
+              "longitude": "-38.24631"
+            },
+            {
+              "name": "Padre Inácio Ribeiro de Melo",
+              "addressType": "Rua",
+              "cep": "58806080",
+              "state": "Paraíba",
+              "city": "Sousa",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-6.75006",
+              "longitude": "-38.2388"
+            },
+            {
+              "name": "José Francisco do Nascimento",
+              "addressType": "Rua",
+              "cep": "58806210",
+              "state": "Paraíba",
+              "city": "Sousa",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-6.75086",
+              "longitude": "-38.23991"
+            },
+            {
+              "name": "Sátiro Pereira da Silva",
+              "addressType": "Rua",
+              "cep": "58806130",
+              "state": "Paraíba",
+              "city": "Sousa",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-6.74927",
+              "longitude": "-38.23886"
+            },
+            {
+              "name": "Antônio de Paiva Gadelha",
+              "addressType": "Rua",
+              "cep": "58806500",
+              "state": "Paraíba",
+              "city": "Sousa",
+              "district": "Alto do Cruzeiro",
+              "latitude": "-6.76895",
+              "longitude": "-38.23638"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+[
+    {
+      "state": "Acre",
+      "code": "AC",
+      "ddd_codes": [68]
+    },
+    {
+      "state": "Alagoas",
+      "code": "AL",
+      "ddd_codes": [82]
+    },
+    {
+      "state": "Amapá",
+      "code": "AP",
+      "ddd_codes": [96]
+    },
+    {
+      "state": "Amazonas",
+      "code": "AM",
+      "ddd_codes": [92, 97]
+    },
+    {
+      "state": "Bahia",
+      "code": "BA",
+      "ddd_codes": [71, 73, 74, 75, 77]
+    },
+    {
+      "state": "Ceará",
+      "code": "CE",
+      "ddd_codes": [85, 88]
+    },
+    {
+      "state": "Distrito Federal",
+      "code": "DF",
+      "ddd_codes": [61]
+    },
+    {
+      "state": "Espírito Santo",
+      "code": "ES",
+      "ddd_codes": [27, 28]
+    },
+    {
+      "state": "Goiás",
+      "code": "GO",
+      "ddd_codes": [62, 64]
+    },
+    {
+      "state": "Maranhão",
+      "code": "MA",
+      "ddd_codes": [98, 99]
+    },
+    {
+      "state": "Mato Grosso",
+      "code": "MT",
+      "ddd_codes": [65, 66]
+    },
+    {
+      "state": "Mato Grosso do Sul",
+      "code": "MS",
+      "ddd_codes": [67]
+    },
+    {
+      "state": "Minas Gerais",
+      "code": "MG",
+      "ddd_codes": [31, 32, 33, 34, 35, 37, 38]
+    },
+    {
+      "state": "Pará",
+      "code": "PA",
+      "ddd_codes": [91, 93, 94]
+    },
+    {
+      "state": "Paraíba",
+      "code": "PB",
+      "ddd_codes": [83]
+    },
+    {
+      "state": "Paraná",
+      "code": "PR",
+      "ddd_codes": [41, 42, 43, 44, 45, 46]
+    },
+    {
+      "state": "Pernambuco",
+      "code": "PE",
+      "ddd_codes": [81, 87]
+    },
+    {
+      "state": "Piauí",
+      "code": "PI",
+      "ddd_codes": [86, 89]
+    },
+    {
+      "state": "Rio de Janeiro",
+      "code": "RJ",
+      "ddd_codes": [21, 22, 24]
+    },
+    {
+      "state": "Rio Grande do Norte",
+      "code": "RN",
+      "ddd_codes": [84]
+    },
+    {
+      "state": "Rio Grande do Sul",
+      "code": "RS",
+      "ddd_codes": [51, 53, 54, 55]
+    },
+    {
+      "state": "Rondônia",
+      "code": "RO",
+      "ddd_codes": [69]
+    },
+    {
+      "state": "Roraima",
+      "code": "RR",
+      "ddd_codes": [95]
+    },
+    {
+      "state": "Santa Catarina",
+      "code": "SC",
+      "ddd_codes": [47, 48, 49]
+    },
+    {
+      "state": "São Paulo",
+      "code": "SP",
+      "ddd_codes": [11, 12, 13, 14, 15, 16, 17, 18, 19]
+    },
+    {
+      "state": "Sergipe",
+      "code": "SE",
+      "ddd_codes": [79]
+    },
+    {
+      "state": "Tocantins",
+      "code": "TO",
+      "ddd_codes": [63]
+    }
+  ]
+  

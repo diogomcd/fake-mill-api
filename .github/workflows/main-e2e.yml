@@ -1,0 +1,130 @@
+name: Main E2E Tests
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.24'
+          cache: true
+      
+      - name: Download dependencies
+        run: go mod download
+      
+      - name: Run unit tests with coverage (excluding E2E)
+        run: go test $(go list ./... | grep -v tests/e2e) -race -coverprofile=coverage.out -v
+      
+      - name: Coverage report
+        run: go tool cover -func=coverage.out
+      
+      - name: Build
+        run: go build -v -o api ./cmd/api
+      
+      - name: Start API server
+        run: |
+          export HOST=127.0.0.1
+          export PORT=8080
+          export ENV=development
+          export LOG_LEVEL=debug
+          ./api > /tmp/api.log 2>&1 &
+          echo $! > /tmp/api.pid
+          echo "Started API with PID $(cat /tmp/api.pid)"
+          sleep 2
+          echo "=== Initial API Logs ==="
+          cat /tmp/api.log || true
+      
+      - name: Wait for server readiness
+        timeout-minutes: 2
+        run: |
+          for i in {1..60}; do
+            if curl -s -f http://127.0.0.1:8080/api/health &>/dev/null; then
+              echo "✅ API ready on attempt $i"
+              curl -s http://127.0.0.1:8080/api/health | jq .
+              exit 0
+            fi
+            echo "Waiting for API... (attempt $i/60)"
+            if [ $((i % 10)) -eq 0 ]; then
+              echo "=== Process check ==="
+              ps aux | grep '[a]pi' || echo "API process not found"
+              echo "=== Current logs ==="
+              tail -20 /tmp/api.log || echo "No logs yet"
+            fi
+            sleep 1
+          done
+          echo "❌ API failed to start within 60 seconds"
+          echo "=== Final API Logs ==="
+          cat /tmp/api.log
+          echo "=== Process check ==="
+          ps aux | grep '[a]pi' || echo "API process not found"
+          exit 1
+      
+      - name: Run E2E tests
+        run: go test ./tests/e2e/... -v -timeout=5m
+      
+      - name: Stop API server
+        if: always()
+        run: |
+          if [ -f /tmp/api.pid ]; then
+            kill $(cat /tmp/api.pid) 2>/dev/null || true
+            echo "API server stopped"
+          fi
+      
+      - name: Docker Build
+        run: docker build -t fake-mill-api:test .
+      
+      - name: Start Docker container
+        run: |
+          docker run -d -p 8080:8080 --name api-test fake-mill-api:test
+          echo "Docker container started"
+      
+      - name: Wait for Docker container readiness
+        timeout-minutes: 2
+        run: |
+          for i in {1..60}; do
+            if curl -s -f http://127.0.0.1:8080/api/health &>/dev/null; then
+              echo "✅ Docker API ready on attempt $i"
+              curl -s http://127.0.0.1:8080/api/health | jq .
+              exit 0
+            fi
+            echo "Waiting for Docker API... (attempt $i/60)"
+            if [ $((i % 10)) -eq 0 ]; then
+              echo "=== Container status ==="
+              docker ps -a | grep api-test || echo "Container not found"
+              echo "=== Current logs ==="
+              docker logs --tail 20 api-test || echo "No logs yet"
+            fi
+            sleep 1
+          done
+          echo "❌ Docker API failed to start"
+          echo "=== Final Docker Logs ==="
+          docker logs api-test
+          echo "=== Container status ==="
+          docker ps -a | grep api-test
+          exit 1
+      
+      - name: Test Docker container
+        run: |
+          echo "=== Testing Docker API ==="
+          curl -f http://127.0.0.1:8080/api/health | jq .
+          echo "✅ Docker health check passed"
+      
+      - name: Cleanup Docker
+        if: always()
+        run: |
+          docker stop api-test 2>/dev/null || true
+          docker rm api-test 2>/dev/null || true
+      
+      - name: Cleanup files
+        if: always()
+        run: |
+          rm -f /tmp/api.pid /tmp/api.log
+          rm -f api
+

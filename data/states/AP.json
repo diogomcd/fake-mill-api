@@ -1,0 +1,523 @@
+{
+  "code": "AP",
+  "name": "Amapá",
+  "capital": "Macapá",
+  "ddd": "96",
+  "regiao": "Norte",
+  "cities": [
+    {
+      "name": "Macapá",
+      "ibgeCode": "1600303",
+      "ddd": "96",
+      "districts": [
+        {
+          "name": "Alvorada",
+          "streets": [
+            {
+              "name": "Almirante Barroso",
+              "addressType": "Avenida",
+              "cep": "68906535",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Alvorada",
+              "latitude": "0.03641",
+              "longitude": "-51.06037"
+            },
+            {
+              "name": "Pastor Otoniel Alencar",
+              "addressType": "Rua",
+              "cep": "68906641",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Alvorada",
+              "latitude": "0.03894",
+              "longitude": "-51.09616"
+            },
+            {
+              "name": "Soldado José dos Santos",
+              "addressType": "Travessa",
+              "cep": "68906664",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Alvorada",
+              "latitude": "0.03899",
+              "longitude": "-51.08891"
+            },
+            {
+              "name": "Tawarys",
+              "addressType": "Rua",
+              "cep": "68906633",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Alvorada",
+              "latitude": "0.04403",
+              "longitude": "-51.09903"
+            },
+            {
+              "name": "Padre Júlio Maria Lombaerd, 3007",
+              "addressType": "Avenida",
+              "cep": "68906902",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Alvorada",
+              "latitude": "0.03457",
+              "longitude": "-51.05362"
+            },
+            {
+              "name": "Segunda",
+              "addressType": "Rua",
+              "cep": "68906632",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Alvorada",
+              "latitude": "0.04403",
+              "longitude": "-51.09903"
+            },
+            {
+              "name": "Joaquim Pinheiro Borges",
+              "addressType": "Travessa",
+              "cep": "68906666",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Alvorada",
+              "latitude": "0.04432",
+              "longitude": "-51.07659"
+            },
+            {
+              "name": "Sebastião Canúto",
+              "addressType": "Rua",
+              "cep": "68906670",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Alvorada",
+              "latitude": "0.03739",
+              "longitude": "-51.09142"
+            }
+          ]
+        },
+        {
+          "name": "Araxá",
+          "streets": [
+            {
+              "name": "Adelson",
+              "addressType": "Passagem",
+              "cep": "68903785",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Araxá",
+              "latitude": "0.00198",
+              "longitude": "-51.06267"
+            },
+            {
+              "name": "Castanhal",
+              "addressType": "Passagem",
+              "cep": "68903876",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Araxá",
+              "latitude": "0.00198",
+              "longitude": "-51.06267"
+            },
+            {
+              "name": "D",
+              "addressType": "Travessa",
+              "cep": "68903887",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Araxá",
+              "latitude": "-0.0013641",
+              "longitude": "-51.0670616"
+            },
+            {
+              "name": "A",
+              "addressType": "Travessa",
+              "cep": "68903882",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Araxá",
+              "latitude": "-0.01656",
+              "longitude": "-51.09654"
+            },
+            {
+              "name": "Sexts da Setentrional",
+              "addressType": "Travessa",
+              "cep": "68903775",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Araxá",
+              "latitude": "0.00279",
+              "longitude": "-51.06402"
+            },
+            {
+              "name": "Nova Esperança",
+              "addressType": "Travessa",
+              "cep": "68903889",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Araxá",
+              "latitude": "-0.0002213",
+              "longitude": "-51.0628779"
+            },
+            {
+              "name": "Oitava",
+              "addressType": "Avenida",
+              "cep": "68903854",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Araxá",
+              "latitude": "0.00287",
+              "longitude": "-51.06192"
+            },
+            {
+              "name": "Humberto Góes Pereira",
+              "addressType": "Avenida",
+              "cep": "68903874",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Araxá",
+              "latitude": "0.00106",
+              "longitude": "-51.06134"
+            }
+          ]
+        },
+        {
+          "name": "Beirol",
+          "streets": [
+            {
+              "name": "dos Tupiniquins",
+              "addressType": "Avenida",
+              "cep": "68902120",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Beirol",
+              "latitude": "0.01927",
+              "longitude": "-51.07433"
+            },
+            {
+              "name": "Juscelino Kubitschek",
+              "addressType": "Rodovia",
+              "cep": "68902026",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Beirol",
+              "latitude": "-0.04091",
+              "longitude": "-51.0959"
+            },
+            {
+              "name": "Três",
+              "addressType": "Rua",
+              "cep": "68902017",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Beirol",
+              "latitude": "-0.03933",
+              "longitude": "-51.12057"
+            },
+            {
+              "name": "dos Guaranis",
+              "addressType": "Avenida",
+              "cep": "68902160",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Beirol",
+              "latitude": "0.0161",
+              "longitude": "-51.07278"
+            },
+            {
+              "name": "dos Goitacazes",
+              "addressType": "Avenida",
+              "cep": "68902150",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Beirol",
+              "latitude": "0.01695",
+              "longitude": "-51.07517"
+            },
+            {
+              "name": "Vasco da Gama",
+              "addressType": "Travessa",
+              "cep": "68902006",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Beirol",
+              "latitude": "0.04654",
+              "longitude": "-51.11601"
+            },
+            {
+              "name": "Caramuru",
+              "addressType": "Avenida",
+              "cep": "68902100",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Beirol",
+              "latitude": "0.01994",
+              "longitude": "-51.05944"
+            },
+            {
+              "name": "Felipe Camarão",
+              "addressType": "Avenida",
+              "cep": "68902060",
+              "state": "Amapá",
+              "city": "Macapá",
+              "district": "Beirol",
+              "latitude": "0.02311",
+              "longitude": "-51.06134"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Santana",
+      "ibgeCode": "1600600",
+      "ddd": "96",
+      "districts": [
+        {
+          "name": "Central",
+          "streets": [
+            {
+              "name": "das Nações",
+              "addressType": "Avenida",
+              "cep": "68925207",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Central",
+              "latitude": "-0.05168",
+              "longitude": "-51.17295"
+            },
+            {
+              "name": "7 de Setembro",
+              "addressType": "Avenida",
+              "cep": "68925222",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Central",
+              "latitude": "-0.02725",
+              "longitude": "-51.17575"
+            },
+            {
+              "name": "do Portuário do Igarapé da Fortaleza, s/n",
+              "addressType": "Vila",
+              "cep": "68925973",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Central",
+              "latitude": "-0.04887",
+              "longitude": "-51.14367"
+            },
+            {
+              "name": "Capitão Euclides Rodrigues",
+              "addressType": "Rua",
+              "cep": "68925192",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Central",
+              "latitude": "-0.03747",
+              "longitude": "-51.16879"
+            },
+            {
+              "name": "Oscar Santos",
+              "addressType": "Travessa",
+              "cep": "68925234",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Central",
+              "latitude": "-0.04242",
+              "longitude": "-51.15967"
+            },
+            {
+              "name": "São João Apóstolo",
+              "addressType": "Avenida",
+              "cep": "68925243",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Central",
+              "latitude": "-0.03397",
+              "longitude": "-51.18036"
+            },
+            {
+              "name": "Rio Branco",
+              "addressType": "Avenida",
+              "cep": "68925201",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Central",
+              "latitude": "-0.05041",
+              "longitude": "-51.17099"
+            },
+            {
+              "name": "Presidente Marechal Humberto de Alencar Castelo Branco",
+              "addressType": "Avenida",
+              "cep": "68925225",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Central",
+              "latitude": "-0.05103",
+              "longitude": "-51.17862"
+            }
+          ]
+        },
+        {
+          "name": "Comercial",
+          "streets": [
+            {
+              "name": "Presidente John Fitzgerald Kennedy",
+              "addressType": "Rua",
+              "cep": "68925096",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Comercial",
+              "latitude": "-0.04859",
+              "longitude": "-51.17039"
+            },
+            {
+              "name": "31 de Março",
+              "addressType": "Rua",
+              "cep": "68925049",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Comercial",
+              "latitude": "-0.05566",
+              "longitude": "-51.1778"
+            },
+            {
+              "name": "Rio Jari",
+              "addressType": "Rua",
+              "cep": "68925058",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Comercial",
+              "latitude": "-0.05718",
+              "longitude": "-51.17784"
+            },
+            {
+              "name": "Esperança",
+              "addressType": "Avenida",
+              "cep": "68925043",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Comercial",
+              "latitude": "-0.02712",
+              "longitude": "-51.17201"
+            },
+            {
+              "name": "Ferreira Gomes",
+              "addressType": "Avenida",
+              "cep": "68925067",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Comercial",
+              "latitude": "-0.05545",
+              "longitude": "-51.1793"
+            },
+            {
+              "name": "Jesus de Nazaré",
+              "addressType": "Avenida",
+              "cep": "68925013",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Comercial",
+              "latitude": "0.04959",
+              "longitude": "-51.06352"
+            },
+            {
+              "name": "7 de Setembro",
+              "addressType": "Avenida",
+              "cep": "68925108",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Comercial",
+              "latitude": "-0.02559",
+              "longitude": "-51.1755"
+            },
+            {
+              "name": "Presidente Arthur Costa e Silva",
+              "addressType": "Rua",
+              "cep": "68925099",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Comercial",
+              "latitude": "-0.04606",
+              "longitude": "-51.17097"
+            }
+          ]
+        },
+        {
+          "name": "Daniel",
+          "streets": [
+            {
+              "name": "João Bitencourt Muniz",
+              "addressType": "Avenida",
+              "cep": "68926068",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Daniel",
+              "latitude": "-0.05666",
+              "longitude": "-51.16069"
+            },
+            {
+              "name": "da Luz",
+              "addressType": "Travessa",
+              "cep": "68926072",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Daniel",
+              "latitude": "-0.0467",
+              "longitude": "-51.17912"
+            },
+            {
+              "name": "Lucena de Azevedo",
+              "addressType": "Avenida",
+              "cep": "68926084",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Daniel",
+              "latitude": "-0.05796",
+              "longitude": "-51.15933"
+            },
+            {
+              "name": "Manoel Moura de Carvalho",
+              "addressType": "Travessa",
+              "cep": "68926064",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Daniel",
+              "latitude": "-0.03647",
+              "longitude": "-51.16266"
+            },
+            {
+              "name": "Pedro da Costa Favela",
+              "addressType": "Avenida",
+              "cep": "68926076",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Daniel",
+              "latitude": "-0.05857",
+              "longitude": "-51.16009"
+            },
+            {
+              "name": "Manoel Videira",
+              "addressType": "Travessa",
+              "cep": "68926080",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Daniel",
+              "latitude": "-0.03649",
+              "longitude": "-51.16237"
+            },
+            {
+              "name": "Cláudio Lúcio Monteiro",
+              "addressType": "Rua",
+              "cep": "68926060",
+              "state": "Amapá",
+              "city": "Santana",
+              "district": "Daniel",
+              "latitude": "-0.05333",
+              "longitude": "-51.17903"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

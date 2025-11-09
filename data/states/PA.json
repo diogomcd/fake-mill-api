@@ -1,0 +1,1501 @@
+{
+  "code": "PA",
+  "name": "Pará",
+  "capital": "Belém",
+  "ddd": "94",
+  "regiao": "Norte",
+  "cities": [
+    {
+      "name": "Altamira",
+      "ibgeCode": "1500602",
+      "ddd": "93",
+      "districts": [
+        {
+          "name": "Alberto Soares",
+          "streets": [
+            {
+              "name": "Vitória",
+              "addressType": "Alameda",
+              "cep": "68376104",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Alberto Soares",
+              "latitude": "-3.21316",
+              "longitude": "-52.22401"
+            },
+            {
+              "name": "Ramos",
+              "addressType": "Rua",
+              "cep": "68376131",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Alberto Soares",
+              "latitude": "-3.21338",
+              "longitude": "-52.22384"
+            },
+            {
+              "name": "Alberto Bastazini",
+              "addressType": "Rua",
+              "cep": "68376132",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Alberto Soares",
+              "latitude": "-3.21323",
+              "longitude": "-52.22406"
+            },
+            {
+              "name": "Bracatinga",
+              "addressType": "Rua",
+              "cep": "68376148",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Alberto Soares",
+              "latitude": "-3.21326",
+              "longitude": "-52.22409"
+            },
+            {
+              "name": "Açaizeiro",
+              "addressType": "Rua",
+              "cep": "68376155",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Alberto Soares",
+              "latitude": "-3.21344",
+              "longitude": "-52.22388"
+            },
+            {
+              "name": "do Estande",
+              "addressType": "Rua",
+              "cep": "68376041",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Alberto Soares",
+              "latitude": "-3.20504",
+              "longitude": "-52.17932"
+            },
+            {
+              "name": "Sargento Raoni",
+              "addressType": "Rua",
+              "cep": "68376046",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Alberto Soares",
+              "latitude": "-3.19957",
+              "longitude": "-52.18393"
+            },
+            {
+              "name": "José Bulamarque",
+              "addressType": "Travessa",
+              "cep": "68376085",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Alberto Soares",
+              "latitude": "-3.26444",
+              "longitude": "-52.24004"
+            }
+          ]
+        },
+        {
+          "name": "Aparecida",
+          "streets": [
+            {
+              "name": "Três",
+              "addressType": "Rua",
+              "cep": "68377340",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Aparecida",
+              "latitude": "-3.19731",
+              "longitude": "-52.20871"
+            },
+            {
+              "name": "da Peixaria",
+              "addressType": "Rua",
+              "cep": "68377720",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Aparecida",
+              "latitude": "-3.20106",
+              "longitude": "-52.19441"
+            },
+            {
+              "name": "Três",
+              "addressType": "Travessa",
+              "cep": "68377352",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Aparecida",
+              "latitude": "-3.18716",
+              "longitude": "-52.20826"
+            },
+            {
+              "name": "Oito",
+              "addressType": "Acesso",
+              "cep": "68377500",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Aparecida",
+              "latitude": "-3.1999",
+              "longitude": "-52.20471"
+            },
+            {
+              "name": "Cinco",
+              "addressType": "Acesso",
+              "cep": "68377410",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Aparecida",
+              "latitude": "-3.1969",
+              "longitude": "-52.20674"
+            },
+            {
+              "name": "Quatro",
+              "addressType": "Rua",
+              "cep": "68377339",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Aparecida",
+              "latitude": "-3.19764",
+              "longitude": "-52.20699"
+            },
+            {
+              "name": "Quatro",
+              "addressType": "Acesso",
+              "cep": "68377380",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Aparecida",
+              "latitude": "-3.22252",
+              "longitude": "-52.22785"
+            },
+            {
+              "name": "Bom Jardim I",
+              "addressType": "Alameda",
+              "cep": "68377435",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Aparecida",
+              "latitude": "-3.19847",
+              "longitude": "-52.20705"
+            }
+          ]
+        },
+        {
+          "name": "Bela Vista",
+          "streets": [
+            {
+              "name": "Igarapé Panelas",
+              "addressType": "Rua",
+              "cep": "68378359",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Bela Vista",
+              "latitude": "-1.28127",
+              "longitude": "-47.59582"
+            },
+            {
+              "name": "Surubim",
+              "addressType": "Rua",
+              "cep": "68378345",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Bela Vista",
+              "latitude": "-3.19514",
+              "longitude": "-52.20847"
+            },
+            {
+              "name": "Santa Luzia",
+              "addressType": "Travessa",
+              "cep": "68374656",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Bela Vista",
+              "latitude": "-1.25478",
+              "longitude": "-48.45568"
+            },
+            {
+              "name": "Lagoa",
+              "addressType": "Rua",
+              "cep": "68378361",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Bela Vista",
+              "latitude": "-3.21719",
+              "longitude": "-52.23599"
+            },
+            {
+              "name": "Usina de Belo Monte",
+              "addressType": "Rua",
+              "cep": "68378343",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Bela Vista",
+              "latitude": "-3.19309",
+              "longitude": "-52.21498"
+            },
+            {
+              "name": "Novo Repartimento",
+              "addressType": "Rua",
+              "cep": "68378280",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Bela Vista",
+              "latitude": "-3.21761",
+              "longitude": "-52.23577"
+            },
+            {
+              "name": "Almirante Barroso",
+              "addressType": "Rua",
+              "cep": "68374724",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Bela Vista",
+              "latitude": "-1.91364",
+              "longitude": "-55.51643"
+            },
+            {
+              "name": "Serrinha",
+              "addressType": "Rua",
+              "cep": "68378350",
+              "state": "Pará",
+              "city": "Altamira",
+              "district": "Bela Vista",
+              "latitude": "-3.21701",
+              "longitude": "-52.23619"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ananindeua",
+      "ibgeCode": "1500800",
+      "ddd": "91",
+      "districts": [
+        {
+          "name": "Atalaia",
+          "streets": [
+            {
+              "name": "Marcílio Dias",
+              "addressType": "Passagem",
+              "cep": "67013750",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Atalaia",
+              "latitude": "-1.32524",
+              "longitude": "-48.37942"
+            },
+            {
+              "name": "K",
+              "addressType": "Passagem",
+              "cep": "67013360",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Atalaia",
+              "latitude": "-1.35126",
+              "longitude": "-48.35696"
+            },
+            {
+              "name": "Tapajós",
+              "addressType": "Rua",
+              "cep": "67013542",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Atalaia",
+              "latitude": "-1.38289",
+              "longitude": "-48.4224"
+            },
+            {
+              "name": "Madalena",
+              "addressType": "Passagem",
+              "cep": "67013502",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Atalaia",
+              "latitude": "-1.38353",
+              "longitude": "-48.42358"
+            },
+            {
+              "name": "São Benedito",
+              "addressType": "Rua",
+              "cep": "67013120",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Atalaia",
+              "latitude": "-1.38815",
+              "longitude": "-48.39518"
+            },
+            {
+              "name": "Guanumbi",
+              "addressType": "Conjunto",
+              "cep": "67013894",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Atalaia",
+              "latitude": "-1.34052",
+              "longitude": "-48.3798"
+            },
+            {
+              "name": "Santa Inês",
+              "addressType": "Passagem",
+              "cep": "67013835",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Atalaia",
+              "latitude": "-1.39297",
+              "longitude": "-48.42849"
+            },
+            {
+              "name": "Nazareno II",
+              "addressType": "Passagem",
+              "cep": "67013373",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Atalaia",
+              "latitude": "-1.39141",
+              "longitude": "-48.42912"
+            }
+          ]
+        },
+        {
+          "name": "Aurá",
+          "streets": [
+            {
+              "name": "do Aurá",
+              "addressType": "Estrada",
+              "cep": "67033755",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Aurá",
+              "latitude": "-1.39985",
+              "longitude": "-48.36801"
+            },
+            {
+              "name": "Dezoito",
+              "addressType": "Quadra",
+              "cep": "67033868",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Aurá",
+              "latitude": "-1.39661",
+              "longitude": "-48.38776"
+            },
+            {
+              "name": "Dois de Junho",
+              "addressType": "Rua",
+              "cep": "67033658",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Aurá",
+              "latitude": "-1.38786",
+              "longitude": "-48.37395"
+            },
+            {
+              "name": "Quatro",
+              "addressType": "Quadra",
+              "cep": "67033854",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Aurá",
+              "latitude": "-1.38429",
+              "longitude": "-48.43364"
+            },
+            {
+              "name": "Treze de Junho",
+              "addressType": "Rua",
+              "cep": "67032100",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Aurá",
+              "latitude": "-1.39391",
+              "longitude": "-48.38637"
+            },
+            {
+              "name": "Quarenta",
+              "addressType": "Quadra",
+              "cep": "67033890",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Aurá",
+              "latitude": "-1.39678",
+              "longitude": "-48.38795"
+            },
+            {
+              "name": "Dois de Março",
+              "addressType": "Rua",
+              "cep": "67032070",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Aurá",
+              "latitude": "-1.37531",
+              "longitude": "-48.36999"
+            },
+            {
+              "name": "Trinta e Quatro",
+              "addressType": "Quadra",
+              "cep": "67033884",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Aurá",
+              "latitude": "-1.39586",
+              "longitude": "-48.38811"
+            }
+          ]
+        },
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "I",
+              "addressType": "Quadra",
+              "cep": "67030853",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Centro",
+              "latitude": "-1.34053",
+              "longitude": "-48.37977"
+            },
+            {
+              "name": "Dois Irmãos",
+              "addressType": "Passagem",
+              "cep": "67030420",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Centro",
+              "latitude": "-1.32029",
+              "longitude": "-48.41551"
+            },
+            {
+              "name": "Quarenta e Três",
+              "addressType": "Quadra",
+              "cep": "67040490",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Centro",
+              "latitude": "-1.32785",
+              "longitude": "-48.4001"
+            },
+            {
+              "name": "Cláudio Sanders",
+              "addressType": "Rua",
+              "cep": "67030160",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Centro",
+              "latitude": "-1.36585",
+              "longitude": "-48.37398"
+            },
+            {
+              "name": "Rufino Leão",
+              "addressType": "Passagem",
+              "cep": "67030383",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Centro",
+              "latitude": "-1.39481",
+              "longitude": "-48.41543"
+            },
+            {
+              "name": "dos Ipês",
+              "addressType": "Rua",
+              "cep": "67030032",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Centro",
+              "latitude": "-1.36398",
+              "longitude": "-48.38439"
+            },
+            {
+              "name": "Paulo Maranhão",
+              "addressType": "Rua",
+              "cep": "67030041",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Centro",
+              "latitude": "-1.36433",
+              "longitude": "-48.38166"
+            },
+            {
+              "name": "Leopoldo Teixeira",
+              "addressType": "Rua",
+              "cep": "67030025",
+              "state": "Pará",
+              "city": "Ananindeua",
+              "district": "Centro",
+              "latitude": "-1.36138",
+              "longitude": "-48.39119"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Belem",
+      "ibgeCode": "1501402",
+      "ddd": "91",
+      "districts": [
+        {
+          "name": "Aeroporto",
+          "streets": [
+            {
+              "name": "Santo Antônio",
+              "addressType": "Vila",
+              "cep": "66915200",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Aeroporto",
+              "latitude": "-1.45765",
+              "longitude": "-48.45909"
+            },
+            {
+              "name": "Rionegrino",
+              "addressType": "Rua",
+              "cep": "66915040",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Aeroporto",
+              "latitude": "-1.13762",
+              "longitude": "-48.45368"
+            },
+            {
+              "name": "Stella Maris",
+              "addressType": "Alameda",
+              "cep": "66915170",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Aeroporto",
+              "latitude": "-1.13788",
+              "longitude": "-48.4598"
+            },
+            {
+              "name": "Camilo Salgado",
+              "addressType": "Rua",
+              "cep": "66915220",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Aeroporto",
+              "latitude": "-1.13939",
+              "longitude": "-48.45715"
+            },
+            {
+              "name": "do Aeroporto",
+              "addressType": "Rua",
+              "cep": "66915010",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Aeroporto",
+              "latitude": "-1.13963",
+              "longitude": "-48.45727"
+            },
+            {
+              "name": "Atleticana",
+              "addressType": "Rua",
+              "cep": "66915240",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Aeroporto",
+              "latitude": "-1.39526",
+              "longitude": "-48.47338"
+            },
+            {
+              "name": "Anastácia",
+              "addressType": "Alameda",
+              "cep": "66915150",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Aeroporto",
+              "latitude": "-1.14935",
+              "longitude": "-48.46587"
+            },
+            {
+              "name": "Brigadeiro Lopes",
+              "addressType": "Alameda",
+              "cep": "66915140",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Aeroporto",
+              "latitude": "-1.14058",
+              "longitude": "-48.46064"
+            }
+          ]
+        },
+        {
+          "name": "Agulha",
+          "streets": [
+            {
+              "name": "B",
+              "addressType": "Alameda",
+              "cep": "66813635",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Agulha",
+              "latitude": "-1.41612",
+              "longitude": "-48.45099"
+            },
+            {
+              "name": "L-4",
+              "addressType": "Travessa",
+              "cep": "66811785",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Agulha",
+              "latitude": "-1.35148",
+              "longitude": "-48.43987"
+            },
+            {
+              "name": "Pero Vaz de Caminha",
+              "addressType": "Alameda",
+              "cep": "66811090",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Agulha",
+              "latitude": "-1.30876",
+              "longitude": "-48.47492"
+            },
+            {
+              "name": "D",
+              "addressType": "Alameda",
+              "cep": "66813655",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Agulha",
+              "latitude": "-1.32756",
+              "longitude": "-48.47732"
+            },
+            {
+              "name": "J",
+              "addressType": "Alameda",
+              "cep": "66813715",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Agulha",
+              "latitude": "-1.32515",
+              "longitude": "-48.47755"
+            },
+            {
+              "name": "São Vicente de Paula III",
+              "addressType": "Passagem",
+              "cep": "66811363",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Agulha",
+              "latitude": "-1.30242",
+              "longitude": "-48.47144"
+            },
+            {
+              "name": "Douglas Cohen",
+              "addressType": "Passagem",
+              "cep": "66811480",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Agulha",
+              "latitude": "-1.30202",
+              "longitude": "-48.4746"
+            },
+            {
+              "name": "Quinta",
+              "addressType": "Alameda",
+              "cep": "66811800",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Agulha",
+              "latitude": "-1.30672",
+              "longitude": "-48.46443"
+            }
+          ]
+        },
+        {
+          "name": "Ariramba",
+          "streets": [
+            {
+              "name": "Guajará 9",
+              "addressType": "Travessa",
+              "cep": "66919240",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Ariramba",
+              "latitude": "-1.39845",
+              "longitude": "-48.46959"
+            },
+            {
+              "name": "Guajará 7",
+              "addressType": "Travessa",
+              "cep": "66919220",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Ariramba",
+              "latitude": "-1.39845",
+              "longitude": "-48.46959"
+            },
+            {
+              "name": "dos Marcelinos",
+              "addressType": "Rua",
+              "cep": "66919010",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Ariramba",
+              "latitude": "-1.35805",
+              "longitude": "-48.45224"
+            },
+            {
+              "name": "Guajará 12",
+              "addressType": "Travessa",
+              "cep": "66919270",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Ariramba",
+              "latitude": "-1.39845",
+              "longitude": "-48.46959"
+            },
+            {
+              "name": "I",
+              "addressType": "Travessa",
+              "cep": "66919450",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Ariramba",
+              "latitude": "-1.11878",
+              "longitude": "-48.43366"
+            },
+            {
+              "name": "O",
+              "addressType": "Travessa",
+              "cep": "66919510",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Ariramba",
+              "latitude": "-1.11945",
+              "longitude": "-48.4286"
+            },
+            {
+              "name": "G",
+              "addressType": "Travessa",
+              "cep": "66919430",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Ariramba",
+              "latitude": "-1.34884",
+              "longitude": "-48.47458"
+            },
+            {
+              "name": "M",
+              "addressType": "Travessa",
+              "cep": "66919490",
+              "state": "Pará",
+              "city": "Belem",
+              "district": "Ariramba",
+              "latitude": "-1.11945",
+              "longitude": "-48.4286"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Capanema",
+      "ibgeCode": "1502202",
+      "ddd": "91",
+      "districts": [
+        {
+          "name": "Almir Gabriel",
+          "streets": [
+            {
+              "name": "Antonio Pinheiro do Nascimento",
+              "addressType": "Travessa",
+              "cep": "68703360",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Almir Gabriel",
+              "latitude": "-1.20156",
+              "longitude": "-47.18648"
+            },
+            {
+              "name": "AD Cinco",
+              "addressType": "Rua",
+              "cep": "68703331",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Almir Gabriel",
+              "latitude": "-1.20942",
+              "longitude": "-47.17612"
+            },
+            {
+              "name": "Jorge Costa",
+              "addressType": "Rua",
+              "cep": "68703339",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Almir Gabriel",
+              "latitude": "-1.19469",
+              "longitude": "-47.175"
+            },
+            {
+              "name": "Ayres Carvalho",
+              "addressType": "Avenida",
+              "cep": "68703392",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Almir Gabriel",
+              "latitude": "-1.19587",
+              "longitude": "-47.1977"
+            },
+            {
+              "name": "Projetada III",
+              "addressType": "Travessa",
+              "cep": "68703344",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Almir Gabriel",
+              "latitude": "-1.20867",
+              "longitude": "-47.17517"
+            },
+            {
+              "name": "Mário Lima",
+              "addressType": "Avenida",
+              "cep": "68703394",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Almir Gabriel",
+              "latitude": "-1.20898",
+              "longitude": "-47.17557"
+            },
+            {
+              "name": "Francisco Ferreira de Freitas",
+              "addressType": "Travessa",
+              "cep": "68703364",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Almir Gabriel",
+              "latitude": "-1.20891",
+              "longitude": "-47.1732"
+            },
+            {
+              "name": "das Flores",
+              "addressType": "Travessa",
+              "cep": "68703335",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Almir Gabriel",
+              "latitude": "-1.17938",
+              "longitude": "-47.1823"
+            }
+          ]
+        },
+        {
+          "name": "Areia Branca",
+          "streets": [
+            {
+              "name": "Jaime Nascimento",
+              "addressType": "Conjunto",
+              "cep": "68703015",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Areia Branca",
+              "latitude": "-1.18248",
+              "longitude": "-47.15923"
+            },
+            {
+              "name": "Coronel Leandro Pinheiro",
+              "addressType": "Travessa",
+              "cep": "68702278",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Areia Branca",
+              "latitude": "-1.20333",
+              "longitude": "-47.18601"
+            },
+            {
+              "name": "Projetada II",
+              "addressType": "Rua",
+              "cep": "68703012",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Areia Branca",
+              "latitude": "-1.19757",
+              "longitude": "-47.19683"
+            },
+            {
+              "name": "Guará",
+              "addressType": "Passagem",
+              "cep": "68702280",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Areia Branca",
+              "latitude": "-1.19561",
+              "longitude": "-47.18832"
+            },
+            {
+              "name": "Monte Castelo",
+              "addressType": "Travessa",
+              "cep": "68703010",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Areia Branca",
+              "latitude": "-1.19356",
+              "longitude": "-47.1907"
+            },
+            {
+              "name": "Noronha",
+              "addressType": "Passagem",
+              "cep": "68702272",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Areia Branca",
+              "latitude": "-1.35906",
+              "longitude": "-48.35034"
+            },
+            {
+              "name": "Jari",
+              "addressType": "Passagem",
+              "cep": "68702271",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Areia Branca",
+              "latitude": "-1.19303",
+              "longitude": "-47.18435"
+            },
+            {
+              "name": "João Freitas",
+              "addressType": "Passagem",
+              "cep": "68702273",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Areia Branca",
+              "latitude": "-1.19601",
+              "longitude": "-47.18601"
+            }
+          ]
+        },
+        {
+          "name": "Caixa Dágua",
+          "streets": [
+            {
+              "name": "Ucuúba",
+              "addressType": "Rua",
+              "cep": "68700720",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Caixa Dágua",
+              "latitude": "-1.1871",
+              "longitude": "-47.15002"
+            },
+            {
+              "name": "Tauari",
+              "addressType": "Estrada",
+              "cep": "68700710",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Caixa Dágua",
+              "latitude": "-1.18693",
+              "longitude": "-47.17964"
+            },
+            {
+              "name": "Eduardo Angelin",
+              "addressType": "Rua",
+              "cep": "68700680",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Caixa Dágua",
+              "latitude": "-1.18327",
+              "longitude": "-47.15709"
+            },
+            {
+              "name": "Barão de Capanema",
+              "addressType": "Avenida",
+              "cep": "68700665",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Caixa Dágua",
+              "latitude": "-1.20498",
+              "longitude": "-47.15681"
+            },
+            {
+              "name": "João Coelho",
+              "addressType": "Passagem",
+              "cep": "68700690",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Caixa Dágua",
+              "latitude": "-1.18265",
+              "longitude": "-47.15806"
+            },
+            {
+              "name": "Francisco Oliveira Martins",
+              "addressType": "Travessa",
+              "cep": "68700660",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Caixa Dágua",
+              "latitude": "-1.18627",
+              "longitude": "-47.15802"
+            },
+            {
+              "name": "Deodoro de Mendonça",
+              "addressType": "Passagem",
+              "cep": "68700700",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Caixa Dágua",
+              "latitude": "-1.18255",
+              "longitude": "-47.1575"
+            },
+            {
+              "name": "Jaime Nascimento Costa",
+              "addressType": "Rua",
+              "cep": "68700670",
+              "state": "Pará",
+              "city": "Capanema",
+              "district": "Caixa Dágua",
+              "latitude": "-1.18251",
+              "longitude": "-47.15712"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Castanhal",
+      "ibgeCode": "1502400",
+      "ddd": "91",
+      "districts": [
+        {
+          "name": "Agrovila Iracema",
+          "streets": [
+            {
+              "name": "Manoel Alves",
+              "addressType": "Rua",
+              "cep": "68746890",
+              "state": "Pará",
+              "city": "Castanhal",
+              "district": "Agrovila Iracema",
+              "latitude": "-1.30747",
+              "longitude": "-47.8982"
+            },
+            {
+              "name": "Manoel Alves, 128",
+              "addressType": "Rua",
+              "cep": "68741971",
+              "state": "Pará",
+              "city": "Castanhal",
+              "district": "Agrovila Iracema",
+              "latitude": "-1.29948",
+              "longitude": "-47.9113"
+            }
+          ]
+        },
+        {
+          "name": "Apeú",
+          "streets": [
+            {
+              "name": "Luíz Braga",
+              "addressType": "Travessa",
+              "cep": "68740437",
+              "state": "Pará",
+              "city": "Castanhal",
+              "district": "Apeú",
+              "latitude": "-1.29611",
+              "longitude": "-47.89487"
+            },
+            {
+              "name": "do Fio",
+              "addressType": "Rua",
+              "cep": "68740442",
+              "state": "Pará",
+              "city": "Castanhal",
+              "district": "Apeú",
+              "latitude": "-6.75647",
+              "longitude": "-51.06591"
+            },
+            {
+              "name": "W-Um",
+              "addressType": "Alameda",
+              "cep": "68740470",
+              "state": "Pará",
+              "city": "Castanhal",
+              "district": "Apeú",
+              "latitude": "-1.30224",
+              "longitude": "-47.93898"
+            },
+            {
+              "name": "de Apeú, s/n",
+              "addressType": "Vila",
+              "cep": "68747971",
+              "state": "Pará",
+              "city": "Castanhal",
+              "district": "Apeú",
+              "latitude": "-1.29046",
+              "longitude": "-47.94879"
+            },
+            {
+              "name": "Tocantins",
+              "addressType": "Alameda",
+              "cep": "68740455",
+              "state": "Pará",
+              "city": "Castanhal",
+              "district": "Apeú",
+              "latitude": "-1.29229",
+              "longitude": "-47.98582"
+            },
+            {
+              "name": "Santa Isabel",
+              "addressType": "Travessa",
+              "cep": "68740460",
+              "state": "Pará",
+              "city": "Castanhal",
+              "district": "Apeú",
+              "latitude": "-1.2988",
+              "longitude": "-47.99068"
+            },
+            {
+              "name": "Coronel Sampaio",
+              "addressType": "Rua",
+              "cep": "68740490",
+              "state": "Pará",
+              "city": "Castanhal",
+              "district": "Apeú",
+              "latitude": "-1.29663",
+              "longitude": "-47.98827"
+            },
+            {
+              "name": "São Miguel",
+              "addressType": "Alameda",
+              "cep": "68740537",
+              "state": "Pará",
+              "city": "Castanhal",
+              "district": "Apeú",
+              "latitude": "-1.31513",
+              "longitude": "-47.95064"
+            }
+          ]
+        },
+        {
+          "name": "Betânia",
+          "streets": [
+            {
+              "name": "Cecília",
+              "addressType": "Travessa",
+              "cep": "68741644",
+              "state": "Pará",
+              "city": "Castanhal",
+              "district": "Betânia",
+              "latitude": "-1.29277",
+              "longitude": "-47.98384"
+            },
+            {
+              "name": "Fernando A. Lameira",
+              "addressType": "Rua",
+              "cep": "68741615",
+              "state": "Pará",
+              "city": "Castanhal",
+              "district": "Betânia",
+              "latitude": "-1.29845",
+              "longitude": "-47.98447"
+            },
+            {
+              "name": "Manoel Pinto",
+              "addressType": "Travessa",
+              "cep": "68741627",
+              "state": "Pará",
+              "city": "Castanhal",
+              "district": "Betânia",
+              "latitude": "-1.29291",
+              "longitude": "-47.97885"
+            },
+            {
+              "name": "Barão do Rio Branco",
+              "addressType": "Avenida",
+              "cep": "68741670",
+              "state": "Pará",
+              "city": "Castanhal",
+              "district": "Betânia",
+              "latitude": "-1.1684",
+              "longitude": "-47.79593"
+            },
+            {
+              "name": "Enedina Vieira",
+              "addressType": "Rua",
+              "cep": "68741690",
+              "state": "Pará",
+              "city": "Castanhal",
+              "district": "Betânia",
+              "latitude": "-1.268",
+              "longitude": "-47.90518"
+            },
+            {
+              "name": "Heliolândia",
+              "addressType": "Travessa",
+              "cep": "68741624",
+              "state": "Pará",
+              "city": "Castanhal",
+              "district": "Betânia",
+              "latitude": "-1.37187",
+              "longitude": "-48.44921"
+            },
+            {
+              "name": "Artur Muniz",
+              "addressType": "Travessa",
+              "cep": "68741617",
+              "state": "Pará",
+              "city": "Castanhal",
+              "district": "Betânia",
+              "latitude": "-1.30539",
+              "longitude": "-47.94042"
+            },
+            {
+              "name": "Heráclito Ferreira de Souza",
+              "addressType": "Travessa",
+              "cep": "68741620",
+              "state": "Pará",
+              "city": "Castanhal",
+              "district": "Betânia",
+              "latitude": "-1.30401",
+              "longitude": "-47.8917"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Itaituba",
+      "ibgeCode": "1503606",
+      "ddd": "93",
+      "districts": [
+        {
+          "name": "Aeroporto Velho",
+          "streets": [
+            {
+              "name": "Doutor Hugo de Mendonça, 420",
+              "addressType": "Avenida",
+              "cep": "68181971",
+              "state": "Pará",
+              "city": "Itaituba",
+              "district": "Aeroporto Velho",
+              "latitude": "-4.27424",
+              "longitude": "-55.98266"
+            },
+            {
+              "name": "Doutor Hugo de Mendonça, 420",
+              "addressType": "Avenida",
+              "cep": "68181970",
+              "state": "Pará",
+              "city": "Itaituba",
+              "district": "Aeroporto Velho",
+              "latitude": "-4.27424",
+              "longitude": "-55.98266"
+            },
+            {
+              "name": "Haroldo Veloso",
+              "addressType": "Rua",
+              "cep": "68181030",
+              "state": "Pará",
+              "city": "Itaituba",
+              "district": "Aeroporto Velho",
+              "latitude": "-4.27747",
+              "longitude": "-55.98803"
+            },
+            {
+              "name": "Doutor Hugo de Mendonça",
+              "addressType": "Avenida",
+              "cep": "68181000",
+              "state": "Pará",
+              "city": "Itaituba",
+              "district": "Aeroporto Velho",
+              "latitude": "-4.27424",
+              "longitude": "-55.98266"
+            },
+            {
+              "name": "Quinta",
+              "addressType": "Travessa",
+              "cep": "68181170",
+              "state": "Pará",
+              "city": "Itaituba",
+              "district": "Aeroporto Velho",
+              "latitude": "-4.26491",
+              "longitude": "-55.97714"
+            },
+            {
+              "name": "Sexta",
+              "addressType": "Travessa",
+              "cep": "68181180",
+              "state": "Pará",
+              "city": "Itaituba",
+              "district": "Aeroporto Velho",
+              "latitude": "-4.24171",
+              "longitude": "-56.01191"
+            },
+            {
+              "name": "Marechal Rondon",
+              "addressType": "Avenida",
+              "cep": "68181010",
+              "state": "Pará",
+              "city": "Itaituba",
+              "district": "Aeroporto Velho",
+              "latitude": "-4.27587",
+              "longitude": "-55.98981"
+            },
+            {
+              "name": "Nova Avenida",
+              "addressType": "Rua",
+              "cep": "68181020",
+              "state": "Pará",
+              "city": "Itaituba",
+              "district": "Aeroporto Velho",
+              "latitude": "-1.14437",
+              "longitude": "-48.45476"
+            }
+          ]
+        },
+        {
+          "name": "Bela Vista",
+          "streets": [
+            {
+              "name": "João Pessoa",
+              "addressType": "Travessa",
+              "cep": "68180630",
+              "state": "Pará",
+              "city": "Itaituba",
+              "district": "Bela Vista",
+              "latitude": "-4.26115",
+              "longitude": "-55.98663"
+            },
+            {
+              "name": "Quinze de Agosto",
+              "addressType": "Travessa",
+              "cep": "68180610",
+              "state": "Pará",
+              "city": "Itaituba",
+              "district": "Bela Vista",
+              "latitude": "-4.26389",
+              "longitude": "-55.99059"
+            },
+            {
+              "name": "João Lourenço Paxiuba",
+              "addressType": "Avenida",
+              "cep": "68180200",
+              "state": "Pará",
+              "city": "Itaituba",
+              "district": "Bela Vista",
+              "latitude": "-4.26169",
+              "longitude": "-55.98422"
+            },
+            {
+              "name": "São José",
+              "addressType": "Avenida",
+              "cep": "68180080",
+              "state": "Pará",
+              "city": "Itaituba",
+              "district": "Bela Vista",
+              "latitude": "-4.27247",
+              "longitude": "-55.97881"
+            },
+            {
+              "name": "Vigésima Quinta",
+              "addressType": "Rua",
+              "cep": "68180320",
+              "state": "Pará",
+              "city": "Itaituba",
+              "district": "Bela Vista",
+              "latitude": "-4.25924",
+              "longitude": "-55.99219"
+            },
+            {
+              "name": "Antão Ferreira do Valle",
+              "addressType": "Rua",
+              "cep": "68180460",
+              "state": "Pará",
+              "city": "Itaituba",
+              "district": "Bela Vista",
+              "latitude": "-4.25874",
+              "longitude": "-55.98752"
+            },
+            {
+              "name": "Vigésima Oitava",
+              "addressType": "Rua",
+              "cep": "68180350",
+              "state": "Pará",
+              "city": "Itaituba",
+              "district": "Bela Vista",
+              "latitude": "-4.247",
+              "longitude": "-55.9828"
+            },
+            {
+              "name": "Riomar Tapajós Virgulino Lages",
+              "addressType": "Rua",
+              "cep": "68180430",
+              "state": "Pará",
+              "city": "Itaituba",
+              "district": "Bela Vista",
+              "latitude": "-4.25725",
+              "longitude": "-55.99281"
+            }
+          ]
+        },
+        {
+          "name": "Boa Esperança",
+          "streets": [
+            {
+              "name": "Jerônimo Belfort Campos",
+              "addressType": "Travessa",
+              "cep": "68182204",
+              "state": "Pará",
+              "city": "Itaituba",
+              "district": "Boa Esperança",
+              "latitude": "-4.28029",
+              "longitude": "-55.99209"
+            },
+            {
+              "name": "Doutor Carlos Roberto C. Furtado",
+              "addressType": "Travessa",
+              "cep": "68182202",
+              "state": "Pará",
+              "city": "Itaituba",
+              "district": "Boa Esperança",
+              "latitude": "-4.27806",
+              "longitude": "-55.99081"
+            },
+            {
+              "name": "José Ribeiro dos Anjos",
+              "addressType": "Travessa",
+              "cep": "68182200",
+              "state": "Pará",
+              "city": "Itaituba",
+              "district": "Boa Esperança",
+              "latitude": "-4.27645",
+              "longitude": "-55.98803"
+            },
+            {
+              "name": "Rabelo",
+              "addressType": "Rua",
+              "cep": "68182210",
+              "state": "Pará",
+              "city": "Itaituba",
+              "district": "Boa Esperança",
+              "latitude": "-4.27511",
+              "longitude": "-56.00295"
+            },
+            {
+              "name": "Manoel Pereira de Souza",
+              "addressType": "Travessa",
+              "cep": "68182203",
+              "state": "Pará",
+              "city": "Itaituba",
+              "district": "Boa Esperança",
+              "latitude": "-4.27861",
+              "longitude": "-55.99177"
+            },
+            {
+              "name": "Sagrado Coração de Jesus",
+              "addressType": "Travessa",
+              "cep": "68182201",
+              "state": "Pará",
+              "city": "Itaituba",
+              "district": "Boa Esperança",
+              "latitude": "-4.27744",
+              "longitude": "-55.98988"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1581 @@
+{
+  "code": "SC",
+  "name": "Santa Catarina",
+  "capital": "Florianópolis",
+  "ddd": "49",
+  "regiao": "Sul",
+  "cities": [
+    {
+      "name": "Araranguá",
+      "ibgeCode": "4201406",
+      "ddd": "48",
+      "districts": [
+        {
+          "name": "Alto Feliz",
+          "streets": [
+            {
+              "name": "Prefeito Ruy Stockler de Souza",
+              "addressType": "Rua",
+              "cep": "88905036",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Alto Feliz",
+              "latitude": "-28.94681",
+              "longitude": "-49.49056"
+            },
+            {
+              "name": "Maria Leocárdia",
+              "addressType": "Rua",
+              "cep": "88905040",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Alto Feliz",
+              "latitude": "-28.9459",
+              "longitude": "-49.48815"
+            },
+            {
+              "name": "Manoel Eulógio de Almeida",
+              "addressType": "Rua",
+              "cep": "88905084",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Alto Feliz",
+              "latitude": "-28.95001",
+              "longitude": "-49.50874"
+            },
+            {
+              "name": "Prefeito Walter Belinzoni",
+              "addressType": "Rua",
+              "cep": "88905000",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Alto Feliz",
+              "latitude": "-28.94272",
+              "longitude": "-49.4867"
+            },
+            {
+              "name": "Porfírio Lopes de Aguiar",
+              "addressType": "Rua",
+              "cep": "88905018",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Alto Feliz",
+              "latitude": "-28.938",
+              "longitude": "-49.49482"
+            },
+            {
+              "name": "Romeu Wendhausen Pereira",
+              "addressType": "Rua",
+              "cep": "88905074",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Alto Feliz",
+              "latitude": "-28.94706",
+              "longitude": "-49.48679"
+            },
+            {
+              "name": "XV de Novembro, 240",
+              "addressType": "Avenida",
+              "cep": "88905970",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Alto Feliz",
+              "latitude": "-28.93931",
+              "longitude": "-49.48974"
+            },
+            {
+              "name": "Sete de Setembro, 634",
+              "addressType": "Avenida",
+              "cep": "88905900",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Alto Feliz",
+              "latitude": "-28.93958",
+              "longitude": "-49.48964"
+            }
+          ]
+        },
+        {
+          "name": "Arapongas",
+          "streets": [
+            {
+              "name": "Joaquim João de Bem",
+              "addressType": "Rua",
+              "cep": "88906506",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Arapongas",
+              "latitude": "-28.94178",
+              "longitude": "-49.4636"
+            },
+            {
+              "name": "Alirton Gonçalves Pereira",
+              "addressType": "Rua",
+              "cep": "88906514",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Arapongas",
+              "latitude": "-28.944",
+              "longitude": "-49.47608"
+            },
+            {
+              "name": "João Paulo II",
+              "addressType": "Rua",
+              "cep": "88906536",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Arapongas",
+              "latitude": "-28.93789",
+              "longitude": "-49.45792"
+            },
+            {
+              "name": "Geraldino João da Silva",
+              "addressType": "Rua",
+              "cep": "88906532",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Arapongas",
+              "latitude": "-28.94128",
+              "longitude": "-49.45837"
+            },
+            {
+              "name": "Carteiro Jorge Henrique",
+              "addressType": "Rua",
+              "cep": "88906540",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Arapongas",
+              "latitude": "-28.94008",
+              "longitude": "-49.45652"
+            },
+            {
+              "name": "Dorival Ferreira",
+              "addressType": "Avenida",
+              "cep": "88906552",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Arapongas",
+              "latitude": "-28.95142",
+              "longitude": "-49.49191"
+            },
+            {
+              "name": "Castro Alves",
+              "addressType": "Rua",
+              "cep": "88906516",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Arapongas",
+              "latitude": "-28.93985",
+              "longitude": "-49.46251"
+            },
+            {
+              "name": "Lorena Luz Kretschmer",
+              "addressType": "Avenida",
+              "cep": "88906510",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Arapongas",
+              "latitude": "-28.94104",
+              "longitude": "-49.4597"
+            }
+          ]
+        },
+        {
+          "name": "Balneário de Ilhas",
+          "streets": [
+            {
+              "name": "Antonio Jacinto dos Passos",
+              "addressType": "Rua",
+              "cep": "88912530",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Balneário de Ilhas",
+              "latitude": "-28.90937",
+              "longitude": "-49.33182"
+            },
+            {
+              "name": "Ari Francisco Pedroso",
+              "addressType": "Rua",
+              "cep": "88912510",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Balneário de Ilhas",
+              "latitude": "-28.91078",
+              "longitude": "-49.3357"
+            },
+            {
+              "name": "Antonio João da Silva",
+              "addressType": "Rua",
+              "cep": "88912506",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Balneário de Ilhas",
+              "latitude": "-28.92732",
+              "longitude": "-49.48262"
+            },
+            {
+              "name": "1º de Maio",
+              "addressType": "Rua",
+              "cep": "88912504",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Balneário de Ilhas",
+              "latitude": "-28.94683",
+              "longitude": "-49.46684"
+            },
+            {
+              "name": "Bráulia de Souza Freitas",
+              "addressType": "Rua",
+              "cep": "88912502",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Balneário de Ilhas",
+              "latitude": "-28.94984",
+              "longitude": "-49.5002"
+            },
+            {
+              "name": "Aparício Geraldino",
+              "addressType": "Rua",
+              "cep": "88912524",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Balneário de Ilhas",
+              "latitude": "-28.91011",
+              "longitude": "-49.33409"
+            },
+            {
+              "name": "21 de Abril",
+              "addressType": "Travessa",
+              "cep": "88912522",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Balneário de Ilhas",
+              "latitude": "-28.93374",
+              "longitude": "-49.48215"
+            },
+            {
+              "name": "Beira Rio",
+              "addressType": "Rua",
+              "cep": "88912526",
+              "state": "Santa Catarina",
+              "city": "Araranguá",
+              "district": "Balneário de Ilhas",
+              "latitude": "-28.94662",
+              "longitude": "-49.36686"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Balneário Camboriú",
+      "ibgeCode": "4202008",
+      "ddd": "47",
+      "districts": [
+        {
+          "name": "Ariribá",
+          "streets": [
+            {
+              "name": "Rouxinol",
+              "addressType": "Rua",
+              "cep": "88338650",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Ariribá",
+              "latitude": "-26.95652",
+              "longitude": "-48.6416"
+            },
+            {
+              "name": "do Estado Dalmo Vieira",
+              "addressType": "Avenida",
+              "cep": "88338635",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Ariribá",
+              "latitude": "-26.96978",
+              "longitude": "-48.6391"
+            },
+            {
+              "name": "do Estado Dalmo Vieira, 1690",
+              "addressType": "Avenida",
+              "cep": "88338901",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Ariribá",
+              "latitude": "-26.96434",
+              "longitude": "-48.63952"
+            },
+            {
+              "name": "Pintassilgo",
+              "addressType": "Rua",
+              "cep": "88338535",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Ariribá",
+              "latitude": "-26.96603",
+              "longitude": "-48.64067"
+            },
+            {
+              "name": "Gaturamo",
+              "addressType": "Rua",
+              "cep": "88338545",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Ariribá",
+              "latitude": "-26.96761",
+              "longitude": "-48.64005"
+            },
+            {
+              "name": "Pica-pau",
+              "addressType": "Rua",
+              "cep": "88338530",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Ariribá",
+              "latitude": "-26.96593",
+              "longitude": "-48.64118"
+            },
+            {
+              "name": "do Estado Dalmo Vieira",
+              "addressType": "Avenida",
+              "cep": "88338640",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Ariribá",
+              "latitude": "-26.96143",
+              "longitude": "-48.63992"
+            },
+            {
+              "name": "Patativa",
+              "addressType": "Rua",
+              "cep": "88338540",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Ariribá",
+              "latitude": "-26.96607",
+              "longitude": "-48.64018"
+            }
+          ]
+        },
+        {
+          "name": "Barra",
+          "streets": [
+            {
+              "name": "Ademar Rebelo Linhares",
+              "addressType": "Rua",
+              "cep": "88332133",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Barra",
+              "latitude": "-27.01063",
+              "longitude": "-48.60823"
+            },
+            {
+              "name": "do Beto",
+              "addressType": "Beco",
+              "cep": "88332065",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Barra",
+              "latitude": "-27.01145",
+              "longitude": "-48.61023"
+            },
+            {
+              "name": "Aquiles da Costa",
+              "addressType": "Rua",
+              "cep": "88332125",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Barra",
+              "latitude": "-27.01277",
+              "longitude": "-48.61004"
+            },
+            {
+              "name": "Domingos Eleutério Pinheiro",
+              "addressType": "Rua",
+              "cep": "88332220",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Barra",
+              "latitude": "-27.00811",
+              "longitude": "-48.59911"
+            },
+            {
+              "name": "Antônio dos Santos",
+              "addressType": "Rua",
+              "cep": "88332225",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Barra",
+              "latitude": "-27.00913",
+              "longitude": "-48.598"
+            },
+            {
+              "name": "Ivo Januário Reis",
+              "addressType": "Rua",
+              "cep": "88332180",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Barra",
+              "latitude": "-27.0113",
+              "longitude": "-48.59942"
+            },
+            {
+              "name": "Natanael Jacinto",
+              "addressType": "Rua",
+              "cep": "88332137",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Barra",
+              "latitude": "-27.01165",
+              "longitude": "-48.61018"
+            },
+            {
+              "name": "Joana Maria",
+              "addressType": "Rua",
+              "cep": "88332015",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Barra",
+              "latitude": "-27.00767",
+              "longitude": "-48.60109"
+            }
+          ]
+        },
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "Avenida",
+              "addressType": "3ª",
+              "cep": "88330092",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Centro",
+              "latitude": "-26.99815",
+              "longitude": "-48.6323"
+            },
+            {
+              "name": "da Lagoa",
+              "addressType": "Avenida",
+              "cep": "88330714",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Centro",
+              "latitude": "-26.98489",
+              "longitude": "-48.63464"
+            },
+            {
+              "name": "2300",
+              "addressType": "Rua",
+              "cep": "88330432",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Centro",
+              "latitude": "-26.99962",
+              "longitude": "-48.63997"
+            },
+            {
+              "name": "4800",
+              "addressType": "Rua",
+              "cep": "88330128",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Centro",
+              "latitude": "-27.00611",
+              "longitude": "-48.60536"
+            },
+            {
+              "name": "991",
+              "addressType": "Rua",
+              "cep": "88330753",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Centro",
+              "latitude": "-26.98412",
+              "longitude": "-48.63966"
+            },
+            {
+              "name": "1911",
+              "addressType": "Rua",
+              "cep": "88330825",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Centro",
+              "latitude": "-26.97641",
+              "longitude": "-48.637"
+            },
+            {
+              "name": "Avenida",
+              "addressType": "4ª",
+              "cep": "88330108",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Centro",
+              "latitude": "-26.99815",
+              "longitude": "-48.6323"
+            },
+            {
+              "name": "Atlântica",
+              "addressType": "Avenida",
+              "cep": "88330030",
+              "state": "Santa Catarina",
+              "city": "Balneário Camboriú",
+              "district": "Centro",
+              "latitude": "-27.00123",
+              "longitude": "-48.62053"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Biguaçu",
+      "ibgeCode": "4202305",
+      "ddd": "48",
+      "districts": [
+        {
+          "name": "Areias de Cima",
+          "streets": [
+            {
+              "name": "Maria Moisés",
+              "addressType": "Rua",
+              "cep": "88168740",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Areias de Cima",
+              "latitude": "-27.37807",
+              "longitude": "-48.63258"
+            },
+            {
+              "name": "Oaddy Adriano",
+              "addressType": "Rua",
+              "cep": "88168675",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Areias de Cima",
+              "latitude": "-27.37811",
+              "longitude": "-48.63228"
+            },
+            {
+              "name": "Leopoldo da Silva",
+              "addressType": "Rua",
+              "cep": "88168665",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Areias de Cima",
+              "latitude": "-27.37811",
+              "longitude": "-48.63228"
+            },
+            {
+              "name": "Criciúma",
+              "addressType": "Rua",
+              "cep": "88168712",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Areias de Cima",
+              "latitude": "-27.3847",
+              "longitude": "-48.63186"
+            },
+            {
+              "name": "Camboriú",
+              "addressType": "Rua",
+              "cep": "88168708",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Areias de Cima",
+              "latitude": "-27.38431",
+              "longitude": "-48.63249"
+            },
+            {
+              "name": "BR-101",
+              "addressType": "Rodovia",
+              "cep": "88168730",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Areias de Cima",
+              "latitude": "-27.46747",
+              "longitude": "-48.64183"
+            },
+            {
+              "name": "Vitória Régia",
+              "addressType": "Rua",
+              "cep": "88168738",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Areias de Cima",
+              "latitude": "-27.379",
+              "longitude": "-48.63742"
+            },
+            {
+              "name": "Arnaldo João Pereira",
+              "addressType": "Rua",
+              "cep": "88168744",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Areias de Cima",
+              "latitude": "-27.37781",
+              "longitude": "-48.63205"
+            }
+          ]
+        },
+        {
+          "name": "Beira Rio",
+          "streets": [
+            {
+              "name": "BR-101",
+              "addressType": "Rodovia",
+              "cep": "88164180",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Beira Rio",
+              "latitude": "-27.48691",
+              "longitude": "-48.66394"
+            },
+            {
+              "name": "Beira Rio",
+              "addressType": "Avenida",
+              "cep": "88164210",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Beira Rio",
+              "latitude": "-27.48485",
+              "longitude": "-48.66518"
+            },
+            {
+              "name": "Abelino Guilherme Richartz",
+              "addressType": "Servidão",
+              "cep": "88164340",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Beira Rio",
+              "latitude": "-27.48485",
+              "longitude": "-48.66499"
+            },
+            {
+              "name": "Deltaville",
+              "addressType": "Avenida",
+              "cep": "88164230",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Beira Rio",
+              "latitude": "-27.48769",
+              "longitude": "-48.66817"
+            },
+            {
+              "name": "Wilson Castelo Branco",
+              "addressType": "Avenida",
+              "cep": "88164220",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Beira Rio",
+              "latitude": "-27.48617",
+              "longitude": "-48.6701"
+            },
+            {
+              "name": "Egídio Abelino Richartz",
+              "addressType": "Avenida",
+              "cep": "88164240",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Beira Rio",
+              "latitude": "-27.48992",
+              "longitude": "-48.67291"
+            },
+            {
+              "name": "Edgard Hoffmann",
+              "addressType": "Rua",
+              "cep": "88164275",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Beira Rio",
+              "latitude": "-27.48641",
+              "longitude": "-48.66438"
+            },
+            {
+              "name": "D",
+              "addressType": "Rua",
+              "cep": "88164280",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Beira Rio",
+              "latitude": "-27.48525",
+              "longitude": "-48.66464"
+            }
+          ]
+        },
+        {
+          "name": "Boa Vista",
+          "streets": [
+            {
+              "name": "Amâncio Vieira",
+              "addressType": "Servidão",
+              "cep": "88161114",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Boa Vista",
+              "latitude": "-27.50233",
+              "longitude": "-48.66013"
+            },
+            {
+              "name": "Adolfo Marvo Mendes",
+              "addressType": "Servidão",
+              "cep": "88161130",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Boa Vista",
+              "latitude": "-27.50035",
+              "longitude": "-48.66413"
+            },
+            {
+              "name": "Bertoldo Fraga",
+              "addressType": "Servidão",
+              "cep": "88161134",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Boa Vista",
+              "latitude": "-27.50068",
+              "longitude": "-48.6619"
+            },
+            {
+              "name": "Francisca Maria de Amorim",
+              "addressType": "Escadaria",
+              "cep": "88161118",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Boa Vista",
+              "latitude": "-27.50072",
+              "longitude": "-48.66138"
+            },
+            {
+              "name": "Bertoldo Simão de Oliveira",
+              "addressType": "Rua",
+              "cep": "88161110",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Boa Vista",
+              "latitude": "-27.4988",
+              "longitude": "-48.66072"
+            },
+            {
+              "name": "Cachoeira",
+              "addressType": "Servidão",
+              "cep": "88161128",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Boa Vista",
+              "latitude": "-27.49988",
+              "longitude": "-48.66401"
+            },
+            {
+              "name": "João José de Souza",
+              "addressType": "Rua",
+              "cep": "88161129",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Boa Vista",
+              "latitude": "-27.50798",
+              "longitude": "-48.65341"
+            },
+            {
+              "name": "José Firmino Mangrich",
+              "addressType": "Servidão",
+              "cep": "88161132",
+              "state": "Santa Catarina",
+              "city": "Biguaçu",
+              "district": "Boa Vista",
+              "latitude": "-27.50064",
+              "longitude": "-48.66315"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blumenau",
+      "ibgeCode": "4202404",
+      "ddd": "47",
+      "districts": [
+        {
+          "name": "Badenfurt",
+          "streets": [
+            {
+              "name": "Henrique Schuster",
+              "addressType": "Rua",
+              "cep": "89070790",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Badenfurt",
+              "latitude": "-26.87172",
+              "longitude": "-49.1341"
+            },
+            {
+              "name": "Genésio Link",
+              "addressType": "Rua",
+              "cep": "89072030",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Badenfurt",
+              "latitude": "-26.88403",
+              "longitude": "-49.15706"
+            },
+            {
+              "name": "Arno Barth",
+              "addressType": "Rua",
+              "cep": "89070040",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Badenfurt",
+              "latitude": "-26.87841",
+              "longitude": "-49.12207"
+            },
+            {
+              "name": "Johannes Brahms",
+              "addressType": "Rua",
+              "cep": "89070280",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Badenfurt",
+              "latitude": "-26.88369",
+              "longitude": "-49.13256"
+            },
+            {
+              "name": "Fritz Kardauke",
+              "addressType": "Rua",
+              "cep": "89070820",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Badenfurt",
+              "latitude": "-26.87237",
+              "longitude": "-49.13018"
+            },
+            {
+              "name": "Piracema",
+              "addressType": "Rua",
+              "cep": "89070005",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Badenfurt",
+              "latitude": "-26.88824",
+              "longitude": "-49.12738"
+            },
+            {
+              "name": "Elke Hansen",
+              "addressType": "Rua",
+              "cep": "89070160",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Badenfurt",
+              "latitude": "-26.88362",
+              "longitude": "-49.14003"
+            },
+            {
+              "name": "Leopoldo Haerchen",
+              "addressType": "Rua",
+              "cep": "89072040",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Badenfurt",
+              "latitude": "-26.87384",
+              "longitude": "-49.14778"
+            }
+          ]
+        },
+        {
+          "name": "Boa Vista",
+          "streets": [
+            {
+              "name": "Adolfo Tallmann",
+              "addressType": "Rua",
+              "cep": "89012240",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Boa Vista",
+              "latitude": "-26.90071",
+              "longitude": "-49.06918"
+            },
+            {
+              "name": "Frederico Deeke",
+              "addressType": "Rua",
+              "cep": "89012300",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Boa Vista",
+              "latitude": "-26.89971",
+              "longitude": "-49.06879"
+            },
+            {
+              "name": "Estácio dos Santos",
+              "addressType": "Rua",
+              "cep": "89012310",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Boa Vista",
+              "latitude": "-26.90085",
+              "longitude": "-49.06729"
+            },
+            {
+              "name": "Antônio Quirino Waldrich",
+              "addressType": "Rua",
+              "cep": "89012320",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Boa Vista",
+              "latitude": "-26.89989",
+              "longitude": "-49.06902"
+            },
+            {
+              "name": "Geraldo João da Silva",
+              "addressType": "Rua",
+              "cep": "89012280",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Boa Vista",
+              "latitude": "-26.89966",
+              "longitude": "-49.06988"
+            },
+            {
+              "name": "Francisca Perkowsky",
+              "addressType": "Rua",
+              "cep": "89012350",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Boa Vista",
+              "latitude": "-26.90092",
+              "longitude": "-49.06542"
+            },
+            {
+              "name": "João Gonçalves",
+              "addressType": "Rua",
+              "cep": "89012260",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Boa Vista",
+              "latitude": "-26.90063",
+              "longitude": "-49.06997"
+            },
+            {
+              "name": "Guido Kaestner Sênior",
+              "addressType": "Rua",
+              "cep": "89012360",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Boa Vista",
+              "latitude": "-26.89928",
+              "longitude": "-49.06378"
+            }
+          ]
+        },
+        {
+          "name": "Bom Retiro",
+          "streets": [
+            {
+              "name": "Voluntários da Pátria",
+              "addressType": "Rua",
+              "cep": "89010650",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Bom Retiro",
+              "latitude": "-26.92477",
+              "longitude": "-49.07438"
+            },
+            {
+              "name": "Alfred Laschewitz",
+              "addressType": "Rua",
+              "cep": "89010545",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Bom Retiro",
+              "latitude": "-26.92374",
+              "longitude": "-49.0713"
+            },
+            {
+              "name": "dos Inconfidentes",
+              "addressType": "Rua",
+              "cep": "89010510",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Bom Retiro",
+              "latitude": "-26.266",
+              "longitude": "-48.83865"
+            },
+            {
+              "name": "Bruno Hering",
+              "addressType": "Rua",
+              "cep": "89010694",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Bom Retiro",
+              "latitude": "-26.92246",
+              "longitude": "-49.08597"
+            },
+            {
+              "name": "Dom Pedro II",
+              "addressType": "Praça",
+              "cep": "89010505",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Bom Retiro",
+              "latitude": "-26.92282",
+              "longitude": "-49.06337"
+            },
+            {
+              "name": "Carijós",
+              "addressType": "Rua",
+              "cep": "89010692",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Bom Retiro",
+              "latitude": "-26.92621",
+              "longitude": "-49.07905"
+            },
+            {
+              "name": "Cuiabá",
+              "addressType": "Rua",
+              "cep": "89010530",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Bom Retiro",
+              "latitude": "-26.92446",
+              "longitude": "-49.06884"
+            },
+            {
+              "name": "Alexander Flemming",
+              "addressType": "Rua",
+              "cep": "89010670",
+              "state": "Santa Catarina",
+              "city": "Blumenau",
+              "district": "Bom Retiro",
+              "latitude": "-26.92539",
+              "longitude": "-49.07428"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Brusque",
+      "ibgeCode": "4202909",
+      "ddd": "47",
+      "districts": [
+        {
+          "name": "Azambuja",
+          "streets": [
+            {
+              "name": "Carola Dias",
+              "addressType": "Rua",
+              "cep": "88353478",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Azambuja",
+              "latitude": "-27.1137",
+              "longitude": "-48.91869"
+            },
+            {
+              "name": "Arnoldo Furbringer",
+              "addressType": "Rua",
+              "cep": "88353405",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Azambuja",
+              "latitude": "-27.12738",
+              "longitude": "-48.91361"
+            },
+            {
+              "name": "Luiz Vanolli",
+              "addressType": "Rua",
+              "cep": "88353498",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Azambuja",
+              "latitude": "-27.13259",
+              "longitude": "-48.91351"
+            },
+            {
+              "name": "AZ - 037",
+              "addressType": "Rua",
+              "cep": "88353477",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Azambuja",
+              "latitude": "-27.1281",
+              "longitude": "-48.91095"
+            },
+            {
+              "name": "Domingos Polli",
+              "addressType": "Rua",
+              "cep": "88353468",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Azambuja",
+              "latitude": "-27.13565",
+              "longitude": "-48.91231"
+            },
+            {
+              "name": "Ernesto Appel",
+              "addressType": "Rua",
+              "cep": "88354170",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Azambuja",
+              "latitude": "-27.11676",
+              "longitude": "-48.91707"
+            },
+            {
+              "name": "AZ - 011",
+              "addressType": "Rua",
+              "cep": "88353482",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Azambuja",
+              "latitude": "-27.1281",
+              "longitude": "-48.91093"
+            },
+            {
+              "name": "Antônio Marchi",
+              "addressType": "Rua",
+              "cep": "88354191",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Azambuja",
+              "latitude": "-27.10886",
+              "longitude": "-48.91955"
+            }
+          ]
+        },
+        {
+          "name": "Bateas",
+          "streets": [
+            {
+              "name": "BA - 031",
+              "addressType": "Rua",
+              "cep": "88355452",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Bateas",
+              "latitude": "-27.04811",
+              "longitude": "-48.89821"
+            },
+            {
+              "name": "BA - 043",
+              "addressType": "Rua",
+              "cep": "88355590",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Bateas",
+              "latitude": "-27.04811",
+              "longitude": "-48.89832"
+            },
+            {
+              "name": "BA - 030",
+              "addressType": "Rua",
+              "cep": "88355451",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Bateas",
+              "latitude": "-27.05356",
+              "longitude": "-48.90574"
+            },
+            {
+              "name": "BA - 016",
+              "addressType": "Rua",
+              "cep": "88355399",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Bateas",
+              "latitude": "-27.05904",
+              "longitude": "-48.90912"
+            },
+            {
+              "name": "Bela Vista",
+              "addressType": "Rua",
+              "cep": "88355409",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Bateas",
+              "latitude": "-27.05662",
+              "longitude": "-48.9086"
+            },
+            {
+              "name": "Carlos Zen",
+              "addressType": "Rua",
+              "cep": "88355573",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Bateas",
+              "latitude": "-27.03522",
+              "longitude": "-48.88205"
+            },
+            {
+              "name": "Francisco Fantoni",
+              "addressType": "Rua",
+              "cep": "88355395",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Bateas",
+              "latitude": "-27.05254",
+              "longitude": "-48.90549"
+            },
+            {
+              "name": "BA - 057",
+              "addressType": "Rua",
+              "cep": "88355363",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Bateas",
+              "latitude": "-27.05911",
+              "longitude": "-48.90779"
+            }
+          ]
+        },
+        {
+          "name": "Cedrinho",
+          "streets": [
+            {
+              "name": "Bento Inácio de Mello",
+              "addressType": "Rua",
+              "cep": "88358040",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Cedrinho",
+              "latitude": "-27.15134",
+              "longitude": "-48.92748"
+            },
+            {
+              "name": "dos Pinhais",
+              "addressType": "Rua",
+              "cep": "88358417",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Cedrinho",
+              "latitude": "-26.86501",
+              "longitude": "-52.40812"
+            },
+            {
+              "name": "Alvin Augusto Klann",
+              "addressType": "Rua",
+              "cep": "88358050",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Cedrinho",
+              "latitude": "-27.14808",
+              "longitude": "-48.92431"
+            },
+            {
+              "name": "CD - 009",
+              "addressType": "Rua",
+              "cep": "88358320",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Cedrinho",
+              "latitude": "-27.15716",
+              "longitude": "-48.92742"
+            },
+            {
+              "name": "Alzira Hoegen Buttchevitz",
+              "addressType": "Rua",
+              "cep": "88358454",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Cedrinho",
+              "latitude": "-27.09529",
+              "longitude": "-48.91904"
+            },
+            {
+              "name": "Adolfo Fuckner",
+              "addressType": "Rua",
+              "cep": "88358080",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Cedrinho",
+              "latitude": "-27.15656",
+              "longitude": "-48.93232"
+            },
+            {
+              "name": "03 de Janeiro",
+              "addressType": "Rua",
+              "cep": "88358456",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Cedrinho",
+              "latitude": "-27.05205",
+              "longitude": "-48.86678"
+            },
+            {
+              "name": "Marcio Rubens Cucco",
+              "addressType": "Rua",
+              "cep": "88358423",
+              "state": "Santa Catarina",
+              "city": "Brusque",
+              "district": "Cedrinho",
+              "latitude": "-27.08659",
+              "longitude": "-48.89064"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Camboriú",
+      "ibgeCode": "4203204",
+      "ddd": "47",
+      "districts": [
+        {
+          "name": "Areias",
+          "streets": [
+            {
+              "name": "Rio de Janeiro",
+              "addressType": "Rua",
+              "cep": "88345164",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Areias",
+              "latitude": "-27.03315",
+              "longitude": "-48.66083"
+            },
+            {
+              "name": "Bahia",
+              "addressType": "Rua",
+              "cep": "88345155",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Areias",
+              "latitude": "-27.03074",
+              "longitude": "-48.65976"
+            },
+            {
+              "name": "Piauí",
+              "addressType": "Rua",
+              "cep": "88345173",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Areias",
+              "latitude": "-27.03235",
+              "longitude": "-48.6582"
+            },
+            {
+              "name": "Goiás",
+              "addressType": "Rua",
+              "cep": "88345143",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Areias",
+              "latitude": "-27.02768",
+              "longitude": "-48.66146"
+            },
+            {
+              "name": "Petrolina",
+              "addressType": "Rua",
+              "cep": "88345243",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Areias",
+              "latitude": "-27.03718",
+              "longitude": "-48.66196"
+            },
+            {
+              "name": "Paraná",
+              "addressType": "Rua",
+              "cep": "88345045",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Areias",
+              "latitude": "-27.02886",
+              "longitude": "-48.65965"
+            },
+            {
+              "name": "Goiás",
+              "addressType": "Rua",
+              "cep": "88345057",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Areias",
+              "latitude": "-26.9945",
+              "longitude": "-48.65091"
+            },
+            {
+              "name": "Aracaju",
+              "addressType": "Rua",
+              "cep": "88345021",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Areias",
+              "latitude": "-27.0279",
+              "longitude": "-48.65638"
+            }
+          ]
+        },
+        {
+          "name": "Cedro",
+          "streets": [
+            {
+              "name": "Veralba Vargas Leite",
+              "addressType": "Rua",
+              "cep": "88341801",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Cedro",
+              "latitude": "-27.04366",
+              "longitude": "-48.65333"
+            },
+            {
+              "name": "Braz Garcia",
+              "addressType": "Rua",
+              "cep": "88341700",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Cedro",
+              "latitude": "-27.03973",
+              "longitude": "-48.64735"
+            },
+            {
+              "name": "Rodrigo Fáveri",
+              "addressType": "Rua",
+              "cep": "88341706",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Cedro",
+              "latitude": "-27.04046",
+              "longitude": "-48.64734"
+            },
+            {
+              "name": "Luiz de Aguiar",
+              "addressType": "Rua",
+              "cep": "88341783",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Cedro",
+              "latitude": "-27.01686",
+              "longitude": "-48.64665"
+            },
+            {
+              "name": "Rio Amazonas",
+              "addressType": "Rua",
+              "cep": "88341528",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Cedro",
+              "latitude": "-27.03505",
+              "longitude": "-48.64165"
+            },
+            {
+              "name": "José da Silva",
+              "addressType": "Rua",
+              "cep": "88341798",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Cedro",
+              "latitude": "-27.04376",
+              "longitude": "-48.65273"
+            },
+            {
+              "name": "Cabo Henrique Francisco Bernardes",
+              "addressType": "Rua",
+              "cep": "88341508",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Cedro",
+              "latitude": "-27.0347",
+              "longitude": "-48.64619"
+            },
+            {
+              "name": "Martinho Pedro da Silva",
+              "addressType": "Rua",
+              "cep": "88341810",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Cedro",
+              "latitude": "-27.04292",
+              "longitude": "-48.65493"
+            }
+          ]
+        },
+        {
+          "name": "Centro",
+          "streets": [
+            {
+              "name": "Curitiba",
+              "addressType": "Rua",
+              "cep": "88340248",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Centro",
+              "latitude": "-27.0249",
+              "longitude": "-48.65616"
+            },
+            {
+              "name": "Prefeito Joaquim da Silva Santos",
+              "addressType": "Rua",
+              "cep": "88340064",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Centro",
+              "latitude": "-27.0209",
+              "longitude": "-48.66365"
+            },
+            {
+              "name": "Valmir Zanette",
+              "addressType": "Rua",
+              "cep": "88340161",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Centro",
+              "latitude": "-27.02328",
+              "longitude": "-48.66012"
+            },
+            {
+              "name": "Zilda Silva de Souza",
+              "addressType": "Rua",
+              "cep": "88340431",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Centro",
+              "latitude": "-27.02038",
+              "longitude": "-48.64708"
+            },
+            {
+              "name": "Espírito Santo",
+              "addressType": "Rua",
+              "cep": "88340185",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Centro",
+              "latitude": "-27.0277",
+              "longitude": "-48.6573"
+            },
+            {
+              "name": "Hilda Garcia",
+              "addressType": "Rua",
+              "cep": "88340485",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Centro",
+              "latitude": "-27.03047",
+              "longitude": "-48.64678"
+            },
+            {
+              "name": "São Paulo",
+              "addressType": "Rua",
+              "cep": "88340209",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Centro",
+              "latitude": "-27.027",
+              "longitude": "-48.65681"
+            },
+            {
+              "name": "Zilda Zimmermann Pontaldi",
+              "addressType": "Rua",
+              "cep": "88340079",
+              "state": "Santa Catarina",
+              "city": "Camboriú",
+              "district": "Centro",
+              "latitude": "-26.47723",
+              "longitude": "-49.00024"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
