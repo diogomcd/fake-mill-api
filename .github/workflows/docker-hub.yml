@@ -24,7 +24,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v5
         with:
-          images: ${{ secrets.DOCKERHUB_USERNAME }}/fake-mill
+          images: ${{ secrets.DOCKERHUB_USERNAME }}/fake-mill-api
           tags: |
             type=semver,pattern={{version}}
             type=raw,value=latest,enable={{is_default_branch}}
@@ -46,7 +46,7 @@ jobs:
           echo "================================"
           echo "✅ DOCKER IMAGE PUBLISHED"
           echo "================================"
-          echo "📦 Imagem: ${{ secrets.DOCKERHUB_USERNAME }}/fake-mill"
+          echo "📦 Imagem: ${{ secrets.DOCKERHUB_USERNAME }}/fake-mill-api"
           echo "🏷️  Tags publicadas:"
           echo "${{ steps.meta.outputs.tags }}"
           echo "================================"
