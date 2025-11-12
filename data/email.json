@@ -1,15 +1,15 @@
 {
   "domainExtensions": [
-    "com",
-    "io",
-    "dev",
-    "tech",
-    "org",
-    "net",
-    "co",
-    "app",
-    "online",
-    "com.br"
+    "test",
+    "example.com",
+    "example.org",
+    "fake.br",
+    "test.br",
+    "exemplo.com.br",
+    "dummy.com",
+    "sample.net",
+    "mock.io",
+    "testing.dev"
   ],
   "shortNames": [
     "prism",
