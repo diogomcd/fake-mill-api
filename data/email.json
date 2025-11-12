@@ -1,15 +1,15 @@
 {
   "domainExtensions": [
-    "test",
-    "example.com",
-    "example.org",
-    "fake.br",
-    "test.br",
-    "exemplo.com.br",
-    "dummy.com",
-    "sample.net",
-    "mock.io",
-    "testing.dev"
+    "fakemail.xyz",
+    "mockdomain.abc",
+    "testsite.qwerty",
+    "exemplo.fake",
+    "dummy.testing",
+    "sample.mockup",
+    "notreal.domain",
+    "invented.tld",
+    "ficticio.xyz",
+    "falso.test"
   ],
   "shortNames": [
     "prism",
