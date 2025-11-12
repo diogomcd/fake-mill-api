@@ -199,20 +199,42 @@ type ZipcodeResponse struct {
 	City        string `json:"city" validate:"required,min=2,max=50"`
 }
 
+// CompanyEmail represents the company email
+type CompanyEmail struct {
+	Address string `json:"address" validate:"required,email"`
+	Domain  string `json:"domain" validate:"required,min=3,max=50"`
+}
+
+// CompanyShareCapital represents the company share capital
+type CompanyShareCapital struct {
+	Formatted         string  `json:"formatted" validate:"required"`         // R$ 1.234,56
+	Unformatted       string  `json:"unformatted" validate:"required"`       // 1234.56
+	FormattedWithoutR string  `json:"formattedWithoutR" validate:"required"` // 1.234,56
+	Value             float64 `json:"value" validate:"required,min=0"`       // 1234.56
+}
+
+// CompanyPhone represents the company phone
+type CompanyPhone struct {
+	InternationalFormat string `json:"internationalFormat" validate:"required,br_phone"`
+	NationalFormat      string `json:"nationalFormat" validate:"required,br_phone"`
+	CountryCode         string `json:"countryCode" validate:"required,len=2"`
+	DDI                 int    `json:"ddi" validate:"required,eq=55"`
+	E164Format          string `json:"e164Format" validate:"required,e164"`
+}
+
 // CompanyResponse represents the response of the company generation
 type CompanyResponse struct {
-	Name              string  `json:"name" validate:"required,min=3,max=100"`
-	TradeName         string  `json:"tradeName" validate:"required,min=3,max=100"`
-	CNPJ              string  `json:"cnpj" validate:"required,cnpj"`
-	StateRegistration string  `json:"stateRegistration" validate:"required,min=9,max=14"`
-	Email             string  `json:"email" validate:"required,email"`
-	Phone             string  `json:"phone" validate:"required,br_phone"`
-	Area              string  `json:"area" validate:"required,min=3,max=50"`
-	Size              string  `json:"size" validate:"required,min=3,max=50"`
-	OpeningDate       string  `json:"openingDate" validate:"required,datetime=2006-01-02"`
-	ShareCapital      string  `json:"shareCapital" validate:"required,min=3,max=50"`
-	FoundedAt         string  `json:"foundedAt" validate:"required,datetime=2006-01-02"`
-	Address           Address `json:"address" validate:"required"`
+	Name         string              `json:"name" validate:"required,min=3,max=100"`
+	TradeName    string              `json:"tradeName" validate:"required,min=3,max=100"`
+	CNPJ         string              `json:"cnpj" validate:"required,cnpj"`
+	Email        CompanyEmail        `json:"email" validate:"required"`
+	Phone        CompanyPhone        `json:"phone" validate:"required"`
+	Area         string              `json:"area" validate:"required,min=3,max=50"`
+	Size         string              `json:"size" validate:"required,min=3,max=50"`
+	OpeningDate  string              `json:"openingDate" validate:"required,datetime=2006-01-02"`
+	ShareCapital CompanyShareCapital `json:"shareCapital" validate:"required"`
+	FoundedAt    string              `json:"foundedAt" validate:"required,datetime=2006-01-02"`
+	Address      Address             `json:"address" validate:"required"`
 }
 
 // CPFValidationResponse represents the response of the CPF validation
