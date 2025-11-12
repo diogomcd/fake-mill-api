@@ -91,7 +91,7 @@ func (g *Generator) generatePersonCompany() models.PersonCompany {
 
 	return models.PersonCompany{
 		Name: company.Name,
-		CNPJ: company.CNPJ,
+		CNPJ: company.CNPJ.Masked,
 	}
 }
 

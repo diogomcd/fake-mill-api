@@ -199,6 +199,12 @@ type ZipcodeResponse struct {
 	City        string `json:"city" validate:"required,min=2,max=50"`
 }
 
+// CompanyCNPJ represents the company CNPJ
+type CompanyCNPJ struct {
+	Masked   string `json:"masked" validate:"required,cnpj"`
+	Unmasked string `json:"unmasked" validate:"required,cnpj"`
+}
+
 // CompanyEmail represents the company email
 type CompanyEmail struct {
 	Address string `json:"address" validate:"required,email"`
@@ -207,10 +213,9 @@ type CompanyEmail struct {
 
 // CompanyShareCapital represents the company share capital
 type CompanyShareCapital struct {
-	Formatted         string  `json:"formatted" validate:"required"`         // R$ 1.234,56
-	Unformatted       string  `json:"unformatted" validate:"required"`       // 1234.56
-	FormattedWithoutR string  `json:"formattedWithoutR" validate:"required"` // 1.234,56
-	Value             float64 `json:"value" validate:"required,min=0"`       // 1234.56
+	Formatted         string `json:"formatted" validate:"required"`         // R$ 1.234,56
+	Unformatted       string `json:"unformatted" validate:"required"`       // 1234.56
+	FormattedWithoutR string `json:"formattedWithoutR" validate:"required"` // 1.234,56
 }
 
 // CompanyPhone represents the company phone
@@ -226,7 +231,7 @@ type CompanyPhone struct {
 type CompanyResponse struct {
 	Name         string              `json:"name" validate:"required,min=3,max=100"`
 	TradeName    string              `json:"tradeName" validate:"required,min=3,max=100"`
-	CNPJ         string              `json:"cnpj" validate:"required,cnpj"`
+	CNPJ         CompanyCNPJ         `json:"cnpj" validate:"required"`
 	Email        CompanyEmail        `json:"email" validate:"required"`
 	Phone        CompanyPhone        `json:"phone" validate:"required"`
 	Area         string              `json:"area" validate:"required,min=3,max=50"`

@@ -30,7 +30,7 @@ func (g *Generator) GenerateCompany() *models.CompanyResponse {
 	tradeName := strings.ReplaceAll(pattern, "{word}", companyWord)
 
 	// CNPJ number
-	cnpj := g.GenerateCNPJ(true, true)
+	cnpj := g.generateCompanyCNPJ()
 
 	// Address (must be generated first to get state for phone DDD)
 	address := g.GenerateAddress("", "")
@@ -62,6 +62,17 @@ func (g *Generator) GenerateCompany() *models.CompanyResponse {
 		ShareCapital: shareCapital,
 		FoundedAt:    foundedAt,
 		Address:      *address,
+	}
+}
+
+// generateCompanyCNPJ generates CNPJ as object
+func (g *Generator) generateCompanyCNPJ() models.CompanyCNPJ {
+	cnpjUnmasked := g.GenerateCNPJ(false, true)
+	cnpjMasked := FormatCNPJ(cnpjUnmasked)
+
+	return models.CompanyCNPJ{
+		Masked:   cnpjMasked,
+		Unmasked: cnpjUnmasked,
 	}
 }
 
@@ -143,7 +154,6 @@ func (g *Generator) generateCompanyShareCapital(companySize CompanySizeData) mod
 		Formatted:         formatted,
 		Unformatted:       unformatted,
 		FormattedWithoutR: formattedWithoutR,
-		Value:             capitalValue,
 	}
 }
 
