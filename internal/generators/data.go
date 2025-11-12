@@ -30,6 +30,10 @@ type DataStore struct {
 	realAddresses    map[string][]RealAddress
 	emailShortNames  []string
 	emailExtensions  []string
+	companyTypes     []CompanyTypeData
+	companyWords     []string
+	legalSuffixes    []string
+	companySizes     []CompanySizeData
 	mu               sync.RWMutex
 }
 
@@ -92,6 +96,29 @@ type CityData struct {
 type DistrictData struct {
 	Name    string        `json:"name"`
 	Streets []RealAddress `json:"streets"`
+}
+
+// CompanyTypeData represents company type data by area
+type CompanyTypeData struct {
+	Area              string   `json:"area"`
+	Prefixes          []string `json:"prefixes"`
+	Suffixes          []string `json:"suffixes"`
+	TradeNamePatterns []string `json:"tradeNamePatterns"`
+}
+
+// CompanySizeData represents company size data
+type CompanySizeData struct {
+	Name       string  `json:"name"`
+	MinCapital float64 `json:"minCapital"`
+	MaxCapital float64 `json:"maxCapital"`
+}
+
+// companyData struct to deserialize company data
+type companyData struct {
+	CompanyTypes  []CompanyTypeData `json:"companyTypes"`
+	CompanyWords  []string          `json:"companyWords"`
+	LegalSuffixes []string          `json:"legalSuffixes"`
+	CompanySize   []CompanySizeData `json:"companySize"`
 }
 
 // personData struct to deserialize person data
@@ -197,6 +224,11 @@ func NewDataStore() (*DataStore, error) {
 		return nil, fmt.Errorf("error loading email data: %w", err)
 	}
 
+	// Load company data
+	if err := ds.loadCompanyData(); err != nil {
+		return nil, fmt.Errorf("error loading company data: %w", err)
+	}
+
 	// Validate that all necessary data has been loaded
 	if err := ds.validateRequiredData(); err != nil {
 		return nil, fmt.Errorf("data validation failed: %w", err)
@@ -229,6 +261,10 @@ func (ds *DataStore) validateRequiredData() error {
 		{"real addresses", func() bool { return len(ds.realAddresses) > 0 }, len(ds.realAddresses)},
 		{"email short names", func() bool { return len(ds.emailShortNames) > 0 }, len(ds.emailShortNames)},
 		{"email extensions", func() bool { return len(ds.emailExtensions) > 0 }, len(ds.emailExtensions)},
+		{"company types", func() bool { return len(ds.companyTypes) > 0 }, len(ds.companyTypes)},
+		{"company words", func() bool { return len(ds.companyWords) > 0 }, len(ds.companyWords)},
+		{"legal suffixes", func() bool { return len(ds.legalSuffixes) > 0 }, len(ds.legalSuffixes)},
+		{"company sizes", func() bool { return len(ds.companySizes) > 0 }, len(ds.companySizes)},
 	}
 
 	for _, validation := range validations {
@@ -247,6 +283,10 @@ func (ds *DataStore) validateRequiredData() error {
 		Int("address_states", validations[11].count).
 		Int("email_extensions", validations[13].count).
 		Int("email_short_names", validations[12].count).
+		Int("company_types", validations[14].count).
+		Int("company_words", validations[15].count).
+		Int("legal_suffixes", validations[16].count).
+		Int("company_sizes", validations[17].count).
 		Msg("All required data validated successfully")
 
 	return nil
@@ -640,4 +680,77 @@ func (ds *DataStore) GetRandomEmailExtension() string {
 	ds.mu.RLock()
 	defer ds.mu.RUnlock()
 	return ds.emailExtensions[rand.Intn(len(ds.emailExtensions))]
+}
+
+// loadCompanyData loads company data from the JSON file
+func (ds *DataStore) loadCompanyData() error {
+	filePath := getDataPath("company.json")
+	log.Debug().Str("file", filePath).Msg("Loading company data")
+
+	content, err := os.ReadFile(filePath)
+	if err != nil {
+		log.Error().Err(err).Str("file", filePath).Msg("Failed to read company data file")
+		return err
+	}
+
+	var data companyData
+	if err := json.Unmarshal(content, &data); err != nil {
+		log.Error().Err(err).Str("file", filePath).Msg("Failed to parse company JSON")
+		return err
+	}
+
+	ds.companyTypes = data.CompanyTypes
+	ds.companyWords = data.CompanyWords
+	ds.legalSuffixes = data.LegalSuffixes
+	ds.companySizes = data.CompanySize
+
+	log.Info().
+		Int("company_types", len(ds.companyTypes)).
+		Int("company_words", len(ds.companyWords)).
+		Int("legal_suffixes", len(ds.legalSuffixes)).
+		Int("company_sizes", len(ds.companySizes)).
+		Msg("Company data loaded")
+
+	return nil
+}
+
+// GetRandomCompanyType returns a random company type
+func (ds *DataStore) GetRandomCompanyType() CompanyTypeData {
+	ds.mu.RLock()
+	defer ds.mu.RUnlock()
+	return ds.companyTypes[rand.Intn(len(ds.companyTypes))]
+}
+
+// GetCompanyTypeByArea returns a company type by area
+func (ds *DataStore) GetCompanyTypeByArea(area string) *CompanyTypeData {
+	ds.mu.RLock()
+	defer ds.mu.RUnlock()
+
+	for i := range ds.companyTypes {
+		if ds.companyTypes[i].Area == area {
+			return &ds.companyTypes[i]
+		}
+	}
+	return nil
+}
+
+// GetRandomCompanyWord returns a random company word
+func (ds *DataStore) GetRandomCompanyWord() string {
+	ds.mu.RLock()
+	defer ds.mu.RUnlock()
+	return ds.companyWords[rand.Intn(len(ds.companyWords))]
+}
+
+// GetRandomLegalSuffix returns a random legal suffix
+func (ds *DataStore) GetRandomLegalSuffix() string {
+	ds.mu.RLock()
+	defer ds.mu.RUnlock()
+	return ds.legalSuffixes[rand.Intn(len(ds.legalSuffixes))]
+}
+
+// GetRandomCompanySize returns a random company size
+func (ds *DataStore) GetRandomCompanySize() CompanySizeData {
+	ds.mu.RLock()
+	defer ds.mu.RUnlock()
+	return ds.companySizes[rand.Intn(len(ds.companySizes))]
 }

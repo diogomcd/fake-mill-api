@@ -207,6 +207,10 @@ type CompanyResponse struct {
 	StateRegistration string  `json:"stateRegistration" validate:"required,min=9,max=14"`
 	Email             string  `json:"email" validate:"required,email"`
 	Phone             string  `json:"phone" validate:"required,br_phone"`
+	Area              string  `json:"area" validate:"required,min=3,max=50"`
+	Size              string  `json:"size" validate:"required,min=3,max=50"`
+	OpeningDate       string  `json:"openingDate" validate:"required,datetime=2006-01-02"`
+	ShareCapital      string  `json:"shareCapital" validate:"required,min=3,max=50"`
 	FoundedAt         string  `json:"foundedAt" validate:"required,datetime=2006-01-02"`
 	Address           Address `json:"address" validate:"required"`
 }

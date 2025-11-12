@@ -1,0 +1,124 @@
+{
+  "companyTypes": [
+    {
+      "area": "Tecnologia",
+      "prefixes": ["Tech", "Digital", "Soft", "Code", "Cyber", "Web", "Data", "Cloud", "Smart", "Inova"],
+      "suffixes": ["Solutions", "Systems", "Tech", "Digital", "Inovação", "Tecnologia", "Software", "Labs", "Dev", "Studio"],
+      "tradeNamePatterns": ["Tech{word}", "{word}Soft", "Digital{word}", "{word}Lab"]
+    },
+    {
+      "area": "Saúde",
+      "prefixes": ["Med", "Saúde", "Vita", "Care", "Clínica", "Centro", "Hospital", "Bem", "Life", "Bio"],
+      "suffixes": ["Saúde", "Médica", "Care", "Clínica", "Health", "Vida", "Med", "Center", "Bem-Estar"],
+      "tradeNamePatterns": ["Clínica {word}", "{word} Saúde", "Centro {word}"]
+    },
+    {
+      "area": "Educação",
+      "prefixes": ["Edu", "Escola", "Colégio", "Instituto", "Centro", "Academia", "Saber", "Ensino", "Aprenda", "Conhecer"],
+      "suffixes": ["Educacional", "Ensino", "Educação", "School", "Academy", "Instituto", "Escola", "Cursos"],
+      "tradeNamePatterns": ["Escola {word}", "Colégio {word}", "Centro Educacional {word}"]
+    },
+    {
+      "area": "Alimentação",
+      "prefixes": ["Sabor", "Gourmet", "Delícia", "Paladar", "Chef", "Cozinha", "Food", "Gastro", "Restaurante", "Buffet"],
+      "suffixes": ["Alimentos", "Gastronomia", "Food", "Restaurante", "Buffet", "Catering", "Café", "Gourmet"],
+      "tradeNamePatterns": ["Restaurante {word}", "{word} Gourmet", "Buffet {word}"]
+    },
+    {
+      "area": "Comercial",
+      "prefixes": ["Mega", "Super", "Hiper", "Mart", "Center", "Shopping", "Loja", "Empório", "Armazém", "Comércio"],
+      "suffixes": ["Comércio", "Distribuidora", "Atacado", "Varejo", "Center", "Mart", "Store", "Shop"],
+      "tradeNamePatterns": ["{word} Center", "Loja {word}", "Empório {word}"]
+    },
+    {
+      "area": "Construção",
+      "prefixes": ["Obra", "Construir", "Edificar", "Engenharia", "Arquitetura", "Build", "Reforma", "Master", "Prime", "Urban"],
+      "suffixes": ["Construções", "Engenharia", "Obras", "Construtora", "Reformas", "Edificações", "Arquitetura"],
+      "tradeNamePatterns": ["{word} Construções", "Construtora {word}", "{word} Engenharia"]
+    },
+    {
+      "area": "Financeiro",
+      "prefixes": ["Invest", "Capital", "Finance", "Money", "Credit", "Finança", "Banco", "Crédito", "Fundo", "Valor"],
+      "suffixes": ["Investimentos", "Capital", "Finanças", "Crédito", "Consultoria", "DTVM", "Corretora", "Gestão"],
+      "tradeNamePatterns": ["{word} Investimentos", "{word} Capital", "{word} Finanças"]
+    },
+    {
+      "area": "Jurídico",
+      "prefixes": ["Advocacia", "Direito", "Justiça", "Legal", "Law", "Jurídico", "Consultor", "Tribunal", "Causa", "Lex"],
+      "suffixes": ["Advogados", "Advocacia", "Jurídico", "Legal", "Consultoria", "Law", "Direito"],
+      "tradeNamePatterns": ["{word} Advogados", "Advocacia {word}", "{word} & Associados"]
+    },
+    {
+      "area": "Logística",
+      "prefixes": ["Trans", "Cargo", "Express", "Rápido", "Frete", "Transportes", "Logística", "Move", "Speed", "Via"],
+      "suffixes": ["Transportes", "Logística", "Express", "Cargo", "Entregas", "Fretes", "Movimentação"],
+      "tradeNamePatterns": ["{word} Transportes", "{word} Express", "Logística {word}"]
+    },
+    {
+      "area": "Marketing",
+      "prefixes": ["Brand", "Marca", "Criativa", "Agência", "Media", "Propaganda", "Público", "Comunicação", "Anúncio", "Promo"],
+      "suffixes": ["Marketing", "Comunicação", "Publicidade", "Propaganda", "Agência", "Media", "Brand"],
+      "tradeNamePatterns": ["Agência {word}", "{word} Comunicação", "{word} Marketing"]
+    },
+    {
+      "area": "Automotiva",
+      "prefixes": ["Auto", "Car", "Motor", "Veículos", "Drive", "Speed", "Turbo", "Mecânica", "Centro", "Oficina"],
+      "suffixes": ["Automotiva", "Motors", "Veículos", "Auto", "Mecânica", "Center", "Peças"],
+      "tradeNamePatterns": ["Auto {word}", "{word} Motors", "Centro Automotivo {word}"]
+    },
+    {
+      "area": "Imobiliário",
+      "prefixes": ["Imóvel", "Casa", "Propriedade", "Habitat", "Morar", "Lar", "Real", "Estate", "Urbano", "Residencial"],
+      "suffixes": ["Imóveis", "Imobiliária", "Properties", "Real Estate", "Negócios", "Corretagem"],
+      "tradeNamePatterns": ["Imobiliária {word}", "{word} Imóveis", "{word} Properties"]
+    },
+    {
+      "area": "Consultoria",
+      "prefixes": ["Consultar", "Assessoria", "Expert", "Master", "Prime", "Professional", "Estratégia", "Gestão", "Business", "Advisor"],
+      "suffixes": ["Consultoria", "Assessoria", "Consulting", "Business", "Experts", "Advisors", "Gestão"],
+      "tradeNamePatterns": ["{word} Consultoria", "{word} Consulting", "Assessoria {word}"]
+    },
+    {
+      "area": "Indústria",
+      "prefixes": ["Indústria", "Fábrica", "Manufatura", "Produção", "Factory", "Industrial", "Fabricar", "Master", "Prime", "Brasil"],
+      "suffixes": ["Indústria", "Industrial", "Manufatura", "Produção", "Fábrica", "Manufacturing"],
+      "tradeNamePatterns": ["Indústria {word}", "{word} Industrial", "Fábrica {word}"]
+    },
+    {
+      "area": "Turismo",
+      "prefixes": ["Tour", "Viagem", "Turismo", "Travel", "Destino", "Passeio", "Aventura", "Explore", "Mundo", "Paraíso"],
+      "suffixes": ["Turismo", "Viagens", "Travel", "Tour", "Expedições", "Agência", "Destinos"],
+      "tradeNamePatterns": ["Agência {word}", "{word} Turismo", "{word} Viagens"]
+    }
+  ],
+  "companyWords": [
+    "Alpha", "Beta", "Sigma", "Omega", "Prime", "Master", "Elite", "Premium", "Plus", "Max",
+    "Nova", "Next", "Future", "Modern", "Global", "Nacional", "Brasil", "Sul", "Norte", "Central",
+    "Total", "Integral", "Completa", "Excelência", "Qualidade", "Eficiência", "Rápida", "Express",
+    "Forte", "Sólida", "Confiável", "Segura", "Líder", "Vanguarda", "Inovação", "Progresso",
+    "União", "Aliança", "Parceria", "Conjunto", "Integrada", "Conecta", "Link", "Network"
+  ],
+  "legalSuffixes": ["LTDA", "S.A.", "ME", "EIRELI", "S/A", "EPP"],
+  "companySize": [
+    {
+      "name": "Microempresa",
+      "minCapital": 1000,
+      "maxCapital": 50000
+    },
+    {
+      "name": "Pequena Empresa",
+      "minCapital": 50000,
+      "maxCapital": 500000
+    },
+    {
+      "name": "Média Empresa",
+      "minCapital": 500000,
+      "maxCapital": 5000000
+    },
+    {
+      "name": "Grande Empresa",
+      "minCapital": 5000000,
+      "maxCapital": 50000000
+    }
+  ]
+}

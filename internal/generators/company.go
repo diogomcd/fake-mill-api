@@ -13,11 +13,21 @@ import (
 func (g *Generator) GenerateCompany() *models.CompanyResponse {
 	ds := g.dataStore
 
-	// Company name
-	companyNouns := []string{"Solutions", "Systems", "Tech", "Digital", "Consulting", "Group", "Enterprises", "Mill", "Cooperativa", "Empresa", "Comércio", "Soluções"}
-	companySuffixes := []string{"LTDA", "S.A.", "ME", "EIRELI"}
-	companyName := fmt.Sprintf("%s %s %s", ds.GetRandomLastName(), companyNouns[rand.Intn(len(companyNouns))], companySuffixes[rand.Intn(len(companySuffixes))])
-	tradeName := strings.Split(companyName, " ")[0] + " " + companyNouns[rand.Intn(len(companyNouns))]
+	// Select a random company type (area)
+	companyType := ds.GetRandomCompanyType()
+
+	// Generate company name based on type
+	prefix := companyType.Prefixes[rand.Intn(len(companyType.Prefixes))]
+	suffix := companyType.Suffixes[rand.Intn(len(companyType.Suffixes))]
+	companyWord := ds.GetRandomCompanyWord()
+	legalSuffix := ds.GetRandomLegalSuffix()
+
+	// Build company name with legal suffix
+	companyName := fmt.Sprintf("%s %s %s %s", prefix, companyWord, suffix, legalSuffix)
+
+	// Generate trade name (nome fantasia) based on pattern
+	pattern := companyType.TradeNamePatterns[rand.Intn(len(companyType.TradeNamePatterns))]
+	tradeName := strings.ReplaceAll(pattern, "{word}", companyWord)
 
 	// CNPJ number
 	cnpj := g.GenerateCNPJ(true, true)
@@ -30,8 +40,21 @@ func (g *Generator) GenerateCompany() *models.CompanyResponse {
 	phone, _, _, _ := g.GeneratePhone("", "landline")
 	address := g.GenerateAddress("", "")
 
-	// Foundation date (1 to 20 years ago)
-	foundedAt := time.Now().AddDate(-(1 + rand.Intn(20)), rand.Intn(12)+1, rand.Intn(28)+1).Format("2006-01-02")
+	// Company size (porte)
+	companySize := ds.GetRandomCompanySize()
+
+	// Share capital (capital social) based on company size
+	capitalMin := companySize.MinCapital
+	capitalMax := companySize.MaxCapital
+	capitalValue := capitalMin + rand.Float64()*(capitalMax-capitalMin)
+	shareCapital := fmt.Sprintf("R$ %.2f", capitalValue)
+
+	// Opening date (data de abertura) - 1 to 30 years ago
+	yearsAgo := 1 + rand.Intn(30)
+	openingDate := time.Now().AddDate(-yearsAgo, -rand.Intn(12), -rand.Intn(28)).Format("2006-01-02")
+
+	// Foundation date (same as opening date)
+	foundedAt := openingDate
 
 	return &models.CompanyResponse{
 		Name:              companyName,
@@ -40,6 +63,10 @@ func (g *Generator) GenerateCompany() *models.CompanyResponse {
 		StateRegistration: stateRegistration,
 		Email:             email,
 		Phone:             phone,
+		Area:              companyType.Area,
+		Size:              companySize.Name,
+		OpeningDate:       openingDate,
+		ShareCapital:      shareCapital,
 		FoundedAt:         foundedAt,
 		Address:           *address,
 	}
